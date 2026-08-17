@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "articles": [
+    {
+      "number": 29,
+      "localized": {
+        "editorial_title": "Making an intervention conditional on using a particular facility",
+        "article_text": "The psychologist may make an intervention conditional on the patient using specified services, institutions or treatment facilities only where there are sound scientific and professional reasons for doing so.",
+        "article_text_status": "editorial_translation",
+        "core_message": "A psychologist may require a patient to use a particular treatment facility only for sound scientific and professional reasons, never for convenience or personal interest.",
+        "glossary_annotations": [
+          {"glossary_id": "presidi-istituti-luoghi-cura", "surface": "services, institutions or treatment facilities", "match_method": "human_authored_exact"},
+          {"glossary_id": "fondati-motivi-scientifico-professionali", "surface": "sound scientific and professional reasons", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 30,
+      "localized": {
+        "editorial_title": "Fees as consideration for professional services",
+        "article_text": "In professional practice, the psychologist is prohibited from receiving any form of fee that is not consideration for professional services.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Within the professional relationship, a psychologist may receive payment only as consideration for professional services, not for favours, introductions or unrelated advantages.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "fee", "match_method": "human_authored_exact"},
+          {"glossary_id": "corrispettivo", "surface": "consideration", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 31,
+      "localized": {
+        "editorial_title": "Services for minors and persons under guardianship",
+        "article_text": "Professional services for minors or persons declared legally incapable are generally conditional on the consent of the person exercising parental responsibility or guardianship. Where, in the absence of that consent, the psychologist considers both the professional intervention and its absolute confidentiality to be necessary, the psychologist must inform the Guardianship Authority that the professional relationship has begun. This is without prejudice to cases in which those services are provided by order of an authority with legal competence or within facilities designated by legislation.",
+        "article_text_status": "editorial_translation",
+        "core_message": "For minors or persons under guardianship, the psychologist identifies who may consent, involves the person according to their capacity and maturity, and handles necessity, confidentiality and orders of an authority with particular care.",
+        "glossary_annotations": [
+          {"glossary_id": "persone-minorenni", "surface": "minors", "match_method": "human_authored_exact"},
+          {"glossary_id": "interdette", "surface": "persons declared legally incapable", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "parental responsibility", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "guardianship", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-tutoria", "surface": "Guardianship Authority", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-legalmente-competente", "surface": "authority with legal competence", "match_method": "human_authored_exact"},
+          {"glossary_id": "strutture-legislativamente-preposte", "surface": "facilities designated by legislation", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 32,
+      "localized": {
+        "editorial_title": "Instruction from a commissioning party other than the recipient",
+        "article_text": "Where a psychologist agrees to provide professional services at the request of a commissioning party who is not the recipient of the services, the psychologist must clarify the nature and purpose of the intervention with all parties concerned.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Where the person requesting the service is not the person receiving it, the psychologist clarifies the nature and purpose of the intervention with everyone concerned before beginning the work.",
+        "glossary_annotations": [
+          {"glossary_id": "committente", "surface": "commissioning party", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "recipient of the services", "match_method": "human_authored_exact"},
+          {"glossary_id": "parti-in-causa", "surface": "all parties concerned", "match_method": "human_authored_exact"},
+          {"glossary_id": "natura-finalita-intervento", "surface": "nature and purpose of the intervention", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 33,
+      "localized": {
+        "editorial_title": "Respect, loyalty and support among colleagues",
+        "article_text": "Relationships between psychologists must be guided by mutual respect, loyalty and professional collegiality. A psychologist supports colleagues whose autonomy or ability to comply with ethical requirements is compromised in the course of their work, whatever the nature of their employment relationship or their position in the organisational hierarchy.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Relationships between psychologists are founded on respect, loyalty and collegiality; where a colleague is pressured to compromise autonomy or ethics, other psychologists must provide professional support.",
+        "glossary_annotations": [
+          {"glossary_id": "colleganza", "surface": "professional collegiality", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-professionale", "surface": "autonomy", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 34,
+      "localized": {
+        "editorial_title": "Developing and sharing psychological knowledge",
+        "article_text": "The psychologist undertakes to contribute to the development of the psychological disciplines and to communicate advances in knowledge and techniques to the professional community, including in order to promote their dissemination for the purposes of human and social wellbeing.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists contribute to the development of psychology and share advances in knowledge and techniques with the professional community, directing their dissemination towards human and social wellbeing.",
+        "glossary_annotations": [
+          {"glossary_id": "comunita-professionale", "surface": "professional community", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 35,
+      "localized": {
+        "editorial_title": "Attribution of sources in research",
+        "article_text": "When presenting the results of research, the psychologist must identify the source of contributions made by others.",
+        "article_text_status": "editorial_translation",
+        "core_message": "When presenting research findings, psychologists clearly attribute ideas, data, text, methods and other contributions that belong to others.",
+        "glossary_annotations": [
+          {"glossary_id": "fonte-altrui-contributi", "surface": "source of contributions made by others", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 36,
+      "localized": {
+        "editorial_title": "Public comments about colleagues and reporting to the Order",
+        "article_text": "The psychologist refrains from publicly expressing negative opinions about colleagues’ training, competence or the results of their professional interventions, or any opinion otherwise damaging to their professional propriety or reputation. It is an aggravating factor where such negative opinions are intended to divert clients from colleagues. Where a psychologist identifies improper professional conduct that may harm service users or the standing of the profession, the psychologist must promptly report it to the competent Council of the Order.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists avoid negative or damaging public comments about colleagues, especially for client poaching, but promptly report potentially harmful professional misconduct to the Order.",
+        "glossary_annotations": [
+          {"glossary_id": "decoro-professionale", "surface": "professional propriety", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "aggravating factor", "match_method": "human_authored_exact"},
+          {"glossary_id": "sottrarre-clientela", "surface": "divert clients from colleagues", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "service users", "match_method": "human_authored_exact"},
+          {"glossary_id": "tempestiva-comunicazione", "surface": "promptly report", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "competent Council of the Order", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "dataset": "Casi deontologici pubblici e anonimizzati",
+  "language": "it",
+  "checked_on": "2026-08-13",
+  "editorial_notice": "Le sintesi sono materiali didattici originali basati sulle fonti indicate. Non consentono di qualificare casi diversi come illeciti: la responsabilità dipende dai fatti provati, dal testo vigente al momento della condotta e dal procedimento applicabile. Conservare sempre l'esito, inclusi proscioglimenti, annullamenti e prescrizione.",
+  "cases": [
+    {
+      "id": "oper-er-04-2009",
+      "kind": "decisione_ordinistica_anonimizzata",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "decision": "Delibera n. 04/09 del 13 gennaio 2009",
+      "summary": "Un iscritto inviò a un numero indeterminato di persone una e-mail che promuoveva la propria attività e rinviava al proprio sito, usando modalità ritenute banalizzanti sotto il profilo metodologico e scientifico. Il Consiglio ravvisò anche contenuti sul sito privi di solida base scientifica.",
+      "articles_found_violated": [38, 40],
+      "outcome": "avvertimento",
+      "finality_known": false,
+      "teaching_point": "La comunicazione promozionale resta soggetta a decoro, dignità, serietà scientifica e divieto di procacciamento scorretto anche quando l'attività dichiarata è gratuita.",
+      "source": {
+        "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+        "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+        "pages": "4-6 del PDF"
+      }
+    },
+    {
+      "id": "oper-er-05-2009",
+      "kind": "decisione_ordinistica_anonimizzata",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "decision": "Delibera n. 05/09 del 16 gennaio 2009",
+      "summary": "In un parere relativo a una persona minorenne, il professionista fece proprie in modo acritico informazioni riferite dalla minore in un contesto di separazione conflittuale, la osservò senza il consenso di entrambi i genitori e usò una carta intestata che presentava in modo ambiguo il proprio ruolo universitario.",
+      "articles_found_violated": [7, 31, 39],
+      "outcome": "censura",
+      "finality_known": false,
+      "teaching_point": "In ambito familiare conflittuale occorre distinguere dati osservati, dichiarazioni riferite e ipotesi; il consenso relativo alla persona minorenne e la presentazione esatta dei titoli sono profili autonomi.",
+      "source": {
+        "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+        "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+        "pages": "6-8 del PDF"
+      }
+    },
+    {
+      "id": "oper-er-06-2009",
+      "kind": "decisione_ordinistica_anonimizzata",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "decision": "Delibera n. 06/09 del 16 gennaio 2009",
+      "summary": "Il Consiglio ritenne provato l'invio reiterato di messaggi minacciosi a una ex paziente. Non ritenne invece pienamente provate altre condotte contestate, fra cui l'asserita relazione affettivo-sessuale; la sintesi didattica deve quindi restare limitata ai messaggi accertati.",
+      "articles_found_violated": [2, 3, 4, 22, 38],
+      "outcome": "sospensione di un mese",
+      "finality_known": false,
+      "teaching_point": "Gli obblighi di correttezza, non lesività e dignità possono rilevare anche nella gestione del conflitto con una persona già seguita professionalmente.",
+      "source": {
+        "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+        "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+        "pages": "8-10 del PDF"
+      }
+    },
+    {
+      "id": "oper-er-23-2009",
+      "kind": "decisione_ordinistica_anonimizzata",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "decision": "Delibera n. 23/09 del 27 gennaio 2009",
+      "summary": "Nel trattamento di un paziente adulto, lo psicologo mantenne reiterate intese con la madre e insistette perché il paziente proseguisse il percorso con lui, nonostante il paziente chiedesse un professionista più vicino. Il Consiglio ritenne che la collaborazione con la familiare avesse pregiudicato o messo in pericolo la libertà di scelta e il primato del rapporto tra paziente e terapeuta.",
+      "articles_found_violated": [18, 38, 39],
+      "articles_not_found_violated": [37],
+      "outcome": "avvertimento",
+      "finality_known": false,
+      "teaching_point": "La collaborazione con familiari può essere appropriata, ma non deve sostituire la volontà dell'adulto né trasformarsi in pressione affinché mantenga un determinato professionista.",
+      "source": {
+        "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+        "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+        "pages": "10-13 del PDF"
+      }
+    },
+    {
+      "id": "oper-er-25-2009",
+      "kind": "decisione_ordinistica_anonimizzata",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "decision": "Delibera n. 25/09 del 10 febbraio 2009",
+      "summary": "Una professionista svolse prestazioni su una persona minorenne senza il consenso di uno dei genitori, proseguì nonostante la diffida del legale del genitore non consenziente e redasse due relazioni.",
+      "articles_found_violated": [31],
+      "outcome": "censura",
+      "finality_known": false,
+      "teaching_point": "La finalità soggettivamente ritenuta utile non sostituisce i presupposti di consenso richiesti per la prestazione alla persona minorenne.",
+      "source": {
+        "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+        "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+        "pages": "13-14 del PDF"
+      }
+    },
+    {
+      "id": "oper-er-ee-21-06",
+      "kind": "decisione_ordinistica_anonimizzata",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "decision": "Caso EE.21.06, estratto da delibera del 19 settembre 2008",
+      "summary": "In una relazione la professionista trattò gli effetti di un farmaco spingendosi in un ambito per il quale non aveva titolo specifico; su carta intestata usò inoltre qualifiche ritenute ingannevoli o non conformi, compresa quella di psicoterapeuta prima della relativa iscrizione.",
+      "articles_found_violated": [37, 39],
+      "articles_not_found_violated": [7, 31, 40],
+      "outcome": "avvertimento",
+      "finality_known": false,
+      "teaching_point": "Il limite di competenza e la corretta presentazione dei titoli sono distinti; per l'art. 40 il Consiglio richiese anche la prova della finalità di procacciamento della clientela.",
+      "source": {
+        "local_file": "research/sources/ordine-er-delibere-disciplinari-2008.pdf",
+        "url": "https://www.ordinepsicologier.it/public/genpags/bigs/02Eticadeliberedisanzionedisciplinare_DAP18AP23.pdf",
+        "pages": "4-6 del PDF"
+      }
+    },
+    {
+      "id": "cass-31972-2018",
+      "kind": "giurisprudenza_ordinaria",
+      "authority": "Corte di Cassazione, sezione II civile",
+      "decision": "Sentenza n. 31972 dell'11 dicembre 2018",
+      "summary": "Dopo avere seguito una coppia, la psicologa assunse un incarico nell'interesse esclusivo di uno dei due ex pazienti in conflitto con l'altra, utilizzò nella relazione informazioni sui problemi della coppia e della famiglia e rivelò a soggetti estranei l'esistenza del precedente rapporto professionale. La Cassazione rigettò il ricorso.",
+      "articles_found_violated": [3, 11, 26],
+      "outcome": "confermata la sospensione di un mese stabilita dal Tribunale",
+      "finality_known": true,
+      "teaching_point": "Pregressi rapporti professionali, conflitto tra ex utenti e segreto professionale devono essere valutati prima di assumere un nuovo incarico di parte.",
+      "source": {
+        "url": "https://www.misterlex.it/cassazione-civile/2018/31972/",
+        "citation": "Cass. civ., sez. II, 11 dicembre 2018, n. 31972"
+      }
+    },
+    {
+      "id": "cass-12733-2025",
+      "kind": "giurisprudenza_ordinaria_con_esito_processuale",
+      "authority": "Corte di Cassazione, sezione II civile",
+      "decision": "Sentenza n. 12733 del 13 maggio 2025",
+      "summary": "La sanzione originaria riguardava un parere pro veritate fondato, secondo l'Ordine, su dati della cliente privi di riscontri e contenente giudizi netti su persone non conosciute direttamente. La Cassazione non ha però lasciato ferma quella sanzione: ha cassato senza rinvio per vizi relativi alla partecipazione del pubblico ministero e ha rilevato la prescrizione quinquennale.",
+      "articles_contested": [7],
+      "outcome": "sentenza cassata senza rinvio; illecito dichiarato prescritto",
+      "finality_known": true,
+      "teaching_point": "Il fatto contestato è utile come scenario di studio sull'art. 7, ma non va presentato come sanzione definitivamente confermata.",
+      "source": {
+        "url": "https://www.doctrine.it/decisions/itcasst58v3cafimovje",
+        "citation": "Cass. civ., sez. II, 13 maggio 2025, n. 12733"
+      }
+    },
+    {
+      "id": "cass-7362-2025",
+      "kind": "controesempio_giurisprudenziale",
+      "authority": "Corte di Cassazione",
+      "decision": "Ordinanza n. 7362 del 19 marzo 2025",
+      "summary": "La partecipazione trasparente a un tavolo tecnico e l'espressione di un'opinione scientifica favorevole alla normazione del counseling non furono ritenute, di per sé, illecito disciplinare. La Cassazione confermò l'annullamento della sanzione.",
+      "articles_context": [8, 21],
+      "outcome": "ricorso dell'Ordine rigettato; sanzione annullata",
+      "finality_known": true,
+      "teaching_point": "Serve anche una casistica negativa: non ogni opinione scientifica divergente o apertura nel dibattito tecnico equivale ad avallo dell'abusivismo.",
+      "source": {
+        "url": "https://apps.dirittopratico.it/sentenza/cassazione/roma/2025/7362.html",
+        "citation": "Cass., ord. 19 marzo 2025, n. 7362",
+        "verification_note": "La pagina include massime e commenti automatici: prima della pubblicazione nell'app verificare il testo integrale ufficiale."
+      }
+    }
+  ]
+}

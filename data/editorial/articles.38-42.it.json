@@ -1,0 +1,450 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Schede didattiche italiane - Articoli 38-42",
+  "language": "it",
+  "code_version": {
+    "status": "vigente",
+    "effective_from": "2024-12-24",
+    "official_source_id": "cnop-codice-vigente",
+    "checked_on": "2026-08-13"
+  },
+  "editorial_status": "draft_needs_deontological_legal_review",
+  "notices": [
+    "I titoli, le unità di significato, i commenti, gli esempi e le flashcard sono redazionali e non fanno parte del testo ufficiale.",
+    "Il contenuto è didattico e non sostituisce il parere dell'Ordine competente o una consulenza legale sul caso concreto.",
+    "Gli esempi ipotetici relativi agli articoli 38-40 non permettono di concludere automaticamente che una condotta reale costituisca illecito: servono fatti provati, contestazione e procedimento.",
+    "Le decisioni territoriali citate riguardano casi specifici e non è nota l'eventuale impugnazione successiva.",
+    "Gli articoli 41 e 42 sono norme istituzionali di attuazione: i relativi scenari spiegano funzionamento ed efficacia del Codice e non rappresentano illeciti disciplinari individuali."
+  ],
+  "source_catalog": [
+    {
+      "id": "cnop-codice-vigente",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Testo vigente del Codice Deontologico degli psicologi italiani",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/",
+      "kind": "testo_ufficiale"
+    },
+    {
+      "id": "legge-56-1989",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Legge 18 febbraio 1989, n. 56 - Ordinamento della professione di psicologo",
+      "url": "https://www.normattiva.it/eli/stato/LEGGE/1989/02/18/56/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "dpr-328-2001",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "D.P.R. 5 giugno 2001, n. 328 - sezioni e titoli professionali",
+      "url": "https://www.normattiva.it/eli/id/2001/08/17/001G0373/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "dpr-137-2012",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "D.P.R. 7 agosto 2012, n. 137 - Riforma degli ordinamenti professionali",
+      "url": "https://www.normattiva.it/eli/id/2012/08/14/012G0159/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cnop-regolamento-interno-2026",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Regolamento per il funzionamento interno del CNOP, art. 11",
+      "year": 2026,
+      "url": "https://www.psy.it/wp-content/uploads/2026/05/Definitivo-REGOLAMENTO-INTERNO-CNOP.pdf",
+      "kind": "regolamento_istituzionale"
+    },
+    {
+      "id": "cnop-commissioni-2026",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Commissione Deontologia e Osservatorio Permanente del Codice Deontologico",
+      "url": "https://www.psy.it/cnop/commissioni/",
+      "kind": "pagina_istituzionale"
+    },
+    {
+      "id": "fvg-100-domande",
+      "authority": "Ordine degli Psicologi del Friuli Venezia Giulia",
+      "title": "100 domande e 100 risposte sul Codice Deontologico degli Psicologi",
+      "year": 2018,
+      "local_file": "research/sources/ordine-fvg-100-domande-100-risposte-2018.pdf",
+      "kind": "commento_istituzionale_non_autentico",
+      "compatibility_note": "Guida divulgativa sul testo oggi ripristinato; norme e prassi sopravvenute devono essere verificate."
+    },
+    {
+      "id": "veneto-questioni-aperte",
+      "authority": "Ordine delle Psicologhe e degli Psicologi del Veneto",
+      "title": "Questioni aperte su un Codice che non c'è",
+      "year": 2024,
+      "local_file": "research/sources/ordine-veneto-questioni-aperte-deontologia-2024.pdf",
+      "kind": "contributo_istituzionale",
+      "compatibility_note": "Alcuni capitoli commentano il testo 2023 poi annullato; non usarne formulazioni come se fossero l'articolato vigente."
+    },
+    {
+      "id": "oper-regolamento-pubblicita-2008",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Regolamento sulla pubblicità informativa delle attività professionali",
+      "year": 2008,
+      "local_file": "research/sources/ordine-er-regolamento-pubblicita-2008.pdf",
+      "kind": "regolamento_territoriale",
+      "compatibility_note": "Regolamento territoriale tuttora elencato dall'Ordine come vigente; non va generalizzato automaticamente ad altri Ordini e deve essere coordinato con la normativa sopravvenuta."
+    },
+    {
+      "id": "oper-delibere-2009",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Delibere di sanzione disciplinare pubblicate nel 2009",
+      "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+      "kind": "decisioni_ordinistiche_anonimizzate"
+    },
+    {
+      "id": "oper-delibere-2008",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Estratti di delibere di sanzione disciplinare pubblicati nel 2008",
+      "local_file": "research/sources/ordine-er-delibere-disciplinari-2008.pdf",
+      "kind": "decisioni_ordinistiche_anonimizzate"
+    }
+  ],
+  "articles": [
+    {
+      "number": 38,
+      "chapter": "Capo III – Rapporti con i colleghi",
+      "editorial_title": "Decoro e dignità nel ruolo professionale",
+      "title_is_official": false,
+      "official_text": "Nell’esercizio della propria attività professionale e nelle circostanze in cui rappresenta pubblicamente la professione a qualsiasi titolo, lo psicologo è tenuto ad uniformare la propria condotta ai principi del decoro e della dignità professionale.",
+      "core_message": "Quando esercita o rappresenta pubblicamente la professione, lo psicologo mantiene una condotta coerente con decoro e dignità professionale, valutata nel contesto e negli effetti sulla fiducia pubblica.",
+      "meaning_units": [
+        {
+          "id": "38-u1",
+          "official_fragment": "Nell’esercizio della propria attività professionale e nelle circostanze in cui rappresenta pubblicamente la professione a qualsiasi titolo,",
+          "label": "Due ambiti di applicazione",
+          "comment_it": "La norma opera durante l'attività professionale e quando lo psicologo rappresenta pubblicamente la professione, anche senza svolgere in quel momento una prestazione. Una conferenza, un'intervista, un profilo professionale o un intervento sui social possono rientrare nel secondo ambito. Non ogni atto della vita privata è però automaticamente attratto dall'art. 38: contano connessione al ruolo, riconoscibilità e contesto."
+        },
+        {
+          "id": "38-u2",
+          "official_fragment": "lo psicologo è tenuto ad uniformare la propria condotta ai principi del decoro e della dignità professionale.",
+          "label": "Condotta coerente con decoro e dignità",
+          "comment_it": "Decoro e dignità sono criteri aperti, da applicare con motivazione e proporzionalità, non semplici regole di stile o conformismo. Rilevano serietà, correttezza, rispetto delle persone, affidabilità scientifica e tutela della fiducia nella professione. Un tono informale, da solo, non dimostra necessariamente una violazione."
+        }
+      ],
+      "in_practice": [
+        "Prima di una comunicazione pubblica, chiarire se si parla a titolo personale o professionale senza usare la formula come schermo ingannevole.",
+        "Valutare destinatari, mezzo, permanenza e possibilità di ricondivisione del contenuto.",
+        "Separare divulgazione scientifica, esperienza personale e promozione professionale.",
+        "Evitare umiliazioni, minacce, banalizzazioni e messaggi incompatibili con la fiducia richiesta dal ruolo."
+      ],
+      "frequent_mistakes": [
+        "Credere che il Codice non operi durante un'intervista perché non è una seduta clinica.",
+        "Trattare ogni linguaggio informale come violazione automatica.",
+        "Scrivere «opinione personale» pur presentandosi con titolo e studio per ottenere autorevolezza professionale.",
+        "Confondere dignità professionale con difesa corporativa da critiche legittime."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "In un video trasmesso dal profilo dello studio, uno psicologo ridicolizza le persone con attacchi di panico, divulga consigli perentori privi di fondamento e usa il proprio titolo per accreditarli.",
+        "analysis": "La comunicazione avviene in una circostanza di rappresentanza pubblica della professione e può ledere decoro, dignità e fiducia. La valutazione completa coinvolgerebbe anche rispetto, validità delle informazioni, presentazione professionale e pubblicità.",
+        "possible_related_articles": [4, 7, 39, 40]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-04-2009",
+          "role": "violazione_accertata",
+          "note": "Il Consiglio territoriale applicò un avvertimento per gli artt. 38 e 40: e-mail promozionale inviata a destinatari indeterminati, linguaggio ritenuto banalizzante e contenuti web privi di adeguata base scientifica."
+        },
+        {
+          "case_id": "oper-er-06-2009",
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "La sospensione riguardò anche l'art. 38 per messaggi minacciosi inviati a una ex paziente; furono accertate inoltre violazioni degli artt. 2, 3, 4 e 22."
+        }
+      ],
+      "legal_connections": [],
+      "flashcards": [
+        {"id": "38-f1", "type": "richiamo", "front": "In quali due situazioni opera espressamente l'art. 38?", "back": "Nell'esercizio dell'attività professionale e quando si rappresenta pubblicamente la professione a qualsiasi titolo.", "official_anchor": "attività professionale ... rappresenta pubblicamente la professione"},
+        {"id": "38-f2", "type": "scenario", "front": "Un'intervista televisiva come psicologo è fuori dall'art. 38 perché non è una prestazione?", "back": "No. È una circostanza in cui si può rappresentare pubblicamente la professione.", "official_anchor": "rappresenta pubblicamente"},
+        {"id": "38-f3", "type": "discriminazione", "front": "Qualunque frase informale costituisce automaticamente violazione del decoro?", "back": "No. Occorre valutare contesto, connessione al ruolo, contenuto ed effetti; informalità e indecorosità non coincidono.", "official_anchor": "principi del decoro e della dignità"},
+        {"id": "38-f4", "type": "collegamento", "front": "Quale articolo punisce anche azioni od omissioni contrarie a decoro, dignità e corretto esercizio?", "back": "L'art. 2.", "official_anchor": "decoro e della dignità professionale"}
+      ],
+      "tags": ["decoro", "dignità-professionale", "rappresentanza-pubblica", "social-media", "fiducia"],
+      "source_ids": ["cnop-codice-vigente", "fvg-100-domande", "veneto-questioni-aperte", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 39,
+      "chapter": "Capo IV – Rapporti con la società",
+      "editorial_title": "Presentazione corretta e libertà di scelta del pubblico",
+      "title_is_official": false,
+      "official_text": "Lo psicologo presenta in modo corretto ed accurato la propria formazione, esperienza e competenza. Riconosce quale suo dovere quello di aiutare il pubblico e gli utenti a sviluppare in modo libero e consapevole giudizi, opinioni e scelte.",
+      "core_message": "Lo psicologo descrive con precisione formazione, esperienza e competenza e comunica in modo da sostenere, anziché manipolare, il giudizio libero e consapevole di pubblico e utenti.",
+      "meaning_units": [
+        {
+          "id": "39-u1",
+          "official_fragment": "Lo psicologo presenta in modo corretto ed accurato la propria formazione, esperienza e competenza.",
+          "label": "Tre profili da descrivere esattamente",
+          "comment_it": "Formazione, esperienza e competenza sono collegate ma non intercambiabili. Aver frequentato un corso non equivale a possedere una specializzazione legale; avere esperienza non autorizza un titolo inesistente; possedere un titolo non prova competenza su ogni problema. Date, enti, stato completato o in corso e limiti devono evitare equivoci."
+        },
+        {
+          "id": "39-u2",
+          "official_fragment": "Riconosce quale suo dovere quello di aiutare il pubblico e gli utenti a sviluppare in modo libero e consapevole giudizi, opinioni e scelte.",
+          "label": "Informare senza manipolare",
+          "comment_it": "La comunicazione professionale deve aumentare la capacità di comprendere e scegliere. Pressione emotiva, paura, falsa urgenza, promesse garantite, omissione di limiti o uso ambiguo di autorità scientifica possono ridurre la libertà. Il dovere riguarda anche divulgazione, orientamento e presenza pubblica, non soltanto pubblicità commerciale."
+        }
+      ],
+      "in_practice": [
+        "Usare titoli nella forma esatta e verificabile, indicando l'ente che li ha rilasciati quando serve a evitare equivoci.",
+        "Distinguere chiaramente formazione conclusa, formazione in corso, esperienza e area di lavoro.",
+        "Descrivere benefici attesi insieme a limiti, alternative e incertezze pertinenti.",
+        "Correggere tempestivamente profili, carta intestata e piattaforme quando titoli o ruoli cambiano."
+      ],
+      "frequent_mistakes": [
+        "Presentarsi come psicoterapeuta prima dell'abilitazione e dell'annotazione previste.",
+        "Chiamare «master» un corso privato in modo da farlo sembrare un master universitario.",
+        "Dichiararsi esperto basandosi su una breve esperienza non descritta.",
+        "Usare paura o diagnosi generiche per spingere il pubblico a prenotare."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Una psicologa ancora in formazione si presenta sul sito come «psicoterapeuta e specialista internazionale», omette che il corso non è concluso e afferma che chi non prenota subito rischia danni permanenti.",
+        "analysis": "Titoli e stato formativo sono presentati in modo potenzialmente inesatto, mentre la falsa urgenza ostacola una scelta libera e consapevole. Possono rilevare anche uso del titolo, competenza e pubblicità.",
+        "possible_related_articles": [5, 8, 37, 40]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-ee-21-06",
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "Il Consiglio accertò l'art. 39 per diciture ingannevoli o non conformi, compreso l'uso di psicoterapeuta prima dell'iscrizione relativa. Prosciolse invece dall'art. 40 perché non era provata la finalità di procacciamento."
+        },
+        {
+          "case_id": "oper-er-05-2009",
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "La censura comprese l'art. 39 per una carta intestata che presentava ambiguamente il ruolo universitario; furono accertati anche gli artt. 7 e 31."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "D.P.R. n. 328/2001, artt. 50-51",
+          "relevance": "Distingue sezioni dell'Albo e titoli professionali; l'attività di psicoterapeuta è annotata nell'Albo quando ricorrono i presupposti di legge.",
+          "source_id": "dpr-328-2001"
+        }
+      ],
+      "flashcards": [
+        {"id": "39-f1", "type": "richiamo", "front": "Quali tre aspetti devono essere presentati correttamente e accuratamente?", "back": "Formazione, esperienza e competenza.", "official_anchor": "formazione, esperienza e competenza"},
+        {"id": "39-f2", "type": "scenario", "front": "Si può scrivere «psicoterapeuta» mentre la specializzazione è ancora in corso?", "back": "No, se il titolo non è ancora legittimamente posseduto e annotato: la presentazione sarebbe inesatta o ingannevole.", "official_anchor": "presenta in modo corretto ed accurato"},
+        {"id": "39-f3", "type": "discriminazione", "front": "Un titolo formativo dimostra automaticamente competenza in ogni caso?", "back": "No. Formazione, esperienza e competenza sono profili distinti da descrivere con accuratezza.", "official_anchor": "formazione, esperienza e competenza"},
+        {"id": "39-f4", "type": "collegamento", "front": "Quale articolo stabilisce criteri specifici per il messaggio pubblicitario?", "back": "L'art. 40.", "official_anchor": "pubblico e gli utenti"}
+      ],
+      "tags": ["titoli", "formazione", "esperienza", "competenza", "scelta-consapevole", "comunicazione"],
+      "source_ids": ["cnop-codice-vigente", "dpr-328-2001", "oper-regolamento-pubblicita-2008", "oper-delibere-2008", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 40,
+      "chapter": "Capo IV – Rapporti con la società",
+      "editorial_title": "Pubblicità informativa trasparente, vera e scientificamente seria",
+      "title_is_official": false,
+      "official_text": "Indipendentemente dai limiti posti dalla vigente legislazione in materia di pubblicità, lo psicologo non assume pubblicamente comportamenti scorretti finalizzati al procacciamento della clientela. In ogni caso, può essere svolta pubblicità informativa circa i titoli e le specializzazioni professionali, le caratteristiche del servizio offerto, nonché il prezzo e i costi complessivi delle prestazioni secondo criteri di trasparenza e veridicità del messaggio il cui rispetto è verificato dai competenti Consigli dell’Ordine. Il messaggio deve essere formulato nel rispetto del decoro professionale, conformemente ai criteri di serietà scientifica ed alla tutela dell’immagine della professione. La mancanza di trasparenza e veridicità del messaggio pubblicizzato costituisce violazione deontologica.",
+      "core_message": "La pubblicità professionale è ammessa, ma non il procacciamento scorretto: titoli, servizi e costi devono essere trasparenti e veri, con decoro e serietà scientifica.",
+      "meaning_units": [
+        {
+          "id": "40-u1",
+          "official_fragment": "Indipendentemente dai limiti posti dalla vigente legislazione in materia di pubblicità, lo psicologo non assume pubblicamente comportamenti scorretti finalizzati al procacciamento della clientela.",
+          "label": "Divieto autonomo di procacciamento scorretto",
+          "comment_it": "Anche ciò che la normativa generale consente può restare deontologicamente scorretto per finalità e modalità. La prima fattispecie richiede sia una condotta pubblica scorretta sia la finalizzazione a procurarsi clientela: l'intento non va dato per scontato, ma ricostruito da contenuto e contesto."
+        },
+        {
+          "id": "40-u2",
+          "official_fragment": "In ogni caso, può essere svolta pubblicità informativa circa i titoli e le specializzazioni professionali, le caratteristiche del servizio offerto, nonché il prezzo e i costi complessivi delle prestazioni",
+          "label": "Che cosa si può pubblicizzare",
+          "comment_it": "Il Codice ammette pubblicità informativa su titoli e specializzazioni effettivi, caratteristiche del servizio e prezzo o costi complessivi. La pubblicità non è vietata né subordinata in via generale a un nulla osta preventivo; occorre però verificare le regole territoriali e la normativa applicabile al mezzo e al servizio."
+        },
+        {
+          "id": "40-u3",
+          "official_fragment": "secondo criteri di trasparenza e veridicità del messaggio il cui rispetto è verificato dai competenti Consigli dell’Ordine.",
+          "label": "Trasparenza, verità e controllo ordinistico",
+          "comment_it": "Il destinatario deve poter capire chi offre che cosa, a quali condizioni e con quali costi. Informazioni letteralmente vere possono restare fuorvianti per omissione, ambiguità o presentazione. La verifica dell'Ordine non significa necessariamente autorizzazione preventiva: procedure e competenza territoriale vanno controllate presso l'Ordine interessato."
+        },
+        {
+          "id": "40-u4",
+          "official_fragment": "Il messaggio deve essere formulato nel rispetto del decoro professionale, conformemente ai criteri di serietà scientifica ed alla tutela dell’immagine della professione.",
+          "label": "Decoro e serietà scientifica",
+          "comment_it": "Testimonianze, slogan, contenuti educativi e promesse devono restare coerenti con le prove disponibili. Non bastano un disclaimer o una citazione isolata per rendere serio un messaggio che garantisce risultati, banalizza disturbi o diffonde indicazioni potenzialmente dannose."
+        },
+        {
+          "id": "40-u5",
+          "official_fragment": "La mancanza di trasparenza e veridicità del messaggio pubblicizzato costituisce violazione deontologica.",
+          "label": "Violazione espressa",
+          "comment_it": "L'ultimo periodo qualifica direttamente come violazione la mancanza di trasparenza e veridicità. Questa fattispecie non deve essere confusa con quella del primo periodo: un messaggio ingannevole può violare l'articolo anche se la specifica finalità di procacciamento non è provata."
+        }
+      ],
+      "in_practice": [
+        "Verificare titoli, specializzazioni, prezzi, costi obbligatori e condizioni prima della pubblicazione.",
+        "Descrivere servizi e risultati possibili senza garanzie, falsa urgenza o selezione ingannevole delle prove.",
+        "Rendere identificabile il professionista responsabile e distinguere i titoli dei membri di uno studio associato.",
+        "Conservare copia datata del messaggio e delle fonti scientifiche usate.",
+        "Controllare normativa generale, indicazioni dell'Ordine competente e regole della piattaforma senza confonderle."
+      ],
+      "frequent_mistakes": [
+        "Credere che ogni pubblicità professionale sia vietata.",
+        "Pubblicizzare un prezzo iniziale omettendo costi necessari e prevedibili.",
+        "Promettere guarigione certa o usare percentuali senza fonte verificabile.",
+        "Presentare un titolo in corso come già conseguito.",
+        "Dedurre automaticamente il procacciamento dalla sola inesattezza del messaggio."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Una campagna annuncia «guarigione garantita in tre sedute a 49 euro», ma il prezzo non comprende valutazione e test obbligatori, la percentuale di successo è inventata e il professionista usa una specializzazione non conseguita.",
+        "analysis": "Il messaggio manca di trasparenza e veridicità, non rispetta serietà scientifica e può ostacolare una scelta consapevole. Titoli, costi, prove e possibile finalità di procacciamento vanno valutati separatamente.",
+        "possible_related_articles": [5, 7, 8, 23, 38, 39]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-04-2009",
+          "role": "violazione_accertata",
+          "note": "L'avvertimento per gli artt. 38 e 40 riguardò modalità promozionali ritenute banalizzanti e articoli web con affermazioni prive di adeguato supporto scientifico e potenzialmente dannose. La gratuità dichiarata non fu ritenuta esimente."
+        },
+        {
+          "case_id": "oper-er-ee-21-06",
+          "role": "limite_probatorio",
+          "note": "Pur accertando l'uso ingannevole di titoli ai sensi dell'art. 39, il Consiglio prosciolse dall'art. 40 perché non risultava provata la finalità di procacciamento della clientela richiesta dalla contestazione."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "D.P.R. n. 137/2012, art. 4",
+          "relevance": "La pubblicità informativa professionale è libera con ogni mezzo, ma le informazioni devono essere trasparenti, veritiere, corrette e non equivoche, ingannevoli o denigratorie.",
+          "source_id": "dpr-137-2012"
+        }
+      ],
+      "flashcards": [
+        {"id": "40-f1", "type": "richiamo", "front": "Quali contenuti può riguardare la pubblicità informativa?", "back": "Titoli e specializzazioni, caratteristiche del servizio, prezzo e costi complessivi delle prestazioni.", "official_anchor": "titoli ... servizio offerto ... prezzo e i costi complessivi"},
+        {"id": "40-f2", "type": "scenario", "front": "Un annuncio indica 50 euro ma nasconde costi obbligatori. Quale criterio manca?", "back": "La trasparenza del messaggio; può mancare anche veridicità nella rappresentazione del costo complessivo.", "official_anchor": "trasparenza e veridicità"},
+        {"id": "40-f3", "type": "discriminazione", "front": "Ogni inesattezza prova automaticamente il procacciamento scorretto?", "back": "No. L'intento di procacciamento va provato; resta distinta la violazione espressa per mancanza di trasparenza e veridicità.", "official_anchor": "finalizzati al procacciamento"},
+        {"id": "40-f4", "type": "collegamento", "front": "Quale articolo impone una presentazione accurata di formazione, esperienza e competenza?", "back": "L'art. 39.", "official_anchor": "titoli e le specializzazioni professionali"}
+      ],
+      "tags": ["pubblicità", "procacciamento", "trasparenza", "veridicità", "costi", "serietà-scientifica"],
+      "source_ids": ["cnop-codice-vigente", "dpr-137-2012", "oper-regolamento-pubblicita-2008", "oper-delibere-2009", "oper-delibere-2008"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 41,
+      "chapter": "Capo V – Norme di attuazione",
+      "editorial_title": "Osservatorio permanente e revisione del Codice",
+      "title_is_official": false,
+      "official_text": "È istituito presso la “Commissione Deontologia” dell’Ordine degli psicologi l’”Osservatorio permanente sul Codice Deontologico”, regolamentato con apposito atto del Consiglio Nazionale dell’Ordine, con il compito di raccogliere la giurisprudenza in materia deontologica dei Consigli regionali e provinciali dell’Ordine e ogni altro materiale utile a formulare eventuali proposte della Commissione al Consiglio Nazionale dell’Ordine, anche ai fini della revisione periodica del Codice Deontologico. Tale revisione si atterrà alle modalità previste dalla Legge 18 febbraio 1989, n. 56.",
+      "core_message": "L'Osservatorio raccoglie decisioni e materiali per sostenere interpretazione e proposte di revisione; le modifiche al Codice devono seguire il procedimento previsto dalla legge professionale.",
+      "meaning_units": [
+        {
+          "id": "41-u1",
+          "official_fragment": "È istituito presso la “Commissione Deontologia” dell’Ordine degli psicologi l’”Osservatorio permanente sul Codice Deontologico”, regolamentato con apposito atto del Consiglio Nazionale dell’Ordine,",
+          "label": "Un organismo presso la Commissione Deontologia",
+          "comment_it": "L'Osservatorio è un organismo istituzionale, non un singolo ufficio disciplinare territoriale. Il regolamento interno CNOP del 2026 ne colloca le funzioni nella Commissione Deontologia, composta da consiglieri ed esperti esterni, e ne disciplina durata e funzionamento."
+        },
+        {
+          "id": "41-u2",
+          "official_fragment": "con il compito di raccogliere la giurisprudenza in materia deontologica dei Consigli regionali e provinciali dell’Ordine e ogni altro materiale utile a formulare eventuali proposte della Commissione al Consiglio Nazionale dell’Ordine, anche ai fini della revisione periodica del Codice Deontologico.",
+          "label": "Raccogliere, analizzare e proporre",
+          "comment_it": "Le decisioni territoriali e gli altri materiali alimentano conoscenza dei problemi applicativi e proposte al CNOP. Una decisione territoriale non diventa per questo un precedente vincolante per tutti, e una proposta della Commissione non modifica da sola il Codice. Il regolamento 2026 aggiunge monitoraggio delle criticità, linee guida e sviluppo di un database nazionale."
+        },
+        {
+          "id": "41-u3",
+          "official_fragment": "Tale revisione si atterrà alle modalità previste dalla Legge 18 febbraio 1989, n. 56.",
+          "label": "La revisione segue la legge professionale",
+          "comment_it": "L'art. 28, comma 6, lettera c), della legge n. 56/1989 attribuisce al CNOP la predisposizione e l'aggiornamento del Codice, vincolante per gli iscritti, e richiede l'approvazione mediante referendum. Studio, consultazione o linee guida non equivalgono all'entrata in vigore di un nuovo articolato."
+        }
+      ],
+      "in_practice": [
+        "Distinguere raccolta della casistica, indirizzi interpretativi, proposta di revisione, referendum ed entrata in vigore.",
+        "Usare le decisioni territoriali come materiali contestualizzati, verificandone fatti, data, esito e possibile impugnazione.",
+        "Controllare sempre sul sito CNOP quale testo è indicato come vigente.",
+        "Non presentare bozze, proposte o testi annullati come norme applicabili."
+      ],
+      "frequent_mistakes": [
+        "Trattare una singola delibera territoriale come precedente nazionale vincolante.",
+        "Dire che una proposta dell'Osservatorio ha già modificato il Codice.",
+        "Confondere Commissione Deontologia, Osservatorio e Consigli territoriali disciplinari.",
+        "Studiare una revisione senza verificarne approvazione ed efficacia."
+      ],
+      "hypothetical_infringement": {
+        "classification": "scenario_istituzionale_non_disciplinare",
+        "scenario": "L'Osservatorio pubblica una proposta di nuovo articolo. Un corso di preparazione all'Esame di Stato la inserisce subito tra le norme vigenti e afferma che gli iscritti sono già sanzionabili in base al nuovo testo.",
+        "analysis": "La proposta non equivale a revisione efficace. Occorre verificare l'intero procedimento previsto dalla legge e la pubblicazione istituzionale del testo vigente. Lo scenario illustra un errore didattico e istituzionale, non una violazione individuale dell'art. 41.",
+        "possible_related_articles": [1, 42]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, art. 28, comma 6, lettera c)",
+          "relevance": "Attribuisce al CNOP predisposizione e aggiornamento del Codice, vincolante per gli iscritti, con approvazione mediante referendum.",
+          "source_id": "legge-56-1989"
+        },
+        {
+          "reference": "Regolamento interno CNOP 2026, art. 11",
+          "relevance": "Descrive composizione e funzioni attuali di Commissione e Osservatorio, inclusi monitoraggio, linee guida, proposte e database dei procedimenti.",
+          "source_id": "cnop-regolamento-interno-2026"
+        }
+      ],
+      "flashcards": [
+        {"id": "41-f1", "type": "richiamo", "front": "Che cosa raccoglie l'Osservatorio permanente?", "back": "La giurisprudenza deontologica dei Consigli territoriali e altro materiale utile a eventuali proposte e revisioni.", "official_anchor": "raccogliere la giurisprudenza ... e ogni altro materiale utile"},
+        {"id": "41-f2", "type": "scenario", "front": "Una proposta della Commissione cambia immediatamente il Codice?", "back": "No. La revisione deve seguire le modalità previste dalla legge n. 56/1989.", "official_anchor": "eventuali proposte"},
+        {"id": "41-f3", "type": "discriminazione", "front": "Una delibera regionale raccolta dall'Osservatorio è automaticamente vincolante per ogni Ordine?", "back": "No. È materiale di giurisprudenza deontologica da contestualizzare, non un precedente nazionale automaticamente vincolante.", "official_anchor": "dei Consigli regionali e provinciali"},
+        {"id": "41-f4", "type": "collegamento", "front": "Quale articolo disciplina il momento di entrata in vigore del Codice approvato?", "back": "L'art. 42.", "official_anchor": "revisione periodica del Codice Deontologico"}
+      ],
+      "tags": ["osservatorio", "commissione-deontologia", "giurisprudenza-deontologica", "revisione", "referendum"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "cnop-regolamento-interno-2026", "cnop-commissioni-2026", "fvg-100-domande", "veneto-questioni-aperte"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 42,
+      "chapter": "Capo V – Norme di attuazione",
+      "editorial_title": "Entrata in vigore dopo il referendum",
+      "title_is_official": false,
+      "official_text": "Il presente Codice deontologico entra in vigore il trentesimo giorno successivo alla proclamazione dei risultati del referendum di approvazione, ai sensi dell’art. 28, comma 6, lettera c) della Legge 18 febbraio 1989, n. 56.",
+      "core_message": "Il Codice approvato entra in vigore il trentesimo giorno dopo la proclamazione dei risultati referendari, secondo la competenza attribuita al CNOP dalla legge n. 56/1989.",
+      "meaning_units": [
+        {
+          "id": "42-u1",
+          "official_fragment": "Il presente Codice deontologico entra in vigore il trentesimo giorno successivo alla proclamazione dei risultati del referendum di approvazione,",
+          "label": "Un termine preciso dopo la proclamazione",
+          "comment_it": "Approvazione, proclamazione ed entrata in vigore sono momenti distinti. Il testo non diventa applicabile il giorno della votazione né necessariamente quello in cui termina il referendum, ma al trentesimo giorno successivo alla proclamazione dei risultati. Per versioni e revisioni concrete vanno controllati gli atti ufficiali e le eventuali decisioni giudiziarie."
+        },
+        {
+          "id": "42-u2",
+          "official_fragment": "ai sensi dell’art. 28, comma 6, lettera c) della Legge 18 febbraio 1989, n. 56.",
+          "label": "Fondamento nella legge professionale",
+          "comment_it": "La disposizione rinvia alla legge che attribuisce al Consiglio nazionale il compito di predisporre e aggiornare il Codice, vincolante per gli iscritti, sottoponendolo a referendum. L'art. 42 è quindi una norma di efficacia temporale, non una regola di condotta clinica."
+        }
+      ],
+      "in_practice": [
+        "Identificare la versione del Codice rilevante alla data della condotta esaminata.",
+        "Verificare proclamazione, termine di trenta giorni e atti successivi su fonti istituzionali.",
+        "Distinguere testo approvato, testo vigente, proposta e testo eventualmente annullato.",
+        "Nelle flashcard e nei corsi indicare sempre data e stato della versione studiata."
+      ],
+      "frequent_mistakes": [
+        "Far coincidere automaticamente chiusura del voto e proclamazione dei risultati.",
+        "Applicare la revisione dal giorno stesso della proclamazione.",
+        "Usare oggi un testo soltanto perché aveva ottenuto voti favorevoli, senza verificarne la vigenza.",
+        "Trattare l'art. 42 come un dovere disciplinare quotidiano del singolo psicologo."
+      ],
+      "hypothetical_infringement": {
+        "classification": "scenario_istituzionale_non_disciplinare",
+        "scenario": "I risultati di un referendum sul Codice vengono proclamati il 1° marzo. Un manuale afferma che il nuovo testo è applicabile già il 2 marzo senza verificare altri atti.",
+        "analysis": "Secondo l'art. 42, il riferimento è il trentesimo giorno successivo alla proclamazione, non il giorno seguente. Per un caso reale occorrerebbe inoltre verificare calendario e atti ufficiali. Lo scenario spiega l'efficacia temporale, non un illecito individuale.",
+        "possible_related_articles": [1, 41]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, art. 28, comma 6, lettera c)",
+          "relevance": "Fonda la competenza del CNOP a predisporre e aggiornare il Codice e la necessità di sottoporlo all'approvazione referendaria degli iscritti.",
+          "source_id": "legge-56-1989"
+        }
+      ],
+      "flashcards": [
+        {"id": "42-f1", "type": "richiamo", "front": "Quando entra in vigore il Codice secondo l'art. 42?", "back": "Il trentesimo giorno successivo alla proclamazione dei risultati del referendum di approvazione.", "official_anchor": "trentesimo giorno successivo"},
+        {"id": "42-f2", "type": "scenario", "front": "Risultati proclamati oggi: il nuovo testo vale domani?", "back": "No. L'art. 42 colloca l'entrata in vigore al trentesimo giorno successivo alla proclamazione.", "official_anchor": "alla proclamazione dei risultati"},
+        {"id": "42-f3", "type": "discriminazione", "front": "Fine delle votazioni e proclamazione sono necessariamente lo stesso momento?", "back": "No. L'art. 42 usa come riferimento giuridico la proclamazione dei risultati.", "official_anchor": "proclamazione"},
+        {"id": "42-f4", "type": "collegamento", "front": "Quale articolo istituisce l'Osservatorio che contribuisce alle proposte di revisione?", "back": "L'art. 41.", "official_anchor": "referendum di approvazione"}
+      ],
+      "tags": ["entrata-in-vigore", "referendum", "proclamazione", "efficacia-temporale", "legge-56-1989"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "language": "ar",
+  "articles": [
+    {
+      "number": 33,
+      "localized": {
+        "editorial_title": "الاحترام والولاء والتضامن المهني",
+        "article_text": "تقوم العلاقات بين الأخصائيين النفسيين على الاحترام المتبادل والولاء والتضامن المهني. ويدعم الأخصائي النفسي زملاءه الذين تتعرض استقلاليتهم المهنية أو قدرتهم على احترام القواعد الأخلاقية المهنية للخطر في أثناء عملهم، أيًا كانت طبيعة علاقة العمل أو موقعهم في التسلسل الوظيفي.",
+        "article_text_status": "editorial_translation",
+        "core_message": "التضامن المهني مش تستر؛ معناه دعم الزميل لما استقلاله أو التزامه الأخلاقي يتعرض للضغط.",
+        "glossary_annotations": [
+          {"glossary_id": "colleganza", "surface": "التضامن المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-professionale", "surface": "استقلاليتهم المهنية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 34,
+      "localized": {
+        "editorial_title": "تطوير المعرفة النفسية ونشرها",
+        "article_text": "يلتزم الأخصائي النفسي بالإسهام في تطوير فروع علم النفس وبإطلاع المجتمع المهني على ما يحرزه من تقدم في المعارف والتقنيات، بما يساعد كذلك على نشرها لأغراض الرفاه الإنساني والاجتماعي.",
+        "article_text_status": "editorial_translation",
+        "core_message": "المعرفة المهنية لازم تتطور وتتشارك بمسؤولية عشان تخدم رفاه الناس والمجتمع.",
+        "glossary_annotations": [
+          {"glossary_id": "comunita-professionale", "surface": "المجتمع المهني", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 35,
+      "localized": {
+        "editorial_title": "نسبة إسهامات الغير إلى مصادرها",
+        "article_text": "يلتزم الأخصائي النفسي، عند عرض نتائج بحوثه، ببيان مصدر إسهامات الغير.",
+        "article_text_status": "editorial_translation",
+        "core_message": "عرض البحث لازم ينسب أفكار وبيانات وإسهامات الآخرين بوضوح لأصحابها.",
+        "glossary_annotations": [
+          {"glossary_id": "fonte-altrui-contributi", "surface": "مصدر إسهامات الغير", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 36,
+      "localized": {
+        "editorial_title": "الانتقاد العلني واستقطاب العملاء وواجب الإبلاغ",
+        "article_text": "يمتنع الأخصائي النفسي عن إصدار أحكام سلبية علنية على زملائه بشأن إعدادهم أو كفاءتهم أو نتائج تدخلاتهم المهنية، وعن كل حكم يمس وقارهم أو سمعتهم المهنية. ويُعد ظرفًا مشددًا أن يكون القصد من هذه الأحكام استقطاب عملاء الزملاء. وإذا علم بسلوك مهني غير سليم قد يسبب ضررًا للمستفيدين أو لوقار المهنة، وجب عليه إخطار مجلس الهيئة المهنية المختص في الوقت المناسب.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ما ينفعش تشويه زميل علنًا عشان المنافسة؛ والسلوك اللي ممكن يضر الناس يتبلغ عنه بالطريق المؤسسي المختص.",
+        "glossary_annotations": [
+          {"glossary_id": "decoro-professionale", "surface": "وقارهم", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "ظرفًا مشددًا", "match_method": "human_authored_exact"},
+          {"glossary_id": "sottrarre-clientela", "surface": "استقطاب عملاء الزملاء", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "مستفيدين", "match_method": "human_authored_exact"},
+          {"glossary_id": "tempestiva-comunicazione", "surface": "إخطار", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "مجلس الهيئة المهنية المختص", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 37,
+      "localized": {
+        "editorial_title": "قبول التكليف في حدود الكفاءة",
+        "article_text": "لا يقبل الأخصائي النفسي التكليف المهني إلا في حدود كفاءته المهنية. وإذا كانت مصلحة الجهة المُكلِّفة و/أو متلقي الخدمة تستلزم كفاءات نوعية أخرى، اقترح الاستشارة أو الإحالة إلى زميل أو مهني آخر.",
+        "article_text_status": "editorial_translation",
+        "core_message": "قبول التكليف محتاج كفاءة فعلية؛ ولو مش كفاية، الحل استشارة أو تعاون أو إحالة.",
+        "glossary_annotations": [
+          {"glossary_id": "mandato-professionale", "surface": "التكليف المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "كفاءته المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "الجهة المُكلِّفة", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "متلقي الخدمة", "match_method": "human_authored_exact"},
+          {"glossary_id": "consulenza-invio", "surface": "الاستشارة أو الإحالة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 38,
+      "localized": {
+        "editorial_title": "الوقار والكرامة عند تمثيل المهنة",
+        "article_text": "يلتزم الأخصائي النفسي، في ممارسة نشاطه المهني وفي كل ظرف يمثل فيه المهنة علنًا بأي صفة، بأن يوافق سلوكه مبادئ الوقار المهني والكرامة المهنية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الوقار والكرامة مطلوبين كمان لما الأخصائي بيمثل المهنة قدام الجمهور، مش بس جوه الجلسة.",
+        "glossary_annotations": [
+          {"glossary_id": "rappresenta-pubblicamente-professione", "surface": "يمثل فيه المهنة علنًا", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "الوقار المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "الكرامة المهنية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 39,
+      "localized": {
+        "editorial_title": "العرض الدقيق للإعداد والخبرة والكفاءة",
+        "article_text": "يعرض الأخصائي النفسي إعداده وخبرته وكفاءته عرضًا صحيحًا ودقيقًا. ويعد من واجبه مساعدة الجمهور والمستفيدين على تكوين أحكام وآراء واختيارات حرة وواعية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "المؤهلات والخبرة والكفاءة تتعرض من غير مبالغة، عشان الناس تختار بحرية ووعي.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-esperienza-competenza", "surface": "إعداده وخبرته وكفاءته", "match_method": "human_authored_exact"},
+          {"glossary_id": "libero-consapevole-giudizio", "surface": "أحكام وآراء واختيارات حرة وواعية", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "المستفيدين", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 40,
+      "localized": {
+        "editorial_title": "الإعلان المعلوماتي وحظر استقطاب العملاء بطرق غير سليمة",
+        "article_text": "بصرف النظر عن القيود التي يقررها التشريع النافذ بشأن الإعلان، لا يتخذ الأخصائي النفسي علنًا سلوكًا غير سليم بقصد استقطاب العملاء. ويجوز تقديم إعلان معلوماتي عن المؤهلات والتخصصات المهنية وخصائص الخدمة المعروضة وسعر الخدمات وتكلفتها الإجمالية، وفقًا لمعياري شفافية الرسالة وصدقها، ويختص بالتحقق منهما مجلس الهيئة المهنية المختص. وتُصاغ الرسالة مع احترام الوقار المهني ومعايير الجدية العلمية وصورة المهنة. ويُعد غياب الشفافية أو الصدق في الرسالة الإعلانية مخالفة أخلاقية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الإعلان ممكن يعرّف بالخدمة، بس لازم يبقى شفاف وصادق وجاد علميًا، ومن غير استقطاب غير سليم.",
+        "glossary_annotations": [
+          {"glossary_id": "procacciamento-clientela", "surface": "استقطاب العملاء", "match_method": "human_authored_exact"},
+          {"glossary_id": "pubblicita-informativa", "surface": "إعلان معلوماتي", "match_method": "human_authored_exact"},
+          {"glossary_id": "trasparenza-veridicita", "surface": "شفافية الرسالة وصدقها", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "مجلس الهيئة المهنية المختص", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "الوقار المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "serieta-scientifica", "surface": "الجدية العلمية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 41,
+      "localized": {
+        "editorial_title": "المرصد الدائم والمراجعة الدورية للميثاق",
+        "article_text": "يُنشأ لدى لجنة الأخلاقيات التابعة لهيئة الأخصائيين النفسيين مرصد دائم لميثاق آداب المهنة، وينظمه قرار خاص يصدر عن المجلس الوطني للهيئة. ويتولى جمع السوابق والقرارات الأخلاقية المهنية الصادرة عن المجالس الإقليمية والمحلية، وكل مادة أخرى تفيد اللجنة في إعداد مقترحات للمجلس الوطني، بما في ذلك أغراض المراجعة الدورية للميثاق. وتُجرى هذه المراجعة وفق الإجراءات المنصوص عليها في القانون الإيطالي رقم 56 الصادر في 18 فبراير 1989.",
+        "article_text_status": "editorial_translation",
+        "core_message": "تطوير الميثاق بيعتمد على متابعة القرارات الأخلاقية باستمرار، وبيمشي بالإجراء القانوني المقرر.",
+        "glossary_annotations": [
+          {"glossary_id": "osservatorio-permanente", "surface": "مرصد دائم لميثاق آداب المهنة", "match_method": "human_authored_exact"},
+          {"glossary_id": "giurisprudenza-deontologica", "surface": "السوابق والقرارات الأخلاقية المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "revisione-periodica", "surface": "المراجعة الدورية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 42,
+      "localized": {
+        "editorial_title": "بدء النفاذ",
+        "article_text": "يبدأ نفاذ ميثاق آداب المهنة هذا في اليوم الثلاثين التالي لإعلان نتائج استفتاء الموافقة عليه، عملًا بالمادة 28، الفقرة 6، البند (ج)، من القانون الإيطالي رقم 56 الصادر في 18 فبراير 1989.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الميثاق بيبقى نافذ بعد ثلاثين يوم من إعلان نتيجة الاستفتاء اللي وافق عليه.",
+        "glossary_annotations": [
+          {"glossary_id": "entrata-in-vigore", "surface": "يبدأ نفاذ", "match_method": "human_authored_exact"},
+          {"glossary_id": "proclamazione-risultati", "surface": "إعلان نتائج", "match_method": "human_authored_exact"},
+          {"glossary_id": "referendum-approvazione", "surface": "استفتاء الموافقة", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

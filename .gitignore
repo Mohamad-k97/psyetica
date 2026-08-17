@@ -1,0 +1,16 @@
+/.android-downloads/
+/.android-sdk/
+/.android-user/
+/.gradle-user/
+/.gradle-build-home/
+/android-app/.gradle/
+/android-app/local.properties
+/android-app/app/build/
+/dist/*.apk
+!/dist/PsyEtica-0.4.0-debug.apk
+/.idea/
+/.vscode/
+*.iml
+*.log
+.DS_Store
+Thumbs.db

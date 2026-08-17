@@ -1,0 +1,273 @@
+{
+  "language": "en",
+  "articles": [
+    {
+      "number": 1,
+      "localized": {
+        "editorial_title": "Binding effect and scope of the Code",
+        "article_text": "The provisions of this Code of Professional Conduct are binding on all persons entered in the Register of Psychologists. Psychologists are required to know them, and ignorance of those provisions does not exempt them from disciplinary liability. The same provisions also apply where services, or parts of them, are provided remotely, over the Internet or by any other electronic and/or telematic means.",
+        "article_text_status": "editorial_translation",
+        "translation_notice": "Editorial translation for study purposes; the Italian text remains authoritative.",
+        "core_message": "Entry in the Register entails a duty to know and comply with the Code in every form of professional practice, including online practice.",
+        "meaning_units": [
+          {
+            "id": "1-u1",
+            "localized_fragment": "The provisions of this Code of Professional Conduct are binding on all persons entered in the Register of Psychologists.",
+            "label": "Who is bound",
+            "comment": "The Code is not an optional set of recommendations: it binds every person entered in the Register. Its authority derives from the statutory regulation of the profession and operates alongside the general law governing professional services."
+          },
+          {
+            "id": "1-u2",
+            "localized_fragment": "Psychologists are required to know them",
+            "label": "Duty to know the Code",
+            "comment": "Knowledge of the Code is a basic professional competence. It must be kept current because the text, related legislation and disciplinary procedures may change."
+          },
+          {
+            "id": "1-u3",
+            "localized_fragment": "and ignorance of those provisions does not exempt them from disciplinary liability.",
+            "label": "Ignorance is no defence",
+            "comment": "A psychologist cannot avoid liability merely by saying that they did not know a rule. The alleged facts must still be established and the safeguards of the disciplinary process must be observed."
+          },
+          {
+            "id": "1-u4",
+            "localized_fragment": "The same provisions also apply where services, or parts of them, are provided remotely, over the Internet or by any other electronic and/or telematic means.",
+            "label": "Remote services",
+            "comment": "Video calls, platforms, email, messaging and other digital tools do not create an unregulated space. Competence, consent, confidentiality, the quality of the professional relationship and sound data handling must be adapted to the medium, but none of those duties disappears."
+          }
+        ],
+        "in_practice": [
+          "Check the current version of the Code and any legislation to which it refers.",
+          "Apply the same professional principles to services delivered wholly or partly online.",
+          "Assess risks specific to the digital channel, including identity, confidentiality, emergencies and continuity of service."
+        ],
+        "frequent_mistakes": [
+          "Assuming that the Code applies only to face-to-face clinical work.",
+          "Using digital procedures without adapting the information provided, security arrangements and emergency planning.",
+          "Confusing lack of knowledge with lack of responsibility."
+        ],
+        "hypothetical_infringement": {
+          "scenario": "A psychologist begins consultations through a personal social-media account without verifying the service user’s identity or explaining the limits of the channel, and claims that the Code does not apply to chat messages.",
+          "analysis": "Article 1 expressly applies the Code to remote practice. A full assessment would also require the specific articles on information, professional secrecy, record-keeping and competence."
+        },
+        "legal_connections": [
+          {
+            "source_id": "legge-56-1989",
+            "relevance": "It assigns the National Council responsibility for drawing up the Code, which is binding on every person entered in the Register."
+          }
+        ],
+        "flashcards": [
+          {
+            "id": "1-f1",
+            "front": "Who is bound by the Code of Professional Conduct?",
+            "back": "Every person entered in the Register of Psychologists."
+          },
+          {
+            "id": "1-f2",
+            "front": "Does the Code cease to apply when a service is provided only by video call?",
+            "back": "No. Article 1 expressly extends the same provisions to remote and telematic services."
+          },
+          {
+            "id": "1-f3",
+            "front": "Does not knowing a rule remove disciplinary liability?",
+            "back": "No. Ignorance is no defence, although the facts and liability must still be established through the disciplinary process."
+          },
+          {
+            "id": "1-f4",
+            "front": "Which article links the duty to know the Code with the duty to maintain professional competence?",
+            "back": "Article 5, on professional preparation, continuing development and the limits of competence."
+          }
+        ],
+        "tags": ["principles", "professional register", "disciplinary liability", "online practice", "telepsychology"],
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "Code of Professional Conduct", "match_method": "human_authored_exact"},
+          {"glossary_id": "albo-degli-psicologi", "surface": "Register of Psychologists", "match_method": "human_authored_exact"},
+          {"glossary_id": "responsabilita-disciplinare", "surface": "disciplinary liability", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "localized": {
+        "editorial_title": "Professional misconduct and disciplinary sanctions",
+        "article_text": "Failure to comply with the requirements laid down in this Code of Professional Conduct, and any act or omission otherwise contrary to professional propriety, professional dignity or the proper practice of the profession, shall be sanctioned as provided by Article 26(1) of Law no. 56 of 18 February 1989, in accordance with the procedures laid down in the Disciplinary Regulations.",
+        "article_text_status": "editorial_translation",
+        "translation_notice": "Editorial translation for study purposes; the Italian text remains authoritative.",
+        "core_message": "Disciplinary liability may arise from breach of a specific requirement or from an act or omission incompatible with professional propriety, dignity and proper practice.",
+        "meaning_units": [
+          {
+            "id": "2-u1",
+            "localized_fragment": "Failure to comply with the requirements laid down in this Code of Professional Conduct",
+            "label": "Breach of a specific requirement",
+            "comment": "Conduct may be challenged because it conflicts with one or more articles of the Code. The allegation must identify the relevant facts and give the registrant a proper opportunity to respond."
+          },
+          {
+            "id": "2-u2",
+            "localized_fragment": "and any act or omission otherwise contrary to professional propriety, professional dignity or the proper practice of the profession",
+            "label": "General clause",
+            "comment": "The article also covers acts and omissions that undermine the profession’s essential values even when they do not correspond exactly to a highly specific rule. This broad wording does not permit automatic findings: its application must be reasoned in the circumstances of the particular case."
+          },
+          {
+            "id": "2-u3",
+            "localized_fragment": "shall be sanctioned as provided by Article 26(1) of Law no. 56 of 18 February 1989",
+            "label": "Range of sanctions",
+            "comment": "Depending on the seriousness of the conduct, the statute provides for a warning, reprimand, suspension from professional practice for up to one year, or removal from the Register. Article 2 does not assign a fixed sanction to each type of breach."
+          },
+          {
+            "id": "2-u4",
+            "localized_fragment": "in accordance with the procedures laid down in the Disciplinary Regulations.",
+            "label": "A disciplinary process is required",
+            "comment": "A complaint is not a finding of guilt. The applicable procedure, clear notice of the allegation, the right to present a defence, fact-finding and a reasoned decision are all required. Disciplinary regulations may differ territorially, so the competent rules must be identified."
+          }
+        ],
+        "in_practice": [
+          "Consider both what the psychologist did and what they failed to do.",
+          "Do not infer the sanction from the article number alone: seriousness, established facts and procedure all matter.",
+          "Distinguish between a complaint, the opening of proceedings, the decision and any subsequent appeal."
+        ],
+        "frequent_mistakes": [
+          "Treating every professional disagreement as disciplinary misconduct.",
+          "Presenting an allegation as though it were already a finding of guilt.",
+          "Forgetting that an omission may also have ethical significance."
+        ],
+        "hypothetical_infringement": {
+          "scenario": "Following a dispute, a psychologist repeatedly sends intimidating messages to a former patient and uses information learned during the professional relationship.",
+          "analysis": "The conduct could engage Article 2’s general clause and, depending on the facts, the duties concerning responsibility, dignity, professional secrecy and avoidance of harm. Only disciplinary proceedings can determine the breaches and sanction."
+        },
+        "real_case_links": [
+          {
+            "case_id": "oper-er-06-2009",
+            "note": "The Council found that threatening messages had been sent to a former patient and imposed a one-month suspension for breaches of Articles 2, 3, 4, 22 and 38. Other alleged conduct was not found proved. It is not known whether the decision was appealed."
+          }
+        ],
+        "legal_connections": [
+          {
+            "source_id": "legge-56-1989",
+            "relevance": "It sets out the disciplinary sanctions and requires the seriousness of the conduct to be taken into account."
+          }
+        ],
+        "flashcards": [
+          {"id": "2-f1", "front": "Does Article 2 deal only with literal breaches of other articles?", "back": "No. It also covers acts and omissions contrary to professional propriety, dignity and proper practice."},
+          {"id": "2-f2", "front": "Does a complaint to the Order itself prove misconduct?", "back": "No. Liability must be established under the disciplinary procedure and with a proper right of defence."},
+          {"id": "2-f3", "front": "What four sanctions are specified by the statute governing the profession?", "back": "Warning, reprimand, suspension for up to one year, and removal from the Register, graded according to seriousness."},
+          {"id": "2-f4", "front": "Why can intimidating conduct engage several articles?", "back": "Because it may simultaneously undermine proper practice, social responsibility, dignity, the duty to avoid harm and, in some cases, professional secrecy."}
+        ],
+        "tags": ["professional misconduct", "sanctions", "disciplinary procedure", "professional propriety", "professional dignity"],
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "Code of Professional Conduct", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "professional propriety", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "professional dignity", "match_method": "human_authored_exact"},
+          {"glossary_id": "regolamento-disciplinare", "surface": "Disciplinary Regulations", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "localized": {
+        "editorial_title": "Purpose, influence and social responsibility",
+        "article_text": "The psychologist regards it as a duty to advance knowledge of human behaviour and to use that knowledge to promote the psychological wellbeing of individuals, groups and communities. In every area of professional practice, the psychologist works to improve people’s ability to understand themselves and others and to act in an aware, appropriate and effective manner. The psychologist is mindful of the social responsibility arising from the fact that professional practice may significantly affect the lives of others; particular attention must therefore be paid to personal, social, organisational, financial and political factors in order to avoid the improper use of professional influence. The psychologist must not improperly exploit the trust or any position of dependency of commissioning parties, service users or other recipients of professional services. The psychologist is responsible for their professional acts and their directly foreseeable consequences.",
+        "article_text_status": "editorial_translation",
+        "translation_notice": "Editorial translation for study purposes; the Italian text remains authoritative.",
+        "core_message": "Psychological knowledge must be used to promote wellbeing, without abusing professional influence, trust or dependency.",
+        "meaning_units": [
+          {"id": "3-u1", "localized_fragment": "The psychologist regards it as a duty to advance knowledge of human behaviour", "label": "Advancing knowledge", "comment": "Professional practice requires continued study and the development of knowledge, not merely the preservation of what was learned at the outset. This principle complements the continuing-development duty in Article 5."},
+          {"id": "3-u2", "localized_fragment": "and to use that knowledge to promote the psychological wellbeing of individuals, groups and communities.", "label": "Promoting wellbeing", "comment": "Professional competence is directed towards the wellbeing not only of individuals but also of groups and communities. How that purpose is pursued depends on the instruction and the professional context."},
+          {"id": "3-u3", "localized_fragment": "In every area of professional practice, the psychologist works to improve people’s ability to understand themselves and others and to act in an aware, appropriate and effective manner.", "label": "Understanding and awareness", "comment": "An intervention should support understanding, autonomy and the ability to choose, rather than passive obedience to the professional. The wording applies to every area of practice, not only psychotherapy."},
+          {"id": "3-u4", "localized_fragment": "The psychologist is mindful of the social responsibility arising from the fact that professional practice may significantly affect the lives of others;", "label": "Professional power", "comment": "Assessments, diagnoses, reports, selection exercises and interventions can alter significant opportunities and decisions. This imbalance calls for care even where the psychologist believes that they are acting with good intentions."},
+          {"id": "3-u5", "localized_fragment": "particular attention must therefore be paid to personal, social, organisational, financial and political factors in order to avoid the improper use of professional influence.", "label": "Context and influence", "comment": "Technical soundness is not assessed in a vacuum. Organisational pressure, financial interests, hierarchies, vulnerability and the wider social context may distort purposes and decisions; they must be recognised and managed."},
+          {"id": "3-u6", "localized_fragment": "The psychologist must not improperly exploit the trust or any position of dependency of commissioning parties, service users or other recipients of professional services.", "label": "No exploitation of trust", "comment": "Trust and functional dependency must not be exploited for personal advantage, control, pressure or a purpose outside the instruction. The commissioning party and the recipient may be different people, and both must be considered when responsibility is assessed."},
+          {"id": "3-u7", "localized_fragment": "The psychologist is responsible for their professional acts and their directly foreseeable consequences.", "label": "Responsibility for acts and consequences", "comment": "Psychologists must anticipate the direct consequences of their decisions that can reasonably be foreseen. The provision does not make them automatically responsible for every later event: foreseeability, causation and context must be assessed on the evidence."}
+        ],
+        "in_practice": [
+          "Ask who may be affected by the service in addition to the immediate commissioning party.",
+          "Identify pressures, interests and imbalances that could distort professional judgement.",
+          "Anticipate the reasonably foreseeable direct effects of reports, communications and decisions."
+        ],
+        "frequent_mistakes": [
+          "Using a service user’s trust to obtain personal advantage or consent that is not freely given.",
+          "Reducing responsibility to the technical correctness of a tool.",
+          "Equating wellbeing with what the professional, organisation or family wants for the recipient."
+        ],
+        "hypothetical_infringement": {
+          "scenario": "An occupational psychologist alters an assessment to favour the candidate preferred by senior management, fails to disclose the pressure received, and knows that the report will affect other people’s careers.",
+          "analysis": "This engages the use of influence, organisational factors and responsibility for foreseeable consequences. Professional autonomy and the reliability of the conclusions would also need to be considered."
+        },
+        "real_case_links": [
+          {"case_id": "oper-er-06-2009", "note": "The decision concerning threatening messages to a former patient also found a breach of Article 3. The summary does not extend that finding to other conduct that the Council did not regard as proved."},
+          {"case_id": "cass-31972-2018", "note": "The Court of Cassation upheld a suspension by reference, among other provisions, to Article 3 where a psychologist accepted a new partisan instruction after previously working with the couple."}
+        ],
+        "legal_connections": [
+          {"source_id": "legge-56-1989", "relevance": "It defines the scope of the profession in relation to individuals, groups, social bodies and communities."}
+        ],
+        "flashcards": [
+          {"id": "3-f1", "front": "Whose wellbeing is expressly mentioned in Article 3?", "back": "The wellbeing of individuals, groups and communities."},
+          {"id": "3-f2", "front": "A commissioning party pressures a psychologist to alter an assessment. What is the first Article 3 risk?", "back": "Improper use of influence within an organisational and financial context; autonomy and reliability must also be assessed."},
+          {"id": "3-f3", "front": "Does Article 3 make a psychologist responsible for every subsequent consequence?", "back": "No. It refers to the psychologist’s professional acts and directly foreseeable consequences; causation and foreseeability must be established."},
+          {"id": "3-f4", "front": "Which article protects professional autonomy where outside pressure threatens judgement?", "back": "Article 6. Article 7 complements it by requiring properly founded assessments and express acknowledgement of their limits."}
+        ],
+        "tags": ["social responsibility", "wellbeing", "professional influence", "trust", "dependency", "commissioning party"],
+        "glossary_annotations": [
+          {"glossary_id": "responsabilita-sociale", "surface": "social responsibility", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "commissioning parties", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "service users", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "recipients of professional services", "match_method": "human_authored_exact"},
+          {"glossary_id": "atti-professionali", "surface": "professional acts", "match_method": "human_authored_exact"},
+          {"glossary_id": "conseguenze-prevedibili-dirette", "surface": "directly foreseeable consequences", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "localized": {
+        "editorial_title": "Dignity, autonomy and non-discrimination",
+        "article_text": "In professional practice, the psychologist respects the dignity and rights to confidentiality, self-determination and personal autonomy of those who use their services; respects their opinions and beliefs and refrains from imposing their own system of values; and does not discriminate on grounds of religion, ethnic origin, nationality, social background, socio-economic status, sex, sexual orientation or disability. The psychologist uses methods and techniques that safeguard those principles and refuses to participate in initiatives that infringe them. Where a conflict of interest arises between a service user and the organisation in which the psychologist works, the psychologist must clearly explain to the parties the scope of their responsibilities and the constraints arising from their professional duties. Whenever the recipient of a support or psychotherapy intervention is not the same person as the commissioning party, the psychologist gives priority to protecting the recipient of the intervention.",
+        "article_text_status": "editorial_translation",
+        "translation_notice": "Editorial translation for study purposes; the Italian text remains authoritative.",
+        "core_message": "The recipient is not a means to achieve the professional’s or organisation’s objectives: dignity, confidentiality, autonomy, personal values and equal treatment must guide every decision.",
+        "meaning_units": [
+          {"id": "4-u1", "localized_fragment": "In professional practice, the psychologist respects the dignity and rights to confidentiality, self-determination and personal autonomy of those who use their services;", "label": "Fundamental rights of the person", "comment": "Dignity, confidentiality, self-determination and autonomy must shape how information is provided, assessments are conducted, interventions are delivered and results are communicated. Professional confidentiality is not identical to data protection, although both may apply."},
+          {"id": "4-u2", "localized_fragment": "respects their opinions and beliefs and refrains from imposing their own system of values;", "label": "No imposition of values", "comment": "A psychologist may explore values and consequences but must not use the professional role to convert, moralise or direct a person’s life according to the psychologist’s own preferences. Respect does not require approval of every action or abandonment of legal and professional boundaries."},
+          {"id": "4-u3", "localized_fragment": "and does not discriminate on grounds of religion, ethnic origin, nationality, social background, socio-economic status, sex, sexual orientation or disability.", "label": "Prohibition of discrimination", "comment": "The listed characteristics must not lead to less favourable professional treatment. Differentiating an intervention is legitimate where it addresses needs, accessibility or appropriateness rather than prejudice. General law may protect additional characteristics beyond those expressly listed."},
+          {"id": "4-u4", "localized_fragment": "The psychologist uses methods and techniques that safeguard those principles and refuses to participate in initiatives that infringe them.", "label": "Compatible methods and refusal to participate", "comment": "It is not enough merely to profess respect: tools, procedures and purposes must also be compatible with these principles. A psychologist should not lend professional authority to a project that infringes them."},
+          {"id": "4-u5", "localized_fragment": "Where a conflict of interest arises between a service user and the organisation in which the psychologist works, the psychologist must clearly explain to the parties the scope of their responsibilities and the constraints arising from their professional duties.", "label": "Conflict between service user and organisation", "comment": "In a school, business, health service, prison or judicial setting, more than one interest may be involved. Before ambiguity causes harm, the psychologist must clarify the role, instruction, recipients of communications, limits of confidentiality and scope for professional decision-making."},
+          {"id": "4-u6", "localized_fragment": "Whenever the recipient of a support or psychotherapy intervention is not the same person as the commissioning party, the psychologist gives priority to protecting the recipient of the intervention.", "label": "Priority given to the recipient", "comment": "The person who pays or gives the instruction does not automatically become the person whose interests take priority. For the support and psychotherapy interventions specified in the provision, priority must be given to protecting the person who receives the intervention."}
+        ],
+        "in_practice": [
+          "Clarify who is the commissioning party, who receives the service, and who will receive information or results.",
+          "Adapt language, setting and tools to ensure accessibility and respect for difference.",
+          "Refuse instructions or procedures that require discrimination, improper coercion or the imposition of values."
+        ],
+        "frequent_mistakes": [
+          "Promising absolute confidentiality in an institutional setting that requires information to be shared with third parties.",
+          "Confusing respect for a person’s beliefs with a duty to share those beliefs.",
+          "Assuming that the person who pays takes priority without considering the actual recipient and type of intervention."
+        ],
+        "hypothetical_infringement": {
+          "scenario": "A company asks a psychologist to use support sessions to identify ‘disloyal’ employees and to disclose personal details. The psychologist accepts without explaining the dual role to participants and reports judgements based partly on their religious beliefs.",
+          "analysis": "This engages dignity, confidentiality, non-discrimination and the duty to clarify the conflict between the service user and the organisation. Professional secrecy, the duty to provide information and professional autonomy may also be relevant."
+        },
+        "real_case_links": [
+          {"case_id": "oper-er-06-2009", "note": "In the case concerning threatening messages to a former patient, the Order also found a breach of the duty to respect dignity under Article 4."}
+        ],
+        "legal_connections": [
+          {"source_id": "gdpr", "relevance": "It provides additional safeguards where professional services involve processing personal data, which will often include special-category data."}
+        ],
+        "flashcards": [
+          {"id": "4-f1", "front": "Which four core protections appear at the start of Article 4?", "back": "Dignity, confidentiality, self-determination and autonomy."},
+          {"id": "4-f2", "front": "A commissioning organisation wants detailed results that were not explained to the service user. What does Article 4 require?", "back": "The responsibilities and constraints must be clearly explained to all parties and, for the interventions specified, priority must be given to protecting the recipient."},
+          {"id": "4-f3", "front": "Is adapting a tool to make it accessible to a disabled person discriminatory?", "back": "Not necessarily. An adjustment based on accessibility and appropriateness supports equal access; prejudice resulting in disadvantage is the concern."},
+          {"id": "4-f4", "front": "Which article complements the service user–organisation conflict rule by protecting technical autonomy?", "back": "Article 6, which prohibits working conditions that are incompatible with professional autonomy and the Code."}
+        ],
+        "tags": ["dignity", "confidentiality", "autonomy", "values", "non-discrimination", "organisations"],
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "confidentiality", "match_method": "human_authored_exact"},
+          {"glossary_id": "autodeterminazione", "surface": "self-determination", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-persona", "surface": "personal autonomy", "match_method": "human_authored_exact"},
+          {"glossary_id": "conflitto-di-interesse", "surface": "conflict of interest", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "service user", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "recipient of the intervention", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "commissioning party", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

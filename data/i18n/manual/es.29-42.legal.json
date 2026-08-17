@@ -1,0 +1,207 @@
+{
+  "language": "es",
+  "articles": [
+    {
+      "number": 29,
+      "localized": {
+        "editorial_title": "Indicación de centros o lugares de tratamiento",
+        "article_text": "El psicólogo solo puede supeditar su intervención a que el paciente recurra a determinados medios asistenciales, instituciones o lugares de tratamiento cuando existan motivos científico-profesionales fundados.",
+        "article_text_status": "editorial_translation",
+        "core_message": "No puede imponerse un centro o recurso concreto por conveniencia o interés personal, sino únicamente por razones clínicas y profesionales fundadas.",
+        "glossary_annotations": [
+          {"glossary_id": "presidi-istituti-luoghi-cura", "surface": "medios asistenciales, instituciones o lugares de tratamiento", "match_method": "human_authored_exact"},
+          {"glossary_id": "fondati-motivi-scientifico-professionali", "surface": "motivos científico-profesionales fundados", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 30,
+      "localized": {
+        "editorial_title": "Prohibición de pagos ajenos a la prestación",
+        "article_text": "En el ejercicio de su profesión, el psicólogo tiene prohibida cualquier forma de remuneración que no constituya la contraprestación de servicios profesionales.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El dinero recibido debe corresponder a una prestación profesional real, no a derivaciones, favores o intermediaciones.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "remuneración", "match_method": "human_authored_exact"},
+          {"glossary_id": "corrispettivo", "surface": "contraprestación", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 31,
+      "localized": {
+        "editorial_title": "Prestaciones a menores o personas sujetas a tutela",
+        "article_text": "Las prestaciones profesionales a personas menores de edad o judicialmente incapacitadas quedan, por regla general, supeditadas al consentimiento de quien ejerza la responsabilidad parental o la tutela jurídica. Si, a falta de ese consentimiento, el psicólogo considera necesarios tanto la intervención como su absoluta confidencialidad, debe informar a la autoridad tutelar del establecimiento de la relación profesional. Se exceptúan las prestaciones ordenadas por la autoridad legalmente competente o realizadas en estructuras legalmente habilitadas para ello.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La regla es el consentimiento del representante; las excepciones exigen una base jurídica concreta y no pueden improvisarse.",
+        "glossary_annotations": [
+          {"glossary_id": "persone-minorenni", "surface": "personas menores de edad", "match_method": "human_authored_exact"},
+          {"glossary_id": "interdette", "surface": "judicialmente incapacitadas", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "responsabilidad parental", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "tutela jurídica", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-tutoria", "surface": "autoridad tutelar", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-legalmente-competente", "surface": "autoridad legalmente competente", "match_method": "human_authored_exact"},
+          {"glossary_id": "strutture-legislativamente-preposte", "surface": "estructuras legalmente habilitadas", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 32,
+      "localized": {
+        "editorial_title": "Comitente distinto del destinatario",
+        "article_text": "Cuando el psicólogo acepta prestar un servicio profesional a petición de un comitente distinto del destinatario de la prestación, debe aclarar con las partes interesadas la naturaleza y los fines de la intervención.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Cuando paga o encarga un tercero, todas las partes deben saber desde el principio qué se hará, para qué y para quién.",
+        "glossary_annotations": [
+          {"glossary_id": "committente", "surface": "comitente", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "destinatario de la prestación", "match_method": "human_authored_exact"},
+          {"glossary_id": "parti-in-causa", "surface": "partes interesadas", "match_method": "human_authored_exact"},
+          {"glossary_id": "natura-finalita-intervento", "surface": "naturaleza y los fines de la intervención", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 33,
+      "localized": {
+        "editorial_title": "Respeto, lealtad y colegialidad",
+        "article_text": "Las relaciones entre psicólogos se inspiran en el respeto mutuo, la lealtad y la colegialidad. El psicólogo apoya a los colegas cuya autonomía profesional o cuyo cumplimiento de las normas deontológicas se vean comprometidos en su actividad, cualquiera que sea la naturaleza de su relación laboral o su posición jerárquica.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La colegialidad no es corporativismo: exige respeto y apoyo cuando se amenaza la autonomía o el cumplimiento del Código.",
+        "glossary_annotations": [
+          {"glossary_id": "colleganza", "surface": "colegialidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-professionale", "surface": "autonomía profesional", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 34,
+      "localized": {
+        "editorial_title": "Desarrollo y difusión del conocimiento psicológico",
+        "article_text": "El psicólogo se compromete a contribuir al desarrollo de las disciplinas psicológicas y a comunicar los avances de sus conocimientos y técnicas a la comunidad profesional, también para favorecer su difusión con fines de bienestar humano y social.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El conocimiento profesional debe crecer y circular de manera responsable para favorecer el bienestar humano y social.",
+        "glossary_annotations": [
+          {"glossary_id": "comunita-professionale", "surface": "comunidad profesional", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 35,
+      "localized": {
+        "editorial_title": "Reconocimiento de las fuentes ajenas",
+        "article_text": "Al presentar los resultados de sus investigaciones, el psicólogo debe indicar la fuente de las aportaciones ajenas.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Presentar resultados exige reconocer de forma clara las ideas, datos y aportaciones de otras personas.",
+        "glossary_annotations": [
+          {"glossary_id": "fonte-altrui-contributi", "surface": "fuente de las aportaciones ajenas", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 36,
+      "localized": {
+        "editorial_title": "Críticas públicas, captación de clientela y deber de comunicar",
+        "article_text": "El psicólogo se abstiene de formular públicamente juicios negativos sobre la formación, la competencia o los resultados profesionales de colegas, así como juicios que lesionen su decoro profesional o reputación. Constituye circunstancia agravante que esos juicios pretendan sustraer clientela a otros colegas. Cuando advierte conductas profesionales incorrectas que puedan perjudicar a los usuarios o al decoro de la profesión, las comunica sin demora al Consejo del Colegio competente.",
+        "article_text_status": "editorial_translation",
+        "core_message": "No se desacredita públicamente a colegas para competir; las conductas potencialmente dañinas se comunican por la vía institucional competente.",
+        "glossary_annotations": [
+          {"glossary_id": "decoro-professionale", "surface": "decoro profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "circunstancia agravante", "match_method": "human_authored_exact"},
+          {"glossary_id": "sottrarre-clientela", "surface": "sustraer clientela", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "usuarios", "match_method": "human_authored_exact"},
+          {"glossary_id": "tempestiva-comunicazione", "surface": "comunica sin demora", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "Consejo del Colegio competente", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 37,
+      "localized": {
+        "editorial_title": "Aceptación del encargo dentro de la propia competencia",
+        "article_text": "El psicólogo acepta el encargo profesional exclusivamente dentro de los límites de su competencia profesional. Cuando el interés del comitente o del destinatario de la prestación requiera otras competencias específicas, propone una consulta o derivación a otro colega o profesional.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Aceptar un encargo exige competencia concreta; cuando no basta, se consulta, se colabora o se deriva.",
+        "glossary_annotations": [
+          {"glossary_id": "mandato-professionale", "surface": "encargo profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "competencia profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "comitente", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "destinatario de la prestación", "match_method": "human_authored_exact"},
+          {"glossary_id": "consulenza-invio", "surface": "consulta o derivación", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 38,
+      "localized": {
+        "editorial_title": "Decoro y dignidad al representar la profesión",
+        "article_text": "En el ejercicio de su actividad profesional y siempre que represente públicamente la profesión, cualquiera que sea el título con el que lo haga, el psicólogo ajusta su conducta a los principios de decoro profesional y dignidad profesional.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El deber de decoro y dignidad también rige cuando se representa públicamente a la profesión fuera de una consulta concreta.",
+        "glossary_annotations": [
+          {"glossary_id": "rappresenta-pubblicamente-professione", "surface": "represente públicamente la profesión", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "decoro profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "dignidad profesional", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 39,
+      "localized": {
+        "editorial_title": "Presentación veraz de la formación y competencia",
+        "article_text": "El psicólogo presenta de forma correcta y precisa su formación, experiencia y competencia. Reconoce como deber propio ayudar al público y a los usuarios a formar juicios, opiniones y decisiones libres y conscientes.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Títulos, experiencia y competencia se presentan sin exageraciones, para que las personas puedan decidir de forma libre e informada.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-esperienza-competenza", "surface": "formación, experiencia y competencia", "match_method": "human_authored_exact"},
+          {"glossary_id": "libero-consapevole-giudizio", "surface": "juicios, opiniones y decisiones libres y conscientes", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "usuarios", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 40,
+      "localized": {
+        "editorial_title": "Publicidad informativa y prohibición de captar clientela de forma desleal",
+        "article_text": "Con independencia de los límites de la legislación vigente sobre publicidad, el psicólogo no adopta públicamente conductas incorrectas dirigidas a la captación desleal de clientela. Puede realizar publicidad informativa sobre títulos y especializaciones profesionales, características del servicio, precio y costes totales de las prestaciones, con transparencia y veracidad del mensaje, cuyo cumplimiento verifican los Consejos del Colegio competentes. El mensaje respeta el decoro profesional, los criterios de rigor científico y la imagen de la profesión. La falta de transparencia o veracidad de la publicidad constituye infracción deontológica.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La publicidad puede informar, pero debe ser transparente, veraz, científicamente seria y no transformarse en captación desleal.",
+        "glossary_annotations": [
+          {"glossary_id": "procacciamento-clientela", "surface": "captación desleal de clientela", "match_method": "human_authored_exact"},
+          {"glossary_id": "pubblicita-informativa", "surface": "publicidad informativa", "match_method": "human_authored_exact"},
+          {"glossary_id": "trasparenza-veridicita", "surface": "transparencia y veracidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "Consejos del Colegio competentes", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "decoro profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "serieta-scientifica", "surface": "rigor científico", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 41,
+      "localized": {
+        "editorial_title": "Observatorio permanente y revisión del Código",
+        "article_text": "En la Comisión de Deontología del Colegio de Psicólogos se crea el Observatorio permanente del Código Deontológico, regulado por un acto específico del Consejo Nacional del Colegio. Su cometido es reunir la jurisprudencia deontológica de los Consejos regionales y provinciales y cualquier otro material útil para que la Comisión formule propuestas al Consejo Nacional, también con vistas a la revisión periódica del Código Deontológico. La revisión seguirá el procedimiento previsto por la Ley italiana n.º 56, de 18 de febrero de 1989.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La actualización del Código se apoya en la observación continua de las decisiones deontológicas y sigue el procedimiento legal previsto.",
+        "glossary_annotations": [
+          {"glossary_id": "osservatorio-permanente", "surface": "Observatorio permanente del Código Deontológico", "match_method": "human_authored_exact"},
+          {"glossary_id": "giurisprudenza-deontologica", "surface": "jurisprudencia deontológica", "match_method": "human_authored_exact"},
+          {"glossary_id": "revisione-periodica", "surface": "revisión periódica", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 42,
+      "localized": {
+        "editorial_title": "Entrada en vigor",
+        "article_text": "El presente Código Deontológico entra en vigor el trigésimo día siguiente a la proclamación de los resultados del referéndum de aprobación, conforme al artículo 28, apartado 6, letra c), de la Ley italiana n.º 56, de 18 de febrero de 1989.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La vigencia del Código comienza treinta días después de proclamarse el resultado del referéndum que lo aprueba.",
+        "glossary_annotations": [
+          {"glossary_id": "entrata-in-vigore", "surface": "entra en vigor", "match_method": "human_authored_exact"},
+          {"glossary_id": "proclamazione-risultati", "surface": "proclamación de los resultados", "match_method": "human_authored_exact"},
+          {"glossary_id": "referendum-approvazione", "surface": "referéndum de aprobación", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "language": "ar",
+  "articles": [
+    {
+      "number": 21,
+      "localized": {
+        "editorial_title": "الأدوات المقصورة على المهنة وتدريب غير المختصين",
+        "article_text": "يُعد تعليم استعمال أدوات وتقنيات المعرفة والتدخل المقصورة على مهنة الأخصائي النفسي لأشخاص من خارج المهنة مخالفة أخلاقية جسيمة. ويُعد ظرفًا مشددًا أن يؤيد الأخصائي، بعمله المهني، أنشطة خادعة أو غير مشروعة، سواء بالمساهمة في منح مؤهلات أو شهادات أو بإيهام الأشخاص بأنهم مخولون ممارسة أنشطة مميزة لمهنة الأخصائي النفسي. وتشمل الأدوات والتقنيات الخاصة بالمهنة كل ما يتعلق بالعمليات النفسية — العلائقية والانفعالية والمعرفية والسلوكية — والقائم على تطبيق مبادئ أو معارف أو نماذج أو بُنى نفسية. ويُستثنى من ذلك تعليم هذه الأدوات والتقنيات لطلاب البرامج الجامعية في علم النفس وللمتدربين، وكذلك تدريس المعارف النفسية العامة.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ممكن نشر المعرفة النفسية، لكن مش تدريب غير المختصين على أدوات مهنية محجوزة وكأن ده بيديهم ترخيص.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-riservati", "surface": "أدوات وتقنيات المعرفة والتدخل المقصورة", "match_method": "human_authored_exact"},
+          {"glossary_id": "persone-estranee-professione", "surface": "أشخاص من خارج المهنة", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "ظرفًا مشددًا", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "يؤيد", "match_method": "human_authored_exact"},
+          {"glossary_id": "qualifiche-attestati", "surface": "مؤهلات أو شهادات", "match_method": "human_authored_exact"},
+          {"glossary_id": "processi-psichici", "surface": "العمليات النفسية", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "للمتدربين", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 22,
+      "localized": {
+        "editorial_title": "عدم الإضرار وعدم تحصيل مزايا غير مستحقة",
+        "article_text": "يتبع الأخصائي النفسي سلوكًا غير ضار تجاه الأشخاص الذين يتولى رعايتهم مهنيًا، ولا يستخدم دوره أو أدواته المهنية لتحقيق مزايا غير مستحقة لنفسه أو للغير.",
+        "article_text_status": "editorial_translation",
+        "core_message": "القوة المهنية تُستخدم لخدمة الشخص، مش لإيذائه أو لتحقيق منفعة غير مستحقة.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "سلوكًا غير ضار", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "مزايا غير مستحقة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 23,
+      "localized": {
+        "editorial_title": "الأتعاب المهنية",
+        "article_text": "يتفق الأخصائي النفسي في المرحلة الأولى من العلاقة على كل ما يتعلق بالأتعاب المهنية. وفي جميع الأحوال يجب أن تتناسب قيمة الأتعاب مع أهمية العمل. وفي المجال العلاجي لا يجوز ربط الأتعاب بنتيجة التدخل المهني أو مآله.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الأتعاب تتوضح من البداية، وتناسب حجم العمل، وفي العلاج ما تتربطش بالنتيجة.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "الأتعاب المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "importanza-opera", "surface": "أهمية العمل", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-condizionato-esito", "surface": "ربط الأتعاب بنتيجة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 24,
+      "localized": {
+        "editorial_title": "المعلومات الأولية والموافقة المستنيرة",
+        "article_text": "يقدم الأخصائي النفسي، في بداية العلاقة المهنية، إلى الفرد أو الجماعة أو المؤسسة أو المجتمع المحلي، سواء كانوا مستفيدين أو جهات مُكلِّفة، معلومات كافية ومفهومة عن خدماته وأهدافها وطرق تنفيذها، وعن النطاق والحدود القانونية للسرية. ويعمل بما يمكّن صاحب الحق من إبداء موافقة مستنيرة. وإذا كانت الخدمة مستمرة زمنيًا، بيّن مدتها المتوقعة متى أمكن.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الموافقة محتاجة شرح مفهوم: هنعمل إيه، وليه، وإزاي، وحدود السرية، والمدة المتوقعة.",
+        "glossary_annotations": [
+          {"glossary_id": "utente", "surface": "مستفيدين", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "جهات مُكلِّفة", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-giuridici-riservatezza", "surface": "الحدود القانونية للسرية", "match_method": "human_authored_exact"},
+          {"glossary_id": "chi-ne-ha-diritto", "surface": "صاحب الحق", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-informato", "surface": "موافقة مستنيرة", "match_method": "human_authored_exact"},
+          {"glossary_id": "prevedibile-durata", "surface": "مدتها المتوقعة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 25,
+      "localized": {
+        "editorial_title": "استخدام أدوات التشخيص والتقييم وإبلاغ النتائج",
+        "article_text": "لا يسيء الأخصائي النفسي استخدام أدوات التشخيص والتقييم المتاحة له. وفي التدخلات التي يطلبها طرف ثالث، يعرّف الأشخاص بطبيعة تدخله المهني، ولا يستخدم المعلومات التي قد تلحق بهم ضررًا إلا في حدود التكليف الذي تلقاه. وعند إبلاغ نتائج التدخلات التشخيصية والتقييمية، ينظم طريقة الإبلاغ بما يراعي كذلك الحماية النفسية للأشخاص.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الأدوات والبيانات والنتائج تُستخدم لهدف التكليف المشروع، وتتقال بطريقة تقلل الضرر الممكن تجنبه.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-diagnosi-valutazione", "surface": "أدوات التشخيص والتقييم", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-del-mandato", "surface": "حدود التكليف", "match_method": "human_authored_exact"},
+          {"glossary_id": "pregiudizio", "surface": "ضررًا", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "الحماية النفسية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 26,
+      "localized": {
+        "editorial_title": "الامتناع بسبب مشكلات شخصية أو علاقات سابقة",
+        "article_text": "يمتنع الأخصائي النفسي عن بدء أي نشاط مهني أو مواصلته إذا تداخلت مشكلاته أو صراعاته الشخصية مع فعالية خدماته بما يجعلها غير ملائمة أو ضارة لمن توجَّه إليهم. كما يتجنب تولي أدوار مهنية أو إجراء تدخلات مع المستفيدين، ولو بطلب من السلطة القضائية، متى كانت طبيعة العلاقات السابقة قد تمس مصداقيته وفعاليته.",
+        "article_text_status": "editorial_translation",
+        "core_message": "لو مشكلة شخصية أو علاقة سابقة هتأثر على الفاعلية أو المصداقية أو الأمان، لازم الأخصائي يمتنع.",
+        "glossary_annotations": [
+          {"glossary_id": "astensione-professionale", "surface": "يمتنع", "match_method": "human_authored_exact"},
+          {"glossary_id": "problemi-conflitti-personali", "surface": "مشكلاته أو صراعاته الشخصية", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-giudiziaria", "surface": "السلطة القضائية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 27,
+      "localized": {
+        "editorial_title": "إنهاء العلاج عند غياب الفائدة",
+        "article_text": "يقيّم الأخصائي النفسي العلاقة العلاجية ويقترح إنهاءها عند الاقتضاء، إذا تبين له أن المريض لا يحقق أي فائدة من العلاج وأنه لا يمكن توقع استفادته بصورة معقولة من استمراره. وإذا طُلب منه ذلك، يقدم للمريض المعلومات اللازمة للبحث عن تدخلات أخرى أنسب.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ما ينفعش العلاج يستمر من غير فائدة متوقعة بشكل معقول؛ والإنهاء يشمل توجيه الشخص لبدائل مناسبة.",
+        "glossary_annotations": [
+          {"glossary_id": "rapporto-terapeutico", "surface": "العلاقة العلاجية", "match_method": "human_authored_exact"},
+          {"glossary_id": "ragionevolmente-prevedibile-beneficio", "surface": "توقع استفادته بصورة معقولة", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "المريض", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 28,
+      "localized": {
+        "editorial_title": "الحدود بين الدور المهني والحياة الخاصة",
+        "article_text": "يتجنب الأخصائي النفسي الخلط بين الدور المهني والحياة الخاصة متى كان من شأنه أن يعوق النشاط المهني أو يسيء إلى الصورة الاجتماعية للمهنة. ويُعد مخالفة أخلاقية جسيمة إجراء تشخيص أو دعم نفسي أو علاج نفسي لأشخاص تربطه أو ربطته بهم علاقات شخصية ذات شأن، ولا سيما العلاقات العاطفية و/أو الجنسية؛ كما يُعد إنشاء هذه العلاقات أثناء العلاقة المهنية مخالفة جسيمة. ويُحظر عليه كل نشاط يمكن، بسبب العلاقة المهنية، أن يحقق له مزايا غير مستحقة مباشرة أو غير مباشرة، مالية أو غير مالية، باستثناء الأتعاب المهنية المتفق عليها. ولا يستغل مركزه المهني تجاه زملاء تحت الإشراف أو متدربين لأغراض خارجة عن العلاقة المهنية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "العلاقات الشخصية المهمة والمكاسب الخاصة ما ينفعوش مع حدود الدور المهني وعدم توازن القوة فيه.",
+        "glossary_annotations": [
+          {"glossary_id": "commistioni-ruolo-vita-privata", "surface": "الخلط بين الدور المهني والحياة الخاصة", "match_method": "human_authored_exact"},
+          {"glossary_id": "nocumento", "surface": "يسيء", "match_method": "human_authored_exact"},
+          {"glossary_id": "relazioni-significative-personali", "surface": "علاقات شخصية ذات شأن", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "مزايا غير مستحقة", "match_method": "human_authored_exact"},
+          {"glossary_id": "patrimoniale-non-patrimoniale", "surface": "مالية أو غير مالية", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-professionale", "surface": "الأتعاب المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "supervisione", "surface": "الإشراف", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "متدربين", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 29,
+      "localized": {
+        "editorial_title": "اشتراط جهة أو مكان علاج معين",
+        "article_text": "لا يجوز للأخصائي النفسي أن يشترط لتقديم تدخله أن يستعين المريض بوسائل علاجية أو مؤسسات أو أماكن علاج محددة إلا لأسباب علمية ومهنية قائمة على أساس سليم.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ما ينفعش فرض مركز أو جهة لمصلحة شخصية؛ لازم يكون فيه سبب علمي ومهني حقيقي.",
+        "glossary_annotations": [
+          {"glossary_id": "presidi-istituti-luoghi-cura", "surface": "وسائل علاجية أو مؤسسات أو أماكن علاج", "match_method": "human_authored_exact"},
+          {"glossary_id": "fondati-motivi-scientifico-professionali", "surface": "أسباب علمية ومهنية قائمة على أساس سليم", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 30,
+      "localized": {
+        "editorial_title": "حظر المقابل غير المرتبط بخدمة مهنية",
+        "article_text": "يُحظر على الأخصائي النفسي، في ممارسة مهنته، تقاضي أي مقابل مهني لا يمثل عوضًا عن خدمات مهنية فعلية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "أي مبلغ يتدفع لازم يكون مقابل خدمة مهنية حقيقية، مش إحالة أو وساطة أو مجاملة.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "مقابل مهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "corrispettivo", "surface": "عوضًا", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 31,
+      "localized": {
+        "editorial_title": "الخدمات للقُصّر أو الخاضعين للوصاية",
+        "article_text": "تتوقف الخدمات المهنية المقدمة إلى الأشخاص القُصّر أو المحجور عليهم، كقاعدة عامة، على موافقة من يمارس المسؤولية الوالدية أو الوصاية القانونية عليهم. وإذا رأى الأخصائي النفسي، رغم غياب هذه الموافقة، ضرورة التدخل وضرورة سريته المطلقة، وجب عليه إبلاغ سلطة الوصاية بقيام العلاقة المهنية. ويُستثنى من ذلك ما يتم بأمر من السلطة المختصة قانونًا أو داخل جهات مخصصة قانونًا لهذه الخدمات.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الأصل موافقة الممثل القانوني؛ والاستثناء لازم يكون له أساس قانوني واضح وإجراء محدد.",
+        "glossary_annotations": [
+          {"glossary_id": "persone-minorenni", "surface": "الأشخاص القُصّر", "match_method": "human_authored_exact"},
+          {"glossary_id": "interdette", "surface": "المحجور عليهم", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "المسؤولية الوالدية", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "الوصاية القانونية", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-tutoria", "surface": "سلطة الوصاية", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-legalmente-competente", "surface": "السلطة المختصة قانونًا", "match_method": "human_authored_exact"},
+          {"glossary_id": "strutture-legislativamente-preposte", "surface": "جهات مخصصة قانونًا", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 32,
+      "localized": {
+        "editorial_title": "اختلاف الجهة المُكلِّفة عن متلقي الخدمة",
+        "article_text": "إذا وافق الأخصائي النفسي على تقديم خدمة مهنية بطلب من جهة مُكلِّفة غير متلقي الخدمة نفسه، وجب عليه أن يوضح للأطراف المعنية طبيعة التدخل وأهدافه.",
+        "article_text_status": "editorial_translation",
+        "core_message": "لما اللي بيطلب أو بيدفع مش هو متلقي الخدمة، كل الأطراف لازم تعرف من البداية طبيعة التدخل وهدفه.",
+        "glossary_annotations": [
+          {"glossary_id": "committente", "surface": "جهة مُكلِّفة", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "متلقي الخدمة", "match_method": "human_authored_exact"},
+          {"glossary_id": "parti-in-causa", "surface": "أطراف المعنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "natura-finalita-intervento", "surface": "طبيعة التدخل وأهدافه", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

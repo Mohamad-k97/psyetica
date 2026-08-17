@@ -1,0 +1,353 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Localized case-note bridge - en",
+  "language": "en",
+  "source_language": "it",
+  "source_file": "data/cases.it.json",
+  "note": "Authority, decision, outcome, source, and controlling case summary remain in Italian; localized notes reproduce only contextual explanations already translated in article cards.",
+  "cases": [
+    {
+      "id": "oper-er-04-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 04/09 del 13 gennaio 2009",
+        "summary": "Un iscritto inviò a un numero indeterminato di persone una e-mail che promuoveva la propria attività e rinviava al proprio sito, usando modalità ritenute banalizzanti sotto il profilo metodologico e scientifico. Il Consiglio ravvisò anche contenuti sul sito privi di solida base scientifica.",
+        "outcome": "avvertimento",
+        "teaching_point": "La comunicazione promozionale resta soggetta a decoro, dignità, serietà scientifica e divieto di procacciamento scorretto anche quando l'attività dichiarata è gratuita.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "4-6 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        38,
+        40
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 38,
+          "role": "violazione_accertata",
+          "note": "The Territorial Council appealed for warnings for articles. 38 and 40: promotional email sent to undetermined recipients, language considered trivializing and web content without adequate scientific basis."
+        },
+        {
+          "article": 40,
+          "role": "violazione_accertata",
+          "note": "The warning for artts. 38 and 40 concerned promotional modes considered trivializing and web articles with statements without adequate scientific and potentially harmful support. The declared gratuitousness was not deemed to be exemptive."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-05-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 05/09 del 16 gennaio 2009",
+        "summary": "In un parere relativo a una persona minorenne, il professionista fece proprie in modo acritico informazioni riferite dalla minore in un contesto di separazione conflittuale, la osservò senza il consenso di entrambi i genitori e usò una carta intestata che presentava in modo ambiguo il proprio ruolo universitario.",
+        "outcome": "censura",
+        "teaching_point": "In ambito familiare conflittuale occorre distinguere dati osservati, dichiarazioni riferite e ipotesi; il consenso relativo alla persona minorenne e la presentazione esatta dei titoli sono profili autonomi.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "6-8 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        7,
+        31,
+        39
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 7,
+          "role": "violazione_accertata",
+          "note": "The Order appealed censorship for the artts. 7, 31 and 39 in an opinion on a minor who is acritically based on information reported, with further problems of consent and titles. Any appeal is not known."
+        },
+        {
+          "article": 31,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "The censorship was about the artt. 7, 31 and 39: In addition to the consent not acquired by both parents, the acritical use of information and the presentation of the professional role were evaluated."
+        },
+        {
+          "article": 39,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "The complaints included art. 39 for a letter of letters that ambiguously presented the university role; Artts were also ascertained. 7 and 31."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-06-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 06/09 del 16 gennaio 2009",
+        "summary": "Il Consiglio ritenne provato l'invio reiterato di messaggi minacciosi a una ex paziente. Non ritenne invece pienamente provate altre condotte contestate, fra cui l'asserita relazione affettivo-sessuale; la sintesi didattica deve quindi restare limitata ai messaggi accertati.",
+        "outcome": "sospensione di un mese",
+        "teaching_point": "Gli obblighi di correttezza, non lesività e dignità possono rilevare anche nella gestione del conflitto con una persona già seguita professionalmente.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "8-10 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        2,
+        3,
+        4,
+        22,
+        38
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 2,
+          "role": "violazione_accertata",
+          "note": "The Council considered threatening messages to a former patient and appealed for a month's suspension for artts. 2, 3, 4, 22 and 38; He did not think any other disputed conduct was tested. Any appeal is not known."
+        },
+        {
+          "article": 3,
+          "role": "violazione_accertata",
+          "note": "The decision on threatening messages to a former patient also felt that art. 3. The synthesis does not extend the investigation to other conduct which the Council did not consider proved."
+        },
+        {
+          "article": 4,
+          "role": "violazione_accertata",
+          "note": "In the case of threatening messages to a former patient, the Order also considered that it was violated by the dignity of art. 4."
+        },
+        {
+          "article": 22,
+          "role": "violazione_accertata",
+          "note": "The territorial council considered the repeated sending of threatening messages to a former patient and applied a one-month suspension, recalling also art. 22; other disputed conducts were not fully tested."
+        },
+        {
+          "article": 28,
+          "role": "limite_probatorio",
+          "note": "In the proceedings, an alleged sexual-affective relationship was also challenged, but the Council did not fully consider it to be proved and did not take part in Art. 28. The case teaches not to transform an attachment into a proven fact; the penalty concerned other conduct."
+        },
+        {
+          "article": 38,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "The suspension also concerned art. 38 for threatening messages sent to a former patient; violations of the Articles of Law were also ascertained. 2, 3, 4 and 22."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-23-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 23/09 del 27 gennaio 2009",
+        "summary": "Nel trattamento di un paziente adulto, lo psicologo mantenne reiterate intese con la madre e insistette perché il paziente proseguisse il percorso con lui, nonostante il paziente chiedesse un professionista più vicino. Il Consiglio ritenne che la collaborazione con la familiare avesse pregiudicato o messo in pericolo la libertà di scelta e il primato del rapporto tra paziente e terapeuta.",
+        "outcome": "avvertimento",
+        "teaching_point": "La collaborazione con familiari può essere appropriata, ma non deve sostituire la volontà dell'adulto né trasformarsi in pressione affinché mantenga un determinato professionista.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "10-13 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        18,
+        38,
+        39
+      ],
+      "articles_not_found_violated": [
+        37
+      ],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 18,
+          "role": "violazione_accertata",
+          "note": "The Territorial Council also appealed for Article. 18: the intentions with the mother and the insistence to continue with the same therapist were considered to be detrimental, or at least dangerous, for the freedom of choice of the adult patient."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-25-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 25/09 del 10 febbraio 2009",
+        "summary": "Una professionista svolse prestazioni su una persona minorenne senza il consenso di uno dei genitori, proseguì nonostante la diffida del legale del genitore non consenziente e redasse due relazioni.",
+        "outcome": "censura",
+        "teaching_point": "La finalità soggettivamente ritenuta utile non sostituisce i presupposti di consenso richiesti per la prestazione alla persona minorenne.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "13-14 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        31
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 31,
+          "role": "violazione_accertata",
+          "note": "The Territorial Council appealed censorship for art. 31: benefits on the underage person without the consent of a parent, continuation after the distrust and drafting of two reports."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-ee-21-06",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Caso EE.21.06, estratto da delibera del 19 settembre 2008",
+        "summary": "In una relazione la professionista trattò gli effetti di un farmaco spingendosi in un ambito per il quale non aveva titolo specifico; su carta intestata usò inoltre qualifiche ritenute ingannevoli o non conformi, compresa quella di psicoterapeuta prima della relativa iscrizione.",
+        "outcome": "avvertimento",
+        "teaching_point": "Il limite di competenza e la corretta presentazione dei titoli sono distinti; per l'art. 40 il Consiglio richiese anche la prova della finalità di procacciamento della clientela.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2008.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/02Eticadeliberedisanzionedisciplinare_DAP18AP23.pdf",
+          "pages": "4-6 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        37,
+        39
+      ],
+      "articles_not_found_violated": [
+        7,
+        31,
+        40
+      ],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 5,
+          "role": "caso_adiacente",
+          "note": "The decision sanctioned the articles. 37 and 39, not art. 5: It is only useful to show the risk of pushing into non-own areas and presenting titles inaccurate manner."
+        },
+        {
+          "article": 37,
+          "role": "violazione_accertata",
+          "note": "The Territorial Council also appealed for Article. 37: In a relationship the professional treated the effects of a drug beyond his specific title. Qualifications were also shown."
+        },
+        {
+          "article": 39,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "The Council referred to art. 39 for deceptive or non-conform words, including the use of psychotherapist before the relevant inscription. Prosciolse instead from art. 40 For the purpose of procacciation was not proven."
+        },
+        {
+          "article": 40,
+          "role": "limite_probatorio",
+          "note": "Although it is not possible to ascertain the misuse of titles pursuant to art. The Council, acting by the Court of First Instance, has not yet been able to take the view that the Commission has not yet adopted a decision on the matter. 40 because the purpose of the customer's procacciation requested by the contest was not proved."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "cass-31972-2018",
+      "italian_source": {
+        "kind": "giurisprudenza_ordinaria",
+        "authority": "Corte di Cassazione, sezione II civile",
+        "decision": "Sentenza n. 31972 dell'11 dicembre 2018",
+        "summary": "Dopo avere seguito una coppia, la psicologa assunse un incarico nell'interesse esclusivo di uno dei due ex pazienti in conflitto con l'altra, utilizzò nella relazione informazioni sui problemi della coppia e della famiglia e rivelò a soggetti estranei l'esistenza del precedente rapporto professionale. La Cassazione rigettò il ricorso.",
+        "outcome": "confermata la sospensione di un mese stabilita dal Tribunale",
+        "teaching_point": "Pregressi rapporti professionali, conflitto tra ex utenti e segreto professionale devono essere valutati prima di assumere un nuovo incarico di parte.",
+        "source": {
+          "url": "https://www.misterlex.it/cassazione-civile/2018/31972/",
+          "citation": "Cass. civ., sez. II, 11 dicembre 2018, n. 31972"
+        }
+      },
+      "articles_found_violated": [
+        3,
+        11,
+        26
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": true,
+      "localized_article_notes": [
+        {
+          "article": 3,
+          "role": "collegamento_giurisprudenziale",
+          "note": "The Cassation confirmed a suspension with reference, among others, to art. 3 in a case of new part assignment after a previous relationship with the couple."
+        },
+        {
+          "article": 11,
+          "role": "collegamento_giurisprudenziale",
+          "note": "The Cassation confirmed a suspension in a case where the psychologist, after following a couple, took a position in the interest of only one former patient and used information learned in the previous report; between the articles referred to in Article 3 of the Treaty, 11."
+        },
+        {
+          "article": 26,
+          "role": "collegamento_giurisprudenziale",
+          "note": "The Cassation confirmed the suspension of one month in a case of previous treatment of the couple followed by an assignment in the exclusive interest of one former patient in conflict with the other; the artts were recalled. 3, 11 and 26."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "cass-12733-2025",
+      "italian_source": {
+        "kind": "giurisprudenza_ordinaria_con_esito_processuale",
+        "authority": "Corte di Cassazione, sezione II civile",
+        "decision": "Sentenza n. 12733 del 13 maggio 2025",
+        "summary": "La sanzione originaria riguardava un parere pro veritate fondato, secondo l'Ordine, su dati della cliente privi di riscontri e contenente giudizi netti su persone non conosciute direttamente. La Cassazione non ha però lasciato ferma quella sanzione: ha cassato senza rinvio per vizi relativi alla partecipazione del pubblico ministero e ha rilevato la prescrizione quinquennale.",
+        "outcome": "sentenza cassata senza rinvio; illecito dichiarato prescritto",
+        "teaching_point": "Il fatto contestato è utile come scenario di studio sull'art. 7, ma non va presentato come sanzione definitivamente confermata.",
+        "source": {
+          "url": "https://www.doctrine.it/decisions/itcasst58v3cafimovje",
+          "citation": "Cass. civ., sez. II, 13 maggio 2025, n. 12733"
+        }
+      },
+      "articles_found_violated": [],
+      "articles_not_found_violated": [],
+      "finality_known": true,
+      "localized_article_notes": [
+        {
+          "article": 7,
+          "role": "esito_processuale_non_di_merito",
+          "note": "The contested fact is didactically relevant, but the Cassation fell without reference and declared the prescribed illicit: it should not be presented as a definitive sanction confirmed."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "cass-7362-2025",
+      "italian_source": {
+        "kind": "controesempio_giurisprudenziale",
+        "authority": "Corte di Cassazione",
+        "decision": "Ordinanza n. 7362 del 19 marzo 2025",
+        "summary": "La partecipazione trasparente a un tavolo tecnico e l'espressione di un'opinione scientifica favorevole alla normazione del counseling non furono ritenute, di per sé, illecito disciplinare. La Cassazione confermò l'annullamento della sanzione.",
+        "outcome": "ricorso dell'Ordine rigettato; sanzione annullata",
+        "teaching_point": "Serve anche una casistica negativa: non ogni opinione scientifica divergente o apertura nel dibattito tecnico equivale ad avallo dell'abusivismo.",
+        "source": {
+          "url": "https://apps.dirittopratico.it/sentenza/cassazione/roma/2025/7362.html",
+          "citation": "Cass., ord. 19 marzo 2025, n. 7362",
+          "verification_note": "La pagina include massime e commenti automatici: prima della pubblicazione nell'app verificare il testo integrale ufficiale."
+        }
+      },
+      "articles_found_violated": [],
+      "articles_not_found_violated": [],
+      "finality_known": true,
+      "localized_article_notes": [
+        {
+          "article": 8,
+          "role": "controesempio",
+          "note": "The transparent participation in a technical table and the expression of a scientific opinion on counseling were not considered to be unlawful. Before public use in the app, the official full text of the decision must be verified."
+        },
+        {
+          "article": 21,
+          "role": "controesempio",
+          "note": "The Court ruled that the transparent participation in a technical debate and the expression of a scientific opinion favourable to the norm of counseling were in itself unlawful: not every cultural opening is equivalent to teaching instruments reserved or to invalidizing abuse."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    }
+  ]
+}

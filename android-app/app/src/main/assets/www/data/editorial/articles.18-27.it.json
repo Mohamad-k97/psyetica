@@ -1,0 +1,757 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Schede didattiche italiane - Articoli 18-27",
+  "language": "it",
+  "code_version": {
+    "status": "vigente",
+    "effective_from": "2024-12-24",
+    "official_source_id": "cnop-codice-vigente",
+    "checked_on": "2026-08-13"
+  },
+  "editorial_status": "draft_needs_deontological_legal_review",
+  "notices": [
+    "I titoli, le unità di significato, i commenti, gli esempi e le flashcard sono redazionali e non fanno parte del testo ufficiale.",
+    "Il contenuto è didattico e non sostituisce il parere dell'Ordine competente o una consulenza legale sul caso concreto.",
+    "Gli esempi ipotetici non permettono di concludere automaticamente che una condotta reale costituisca illecito: servono fatti provati, contestazione e procedimento.",
+    "Le decisioni territoriali citate riguardano casi specifici e, quando indicato, non è nota l'eventuale impugnazione successiva.",
+    "Il consenso alla prestazione professionale, il consenso al trattamento sanitario e le basi giuridiche per il trattamento dei dati sono piani collegati ma non coincidenti."
+  ],
+  "source_catalog": [
+    {
+      "id": "cnop-codice-vigente",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Testo vigente del Codice Deontologico degli psicologi italiani",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/",
+      "kind": "testo_ufficiale"
+    },
+    {
+      "id": "legge-56-1989",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Legge 18 febbraio 1989, n. 56 - Ordinamento della professione di psicologo",
+      "url": "https://www.normattiva.it/eli/stato/LEGGE/1989/02/18/56/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cp-art-348",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice penale, art. 348 - Esercizio abusivo di una professione",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art348!vig=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "legge-219-2017",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Legge 22 dicembre 2017, n. 219 - Consenso informato e disposizioni anticipate di trattamento",
+      "url": "https://www.normattiva.it/eli/stato/LEGGE/2017/12/22/219/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "dl-1-2012-art-9",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Decreto-legge 24 gennaio 2012, n. 1, art. 9 - Professioni regolamentate",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1~art9-com2=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "gdpr",
+      "authority": "Unione europea",
+      "title": "Regolamento (UE) 2016/679",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "fvg-100-domande",
+      "authority": "Ordine degli Psicologi del Friuli Venezia Giulia",
+      "title": "100 domande e 100 risposte sul Codice Deontologico degli Psicologi",
+      "year": 2018,
+      "local_file": "research/sources/ordine-fvg-100-domande-100-risposte-2018.pdf",
+      "kind": "commento_istituzionale_non_autentico",
+      "compatibility_note": "Guida divulgativa sul testo oggi ripristinato; norme e giurisprudenza sopravvenute devono essere verificate."
+    },
+    {
+      "id": "oper-art21-2022",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Riflessioni sull'articolo 21 del Codice Deontologico",
+      "year": 2022,
+      "local_file": "research/sources/ordine-er-riflessioni-articolo-21-2022.pdf",
+      "kind": "commento_istituzionale_non_autentico",
+      "compatibility_note": "Il commento resta utile per distinguere conoscenze e competenze operative; la pena dell'art. 348 c.p. riportata nel PDF non è quella oggi vigente."
+    },
+    {
+      "id": "veneto-questioni-aperte",
+      "authority": "Ordine delle Psicologhe e degli Psicologi del Veneto",
+      "title": "Questioni aperte su un Codice che non c'è",
+      "year": 2024,
+      "local_file": "research/sources/ordine-veneto-questioni-aperte-deontologia-2024.pdf",
+      "kind": "contributo_istituzionale",
+      "compatibility_note": "Alcuni capitoli commentano il testo 2023 poi annullato; non usarne formulazioni come se fossero l'articolato vigente."
+    },
+    {
+      "id": "oper-delibere-2009",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Delibere di sanzione disciplinare pubblicate nel 2009",
+      "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+      "kind": "decisioni_ordinistiche_anonimizzate"
+    }
+  ],
+  "articles": [
+    {
+      "number": 18,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Libertà di scegliere il professionista",
+      "title_is_official": false,
+      "official_text": "In ogni contesto professionale lo psicologo deve adoperarsi affinché sia il più possibile rispettata la libertà di scelta, da parte del cliente e/o del paziente, del professionista cui rivolgersi.",
+      "core_message": "Lo psicologo protegge, per quanto dipende dal proprio ruolo, la possibilità del cliente o paziente di scegliere liberamente a quale professionista rivolgersi.",
+      "meaning_units": [
+        {
+          "id": "18-u1",
+          "official_fragment": "In ogni contesto professionale lo psicologo deve adoperarsi affinché sia il più possibile rispettata la libertà di scelta,",
+          "label": "Un dovere attivo in ogni contesto",
+          "comment_it": "Non basta evitare un divieto esplicito: lo psicologo deve adoperarsi per ridurre pressioni, dipendenze e vincoli impropri. La formula «il più possibile» riconosce che organizzazioni, disponibilità e provvedimenti possono porre limiti, ma richiede di preservarvi il massimo spazio di scelta concretamente praticabile."
+        },
+        {
+          "id": "18-u2",
+          "official_fragment": "da parte del cliente e/o del paziente, del professionista cui rivolgersi.",
+          "label": "La scelta appartiene al destinatario",
+          "comment_it": "Familiari, committenti, enti o autorità possono avere ruoli legittimi, ma non devono sostituirsi senza base alla volontà della persona adulta capace. Informazioni corrette, alternative e assenza di ritorsioni rendono la scelta effettiva."
+        }
+      ],
+      "in_practice": [
+        "Spiegare che il destinatario può chiedere un altro professionista e come farlo senza perdere documentazione o continuità.",
+        "Evitare pressioni economiche, affettive, organizzative o cliniche volte a trattenere la persona.",
+        "Nei percorsi indicati da enti o autorità, chiarire margini reali di scelta, natura dell'invio e conseguenze previste.",
+        "Gestire il passaggio a un collega in modo da proteggere riservatezza e continuità."
+      ],
+      "frequent_mistakes": [
+        "Confondere la raccomandazione clinica con il potere di imporre un determinato professionista.",
+        "Accordarsi con un familiare adulto contro la volontà del destinatario.",
+        "Ostacolare il trasferimento di informazioni pertinenti quando la persona sceglie un altro professionista.",
+        "Promettere libertà assoluta senza spiegare limiti organizzativi o giuridici reali."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Una paziente comunica di voler proseguire con una collega più vicina. Lo psicologo insiste che cambiare terapeuta dimostrerebbe «resistenza alla cura» e minaccia di comunicare alla famiglia che la paziente non collabora.",
+        "analysis": "La pressione e la minaccia possono compromettere la libertà di scelta. La valutazione completa coinvolgerebbe anche autodeterminazione, segreto, non lesività e gestione della conclusione del rapporto.",
+        "possible_related_articles": [4, 11, 22, 27]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-23-2009",
+          "role": "violazione_accertata",
+          "note": "Il Consiglio territoriale applicò un avvertimento anche per l'art. 18: le intese con la madre e l'insistenza a proseguire con lo stesso terapeuta furono ritenute pregiudizievoli, o almeno pericolose, per la libertà di scelta del paziente adulto."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 219/2017, art. 1",
+          "relevance": "Per i trattamenti sanitari tutela autodeterminazione, informazione, consenso libero, rifiuto e revoca; l'art. 18 deontologico opera però in ogni contesto professionale.",
+          "source_id": "legge-219-2017"
+        }
+      ],
+      "flashcards": [
+        {"id": "18-f1", "type": "richiamo", "front": "Che cosa deve favorire lo psicologo secondo l'art. 18?", "back": "Il massimo rispetto possibile della libertà del cliente o paziente di scegliere il professionista.", "official_anchor": "sia il più possibile rispettata la libertà di scelta"},
+        {"id": "18-f2", "type": "scenario", "front": "Un adulto vuole cambiare terapeuta, ma un familiare chiede allo psicologo di impedirlo. Qual è il principio centrale?", "back": "La scelta del professionista appartiene al cliente o paziente, salvo specifici limiti giuridici da verificare.", "official_anchor": "da parte del cliente e/o del paziente"},
+        {"id": "18-f3", "type": "discriminazione", "front": "L'art. 18 garantisce che ogni professionista desiderato sia sempre disponibile?", "back": "No. Richiede di adoperarsi per il massimo rispetto possibile della scelta, compatibilmente con limiti reali e legittimi.", "official_anchor": "il più possibile"},
+        {"id": "18-f4", "type": "collegamento", "front": "Quale articolo riguarda l'interruzione della terapia e l'orientamento verso interventi più adatti?", "back": "L'art. 27.", "official_anchor": "del professionista cui rivolgersi"}
+      ],
+      "tags": ["libertà-di-scelta", "autodeterminazione", "invio", "familiari", "continuità"],
+      "source_ids": ["cnop-codice-vigente", "legge-219-2017", "fvg-100-domande", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 19,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Criteri professionali nella selezione e valutazione",
+      "title_is_official": false,
+      "official_text": "Lo psicologo che presta la sua opera professionale in contesti di selezione e valutazione è tenuto a rispettare esclusivamente i criteri della specifica competenza, qualificazione o preparazione, e non avalla decisioni contrarie a tali principi.",
+      "core_message": "Nella selezione e nella valutazione, giudizi e decisioni devono dipendere da competenza, qualificazione e preparazione pertinenti, non da pressioni o criteri estranei.",
+      "meaning_units": [
+        {
+          "id": "19-u1",
+          "official_fragment": "Lo psicologo che presta la sua opera professionale in contesti di selezione e valutazione",
+          "label": "Contesti ad alto impatto",
+          "comment_it": "La norma riguarda attività nelle quali una valutazione può incidere su lavoro, formazione, accesso a ruoli o altre opportunità. Occorre chiarire mandato, criteri, strumenti, destinatari dei risultati e margini decisionali dello psicologo."
+        },
+        {
+          "id": "19-u2",
+          "official_fragment": "è tenuto a rispettare esclusivamente i criteri della specifica competenza, qualificazione o preparazione,",
+          "label": "Criteri pertinenti al compito",
+          "comment_it": "La valutazione deve riferirsi ai requisiti realmente necessari per la posizione o finalità dichiarata. Preferenze personali, stereotipi, raccomandazioni o caratteristiche irrilevanti non possono sostituire criteri professionali definiti e applicati in modo coerente."
+        },
+        {
+          "id": "19-u3",
+          "official_fragment": "e non avalla decisioni contrarie a tali principi.",
+          "label": "Divieto di avallare decisioni scorrette",
+          "comment_it": "Lo psicologo non deve dare copertura tecnica a una decisione già presa su basi estranee. Se il committente altera graduatorie o usa i risultati per uno scopo incompatibile, il professionista segnala il problema, delimita il proprio contributo e valuta se ritirare il proprio avallo."
+        }
+      ],
+      "in_practice": [
+        "Definire prima della valutazione requisiti, indicatori, strumenti e regole decisionali pertinenti.",
+        "Documentare perché ogni criterio è collegato alla competenza, qualificazione o preparazione richiesta.",
+        "Separare il risultato tecnico dalla decisione organizzativa finale e indicarne i limiti.",
+        "Rifiutare la firma o l'avallo quando il committente sovverte i criteri professionali."
+      ],
+      "frequent_mistakes": [
+        "Adattare a posteriori i punteggi per favorire un candidato indicato dalla direzione.",
+        "Usare caratteristiche personali non pertinenti al ruolo come proxy di idoneità.",
+        "Presentare una decisione datoriale come conclusione psicologica.",
+        "Applicare test o soglie senza verificarne pertinenza, validità e condizioni d'uso."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Dopo una selezione, la direzione chiede di retrocedere la candidata con il miglior profilo perché potrebbe richiedere un congedo familiare. Lo psicologo modifica il report e firma la graduatoria come tecnicamente fondata.",
+        "analysis": "La decisione non è basata sulla specifica competenza, qualificazione o preparazione e riceve un avallo professionale improprio. Potrebbero rilevare anche norme antidiscriminatorie esterne al Codice.",
+        "possible_related_articles": [3, 4, 6, 7, 22, 25]
+      },
+      "real_case_links": [],
+      "legal_connections": [],
+      "flashcards": [
+        {"id": "19-f1", "type": "richiamo", "front": "Quali criteri devono guidare selezione e valutazione?", "back": "Quelli della specifica competenza, qualificazione o preparazione.", "official_anchor": "specifica competenza, qualificazione o preparazione"},
+        {"id": "19-f2", "type": "scenario", "front": "Il committente cambia la graduatoria per favorire una conoscenza. Lo psicologo può firmarla come esito tecnico?", "back": "No. Non deve avallare decisioni contrarie ai criteri professionali dell'art. 19.", "official_anchor": "non avalla decisioni contrarie"},
+        {"id": "19-f3", "type": "discriminazione", "front": "L'art. 19 impone allo psicologo di prendere sempre la decisione finale di assunzione?", "back": "No. Può fornire una valutazione tecnica, ma non deve avallare decisioni contrarie ai criteri indicati.", "official_anchor": "presta la sua opera professionale"},
+        {"id": "19-f4", "type": "collegamento", "front": "Quale articolo richiede dati e conclusioni fondati e attendibili?", "back": "L'art. 7.", "official_anchor": "contesti di selezione e valutazione"}
+      ],
+      "tags": ["selezione", "valutazione", "competenza", "qualificazione", "indipendenza"],
+      "source_ids": ["cnop-codice-vigente"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 20,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Deontologia nella docenza e nella formazione",
+      "title_is_official": false,
+      "official_text": "Nella sua attività di docenza, di didattica e di formazione lo psicologo stimola negli studenti, allievi e tirocinanti l’interesse per i principi deontologici, anche ispirando ad essi la propria condotta professionale.",
+      "core_message": "Chi insegna o forma non si limita a descrivere il Codice: promuove attenzione deontologica e rende coerente con essa il proprio comportamento professionale.",
+      "meaning_units": [
+        {
+          "id": "20-u1",
+          "official_fragment": "Nella sua attività di docenza, di didattica e di formazione",
+          "label": "Tutti i ruoli formativi",
+          "comment_it": "Il dovere comprende lezioni, laboratori, supervisione, tutoraggio e tirocinio. Vale anche quando la deontologia non è l'argomento principale, perché scelte metodologiche e gestione dei casi trasmettono comunque un modello professionale."
+        },
+        {
+          "id": "20-u2",
+          "official_fragment": "lo psicologo stimola negli studenti, allievi e tirocinanti l’interesse per i principi deontologici,",
+          "label": "Sviluppare ragionamento deontologico",
+          "comment_it": "Stimolare interesse significa rendere visibili dilemmi, responsabilità, limiti e procedure, non chiedere una semplice memorizzazione. Gli allievi devono imparare a riconoscere problemi e motivare decisioni prudenti."
+        },
+        {
+          "id": "20-u3",
+          "official_fragment": "anche ispirando ad essi la propria condotta professionale.",
+          "label": "Coerenza del docente",
+          "comment_it": "Il comportamento del formatore è parte dell'apprendimento. Riservatezza dei casi, corretto uso dell'autorità, feedback rispettoso, attribuzione delle fonti e chiarezza dei confini devono rispecchiare i principi insegnati."
+        }
+      ],
+      "in_practice": [
+        "Inserire dilemmi deontologici realistici nelle attività formative e discuterne alternative e conseguenze.",
+        "Anonimizzare adeguatamente i casi didattici e dichiarare i limiti delle informazioni disponibili.",
+        "Modellare rispetto, responsabilità, competenza e corretta gestione del potere valutativo.",
+        "Indicare agli allievi dove trovare testo vigente, regolamenti e procedure di consultazione."
+      ],
+      "frequent_mistakes": [
+        "Ridurre la deontologia a un quiz da memorizzare.",
+        "Raccontare casi riconoscibili per rendere la lezione più coinvolgente.",
+        "Usare umiliazione o favoritismi mentre si insegna il rispetto professionale.",
+        "Presentare opinioni personali come interpretazione ufficiale del Codice."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Durante la supervisione, un docente proietta la cartella di una propria paziente con dettagli identificanti e liquida le domande sulla riservatezza dicendo che «in aula tra futuri colleghi il Codice non conta».",
+        "analysis": "La condotta contraddice sia la promozione dei principi deontologici sia il dovere di ispirarvi il proprio comportamento; potrebbero concorrere segreto, anonimato e custodia documentale.",
+        "possible_related_articles": [11, 16, 17, 34]
+      },
+      "real_case_links": [],
+      "legal_connections": [],
+      "flashcards": [
+        {"id": "20-f1", "type": "richiamo", "front": "Verso chi il docente deve stimolare interesse per i principi deontologici?", "back": "Studenti, allievi e tirocinanti.", "official_anchor": "studenti, allievi e tirocinanti"},
+        {"id": "20-f2", "type": "scenario", "front": "Un docente spiega bene il Codice ma usa casi clinici riconoscibili. Soddisfa l'art. 20?", "back": "No. Deve anche ispirare la propria condotta professionale ai principi deontologici.", "official_anchor": "ispirando ad essi la propria condotta"},
+        {"id": "20-f3", "type": "discriminazione", "front": "L'art. 20 richiede soltanto una lezione specifica di deontologia?", "back": "No. Il dovere opera nell'intera attività di docenza, didattica e formazione.", "official_anchor": "Nella sua attività di docenza, di didattica e di formazione"},
+        {"id": "20-f4", "type": "collegamento", "front": "Quale articolo limita l'insegnamento dell'uso di strumenti professionali a persone estranee alla professione?", "back": "L'art. 21.", "official_anchor": "attività ... di formazione"}
+      ],
+      "tags": ["docenza", "didattica", "formazione", "tirocinio", "esempio-professionale"],
+      "source_ids": ["cnop-codice-vigente"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 21,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Insegnamento di strumenti riservati e conoscenze psicologiche",
+      "title_is_official": false,
+      "official_text": "L’insegnamento dell’uso di strumenti e tecniche conoscitive e di intervento riservati alla professione di psicologo a persone estranee alla professione stessa costituisce violazione deontologica grave. Costituisce aggravante avallare con la propria opera professionale attività ingannevoli o abusive concorrendo all’attribuzione di qualifiche, attestati o inducendo a ritenersi autorizzati all’esercizio di attività caratteristiche dello psicologo. Sono specifici della professione di psicologo tutti gli strumenti e le tecniche conoscitive e di intervento relative a processi psichici (relazionali, emotivi, cognitivi, comportamentali) basati sull’applicazione di principi, conoscenze, modelli o costrutti psicologici. È fatto salvo l’insegnamento di tali strumenti e tecniche agli studenti dei corsi di studio universitari in psicologia e ai tirocinanti. È altresì fatto salvo l’insegnamento di conoscenze psicologiche.",
+      "core_message": "È grave insegnare a estranei l'uso operativo di strumenti riservati; è invece salva la formazione degli studenti e tirocinanti e la diffusione di conoscenze psicologiche.",
+      "meaning_units": [
+        {
+          "id": "21-u1",
+          "official_fragment": "L’insegnamento dell’uso di strumenti e tecniche conoscitive e di intervento riservati alla professione di psicologo a persone estranee alla professione stessa costituisce violazione deontologica grave.",
+          "label": "Divieto sull'uso operativo riservato",
+          "comment_it": "Il nucleo è l'insegnamento del «saper fare» professionale a chi è estraneo alla professione, non la mera circolazione di idee. Vanno valutati destinatari, finalità, contenuti, grado di operatività e rischio che la formazione abiliti di fatto ad atti riservati."
+        },
+        {
+          "id": "21-u2",
+          "official_fragment": "Costituisce aggravante avallare con la propria opera professionale attività ingannevoli o abusive concorrendo all’attribuzione di qualifiche, attestati o inducendo a ritenersi autorizzati all’esercizio di attività caratteristiche dello psicologo.",
+          "label": "Avallo aggravante di attività ingannevoli o abusive",
+          "comment_it": "È più grave usare ruolo, firma o docenza per conferire qualifiche ambigue o far credere che un corso autorizzi attività caratteristiche dello psicologo. Pubblicità, attestato, programma e sbocchi dichiarati vanno considerati insieme."
+        },
+        {
+          "id": "21-u3",
+          "official_fragment": "Sono specifici della professione di psicologo tutti gli strumenti e le tecniche conoscitive e di intervento relative a processi psichici (relazionali, emotivi, cognitivi, comportamentali) basati sull’applicazione di principi, conoscenze, modelli o costrutti psicologici.",
+          "label": "Perimetro degli strumenti specifici",
+          "comment_it": "La definizione guarda sia all'oggetto - processi psichici - sia alla base psicologica dello strumento o intervento. Nome commerciale, semplicità apparente o uso di singole tecniche non eliminano la necessità di valutare funzione e finalità professionale."
+        },
+        {
+          "id": "21-u4",
+          "official_fragment": "È fatto salvo l’insegnamento di tali strumenti e tecniche agli studenti dei corsi di studio universitari in psicologia e ai tirocinanti.",
+          "label": "Eccezione per formazione professionale",
+          "comment_it": "Studenti dei corsi universitari in psicologia e tirocinanti possono apprendere strumenti e tecniche nel percorso formativo appropriato. Ciò non equivale ad autorizzarne l'uso autonomo prima del possesso dei requisiti necessari."
+        },
+        {
+          "id": "21-u5",
+          "official_fragment": "È altresì fatto salvo l’insegnamento di conoscenze psicologiche.",
+          "label": "Libertà di diffondere conoscenze",
+          "comment_it": "Principi, modelli e conoscenze psicologiche possono essere insegnati anche ad altri professionisti o al pubblico. La distinzione pratica è fra cultura psicologica utile al proprio ruolo e addestramento a esercitare attività riservate dello psicologo."
+        }
+      ],
+      "in_practice": [
+        "Definire destinatari, prerequisiti e risultati di apprendimento prima di progettare il corso.",
+        "Separare conoscenze trasferibili da procedure operative che presuppongono competenza professionale psicologica.",
+        "Controllare che titoli, attestati e pubblicità non suggeriscano abilitazioni inesistenti.",
+        "Sorvegliare esercitazioni, supervisione e materiali protetti o riservati, chiarendo i limiti d'uso."
+      ],
+      "frequent_mistakes": [
+        "Credere che ogni insegnamento di psicologia ai non psicologi sia vietato.",
+        "Rinominare una tecnica riservata per presentarla come competenza generica.",
+        "Rilasciare un attestato dal titolo ambiguo che sembra abilitare alla diagnosi o al trattamento.",
+        "Confondere frequenza di un corso e abilitazione professionale."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Uno psicologo organizza per chiunque un corso breve su somministrazione, scoring e interpretazione diagnostica di test psicologici e rilascia l'attestato di «valutatore clinico certificato», pubblicizzandolo come sufficiente per lavorare con clienti.",
+        "analysis": "Il corso trasferisce uso operativo di strumenti riservati a estranei e l'attestato può indurre a ritenersi autorizzati ad attività caratteristiche dello psicologo, integrando il profilo aggravante.",
+        "possible_related_articles": [5, 8, 20, 40]
+      },
+      "real_case_links": [
+        {
+          "case_id": "cass-7362-2025",
+          "role": "controesempio",
+          "note": "La Cassazione ha escluso che la trasparente partecipazione a un dibattito tecnico e l'espressione di un'opinione scientifica favorevole alla normazione del counseling costituissero di per sé illecito: non ogni apertura culturale equivale a insegnare strumenti riservati o avallare abusivismo."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, artt. 1 e 3",
+          "relevance": "Definisce la professione di psicologo e l'esercizio dell'attività psicoterapeutica, formando parte del quadro delle attività professionali protette.",
+          "source_id": "legge-56-1989"
+        },
+        {
+          "reference": "Codice penale, art. 348",
+          "relevance": "Punisce l'esercizio abusivo di professioni che richiedono speciale abilitazione e prevede una fattispecie aggravata per il professionista che determina o dirige l'attività abusiva; il giudizio penale resta distinto da quello disciplinare.",
+          "source_id": "cp-art-348"
+        }
+      ],
+      "flashcards": [
+        {"id": "21-f1", "type": "richiamo", "front": "Che cosa qualifica il Codice come violazione deontologica grave?", "back": "Insegnare a persone estranee alla professione l'uso di strumenti e tecniche riservati allo psicologo.", "official_anchor": "costituisce violazione deontologica grave"},
+        {"id": "21-f2", "type": "scenario", "front": "Un corso per insegnanti spiega principi di motivazione senza addestrare alla diagnosi. È automaticamente vietato?", "back": "No. L'insegnamento di conoscenze psicologiche è espressamente fatto salvo; occorre valutarne contenuto e finalità reali.", "official_anchor": "fatto salvo l’insegnamento di conoscenze psicologiche"},
+        {"id": "21-f3", "type": "discriminazione", "front": "Un attestato di frequenza abilita all'uso autonomo di strumenti psicologici riservati?", "back": "No. Frequenza e attestazione non sostituiscono i requisiti legali e professionali.", "official_anchor": "inducendo a ritenersi autorizzati"},
+        {"id": "21-f4", "type": "collegamento", "front": "Quale articolo impone di contrastare e segnalare l'esercizio abusivo?", "back": "L'art. 8; sul piano penale è rilevante l'art. 348 c.p.", "official_anchor": "attività ingannevoli o abusive"}
+      ],
+      "tags": ["insegnamento", "strumenti-riservati", "abusivismo", "attestati", "conoscenze"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "cp-art-348", "oper-art21-2022", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 22,
+      "chapter": "Capo II - Rapporti con l'utenza e con la committenza",
+      "editorial_title": "Non lesività e divieto di vantaggi indebiti",
+      "title_is_official": false,
+      "official_text": "Lo psicologo adotta condotte non lesive per le persone di cui si occupa professionalmente, e non utilizza il proprio ruolo ed i propri strumenti professionali per assicurare a sè o ad altri indebiti vantaggi.",
+      "core_message": "Lo psicologo deve evitare condotte lesive e non può sfruttare ruolo o strumenti professionali per ottenere vantaggi indebiti per sé o per altri.",
+      "meaning_units": [
+        {
+          "id": "22-u1",
+          "official_fragment": "Lo psicologo adotta condotte non lesive per le persone di cui si occupa professionalmente,",
+          "label": "Non lesività",
+          "comment_it": "Il dovere riguarda decisioni, comunicazioni, omissioni e gestione del rapporto. Non promette assenza di ogni disagio - alcuni interventi possono essere impegnativi - ma richiede di non infliggere danni evitabili e di valutare rischi prevedibili e misure di protezione."
+        },
+        {
+          "id": "22-u2",
+          "official_fragment": "e non utilizza il proprio ruolo ed i propri strumenti professionali per assicurare a sè o ad altri indebiti vantaggi.",
+          "label": "Niente sfruttamento del ruolo",
+          "comment_it": "Informazioni, autorità, dipendenza e tecniche professionali non possono essere usate per denaro non dovuto, favori, controllo, ritorsioni o benefici a terzi. Il punto non è l'esistenza di ogni vantaggio, ma il suo carattere indebito e il nesso con l'uso del ruolo."
+        }
+      ],
+      "in_practice": [
+        "Valutare rischi prevedibili e alternative meno dannose prima e durante l'intervento.",
+        "Riconoscere asimmetrie di potere, dipendenza e vulnerabilità nel rapporto.",
+        "Separare l'interesse della persona da vantaggi economici, relazionali o organizzativi del professionista e di terzi.",
+        "Interrompere e correggere tempestivamente pratiche diventate lesive o strumentali."
+      ],
+      "frequent_mistakes": [
+        "Pensare che una buona intenzione escluda la lesività della condotta.",
+        "Usare informazioni cliniche per ottenere collaborazione, denaro o silenzio.",
+        "Prolungare inutilmente il rapporto per interesse economico.",
+        "Favorire il committente a danno del destinatario perché paga la prestazione."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Uno psicologo minaccia di inserire nel report aziendale dettagli clinici irrilevanti se la dipendente non accetta di acquistare privatamente un percorso aggiuntivo presso il suo studio.",
+        "analysis": "Il ruolo e le informazioni professionali sono usati per esercitare pressione e ottenere un vantaggio economico potenzialmente indebito, con possibile pregiudizio per la persona.",
+        "possible_related_articles": [3, 4, 11, 23, 25]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-06-2009",
+          "role": "violazione_accertata",
+          "note": "Il Consiglio territoriale ritenne provato l'invio reiterato di messaggi minacciosi a una ex paziente e applicò una sospensione di un mese, richiamando anche l'art. 22; altre condotte contestate non furono considerate pienamente provate."
+        }
+      ],
+      "legal_connections": [],
+      "flashcards": [
+        {"id": "22-f1", "type": "richiamo", "front": "Quali due divieti fondamentali contiene l'art. 22?", "back": "Adottare condotte lesive e usare ruolo o strumenti professionali per procurare vantaggi indebiti.", "official_anchor": "condotte non lesive ... indebiti vantaggi"},
+        {"id": "22-f2", "type": "scenario", "front": "Lo psicologo prolunga una terapia inefficace soltanto per continuare a incassare. Quale profilo emerge?", "back": "Possibile uso del ruolo per un vantaggio indebito, oltre ai doveri dell'art. 27 sull'assenza di beneficio.", "official_anchor": "assicurare a sè ... indebiti vantaggi"},
+        {"id": "22-f3", "type": "discriminazione", "front": "Ogni disagio prodotto da un intervento prova una violazione dell'art. 22?", "back": "No. Occorre distinguere un disagio proporzionato e spiegato da una condotta professionalmente lesiva o da un danno evitabile.", "official_anchor": "adotta condotte non lesive"},
+        {"id": "22-f4", "type": "collegamento", "front": "Quale articolo disciplina le commistioni tra ruolo professionale e vita privata?", "back": "L'art. 28.", "official_anchor": "utilizza il proprio ruolo"}
+      ],
+      "tags": ["non-lesività", "potere", "vantaggi-indebiti", "danno", "utenza"],
+      "source_ids": ["cnop-codice-vigente", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 23,
+      "chapter": "Capo II - Rapporti con l'utenza e con la committenza",
+      "editorial_title": "Pattuizione e misura del compenso",
+      "title_is_official": false,
+      "official_text": "Lo psicologo pattuisce nella fase iniziale del rapporto quanto attiene al compenso professionale. In ogni caso la misura del compenso deve essere adeguata all’importanza dell’opera. In ambito clinico tale compenso non può essere condizionato all’esito o ai risultati dell’intervento professionale.",
+      "core_message": "Il compenso si concorda all'inizio, deve essere adeguato all'importanza dell'opera e, in ambito clinico, non può dipendere dal risultato dell'intervento.",
+      "meaning_units": [
+        {
+          "id": "23-u1",
+          "official_fragment": "Lo psicologo pattuisce nella fase iniziale del rapporto quanto attiene al compenso professionale.",
+          "label": "Accordo economico iniziale",
+          "comment_it": "Prima che il rapporto sia avanzato devono risultare comprensibili tariffa, prestazioni incluse, spese, assenze, relazioni, incontri con terzi e condizioni di modifica. La normativa sulle professioni regolamentate richiede inoltre un preventivo di massima scritto o digitale e altre informazioni al cliente."
+        },
+        {
+          "id": "23-u2",
+          "official_fragment": "In ogni caso la misura del compenso deve essere adeguata all’importanza dell’opera.",
+          "label": "Adeguatezza del compenso",
+          "comment_it": "L'importo deve essere ragionevolmente collegato a natura, complessità, responsabilità, tempo e attività richiesta. Non esiste nel testo una tariffa fissa, ma l'accordo non può diventare arbitrario o opaco."
+        },
+        {
+          "id": "23-u3",
+          "official_fragment": "In ambito clinico tale compenso non può essere condizionato all’esito o ai risultati dell’intervento professionale.",
+          "label": "Divieto di compenso a risultato in clinica",
+          "comment_it": "Il pagamento non può dipendere da guarigione, miglioramento, diagnosi desiderata o altro esito clinico. Il divieto protegge indipendenza, realismo delle aspettative e libertà di interrompere o modificare un intervento inefficace."
+        }
+      ],
+      "in_practice": [
+        "Consegnare all'inizio un preventivo scritto o digitale con voci di costo e condizioni essenziali.",
+        "Spiegare separatamente costi di colloqui, test, relazioni, riunioni e attività esterne quando pertinenti.",
+        "Concordare in modo trasparente assenze, ritardi, variazioni e prestazioni non prevedibili.",
+        "Evitare bonus, restituzioni o maggiorazioni legati all'esito clinico."
+      ],
+      "frequent_mistakes": [
+        "Comunicare il costo soltanto dopo le prime prestazioni.",
+        "Omettere spese prevedibili per test, relazioni o incontri con terzi.",
+        "Promettere rimborso o chiedere un premio economico in base al miglioramento clinico.",
+        "Confondere assenza di tariffe obbligatorie con libertà da trasparenza e accordo."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Dopo cinque sedute, lo psicologo informa il paziente che ogni relazione e contatto telefonico sarà fatturato a una tariffa mai indicata; propone inoltre un premio economico se i sintomi diminuiscono entro tre mesi.",
+        "analysis": "Mancano pattuizione iniziale e trasparenza sui costi, mentre il premio collega il compenso al risultato clinico in contrasto con l'ultimo periodo dell'articolo.",
+        "possible_related_articles": [22, 24, 27]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "D.l. n. 1/2012, art. 9, comma 4, convertito dalla legge n. 27/2012",
+          "relevance": "Richiede che il compenso sia pattuito al conferimento dell'incarico e reso noto obbligatoriamente in forma scritta o digitale mediante preventivo di massima, con voci di costo e altre informazioni previste.",
+          "source_id": "dl-1-2012-art-9"
+        }
+      ],
+      "flashcards": [
+        {"id": "23-f1", "type": "richiamo", "front": "Quando si pattuisce il compenso professionale?", "back": "Nella fase iniziale del rapporto.", "official_anchor": "nella fase iniziale del rapporto"},
+        {"id": "23-f2", "type": "scenario", "front": "In clinica lo psicologo chiede un bonus se il paziente guarisce. È consentito?", "back": "No. Il compenso clinico non può essere condizionato all'esito o ai risultati.", "official_anchor": "non può essere condizionato all’esito"},
+        {"id": "23-f3", "type": "discriminazione", "front": "L'abolizione delle tariffe professionali elimina l'obbligo di preventivo?", "back": "No. La normativa vigente richiede di rendere noto il compenso con un preventivo di massima scritto o digitale.", "official_anchor": "quanto attiene al compenso professionale"},
+        {"id": "23-f4", "type": "collegamento", "front": "Quale articolo richiede informazioni iniziali adeguate sulle prestazioni?", "back": "L'art. 24.", "official_anchor": "fase iniziale del rapporto"}
+      ],
+      "tags": ["compenso", "preventivo", "trasparenza", "clinica", "risultato"],
+      "source_ids": ["cnop-codice-vigente", "dl-1-2012-art-9"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 24,
+      "chapter": "Capo II - Rapporti con l'utenza e con la committenza",
+      "editorial_title": "Informazione iniziale e consenso informato",
+      "title_is_official": false,
+      "official_text": "Lo psicologo, nella fase iniziale del rapporto professionale, fornisce all’individuo, al gruppo, all’istituzione o alla comunità, siano essi utenti o committenti, informazioni adeguate e comprensibili circa le sue prestazioni, le finalità e le modalità delle stesse, nonché circa il grado e i limiti giuridici della riservatezza. Pertanto, opera in modo che chi ne ha diritto possa esprimere un consenso informato. Se la prestazione professionale ha carattere di continuità nel tempo, dovrà esserne indicata, ove possibile, la prevedibile durata.",
+      "core_message": "All'inizio lo psicologo informa utenti e committenti in modo comprensibile su prestazioni, finalità, modalità e riservatezza, così che il soggetto legittimato possa consentire consapevolmente.",
+      "meaning_units": [
+        {
+          "id": "24-u1",
+          "official_fragment": "Lo psicologo, nella fase iniziale del rapporto professionale, fornisce all’individuo, al gruppo, all’istituzione o alla comunità, siano essi utenti o committenti, informazioni adeguate e comprensibili",
+          "label": "Informazione per tutti i destinatari e ruoli",
+          "comment_it": "Utente e committente possono coincidere oppure essere soggetti diversi. Lo psicologo deve chiarire a ciascuno ciò che è pertinente al suo ruolo, usando linguaggio e strumenti adatti a capacità, lingua, contesto e condizioni della persona."
+        },
+        {
+          "id": "24-u2",
+          "official_fragment": "circa le sue prestazioni, le finalità e le modalità delle stesse, nonché circa il grado e i limiti giuridici della riservatezza.",
+          "label": "Contenuti essenziali dell'informazione",
+          "comment_it": "Vanno spiegati natura dell'attività, obiettivi, metodo, ruoli, uso prevedibile dei risultati e confini della riservatezza. Nei mandati di terzi è particolarmente importante chiarire chi riceverà quali informazioni e a quale scopo."
+        },
+        {
+          "id": "24-u3",
+          "official_fragment": "Pertanto, opera in modo che chi ne ha diritto possa esprimere un consenso informato.",
+          "label": "Consenso della persona legittimata",
+          "comment_it": "Il consenso è un processo fondato su informazione e possibilità di scelta, non una firma raccolta meccanicamente. Occorre individuare chi ha diritto a esprimerlo; per trattamenti sanitari, minori, persone incapaci o provvedimenti dell'autorità si applicano anche norme specifiche."
+        },
+        {
+          "id": "24-u4",
+          "official_fragment": "Se la prestazione professionale ha carattere di continuità nel tempo, dovrà esserne indicata, ove possibile, la prevedibile durata.",
+          "label": "Durata prevedibile",
+          "comment_it": "Quando il percorso è continuativo, si comunica una stima realistica o almeno i criteri di riesame. «Ove possibile» evita false promesse, ma non giustifica il silenzio quando una previsione ragionevole può essere offerta e aggiornata."
+        }
+      ],
+      "in_practice": [
+        "Identificare distintamente destinatario della prestazione, committente, pagante e destinatari dei risultati.",
+        "Spiegare finalità, metodo, ruoli, possibili usi delle informazioni e limiti giuridici della riservatezza.",
+        "Adattare l'informazione alla persona e verificare comprensione e libertà della decisione.",
+        "Documentare informazione e consenso con modalità coerenti con la prestazione e con le norme specifiche applicabili.",
+        "Aggiornare consenso e stima di durata quando cambiano mandato, finalità o condizioni."
+      ],
+      "frequent_mistakes": [
+        "Usare un modulo standard senza dialogo o verifica della comprensione.",
+        "Confondere consenso alla prestazione e consenso privacy come se fossero un unico atto.",
+        "Non spiegare al valutato che i risultati saranno comunicati al committente.",
+        "Promettere segreto assoluto senza indicare limiti giuridici.",
+        "Omettere ogni indicazione sulla durata di un percorso continuativo pur potendo offrire una stima."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Un'azienda invia un dipendente a una valutazione. Lo psicologo raccoglie una firma generica, non spiega che il report sarà consegnato alla direzione né quali dati conterrà e avvia colloqui presentati come sostegno riservato.",
+        "analysis": "L'informazione non chiarisce natura, finalità, modalità e limiti della riservatezza; il consenso rischia quindi di non essere realmente informato. Sono rilevanti anche gli artt. 19 e 25.",
+        "possible_related_articles": [11, 19, 23, 25, 31]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 219/2017, art. 1",
+          "relevance": "Per i trattamenti sanitari disciplina informazione, consenso libero, rifiuto, revoca e documentazione; l'art. 24 del Codice si applica più ampiamente al rapporto professionale e va coordinato con essa.",
+          "source_id": "legge-219-2017"
+        },
+        {
+          "reference": "Regolamento (UE) 2016/679, artt. 6, 9, 12 e 13",
+          "relevance": "Il trattamento dei dati richiede una base giuridica e informazioni trasparenti; il consenso privacy non coincide automaticamente con il consenso alla prestazione professionale.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "24-f1", "type": "richiamo", "front": "Quali informazioni essenziali vanno date all'inizio?", "back": "Prestazioni, finalità, modalità, grado e limiti giuridici della riservatezza.", "official_anchor": "prestazioni, le finalità e le modalità"},
+        {"id": "24-f2", "type": "scenario", "front": "Il committente è un'azienda e il destinatario è un dipendente. Che cosa va chiarito?", "back": "Ruoli, natura e finalità dell'intervento, informazioni comunicate al committente e limiti della riservatezza.", "official_anchor": "siano essi utenti o committenti"},
+        {"id": "24-f3", "type": "discriminazione", "front": "Consenso alla prestazione e consenso al trattamento dei dati sono sempre lo stesso consenso?", "back": "No. Sono piani distinti, da coordinare con la base giuridica e l'informativa privacy applicabili.", "official_anchor": "possa esprimere un consenso informato"},
+        {"id": "24-f4", "type": "collegamento", "front": "Quale articolo disciplina specificamente le prestazioni su persone minorenni o interdette?", "back": "L'art. 31, da coordinare con la normativa vigente sulla capacità e responsabilità genitoriale.", "official_anchor": "chi ne ha diritto"}
+      ],
+      "tags": ["consenso-informato", "informazione", "committente", "riservatezza", "durata"],
+      "source_ids": ["cnop-codice-vigente", "legge-219-2017", "gdpr", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 25,
+      "chapter": "Capo II - Rapporti con l'utenza e con la committenza",
+      "editorial_title": "Uso degli strumenti e comunicazione dei risultati",
+      "title_is_official": false,
+      "official_text": "Lo psicologo non usa impropriamente gli strumenti di diagnosi e di valutazione di cui dispone. Nel caso di interventi commissionati da terzi, informa i soggetti circa la natura del suo intervento professionale, e non utilizza, se non nei limiti del mandato ricevuto, le notizie apprese che possano recare ad essi pregiudizio. Nella comunicazione dei risultati dei propri interventi diagnostici e valutativi, lo psicologo è tenuto a regolare tale comunicazione anche in relazione alla tutela psicologica dei soggetti.",
+      "core_message": "Gli strumenti devono essere usati correttamente; nei mandati di terzi il soggetto va informato e le notizie potenzialmente pregiudizievoli restano entro il mandato; i risultati si comunicano tutelando psicologicamente la persona.",
+      "meaning_units": [
+        {
+          "id": "25-u1",
+          "official_fragment": "Lo psicologo non usa impropriamente gli strumenti di diagnosi e di valutazione di cui dispone.",
+          "label": "Uso appropriato degli strumenti",
+          "comment_it": "Appropriatezza riguarda competenza dell'utilizzatore, finalità, popolazione, validità, aggiornamento, condizioni di somministrazione, interpretazione e limiti. Un punteggio non diventa diagnosi automaticamente e uno strumento non va usato fuori dal contesto per cui è fondato."
+        },
+        {
+          "id": "25-u2",
+          "official_fragment": "Nel caso di interventi commissionati da terzi, informa i soggetti circa la natura del suo intervento professionale,",
+          "label": "Trasparenza nei mandati di terzi",
+          "comment_it": "La persona valutata deve sapere che non si tratta necessariamente di una relazione terapeutica, chi ha conferito il mandato, quale domanda viene posta, chi riceverà i risultati e quali sono i limiti della riservatezza."
+        },
+        {
+          "id": "25-u3",
+          "official_fragment": "e non utilizza, se non nei limiti del mandato ricevuto, le notizie apprese che possano recare ad essi pregiudizio.",
+          "label": "Uso limitato al mandato",
+          "comment_it": "Le informazioni potenzialmente pregiudizievoli non sono liberamente spendibili dal committente o dallo psicologo. Devono essere pertinenti allo scopo dichiarato e usate entro il perimetro del mandato, evitando riusi, eccedenze e conclusioni estranee."
+        },
+        {
+          "id": "25-u4",
+          "official_fragment": "Nella comunicazione dei risultati dei propri interventi diagnostici e valutativi, lo psicologo è tenuto a regolare tale comunicazione anche in relazione alla tutela psicologica dei soggetti.",
+          "label": "Restituzione psicologicamente tutelante",
+          "comment_it": "Contenuto, linguaggio, tempi, destinatari e modalità della restituzione vanno calibrati. Tutelare non significa nascondere arbitrariamente i risultati, ma comunicarli in modo comprensibile, contestualizzato, non stigmatizzante e coerente con diritti e mandato."
+        }
+      ],
+      "in_practice": [
+        "Verificare idoneità dello strumento, qualifiche richieste, norme, validità e limiti interpretativi.",
+        "Formalizzare il mandato e spiegarlo alla persona valutata prima di raccogliere dati.",
+        "Concordare destinatari, livello di dettaglio e utilizzi consentiti dei risultati.",
+        "Distinguere dati, osservazioni, inferenze e conclusioni nella relazione.",
+        "Preparare una restituzione comprensibile e proporzionata alla possibile reazione della persona."
+      ],
+      "frequent_mistakes": [
+        "Usare un test non validato per la popolazione o la finalità.",
+        "Lasciare credere a una persona valutata per conto di terzi che tutto resterà terapeuticamente riservato.",
+        "Consegnare al committente dati clinici eccedenti rispetto alla domanda.",
+        "Comunicare un'etichetta diagnostica senza spiegazione, contesto o limiti.",
+        "Considerare il consenso come autorizzazione illimitata a ogni uso futuro delle notizie."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Per una selezione dirigenziale lo psicologo usa un test clinico non adatto allo scopo, non chiarisce ai candidati il mandato e invia alla società anche dettagli familiari emersi nel colloquio, estranei ai requisiti del ruolo.",
+        "analysis": "Sono coinvolti uso improprio dello strumento, informazione sul mandato, utilizzo pregiudizievole oltre i suoi limiti e comunicazione non proporzionata dei risultati.",
+        "possible_related_articles": [7, 11, 19, 24]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679, artt. 5, 12-15 e 22",
+          "relevance": "Pertinenza, minimizzazione, trasparenza, accesso ai dati e garanzie nelle decisioni automatizzate possono essere rilevanti, secondo il contesto, per valutazioni e comunicazione dei risultati.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "25-f1", "type": "richiamo", "front": "Che cosa deve sapere il soggetto in un intervento commissionato da terzi?", "back": "La natura dell'intervento professionale, insieme agli elementi necessari a comprenderne mandato e limiti.", "official_anchor": "informa i soggetti circa la natura"},
+        {"id": "25-f2", "type": "scenario", "front": "Un'azienda commissiona una valutazione circoscritta. Si può inviare ogni informazione emersa?", "back": "No. Le notizie potenzialmente pregiudizievoli possono essere usate soltanto nei limiti del mandato.", "official_anchor": "nei limiti del mandato ricevuto"},
+        {"id": "25-f3", "type": "discriminazione", "front": "Tutela psicologica significa non comunicare mai un risultato sfavorevole?", "back": "No. Significa regolare modalità e contenuto della comunicazione in modo comprensibile, proporzionato e non inutilmente lesivo.", "official_anchor": "regolare tale comunicazione"},
+        {"id": "25-f4", "type": "collegamento", "front": "Quale articolo richiede fondamento e attendibilità di dati e conclusioni?", "back": "L'art. 7.", "official_anchor": "strumenti di diagnosi e di valutazione"}
+      ],
+      "tags": ["diagnosi", "valutazione", "test", "mandato", "restituzione", "terzi"],
+      "source_ids": ["cnop-codice-vigente", "gdpr", "veneto-questioni-aperte"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 26,
+      "chapter": "Capo II - Rapporti con l'utenza e con la committenza",
+      "editorial_title": "Astensione per interferenze e rapporti precedenti",
+      "title_is_official": false,
+      "official_text": "Lo psicologo si astiene dall’intraprendere o dal proseguire qualsiasi attività professionale ove propri problemi o conflitti personali, interferendo con l’efficacia delle sue prestazioni, le rendano inadeguate o dannose alle persone cui sono rivolte. Lo psicologo evita, inoltre, di assumere ruoli professionali e di compiere interventi nei confronti dell’utenza, anche su richiesta dell’Autorità Giudiziaria, qualora la natura di precedenti rapporti possa comprometterne la credibilità e l’efficacia.",
+      "core_message": "Lo psicologo non inizia o prosegue attività rese inadeguate o dannose da problemi personali e non assume ruoli incompatibili con rapporti precedenti che ne compromettano credibilità o efficacia.",
+      "meaning_units": [
+        {
+          "id": "26-u1",
+          "official_fragment": "Lo psicologo si astiene dall’intraprendere o dal proseguire qualsiasi attività professionale ove propri problemi o conflitti personali, interferendo con l’efficacia delle sue prestazioni, le rendano inadeguate o dannose alle persone cui sono rivolte.",
+          "label": "Interferenze personali rilevanti",
+          "comment_it": "Non ogni difficoltà personale impone automaticamente l'astensione. La soglia è l'interferenza che compromette efficacia e rende la prestazione inadeguata o dannosa. Autovalutazione, supervisione, riduzione del carico, invio o sospensione possono essere necessari."
+        },
+        {
+          "id": "26-u2",
+          "official_fragment": "Lo psicologo evita, inoltre, di assumere ruoli professionali e di compiere interventi nei confronti dell’utenza, anche su richiesta dell’Autorità Giudiziaria,",
+          "label": "Il mandato dell'autorità non cancella l'incompatibilità",
+          "comment_it": "Una richiesta giudiziaria non rende automaticamente opportuno l'incarico. Prima di accettare vanno dichiarate e valutate relazioni pregresse, conoscenze riservate, interessi e sovrapposizioni di ruolo che possano incidere sull'intervento."
+        },
+        {
+          "id": "26-u3",
+          "official_fragment": "qualora la natura di precedenti rapporti possa comprometterne la credibilità e l’efficacia.",
+          "label": "Rapporti precedenti e compromissione",
+          "comment_it": "Non basta che un contatto precedente sia esistito: contano natura, intensità, informazioni acquisite, posizione delle parti e nuovo compito. La prevenzione opera già quando la credibilità o l'efficacia possono essere compromesse, senza attendere il danno."
+        }
+      ],
+      "in_practice": [
+        "Effettuare un controllo di conflitti e rapporti precedenti prima di accettare ogni nuovo mandato.",
+        "Monitorare durante il rapporto se condizioni personali stanno riducendo competenza, giudizio o affidabilità.",
+        "Usare supervisione o consultazione senza trasferire indebitamente dati identificativi.",
+        "Dichiarare tempestivamente l'incompatibilità al soggetto o all'autorità competente e favorire un passaggio sicuro."
+      ],
+      "frequent_mistakes": [
+        "Accettare perché l'autorità giudiziaria ha chiesto l'intervento, senza segnalare il precedente rapporto.",
+        "Considerare rilevanti solo i conflitti economici e non quelli affettivi, personali o informativi.",
+        "Aspettare che il danno si manifesti invece di valutare il rischio di compromissione.",
+        "Proseguire durante una condizione personale invalidante senza supervisione, riduzione del carico o invio."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Dopo aver seguito una coppia, la psicologa accetta di redigere per uno dei due una relazione di parte contro l'altro, usando informazioni apprese nelle sedute comuni e senza dichiarare il rapporto precedente.",
+        "analysis": "La natura del precedente rapporto può compromettere credibilità ed efficacia del nuovo ruolo; sono inoltre coinvolti segreto, responsabilità e tutela di entrambi gli ex destinatari.",
+        "possible_related_articles": [3, 11, 22, 25]
+      },
+      "real_case_links": [
+        {
+          "case_id": "cass-31972-2018",
+          "role": "collegamento_giurisprudenziale",
+          "note": "La Cassazione confermò la sospensione di un mese in un caso di precedente trattamento della coppia seguito da un incarico nell'interesse esclusivo di una ex paziente in conflitto con l'altro; furono richiamati gli artt. 3, 11 e 26."
+        }
+      ],
+      "legal_connections": [],
+      "flashcards": [
+        {"id": "26-f1", "type": "richiamo", "front": "Quando problemi o conflitti personali impongono l'astensione?", "back": "Quando, interferendo con l'efficacia, rendono le prestazioni inadeguate o dannose.", "official_anchor": "le rendano inadeguate o dannose"},
+        {"id": "26-f2", "type": "scenario", "front": "L'autorità giudiziaria propone un incarico su una persona già seguita. Si può accettare automaticamente?", "back": "No. Va valutato se il precedente rapporto possa compromettere credibilità ed efficacia.", "official_anchor": "anche su richiesta dell’Autorità Giudiziaria"},
+        {"id": "26-f3", "type": "discriminazione", "front": "Ogni contatto precedente rende incompatibile un nuovo incarico?", "back": "Non automaticamente: rilevano natura del rapporto e possibilità concreta di compromettere credibilità o efficacia.", "official_anchor": "la natura di precedenti rapporti"},
+        {"id": "26-f4", "type": "collegamento", "front": "Quale articolo disciplina più direttamente il segreto sulle informazioni del rapporto precedente?", "back": "L'art. 11.", "official_anchor": "precedenti rapporti"}
+      ],
+      "tags": ["astensione", "conflitto", "rapporti-precedenti", "autorità-giudiziaria", "incompatibilità"],
+      "source_ids": ["cnop-codice-vigente"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 27,
+      "chapter": "Capo II - Rapporti con l'utenza e con la committenza",
+      "editorial_title": "Interruzione di una terapia senza beneficio",
+      "title_is_official": false,
+      "official_text": "Lo psicologo valuta ed eventualmente propone l’interruzione del rapporto terapeutico quando constata che il paziente non trae alcun beneficio dalla cura e non è ragionevolmente prevedibile che ne trarrà dal proseguimento della cura stessa. Se richiesto, fornisce al paziente le informazioni necessarie a ricercare altri e più adatti interventi.",
+      "core_message": "Quando la terapia non produce beneficio e non è ragionevole attenderne dal proseguimento, lo psicologo valuta e può proporre l'interruzione, aiutando su richiesta a cercare interventi più adatti.",
+      "meaning_units": [
+        {
+          "id": "27-u1",
+          "official_fragment": "Lo psicologo valuta ed eventualmente propone l’interruzione del rapporto terapeutico quando constata che il paziente non trae alcun beneficio dalla cura",
+          "label": "Valutare l'assenza di beneficio",
+          "comment_it": "L'efficacia va riesaminata con dati clinici, obiettivi concordati e punto di vista del paziente. «Eventualmente propone» richiede dialogo e giudizio professionale: non autorizza un abbandono improvviso né obbliga a interrompere dopo una singola difficoltà."
+        },
+        {
+          "id": "27-u2",
+          "official_fragment": "e non è ragionevolmente prevedibile che ne trarrà dal proseguimento della cura stessa.",
+          "label": "Prognosi sul proseguimento",
+          "comment_it": "Non basta che il beneficio non sia ancora visibile: occorre valutare se sia ragionevole prevederlo modificando tempi, metodo, obiettivi o condizioni. La prosecuzione inerziale non è giustificata quando manca una prospettiva clinica fondata."
+        },
+        {
+          "id": "27-u3",
+          "official_fragment": "Se richiesto, fornisce al paziente le informazioni necessarie a ricercare altri e più adatti interventi.",
+          "label": "Orientamento verso alternative",
+          "comment_it": "Su richiesta, lo psicologo offre informazioni utili per trovare alternative più adatte, senza imporre un singolo collega né garantire risultati. Nei casi vulnerabili o urgenti, la gestione della transizione deve considerare sicurezza e continuità assistenziale."
+        }
+      ],
+      "in_practice": [
+        "Riesaminare periodicamente obiettivi, andamento, aderenza, ostacoli e preferenze del paziente.",
+        "Discutere modifiche possibili prima di concludere che il proseguimento non porterà beneficio.",
+        "Motivare e documentare la proposta di interruzione, concordando tempi e gestione della chiusura.",
+        "Se richiesto, indicare tipologie di intervento, servizi o criteri per scegliere alternative adeguate.",
+        "Gestire rischio e continuità quando una chiusura immediata potrebbe essere dannosa."
+      ],
+      "frequent_mistakes": [
+        "Proseguire indefinitamente senza rivalutare efficacia e obiettivi.",
+        "Interrompere bruscamente per frustrazione personale o mancato pagamento senza gestire i rischi clinici.",
+        "Confondere una fase difficile con prova definitiva di inefficacia.",
+        "Presentare un solo collega come unica alternativa, comprimendo la libertà di scelta.",
+        "Promettere che il nuovo intervento produrrà certamente risultati."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Da molti mesi lo psicologo annota che la terapia non produce alcun beneficio e che il metodo non è adatto, ma continua senza discuterne perché teme di perdere il compenso. Quando il paziente chiede alternative, risponde che deve arrangiarsi.",
+        "analysis": "La prosecuzione senza ragionevole previsione di beneficio e il rifiuto di fornire, su richiesta, informazioni per altri interventi richiamano direttamente l'art. 27 e possono coinvolgere non lesività e vantaggio indebito.",
+        "possible_related_articles": [18, 22, 23, 26]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 219/2017, art. 1",
+          "relevance": "Nei trattamenti sanitari tutela consenso, rifiuto e revoca e valorizza la relazione di cura; la proposta professionale di interruzione va coordinata con l'autodeterminazione del paziente.",
+          "source_id": "legge-219-2017"
+        }
+      ],
+      "flashcards": [
+        {"id": "27-f1", "type": "richiamo", "front": "Quali due condizioni fanno valutare l'interruzione?", "back": "Assenza di beneficio attuale e assenza di una ragionevole previsione di beneficio dal proseguimento.", "official_anchor": "non trae alcun beneficio ... non è ragionevolmente prevedibile"},
+        {"id": "27-f2", "type": "scenario", "front": "Il paziente non migliora nelle prime sedute. L'art. 27 impone subito di interrompere?", "back": "No. Richiede una valutazione dell'andamento e della ragionevole previsione di beneficio, non un automatismo temporale.", "official_anchor": "valuta ed eventualmente propone"},
+        {"id": "27-f3", "type": "discriminazione", "front": "Proporre l'interruzione equivale ad abbandonare il paziente?", "back": "No. È una decisione dialogata; su richiesta vanno fornite informazioni per cercare interventi più adatti e la transizione va gestita prudentemente.", "official_anchor": "fornisce ... le informazioni necessarie"},
+        {"id": "27-f4", "type": "collegamento", "front": "Quale articolo tutela la libertà di scegliere il nuovo professionista?", "back": "L'art. 18.", "official_anchor": "altri e più adatti interventi"}
+      ],
+      "tags": ["interruzione", "terapia", "efficacia", "invio", "continuità"],
+      "source_ids": ["cnop-codice-vigente", "legge-219-2017", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    }
+  ]
+}

@@ -1,0 +1,1794 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Localized glossary bridge - Romanian",
+  "language": "ro",
+  "direction": "ltr",
+  "source_language": "it",
+  "source_file": "data/glossary.it.json",
+  "translation_route": [
+    "it",
+    "en",
+    "ro"
+  ],
+  "translation_status": "machine_draft_needs_native_legal_review",
+  "popup_behavior": "Highlighted localized terms open the Italian surface, Italian lemma, and Italian editorial definition.",
+  "entries": [
+    {
+      "id": "codice-deontologico",
+      "term": "Cod deontologic",
+      "italian_lemma": "Codice deontologico",
+      "italian_definition": "Insieme delle regole professionali vincolanti per chi è iscritto all'Albo degli psicologi, la cui inosservanza può avere conseguenze disciplinari.",
+      "localized_explanation": "Împreună cu normele profesionale obligatorii pentru cei care sunt înscrişi în Registrul Psihologilor, a căror neobservare poate avea consecinţe disciplinare.",
+      "related_articles": [
+        1,
+        2,
+        6,
+        41,
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "albo-degli-psicologi",
+      "term": "Psihologie Albo",
+      "italian_lemma": "Albo degli psicologi",
+      "italian_definition": "Registro pubblico professionale nel quale l'iscrizione abilita all'uso del relativo titolo e comporta l'assoggettamento alle regole ordinistiche.",
+      "localized_explanation": "Registrul public profesional în care înregistrarea permite utilizarea titlului relevant și implică respectarea normelor de ordine.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-disciplinare",
+      "term": "răspundere disciplinară",
+      "italian_lemma": "responsabilità disciplinare",
+      "italian_definition": "Responsabilità dell'iscritto per la violazione di regole professionali, accertata secondo il procedimento disciplinare applicabile.",
+      "localized_explanation": "Responsabilitatea deputatului pentru încălcarea normelor profesionale, stabilită în conformitate cu procedura disciplinară aplicabilă.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "principi-deontologici",
+      "term": "principii deontologice",
+      "italian_lemma": "principi deontologici",
+      "italian_definition": "Principi e criteri professionali che orientano il comportamento dello psicologo e la comprensione delle regole del Codice.",
+      "localized_explanation": "Principii si criterii profesionale care ghideaza comportamentul psihologului si intelegerea regulilor Codului.",
+      "related_articles": [
+        20
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "illecito-disciplinare",
+      "term": "abatere disciplinară",
+      "italian_lemma": "illecito disciplinare",
+      "italian_definition": "Condotta o omissione professionalmente censurabile secondo il Codice e l'ordinamento disciplinare.",
+      "localized_explanation": "Comportamentul sau omisiunea cenzurabila profesional conform Codului si ordinului disciplinar.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "regolamento-disciplinare",
+      "term": "reglementări disciplinare",
+      "italian_lemma": "Regolamento disciplinare",
+      "italian_definition": "Atto che disciplina fasi, competenze e garanzie del procedimento con cui vengono valutate le contestazioni deontologiche.",
+      "localized_explanation": "Legea care reglementează etapele, competențele și garanțiile procedurii în care sunt evaluate litigiile deontologice.",
+      "related_articles": [
+        2
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "decoro-professionale",
+      "term": "decorare profesională",
+      "italian_lemma": "decoro professionale",
+      "italian_definition": "Criterio aperto che richiede una condotta seria, corretta e compatibile con la fiducia pubblica nella professione; va applicato considerando contesto e proporzionalità.",
+      "localized_explanation": "politica deschisă care necesită un comportament serios, corect și compatibil cu încrederea publicului în profesie; ar trebui să se aplice în context și proporționalitate.",
+      "related_articles": [
+        2,
+        36,
+        38,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "dignita-professionale",
+      "term": "demnitate profesională",
+      "italian_lemma": "dignità professionale",
+      "italian_definition": "Valore legato all'integrità del ruolo e alla sua funzione sociale, non al prestigio personale del professionista.",
+      "localized_explanation": "Valoare legată de integritatea rolului și a funcției sale sociale, nu de prestigiul personal al profesionistului.",
+      "related_articles": [
+        2,
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-sociale",
+      "term": "Responsabilitatea socială",
+      "italian_lemma": "responsabilità sociale",
+      "italian_definition": "Consapevolezza che l'attività psicologica può incidere sulle persone e sulla collettività e deve considerare anche fattori sociali, organizzativi, finanziari e politici.",
+      "localized_explanation": "Conștiința că activitatea psihologică poate afecta oamenii și comunitatea și trebuie să ia în considerare și factorii sociali, organizaționali, financiari și politici.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "atti-professionali",
+      "term": "activități profesionale",
+      "italian_lemma": "atti professionali",
+      "italian_definition": "Azioni compiute nell'esercizio del ruolo professionale e imputabili allo psicologo.",
+      "localized_explanation": "Acțiunile întreprinse în exercitarea rolului profesional și care pot fi atribuite psihologului.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conseguenze-prevedibili-dirette",
+      "term": "Consecinţe directe prevăzute",
+      "italian_lemma": "prevedibili dirette conseguenze",
+      "italian_definition": "Effetti direttamente collegati all'atto professionale che erano ragionevolmente anticipabili nelle circostanze concrete.",
+      "localized_explanation": "Efectele direct legate de actul profesional care au fost anticipate în mod rezonabil în circumstanțe concrete.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "riservatezza",
+      "term": "confidențialitate",
+      "italian_lemma": "riservatezza",
+      "italian_definition": "Protezione delle informazioni e della sfera privata della persona, più ampia della sola regola sul non rivelare il segreto professionale.",
+      "localized_explanation": "Protecția informațiilor și a sferei private a persoanei, mai largă decât regula privind nedescoperirea secretului profesional.",
+      "related_articles": [
+        4,
+        9,
+        13,
+        14,
+        24,
+        25,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autodeterminazione",
+      "term": "autodeterminare",
+      "italian_lemma": "autodeterminazione",
+      "italian_definition": "Diritto e capacità della persona di partecipare alle decisioni che la riguardano sulla base di informazioni adeguate e senza coercizioni indebite.",
+      "localized_explanation": "Dreptul și capacitatea persoanei de a participa la deciziile care o privesc pe baza unor informații adecvate și fără constrângere nejustificată.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-persona",
+      "term": "autonomie a persoanei",
+      "italian_lemma": "autonomia della persona",
+      "italian_definition": "Possibilità della persona di formare e attuare scelte proprie, distinta dall'autonomia tecnica del professionista.",
+      "localized_explanation": "Posibilitatea persoanei de a forma și de a implementa propriile alegeri, distincte de autonomia tehnică a profesionistului.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conflitto-di-interesse",
+      "term": "conflict de interese",
+      "italian_lemma": "conflitto di interesse",
+      "italian_definition": "Situazione in cui interessi, doveri o lealtà concorrenti possono interferire con la tutela dovuta o con l'indipendenza del giudizio professionale.",
+      "localized_explanation": "Situația în care interesele, obligațiile sau dreptul concurenței pot interfera cu protecția profesiei sau cu independența hotărârii profesionale.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "destinatario-prestazione",
+      "term": "Destinatarul beneficiului",
+      "italian_lemma": "destinatario della prestazione",
+      "italian_definition": "Persona o soggetto verso cui l'intervento professionale è concretamente rivolto; può non coincidere con chi lo commissiona o lo paga.",
+      "localized_explanation": "Persoana sau sub rezerva căreia intervenția profesională este abordată în mod concret; nu pot coincide cu cine îl percepe sau îl plătește.",
+      "related_articles": [
+        3,
+        4,
+        11,
+        12,
+        16,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "committente",
+      "term": "contractant",
+      "italian_lemma": "committente",
+      "italian_definition": "Soggetto che richiede o conferisce l'incarico professionale; non coincide necessariamente con chi riceve la prestazione o con chi paga.",
+      "localized_explanation": "obiectul care necesită sau conferă atribuirea misiunii profesionale; nu coincide neapărat cu cine primeşte performanţa sau cine plăteşte.",
+      "related_articles": [
+        3,
+        4,
+        24,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "utente",
+      "term": "utilizator",
+      "italian_lemma": "utente",
+      "italian_definition": "Persona o soggetto che utilizza o riceve un servizio; nel Codice può affiancarsi a cliente, paziente, committente o destinatario senza coincidere sempre con essi.",
+      "localized_explanation": "Persoana sau persoana care utilizează sau primește un serviciu; în Cod pot fi însoțite de client, pacient, client sau destinatar fără a le potrivi întotdeauna.",
+      "related_articles": [
+        3,
+        4,
+        5,
+        24,
+        36,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "cliente",
+      "term": "client client",
+      "italian_lemma": "cliente",
+      "italian_definition": "Soggetto che instaura un rapporto professionale con lo psicologo; nel Codice il termine non identifica sempre il paziente o destinatario.",
+      "localized_explanation": "Sub rezerva stabilirii unei relaţii profesionale cu psihologul; în Cod, termenul nu identifică întotdeauna pacientul sau destinatarul.",
+      "related_articles": [
+        3,
+        5,
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "paziente",
+      "term": "pacient",
+      "italian_lemma": "paziente",
+      "italian_definition": "Persona che riceve una prestazione di cura o un intervento clinico; il termine è più specifico di utente o cliente.",
+      "localized_explanation": "Persoana care primește un tratament sau o intervenție clinică; termenul este mai specific decât utilizatorul sau clientul.",
+      "related_articles": [
+        18,
+        27,
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-professionale",
+      "term": "Formarea profesională",
+      "italian_lemma": "rapporto professionale",
+      "italian_definition": "Relazione regolata da un incarico o da una prestazione psicologica, dalla quale derivano ruoli, doveri e limiti professionali.",
+      "localized_explanation": "Raport reglementat de o poziție sau performanță psihologică, din care apar rolurile, sarcinile și limitele profesionale.",
+      "related_articles": [
+        11,
+        12,
+        17,
+        24,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "competenza-professionale",
+      "term": "competență profesională",
+      "italian_lemma": "competenza professionale",
+      "italian_definition": "Capacità effettiva di svolgere un compito con conoscenze, abilità, esperienza e giudizio adeguati al caso, distinta dal solo possesso di un titolo.",
+      "localized_explanation": "Capacitatea efectivă de a îndeplini o sarcină cu cunoștințe, competențe, experiență și judecată corespunzătoare cazului, distinctă de posesia exclusivă a unui titlu.",
+      "related_articles": [
+        5,
+        6,
+        19,
+        33,
+        37,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-continua",
+      "term": "continuarea formării",
+      "italian_lemma": "formazione continua",
+      "italian_definition": "Aggiornamento professionale svolto lungo l'esercizio della professione secondo gli obblighi dell'ordinamento applicabile.",
+      "localized_explanation": "Actualizarea profesională efectuată de-a lungul exercitării profesiei în conformitate cu obligațiile ordinului aplicabil.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-teorico-pratici",
+      "term": "instrumente teoretice și practice",
+      "italian_lemma": "strumenti teorico-pratici",
+      "italian_definition": "Modelli, metodi, tecniche e strumenti operativi impiegati nella pratica psicologica.",
+      "localized_explanation": "Modele, metode, tehnici și instrumente de operare utilizate în practica psihologică.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formale-autorizzazione",
+      "term": "Autorizare oficială",
+      "italian_lemma": "formale autorizzazione",
+      "italian_definition": "Titolo, abilitazione, riconoscimento o altro requisito giuridicamente richiesto per una specifica attività, quando previsto.",
+      "localized_explanation": "Titlul, calificarea, recunoașterea sau alte cerințe legale pentru o anumită activitate, atunci când este necesar.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aspettative-infondate",
+      "term": "așteptări nefondate",
+      "italian_lemma": "aspettative infondate",
+      "italian_definition": "Attese di risultati, efficacia o capacità professionali che non hanno un supporto adeguato nelle conoscenze e nelle circostanze disponibili.",
+      "localized_explanation": "Aşteptările privind rezultatele, eficacitatea sau competenţele profesionale care nu au un sprijin adecvat în cunoştinţele şi circumstanţele disponibile.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-professionale",
+      "term": "autonomie profesională",
+      "italian_lemma": "autonomia professionale",
+      "italian_definition": "Indipendenza tecnica e deontologica dello psicologo nella scelta e nell'uso responsabile di metodi, tecniche, strumenti e valutazioni.",
+      "localized_explanation": "Independența tehnică și deontologică a psihologului în alegerea și utilizarea responsabilă pentru metode, tehnici, instrumente și evaluări.",
+      "related_articles": [
+        6,
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "validita",
+      "term": "valabilitate",
+      "italian_lemma": "validità",
+      "italian_definition": "Grado in cui informazioni, strumenti o conclusioni sostengono realmente l'interpretazione o l'uso che se ne fa.",
+      "localized_explanation": "Gradul în care informațiile, instrumentele sau concluziile susțin într-adevăr interpretarea sau utilizarea acesteia.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "attendibilita",
+      "term": "fiabilitate",
+      "italian_lemma": "attendibilità",
+      "italian_definition": "Affidabilità di informazioni, dati, fonti o documentazione rispetto alla decisione professionale da assumere.",
+      "localized_explanation": "Fiabilitatea informațiilor, datelor, surselor sau documentației referitoare la decizia profesională care urmează să fie luată.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ipotesi-interpretative-alternative",
+      "term": "ipoteze interpretative alternative",
+      "italian_lemma": "ipotesi interpretative alternative",
+      "italian_definition": "Spiegazioni diverse plausibili che devono essere considerate quando dati e contesto non consentono una conclusione unica.",
+      "localized_explanation": "Explicații plauzibile diferite care trebuie luate în considerare atunci când datele și contextul nu permit o concluzie unică.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conoscenza-professionale-diretta",
+      "term": "cunoștințe profesionale directe",
+      "italian_lemma": "conoscenza professionale diretta",
+      "italian_definition": "Conoscenza acquisita personalmente dallo psicologo mediante attività professionali pertinenti sul caso.",
+      "localized_explanation": "Cunoștințe dobândite personal de către psiholog prin activități profesionale relevante în acest caz.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-adeguata-attendibile",
+      "term": "documentaţie adecvată şi fiabilă",
+      "italian_lemma": "documentazione adeguata ed attendibile",
+      "italian_definition": "Materiale sufficientemente pertinente, completo e affidabile per sostenere la specifica valutazione formulata.",
+      "localized_explanation": "Material suficient de relevant, complet și fiabil pentru a sprijini evaluarea specifică formulată.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "esercizio-abusivo",
+      "term": "exercitarea fără drept a profesiei",
+      "italian_lemma": "esercizio abusivo della professione",
+      "italian_definition": "Svolgimento senza i requisiti richiesti di attività riservate dalla legge a una professione abilitata.",
+      "localized_explanation": "Cererea fără cerințele necesare ale activităților rezervate prin lege unei profesii autorizate.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "usurpazione-di-titolo",
+      "term": "uzurparea titlului profesional",
+      "italian_lemma": "usurpazione di titolo",
+      "italian_definition": "Uso indebito di un titolo o qualità professionale che non spetta alla persona.",
+      "localized_explanation": "Utilizarea nejustificată a unui titlu profesional sau a unei calități care nu este responsabilitatea persoanei.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "previo-consenso-informato",
+      "term": "consimțământ informat prealabil",
+      "italian_lemma": "previo consenso informato",
+      "italian_definition": "Decisione libera e informata espressa prima dell'attività cui si riferisce, dopo informazioni adeguate.",
+      "localized_explanation": "O decizie liberă și informată exprimată înaintea activității menționate în prezentul raport, după informații adecvate.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ritiro-del-consenso",
+      "term": "retrage-ţi consimţământul",
+      "italian_lemma": "ritirare il consenso",
+      "italian_definition": "Revocare per il futuro il consenso precedentemente espresso, secondo le regole applicabili all'attività e ai dati già raccolti.",
+      "localized_explanation": "Revocarea pentru viitor a acordului prealabil, în conformitate cu normele aplicabile activității și datelor deja colectate.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorizzazione-uso-dati",
+      "term": "autorizarea utilizării datelor colectate",
+      "italian_lemma": "autorizzazione all'uso dei dati raccolti",
+      "italian_definition": "Assenso richiesto dall'art. 9 dopo il debriefing quando alcuni aspetti della ricerca non potevano essere spiegati correttamente in anticipo.",
+      "localized_explanation": "Assensus cerut de art. 9 după informare, atunci când unele aspecte ale cercetării nu au putut fi explicate corect în prealabil.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "potesta-genitoriale",
+      "term": "autoritate părintească",
+      "italian_lemma": "potestà genitoriale",
+      "italian_definition": "Espressione storica conservata nel testo ufficiale; nella terminologia giuridica italiana corrente è stata sostituita da responsabilità genitoriale.",
+      "localized_explanation": "Expresie istorică păstrată în textul oficial; în terminologia juridică actuală a fost înlocuită cu responsabilitatea părintească.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-giuridica",
+      "term": "protecție",
+      "italian_lemma": "tutela",
+      "italian_definition": "Istituto di protezione e rappresentanza previsto per persone che non possono provvedere autonomamente ai propri interessi nei casi stabiliti dalla legge.",
+      "localized_explanation": "Institutul de protecție și reprezentare a acordat persoanelor care nu își pot oferi în mod independent interesele în cazurile stabilite prin lege.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "non-riconoscibilita",
+      "term": "nerecunoașterea",
+      "italian_lemma": "non riconoscibilità",
+      "italian_definition": "Condizione per cui una persona non può essere individuata neppure combinando i dettagli messi a disposizione.",
+      "localized_explanation": "Condiție pentru care o persoană nu poate fi identificată nici măcar prin combinarea detaliilor puse la dispoziție.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "anonimato",
+      "term": "anonimitate",
+      "italian_lemma": "anonimato",
+      "italian_definition": "Condizione nella quale l'identità del soggetto non è ricavabile dalle informazioni disponibili con mezzi ragionevoli.",
+      "localized_explanation": "Condiție în care identitatea subiectului nu poate fi obținută din informațiile disponibile prin mijloace rezonabile.",
+      "related_articles": [
+        9,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "segreto-professionale",
+      "term": "secret profesional",
+      "italian_lemma": "segreto professionale",
+      "italian_definition": "Dovere dello psicologo di non rivelare informazioni apprese in ragione del rapporto professionale, salvo le deroghe o gli obblighi previsti.",
+      "localized_explanation": "Psihologul nu trebuie să dezvăluie informaţii învăţate în lumina relaţiei profesionale, cu excepţia excepţiilor sau obligaţiilor oferite.",
+      "related_articles": [
+        11,
+        12,
+        15,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rendere-testimonianza",
+      "term": "să depună mărturie",
+      "italian_lemma": "rendere testimonianza",
+      "italian_definition": "Deporre come testimone davanti all'autorità su fatti conosciuti, qui con specifico riferimento a quelli appresi nel rapporto professionale.",
+      "localized_explanation": "Depunând ca martor în faţa autorităţii pe fapte cunoscute, aici cu referinţă specifică la cei învăţaţi în relaţia profesională.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "deroga-segreto",
+      "term": "scutirea de obligația de a păstra secretul profesional",
+      "italian_lemma": "derogare all'obbligo di mantenere il segreto professionale",
+      "italian_definition": "Eccezione motivata alla regola di segretezza entro presupposti, destinatari e limiti specifici.",
+      "localized_explanation": "Excepție motivată de la regula secretului în cadrul unor ipoteze, beneficiari și limite specifice.",
+      "related_articles": [
+        12,
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-valido-dimostrabile",
+      "term": "consimţământ valabil şi demonstrativ",
+      "italian_lemma": "valido e dimostrabile consenso",
+      "italian_definition": "Consenso espresso da chi è legittimato, libero, informato, pertinente alla comunicazione e documentabile.",
+      "localized_explanation": "Consimţământul exprimat de cei care sunt legitimaţi, liberi, informaţi, relevanţi pentru comunicare şi documentabili.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-psicologica",
+      "term": "protecţie psihologică",
+      "italian_lemma": "tutela psicologica",
+      "italian_definition": "Protezione del benessere e dell'integrità psicologica della persona nel modo in cui si decide, comunica o conclude un intervento.",
+      "localized_explanation": "Protecția bunăstării și a integrității psihologice a persoanei în modul în care decide, comunică sau încheie o intervenție.",
+      "related_articles": [
+        12,
+        13,
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-referto",
+      "term": "obligația legală de raportare profesională",
+      "italian_lemma": "obbligo di referto",
+      "italian_definition": "Obbligo previsto dalla legge per l'esercente una professione sanitaria che presta assistenza od opera in casi che possono presentare i caratteri di un delitto perseguibile d'ufficio, con eccezioni e condizioni da verificare.",
+      "localized_explanation": "Obligația prevăzută de lege pentru exercitarea unei profesii medicale care oferă asistență sau lucrări în cazurile în care pot prezenta caracterele unei infracțiuni de serviciu persecutabil, cu excepții și condiții care trebuie verificate.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-denuncia",
+      "term": "obligația legală de sesizare",
+      "italian_lemma": "obbligo di denuncia",
+      "italian_definition": "Obbligo legale di comunicare una notizia di reato nei casi e per i soggetti individuati dalla legge, distinto dal referto.",
+      "localized_explanation": "Obligația legală de a comunica o veste de criminalitate în cazuri și pentru subiecte identificate de lege, distincte de raport.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "stretto-necessario",
+      "term": "strictul necesar",
+      "italian_lemma": "stretto necessario",
+      "italian_definition": "Solo le informazioni indispensabili per lo scopo giuridicamente o professionalmente legittimo della comunicazione.",
+      "localized_explanation": "Numai informațiile necesare în scopul legal sau profesional al comunicării.",
+      "related_articles": [
+        13,
+        15
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "gravi-pericoli",
+      "term": "pericole grave pentru viaţă sau sănătate psihofizică",
+      "italian_lemma": "gravi pericoli per la vita o per la salute psicofisica",
+      "italian_definition": "Rischi seri per vita o salute fisica e psicologica che richiedono una valutazione concreta di gravità, probabilità, urgenza e alternative.",
+      "localized_explanation": "Riscuri grave pentru viața fizică și psihologică sau sănătate care necesită o evaluare concretă a gravitației, probabilității, urgenței și alternativelor.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "custodia-controllo",
+      "term": "custodie și control",
+      "italian_lemma": "custodia e controllo",
+      "italian_definition": "Misure organizzative, fisiche e digitali con cui lo psicologo protegge documenti e comunicazioni da accessi, perdite o usi non autorizzati.",
+      "localized_explanation": "Măsuri organizatorice, fizice şi digitale cu care psihologul protejează documentele şi comunicaţiile de accesul neautorizat, pierderi sau utilizări.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-professionale",
+      "term": "documentația profesională",
+      "italian_lemma": "documentazione professionale",
+      "italian_definition": "Appunti, note, scritti, registrazioni e altri materiali riguardanti il rapporto professionale, indipendentemente dal supporto.",
+      "localized_explanation": "Note, note, scrieri, înregistrări și alte materiale privind relația profesională, indiferent de suport.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "liberta-di-scelta",
+      "term": "libertatea de alegere",
+      "italian_lemma": "libertà di scelta",
+      "italian_definition": "Possibilità concreta del cliente o paziente di scegliere il professionista senza pressioni indebite, nei limiti reali e legittimi del contesto.",
+      "localized_explanation": "Clientul sau pacientul poate alege profesionistul fără presiune nejustificată, în limitele reale și legitime ale contextului.",
+      "related_articles": [
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "avallare",
+      "term": "avalanşă",
+      "italian_lemma": "avallare",
+      "italian_definition": "Dare appoggio, legittimazione o copertura professionale a un'attività, decisione o qualifica.",
+      "localized_explanation": "Pentru a sprijini, legitima sau acoperi un loc de muncă, decizie sau calificare.",
+      "related_articles": [
+        8,
+        19,
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualificazione-preparazione",
+      "term": "competență, calificare sau pregătire",
+      "italian_lemma": "competenza, qualificazione o preparazione",
+      "italian_definition": "Criteri professionali pertinenti ai requisiti effettivi da valutare, distinti da preferenze o pressioni estranee.",
+      "localized_explanation": "Criterii profesionale relevante pentru cerințele reale care trebuie evaluate, distincte de preferințele sau presiunile străine.",
+      "related_articles": [
+        19
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-riservati",
+      "term": "instrumente și tehnici de cunoaștere și intervenție rezervate",
+      "italian_lemma": "strumenti e tecniche conoscitive e di intervento riservati",
+      "italian_definition": "Strumenti e tecniche la cui utilizzazione operativa rientra nelle attività caratteristiche o riservate della professione psicologica.",
+      "localized_explanation": "Instrumente și tehnici a căror utilizare operațională se încadrează în activitățile caracteristice sau rezervate profesiei psihologice.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-estranee-professione",
+      "term": "străinilor profesiei",
+      "italian_lemma": "persone estranee alla professione",
+      "italian_definition": "Persone che non appartengono alla professione abilitata cui sono riservati gli strumenti o le tecniche in questione, salve le eccezioni formative espresse.",
+      "localized_explanation": "Persoanele care nu fac parte din profesia autorizată pentru care sunt rezervate instrumentele sau tehnicile în cauză, cu excepția excepțiilor de formare.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aggravante",
+      "term": "agravante",
+      "italian_lemma": "aggravante",
+      "italian_definition": "Circostanza che rende più grave una condotta disciplinarmente rilevante e può incidere sulla sua valutazione e sanzione.",
+      "localized_explanation": "Circumstanţa care face ca un comportament mai grav să fie relevant din punct de vedere disciplinar şi care poate afecta evaluarea şi sancţionarea acestuia.",
+      "related_articles": [
+        21,
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualifiche-attestati",
+      "term": "calificări, certificate",
+      "italian_lemma": "qualifiche, attestati",
+      "italian_definition": "Denominazioni o documenti che dichiarano formazione o capacità; non equivalgono necessariamente a un titolo abilitante.",
+      "localized_explanation": "numele sau documentele care declară formarea sau capacitatea; Ele nu corespund neapărat unui titlu care permite.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "processi-psichici",
+      "term": "procese psihice",
+      "italian_lemma": "processi psichici",
+      "italian_definition": "Processi relazionali, emotivi, cognitivi e comportamentali considerati attraverso principi, modelli o costrutti psicologici.",
+      "localized_explanation": "Relația, procesele emoționale, cognitive și comportamentale luate în considerare prin principii psihologice, modele sau construcții.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "condotte-non-lesive",
+      "term": "conductori nevieți",
+      "italian_lemma": "condotte non lesive",
+      "italian_definition": "Comportamenti professionali orientati a evitare danni ingiustificati o prevedibili alle persone seguite, tenendo conto di rischi e benefici.",
+      "localized_explanation": "Comportamentele profesionale care vizează evitarea daunelor nejustificate sau previzibile pentru persoane au urmat, ținând seama de riscuri și beneficii.",
+      "related_articles": [
+        10,
+        22
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "vantaggi-indebiti",
+      "term": "Avantaje necuvenite",
+      "italian_lemma": "indebiti vantaggi",
+      "italian_definition": "Utilità patrimoniali o non patrimoniali ottenute senza giustificazione professionale, sfruttando ruolo, strumenti o rapporto.",
+      "localized_explanation": "Active sau active necapitalizate obținute fără justificare profesională, care exploatează rolul, instrumentele sau relația.",
+      "related_articles": [
+        22,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-professionale",
+      "term": "compensații profesionale",
+      "italian_lemma": "compenso professionale",
+      "italian_definition": "Corrispettivo economico pattuito per le prestazioni professionali rese.",
+      "localized_explanation": "Consideraţie economică pentru performanţa profesională.",
+      "related_articles": [
+        23,
+        28,
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "importanza-opera",
+      "term": "importanţa muncii",
+      "italian_lemma": "importanza dell'opera",
+      "italian_definition": "Rilievo, complessità, responsabilità e caratteristiche dell'attività professionale cui deve essere rapportata la misura del compenso.",
+      "localized_explanation": "Ajutor, complexitate, responsabilitate și caracteristici ale activității profesionale la care trebuie să se refere măsura de compensare.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-condizionato-esito",
+      "term": "compensații condiționate pentru rezultatul sau rezultatele",
+      "italian_lemma": "compenso condizionato all'esito o ai risultati",
+      "italian_definition": "Compenso la cui debenza o misura dipende dal raggiungimento dell'esito concordato; il testo lo vieta espressamente in ambito clinico.",
+      "localized_explanation": "Compensații a căror debandadă sau măsură depinde de obținerea rezultatului convenit; textul interzice în mod expres acest lucru în domeniul clinic.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-informato",
+      "term": "consimțământ informat",
+      "italian_lemma": "consenso informato",
+      "italian_definition": "Decisione libera e consapevole di chi ne ha diritto, fondata su informazioni adeguate e comprensibili circa prestazione, finalità, modalità e limiti pertinenti.",
+      "localized_explanation": "O decizie liberă și conștientă a celor care au dreptul la aceasta, bazată pe informații adecvate și ușor de înțeles cu privire la performanță, scop, metode și limite.",
+      "related_articles": [
+        9,
+        24,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-giuridici-riservatezza",
+      "term": "limitele de confidenţialitate şi de grad",
+      "italian_lemma": "grado e limiti giuridici della riservatezza",
+      "italian_definition": "Estensione concreta della confidenzialità e situazioni in cui la legge o il Codice possono imporre o consentire comunicazioni.",
+      "localized_explanation": "Confidențialitate și situații în care legea sau codul pot impune sau permite comunicațiile.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "chi-ne-ha-diritto",
+      "term": "Cine are dreptul",
+      "italian_lemma": "chi ne ha diritto",
+      "italian_definition": "Persona legittimata a esprimere il consenso nel caso concreto, da identificare in base a età, capacità, rappresentanza e disciplina applicabile.",
+      "localized_explanation": "Persoana care are dreptul de a-și exprima consimțământul în cazul concret, care trebuie identificată în funcție de vârstă, capacitate, reprezentare și disciplină aplicabilă.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "prevedibile-durata",
+      "term": "durata previzibilă",
+      "italian_lemma": "prevedibile durata",
+      "italian_definition": "Stima iniziale ragionevole della durata di una prestazione continuativa, da comunicare quando possibile e da aggiornare se cambia.",
+      "localized_explanation": "Estimarea inițială rezonabilă a duratei unei performanțe continue, care trebuie comunicată atunci când este posibil și actualizată dacă aceasta se modifică.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-diagnosi-valutazione",
+      "term": "instrumente de diagnosticare și evaluare",
+      "italian_lemma": "strumenti di diagnosi e di valutazione",
+      "italian_definition": "Test, metodi e procedure utilizzati per raccogliere e interpretare informazioni a fini diagnostici o valutativi.",
+      "localized_explanation": "Testarea, metodele și procedurile utilizate pentru colectarea și interpretarea informațiilor în scopuri de diagnosticare sau de evaluare.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-del-mandato",
+      "term": "limitele mandatului primit",
+      "italian_lemma": "limiti del mandato ricevuto",
+      "italian_definition": "Confini di scopo, ruolo, attività e comunicazione stabiliti dall'incarico legittimo e dalle regole applicabili.",
+      "localized_explanation": "Scopul, rolul, activitatea și comunicarea definite de sarcina legitimă și de normele aplicabile.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pregiudizio",
+      "term": "prejudecată",
+      "italian_lemma": "pregiudizio",
+      "italian_definition": "Danno o conseguenza sfavorevole che l'uso o la comunicazione di informazioni può arrecare al soggetto.",
+      "localized_explanation": "Este nefavorabil faptul că utilizarea sau comunicarea informațiilor pot face obiectul acestui subiect.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "astensione-professionale",
+      "term": "se abține de la angajarea sau continuarea",
+      "italian_lemma": "si astiene dall'intraprendere o dal proseguire",
+      "italian_definition": "Non iniziare oppure interrompere prudentemente un'attività quando ricorrono le condizioni di incompatibilità o dannosità indicate.",
+      "localized_explanation": "Nu începeţi sau nu întrerupeţi o sarcină cu prudenţă atunci când sunt îndeplinite condiţiile de incompatibilitate sau de nocivitate indicate.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "problemi-conflitti-personali",
+      "term": "probleme personale sau conflicte",
+      "italian_lemma": "problemi o conflitti personali",
+      "italian_definition": "Condizioni personali del professionista che possono interferire con efficacia, adeguatezza o sicurezza della prestazione.",
+      "localized_explanation": "Condiţiile personale ale profesionistului care poate interveni eficient, adecvare sau siguranţă a performanţei.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-giudiziaria",
+      "term": "Autoritățile judiciare",
+      "italian_lemma": "Autorità Giudiziaria",
+      "italian_definition": "Organi che esercitano funzioni giudiziarie secondo l'ordinamento; una loro richiesta non elimina i limiti deontologici e di competenza.",
+      "localized_explanation": "organele care exercită funcții judiciare în conformitate cu ordinul; cererea lor nu elimină limitele și competențele deontologice.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-terapeutico",
+      "term": "relaţie terapeutică",
+      "italian_lemma": "rapporto terapeutico",
+      "italian_definition": "Relazione professionale continuativa orientata alla cura psicologica del paziente.",
+      "localized_explanation": "Raportul profesional continuu orientat către îngrijirea psihologică a pacientului.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ragionevolmente-prevedibile-beneficio",
+      "term": "previzibil în mod rezonabil",
+      "italian_lemma": "ragionevolmente prevedibile",
+      "italian_definition": "Valutazione prognostica prudente fondata sulle conoscenze e sull'andamento del caso, non certezza matematica.",
+      "localized_explanation": "evaluarea prudentă a predicției bazată pe cunoaștere și pe progresul cazului, nu pe certitudinea matematică.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "commistioni-ruolo-vita-privata",
+      "term": "mixuri între rolul profesional și viața privată",
+      "italian_lemma": "commistioni tra il ruolo professionale e vita privata",
+      "italian_definition": "Sovrapposizioni fra relazione professionale e sfera personale capaci di interferire con il lavoro o danneggiare l'immagine della professione.",
+      "localized_explanation": "Suprapunerea relaţiilor profesionale şi a sferei personale capabile să interfereze cu munca sau să deterioreze imaginea profesiei.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "nocumento",
+      "term": "Înrolarea nocure",
+      "italian_lemma": "arrecare nocumento",
+      "italian_definition": "Causare danno o pregiudizio.",
+      "localized_explanation": "Cauzează daune sau răni.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "relazioni-significative-personali",
+      "term": "relaţii personale semnificative",
+      "italian_lemma": "relazioni significative di natura personale",
+      "italian_definition": "Legami personali rilevanti, presenti o passati, in particolare affettivi, sentimentali o sessuali, capaci di rendere incompatibili alcuni interventi professionali.",
+      "localized_explanation": "Legăturile personale relevante, prezente sau trecute, în special afective, sentimentale sau sexuale, capabile să facă incompatibile unele intervenții profesionale.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "patrimoniale-non-patrimoniale",
+      "term": "active sau active necapitalizate",
+      "italian_lemma": "patrimoniale o non patrimoniale",
+      "italian_definition": "Riferito sia a utilità economicamente valutabili sia a benefici non economici, come favori, prestigio, accessi o relazioni.",
+      "localized_explanation": "Referindu-se atât la beneficii viabile din punct de vedere economic, cât și la beneficii neeconomice, cum ar fi favoruri, prestigiu, accese sau relații.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "supervisione",
+      "term": "supravegherea",
+      "italian_lemma": "supervisione",
+      "italian_definition": "Relazione professionale in cui un collega più esperto sostiene e valuta la riflessione sul lavoro di un altro professionista.",
+      "localized_explanation": "Raportul profesional în care un coleg mai experimentat sprijină și evaluează reflecția asupra activității unui alt profesionist.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tirocinanti",
+      "term": "Traineri",
+      "italian_lemma": "tirocinanti",
+      "italian_definition": "Persone impegnate in un percorso pratico-formativo supervisionato e non per questo abilitate all'esercizio autonomo.",
+      "localized_explanation": "Persoanele angajate într-o cale de supraveghere practică și nu pentru ca acest lucru să poată exercita o activitate autonomă.",
+      "related_articles": [
+        20,
+        21,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "presidi-istituti-luoghi-cura",
+      "term": "Carieră, institute sau locuri de îngrijire",
+      "italian_lemma": "presidi, istituti o luoghi di cura",
+      "italian_definition": "Strutture, servizi o contesti organizzati nei quali vengono erogate attività sanitarie o di cura.",
+      "localized_explanation": "Structuri, servicii sau contexte în care sunt furnizate activități de sănătate sau de îngrijire.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fondati-motivi-scientifico-professionali",
+      "term": "motive de fondare a unei naturi ştiinţifice şi profesionale",
+      "italian_lemma": "fondati motivi di natura scientifico-professionale",
+      "italian_definition": "Ragioni documentabili di appropriatezza, sicurezza, qualità o necessità tecnica, non convenienza personale o commerciale.",
+      "localized_explanation": "Motivele care pot fi justificate pentru adecvare, siguranță, calitate sau necesitate tehnică, confortul non-personal sau comercial.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "corrispettivo",
+      "term": "Competitivitatea",
+      "italian_lemma": "corrispettivo",
+      "italian_definition": "Prestazione economica dovuta in cambio di una prestazione professionale reale.",
+      "localized_explanation": "Performanță economică datorată în schimbul unei performanțe profesionale reale.",
+      "related_articles": [
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-minorenni",
+      "term": "minori",
+      "italian_lemma": "persone minorenni",
+      "italian_definition": "Persone che non hanno raggiunto la maggiore età; devono essere informate e coinvolte secondo età, maturità e disciplina applicabile.",
+      "localized_explanation": "oameni care nu au ajuns la vârsta; trebuie să fie informat și implicat în funcție de vârstă, maturitate și disciplina aplicabilă.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "interdette",
+      "term": "Interdependent",
+      "italian_lemma": "interdette",
+      "italian_definition": "Termine giuridico tradizionale riferito a persone sottoposte a interdizione; il quadro italiano della capacità e delle misure di protezione è oggi più articolato.",
+      "localized_explanation": "Termenul juridic tradițional pentru persoanele care fac obiectul unei interdicții; Cadrul italian al măsurilor de capacitate și protecție este acum mai articulat.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-tutoria",
+      "term": "autoritate tutelară",
+      "italian_lemma": "Autorità Tutoria",
+      "italian_definition": "Formula storica del testo del Codice che rinvia all'autorità competente in materia di tutela nel caso concreto.",
+      "localized_explanation": "Formula istorică a textului codului care se referă la autoritatea competentă în materie de protecție în cazul concret.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-legalmente-competente",
+      "term": "autoritatea juridică competentă",
+      "italian_lemma": "autorità legalmente competente",
+      "italian_definition": "Autorità cui una norma attribuisce il potere di disporre quella specifica prestazione o decisione.",
+      "localized_explanation": "Autoritatea căreia o normă îi conferă competența de a plasa respectiva performanță sau decizie specifică.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strutture-legislativamente-preposte",
+      "term": "structuri legislative",
+      "italian_lemma": "strutture legislativamente preposte",
+      "italian_definition": "Servizi o strutture cui la legge attribuisce espressamente la funzione di erogare o disporre determinate prestazioni.",
+      "localized_explanation": "Servicii sau facilități cărora legea le atribuie în mod expres funcția de furnizare sau furnizare a anumitor servicii.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "parti-in-causa",
+      "term": "părți în cauză",
+      "italian_lemma": "parti in causa",
+      "italian_definition": "Tutti i soggetti concretamente coinvolti nel mandato e nella prestazione, non necessariamente soltanto parti di un processo giudiziario.",
+      "localized_explanation": "Toți persoanele implicate în mandat și în executarea mandatului, nu sunt neapărat doar părți ale unui proces judiciar.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "natura-finalita-intervento",
+      "term": "natura și scopul intervenției",
+      "italian_lemma": "natura e finalità dell'intervento",
+      "italian_definition": "Che tipo di attività verrà svolta e per quale scopo, inclusi il ruolo dello psicologo e l'uso previsto dei risultati.",
+      "localized_explanation": "Ce fel de activitate se va desfăşura şi în ce scop, inclusiv rolul psihologului şi utilizarea preconizată a rezultatelor.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "colleganza",
+      "term": "Dreptul comunitar",
+      "italian_lemma": "colleganza",
+      "italian_definition": "Solidarietà professionale leale e rispettosa fra colleghi, compatibile con il dissenso e con il dovere di segnalare condotte scorrette.",
+      "localized_explanation": "Comisia propune o nouă directivă privind protecţia mediului, care reprezintă un pas foarte important în direcţia Uniunii Europene.",
+      "related_articles": [
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "comunita-professionale",
+      "term": "comunitate profesională",
+      "italian_lemma": "comunità professionale",
+      "italian_definition": "Insieme dei professionisti, organismi e contesti scientifici che partecipano allo sviluppo e alla regolazione della disciplina.",
+      "localized_explanation": "Împreună cu profesioniști, organisme și contexte științifice care participă la dezvoltarea și reglementarea disciplinei.",
+      "related_articles": [
+        34
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fonte-altrui-contributi",
+      "term": "sursa altor contribuții",
+      "italian_lemma": "fonte degli altrui contributi",
+      "italian_definition": "Origine riconoscibile di idee, dati, testi, metodi o lavoro forniti da altre persone e utilizzati nella ricerca presentata.",
+      "localized_explanation": "Originea recunoscută a ideilor, datelor, textelor, metodelor sau muncii furnizate de alte persoane și utilizate în cercetarea prezentată.",
+      "related_articles": [
+        35
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "sottrarre-clientela",
+      "term": "scadere clienti",
+      "italian_lemma": "sottrarre clientela",
+      "italian_definition": "Attirare verso di sé clienti o pazienti di un collega mediante giudizi pubblici negativi o lesivi sul collega stesso.",
+      "localized_explanation": "Atrageți-i pe clienții sau pe pacienții unui coleg la el însuși prin hotărâri publice negative sau dăunătoare asupra colegului său.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tempestiva-comunicazione",
+      "term": "comunicarea promptă",
+      "italian_lemma": "tempestiva comunicazione",
+      "italian_definition": "Segnalazione effettuata senza ritardo ingiustificato, con fatti e informazioni necessari, al Consiglio dell'Ordine competente.",
+      "localized_explanation": "Raportul prezentat fără întârziere nejustificată, cu faptele și informațiile necesare, Consiliului Ordonanței competente.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consiglio-ordine-competente",
+      "term": "Consiliul ordinii competente",
+      "italian_lemma": "Consiglio dell'Ordine competente",
+      "italian_definition": "Organo territoriale dell'Ordine individuato dalle regole di competenza applicabili al caso.",
+      "localized_explanation": "Ordinul teritorial al ordonanței identificat prin normele de competență aplicabile cauzei.",
+      "related_articles": [
+        36,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "mandato-professionale",
+      "term": "mandat profesional",
+      "italian_lemma": "mandato professionale",
+      "italian_definition": "Incarico affidato allo psicologo con uno scopo, un ruolo, limiti e responsabilità definiti.",
+      "localized_explanation": "Incarios încredinţat psihologului cu un scop, un rol, limite şi responsabilităţi definite.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consulenza-invio",
+      "term": "consiliere sau trimitere",
+      "italian_lemma": "consulenza ovvero l'invio",
+      "italian_definition": "Ricorso al contributo di un'altra competenza oppure orientamento della persona verso un collega o altro professionista più adatto.",
+      "localized_explanation": "Recurgerea la contribuția unei alte competențe sau orientări a persoanei față de un coleg sau alt profesionist adecvat.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rappresenta-pubblicamente-professione",
+      "term": "reprezintă în mod public profesia",
+      "italian_lemma": "rappresenta pubblicamente la professione",
+      "italian_definition": "Si presenta o interviene davanti al pubblico in modo riconoscibile come psicologo o portatore di una voce professionale.",
+      "localized_explanation": "Se prezintă sau intervine în faţa publicului într-un mod recunoscut ca psiholog sau purtător al unei voci profesionale.",
+      "related_articles": [
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-esperienza-competenza",
+      "term": "formare, experiență și expertiză",
+      "italian_lemma": "formazione, esperienza e competenza",
+      "italian_definition": "Tre dimensioni distinte della presentazione professionale: percorso formativo, pratica maturata e capacità effettiva di svolgere un compito.",
+      "localized_explanation": "Trei dimensiuni distincte ale prezentării profesionale: curs de formare, practică matură și capacitate eficientă de a îndeplini o sarcină.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "libero-consapevole-giudizio",
+      "term": "liber şi conştient",
+      "italian_lemma": "libero e consapevole",
+      "italian_definition": "Capace di formarsi senza coercizioni o manipolazioni e sulla base di informazioni sufficienti a comprendere le alternative.",
+      "localized_explanation": "Este responsabilitatea de a forma fără constrângere sau manipulare și pe baza unor informații suficiente pentru a înțelege alternativele.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "procacciamento-clientela",
+      "term": "racolarea necorespunzătoare a clientelei",
+      "italian_lemma": "procacciamento della clientela",
+      "italian_definition": "Acquisizione di clienti mediante condotte promozionali; nell'art. 40 rileva quando perseguita con comportamenti pubblici scorretti.",
+      "localized_explanation": "Achizitia de clienti prin intermediul comportamentului promotional; în artă. 40 detectează atunci când sunt persecutate cu comportament public incorect.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pubblicita-informativa",
+      "term": "publicitate informativă",
+      "italian_lemma": "pubblicità informativa",
+      "italian_definition": "Comunicazione promozionale ammessa per informare su titoli, specializzazioni, servizi e costi nel rispetto delle condizioni deontologiche e legali.",
+      "localized_explanation": "Admiterea pentru a informa despre titluri, specializări, servicii și costuri în conformitate cu condițiile deontologice și juridice.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "trasparenza-veridicita",
+      "term": "transparenţă şi sinceritate",
+      "italian_lemma": "trasparenza e veridicità",
+      "italian_definition": "Requisiti per cui il messaggio è comprensibile e completo negli elementi rilevanti e non contiene affermazioni false o fuorvianti.",
+      "localized_explanation": "Cerințe pentru care mesajul este înțeles și completat în elementele relevante și nu conține declarații false sau înșelătoare.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "serieta-scientifica",
+      "term": "Seriozitate științifică",
+      "italian_lemma": "serietà scientifica",
+      "italian_definition": "Coerenza del messaggio con prove, limiti e linguaggio responsabile propri della conoscenza scientifica disponibile.",
+      "localized_explanation": "Coerența mesajului cu dovezi, limite și limbaj responsabil al cunoștințelor științifice disponibile.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "osservatorio-permanente",
+      "term": "Observatorul permanent al Codului Deontologic",
+      "italian_lemma": "Osservatorio permanente sul Codice Deontologico",
+      "italian_definition": "Organismo istituito presso la Commissione Deontologia del CNOP per raccogliere materiali, monitorare criticità e contribuire a indirizzi e proposte di revisione.",
+      "localized_explanation": "Organizatia infiintata de Comisia de Deontologie CNOP pentru colectarea materialelor, monitorizarea criticii si contributia la adresele si propunerile de revizuire.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "giurisprudenza-deontologica",
+      "term": "Jurisprudenţa în materie deontologică",
+      "italian_lemma": "giurisprudenza in materia deontologica",
+      "italian_definition": "Insieme delle decisioni e degli orientamenti formati nei procedimenti disciplinari; le decisioni territoriali non sono automaticamente precedenti nazionali vincolanti.",
+      "localized_explanation": "Comisia a adoptat, de asemenea, o propunere de directivă privind protecția lucrătorilor împotriva riscurilor de expunere la substanțe periculoase. Deciziile teritoriale nu sunt precedente naționale obligatorii automat.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "revisione-periodica",
+      "term": "Revizuirea periodică a Codului de deontologie",
+      "italian_lemma": "revisione periodica del Codice Deontologico",
+      "italian_definition": "Procedimento istituzionale di aggiornamento del testo del Codice secondo competenze e modalità previste dalla legge.",
+      "localized_explanation": "Procedura instituțională de actualizare a textului codului în conformitate cu competențele și procedurile juridice.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "referendum-approvazione",
+      "term": "referendum privind aprobarea",
+      "italian_lemma": "referendum di approvazione",
+      "italian_definition": "Votazione degli iscritti prevista dalla legge per approvare il Codice predisposto o aggiornato dal CNOP.",
+      "localized_explanation": "Votați pentru membrii prevăzute de lege pentru a aproba codul furnizat sau actualizat de CNOP.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "proclamazione-risultati",
+      "term": "Proclamarea rezultatelor",
+      "italian_lemma": "proclamazione dei risultati",
+      "italian_definition": "Atto ufficiale con cui vengono dichiarati i risultati del referendum e dal quale l'art. 42 fa decorrere il termine per l'entrata in vigore.",
+      "localized_explanation": "Actul oficial cu care sunt declarate rezultatele referendumului și din care art. 42 intră în vigoare termenul de intrare în vigoare.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "entrata-in-vigore",
+      "term": "intră în vigoare",
+      "italian_lemma": "entra in vigore",
+      "italian_definition": "Momento dal quale il testo acquista efficacia vincolante secondo la regola temporale applicabile.",
+      "localized_explanation": "Perioada de la care textul dobândește eficacitate obligatorie în conformitate cu regula aplicabilă a timpului.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    }
+  ]
+}

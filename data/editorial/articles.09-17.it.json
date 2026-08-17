@@ -1,0 +1,749 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Schede didattiche italiane - Articoli 9-17",
+  "language": "it",
+  "code_version": {
+    "status": "vigente",
+    "effective_from": "2024-12-24",
+    "official_source_id": "cnop-codice-vigente",
+    "checked_on": "2026-08-13"
+  },
+  "editorial_status": "draft_needs_deontological_legal_review",
+  "notices": [
+    "I titoli, le unità di significato, i commenti, gli esempi e le flashcard sono redazionali e non fanno parte del testo ufficiale.",
+    "Il contenuto è didattico e non sostituisce il parere dell'Ordine competente o una consulenza legale sul caso concreto.",
+    "Gli esempi ipotetici non permettono di concludere automaticamente che una condotta reale costituisca illecito: servono fatti provati, contestazione e procedimento.",
+    "Le fonti di commento e i pareri territoriali non costituiscono interpretazioni autentiche del Codice; le norme vigenti prevalgono sempre sulle sintesi didattiche.",
+    "In materia di segreto, testimonianza, referto e denuncia la qualificazione giuridica dipende dal ruolo esercitato e dai fatti concreti."
+  ],
+  "source_catalog": [
+    {
+      "id": "cnop-codice-vigente",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Testo vigente del Codice Deontologico degli psicologi italiani",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/",
+      "kind": "testo_ufficiale"
+    },
+    {
+      "id": "aip-codice-ricerca-2022",
+      "authority": "Associazione Italiana di Psicologia",
+      "title": "Codice etico per la ricerca in psicologia",
+      "year": 2022,
+      "local_file": "research/sources/aip-codice-etico-ricerca-2022.pdf",
+      "kind": "codice_etico_integrativo_non_cnop"
+    },
+    {
+      "id": "gdpr",
+      "authority": "Unione europea",
+      "title": "Regolamento (UE) 2016/679",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "dlgs-26-2014",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Decreto legislativo 4 marzo 2014, n. 26 - Protezione degli animali utilizzati a fini scientifici",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cp-art-622",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice penale, art. 622 - Rivelazione di segreto professionale",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art622=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cpp-art-200",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice di procedura penale, art. 200 - Segreto professionale",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art200=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "legge-3-2018",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Legge 11 gennaio 2018, n. 3 - Professioni sanitarie",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;3=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cp-art-365",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice penale, art. 365 - Omissione di referto",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art365=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cpp-art-331",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice di procedura penale, art. 331 - Denuncia da parte di pubblici ufficiali e incaricati di pubblico servizio",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.Presidente.della.Repubblica:1988-09-22;447~art331!vig=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cpp-art-334",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice di procedura penale, art. 334 - Referto",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art334-com1=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "fvg-100-domande",
+      "authority": "Ordine degli Psicologi del Friuli Venezia Giulia",
+      "title": "100 domande e 100 risposte sul Codice Deontologico degli Psicologi",
+      "year": 2018,
+      "local_file": "research/sources/ordine-fvg-100-domande-100-risposte-2018.pdf",
+      "kind": "commento_istituzionale_non_autentico",
+      "compatibility_note": "Guida divulgativa anteriore ad alcune modifiche normative; utilizzata soltanto dopo verifica sulle fonti vigenti."
+    },
+    {
+      "id": "oper-parere-referto-2021",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Parere legale in materia di obbligo di referto",
+      "year": 2021,
+      "local_file": "research/sources/ordine-er-parere-obbligo-referto-2021.pdf",
+      "kind": "parere_legale_istituzionale_non_vincolante",
+      "compatibility_note": "Il parere è un ausilio interpretativo e va verificato rispetto alla normativa vigente e al caso concreto."
+    }
+  ],
+  "articles": [
+    {
+      "number": 9,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Consenso e tutela dei partecipanti alla ricerca",
+      "title_is_official": false,
+      "official_text": "Nella sua attività di ricerca lo psicologo è tenuto ad informare adeguatamente i soggetti in essa coinvolti al fine di ottenerne il previo consenso informato, anche relativamente al nome, allo status scientifico e professionale del ricercatore ed alla sua eventuale istituzione di appartenenza. Egli deve altresì garantire a tali soggetti la piena libertà di concedere, di rifiutare ovvero di ritirare il consenso stesso.Nell’ipotesi in cui la natura della ricerca non consenta di informare preventivamente e correttamente i soggetti su taluni aspetti della ricerca stessa, lo psicologo ha l’obbligo di fornire comunque, alla fine della prova ovvero della raccolta dei dati, le informazioni dovute e di ottenere l’autorizzazione all’uso dei dati raccolti. Per quanto concerne i soggetti che, per età o per altri motivi, non sono in grado di esprimere validamente il loro consenso, questo deve essere dato da chi ne ha la potestà genitoriale o la tutela, e, altresì, dai soggetti stessi, ove siano in grado di comprendere la natura della collaborazione richiesta. Deve essere tutelato, in ogni caso, il diritto dei soggetti alla riservatezza, alla non riconoscibilità ed all’anonimato.",
+      "core_message": "La ricerca psicologica richiede informazione adeguata, scelta libera e revocabile, protezioni rafforzate per chi non può consentire validamente e tutela costante della riservatezza.",
+      "meaning_units": [
+        {
+          "id": "9-u1",
+          "official_fragment": "Nella sua attività di ricerca lo psicologo è tenuto ad informare adeguatamente i soggetti in essa coinvolti al fine di ottenerne il previo consenso informato,",
+          "label": "Informazione prima del consenso",
+          "comment_it": "Il consenso alla partecipazione deve essere preceduto da informazioni comprensibili e proporzionate alla ricerca: scopo, attività richieste, durata, rischi e disagi prevedibili, benefici attesi, gestione dei dati e contatti utili. Una firma isolata non sostituisce il processo informativo."
+        },
+        {
+          "id": "9-u2",
+          "official_fragment": "anche relativamente al nome, allo status scientifico e professionale del ricercatore ed alla sua eventuale istituzione di appartenenza.",
+          "label": "Identità e ruolo del ricercatore",
+          "comment_it": "Il partecipante deve poter capire chi conduce lo studio, con quale qualifica e per quale eventuale istituzione. Queste informazioni aiutano a valutare responsabilità, contatti e possibili conflitti di ruolo."
+        },
+        {
+          "id": "9-u3",
+          "official_fragment": "Egli deve altresì garantire a tali soggetti la piena libertà di concedere, di rifiutare ovvero di ritirare il consenso stesso.",
+          "label": "Libertà di scelta e revoca",
+          "comment_it": "Partecipare, non partecipare o ritirarsi deve essere possibile senza pressioni o conseguenze improprie. Dipendenza accademica, clinica, lavorativa o economica richiede cautele aggiuntive. Il ritiro dalla ricerca e il trattamento dei dati già raccolti vanno spiegati con precisione nell'informativa."
+        },
+        {
+          "id": "9-u4",
+          "official_fragment": "Nell’ipotesi in cui la natura della ricerca non consenta di informare preventivamente e correttamente i soggetti su taluni aspetti della ricerca stessa,",
+          "label": "Informazione iniziale necessariamente incompleta",
+          "comment_it": "L'informazione incompleta non è una scorciatoia metodologica. Deve essere realmente necessaria per la validità dello studio, circoscritta e compatibile con la protezione dei partecipanti; rischi o disagi rilevanti non vanno occultati."
+        },
+        {
+          "id": "9-u5",
+          "official_fragment": "lo psicologo ha l’obbligo di fornire comunque, alla fine della prova ovvero della raccolta dei dati, le informazioni dovute e di ottenere l’autorizzazione all’uso dei dati raccolti.",
+          "label": "Debriefing e autorizzazione successiva",
+          "comment_it": "Conclusa la prova o la raccolta, il ricercatore deve colmare l'informazione mancante e chiedere l'autorizzazione all'uso dei dati. Il debriefing deve permettere una scelta reale, non limitarsi a rivelare tardivamente lo scopo."
+        },
+        {
+          "id": "9-u6",
+          "official_fragment": "Per quanto concerne i soggetti che, per età o per altri motivi, non sono in grado di esprimere validamente il loro consenso, questo deve essere dato da chi ne ha la potestà genitoriale o la tutela, e, altresì, dai soggetti stessi, ove siano in grado di comprendere la natura della collaborazione richiesta.",
+          "label": "Consenso del rappresentante e coinvolgimento del soggetto",
+          "comment_it": "Quando il soggetto non può prestare un consenso valido, occorre quello di chi è giuridicamente legittimato e, se il soggetto comprende la collaborazione richiesta, anche la sua adesione. Il testo ufficiale usa «potestà genitoriale»; nella pratica la legittimazione e l'attuale terminologia civilistica vanno verificate nel caso concreto."
+        },
+        {
+          "id": "9-u7",
+          "official_fragment": "Deve essere tutelato, in ogni caso, il diritto dei soggetti alla riservatezza, alla non riconoscibilità ed all’anonimato.",
+          "label": "Riservatezza e non identificabilità",
+          "comment_it": "La protezione vale durante raccolta, analisi, conservazione e pubblicazione. Codici o pseudonimi riducono il rischio ma non rendono automaticamente anonimi i dati: se la persona può essere reidentificata, si tratta ancora di dati personali e servono misure adeguate."
+        }
+      ],
+      "in_practice": [
+        "Preparare informativa e procedura di consenso coerenti con partecipanti, metodo, rischi e trattamento dei dati.",
+        "Separare concettualmente il consenso a partecipare dalla base giuridica e dall'informativa per il trattamento dei dati personali.",
+        "Documentare necessità, limiti e debriefing quando alcuni aspetti non possono essere rivelati prima.",
+        "Progettare minimizzazione, accessi, pseudonimizzazione e pubblicazione non riconoscibile fin dall'inizio."
+      ],
+      "frequent_mistakes": [
+        "Trattare la firma come prova sufficiente di un consenso realmente informato e libero.",
+        "Confondere dati pseudonimizzati con dati anonimi.",
+        "Usare una descrizione ingannevole senza debriefing e senza nuova autorizzazione all'uso dei dati.",
+        "Chiedere soltanto il consenso del rappresentante senza coinvolgere il soggetto capace di comprendere."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "In uno studio universitario il ricercatore presenta un compito come neutro, pur sapendo che include una procedura fortemente stressante; al termine non spiega l'inganno e usa comunque dati identificabili nelle pubblicazioni.",
+        "analysis": "La condotta può coinvolgere informazione sui rischi, necessità e limiti dell'informazione incompleta, debriefing, autorizzazione all'uso dei dati e non riconoscibilità. La valutazione reale dipenderebbe anche dal protocollo approvato e dalla disciplina sulla protezione dei dati.",
+        "possible_related_articles": [3, 4, 5, 17]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679, artt. 5, 13 e 89",
+          "relevance": "Impone principi di trasparenza, minimizzazione e sicurezza e, per la ricerca, garanzie tecniche e organizzative adeguate, inclusa la pseudonimizzazione quando pertinente.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "9-f1", "type": "richiamo", "front": "Quali scelte sul consenso alla ricerca devono restare libere?", "back": "Concederlo, rifiutarlo e ritirarlo.", "official_anchor": "piena libertà di concedere, di rifiutare ovvero di ritirare"},
+        {"id": "9-f2", "type": "scenario", "front": "La finalità non può essere rivelata interamente prima della prova. Che cosa richiede l'art. 9 alla fine?", "back": "Fornire le informazioni dovute e ottenere l'autorizzazione all'uso dei dati raccolti.", "official_anchor": "alla fine ... le informazioni dovute"},
+        {"id": "9-f3", "type": "discriminazione", "front": "Pseudonimizzazione e anonimato sono equivalenti?", "back": "No. Se la reidentificazione resta possibile, i dati pseudonimizzati sono ancora dati personali; l'art. 9 richiede comunque tutela della non riconoscibilità e dell'anonimato.", "official_anchor": "riservatezza, alla non riconoscibilità ed all’anonimato"},
+        {"id": "9-f4", "type": "collegamento", "front": "Quale disciplina completa l'art. 9 per il trattamento dei dati di ricerca?", "back": "Il GDPR, in particolare i principi generali, l'informativa e le garanzie per ricerca previste dall'art. 89.", "official_anchor": "uso dei dati raccolti"}
+      ],
+      "tags": ["ricerca", "consenso", "debriefing", "minori", "privacy", "anonimato"],
+      "source_ids": ["cnop-codice-vigente", "aip-codice-ricerca-2022", "gdpr"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 10,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Rispetto e protezione degli animali",
+      "title_is_official": false,
+      "official_text": "Quando le attività professionali hanno ad oggetto il comportamento degli animali, lo psicologo si impegna a rispettarne la natura ed a evitare loro sofferenze.",
+      "core_message": "Nelle attività professionali sul comportamento animale, lo psicologo deve rispettare le caratteristiche della specie e prevenire sofferenze evitabili.",
+      "meaning_units": [
+        {
+          "id": "10-u1",
+          "official_fragment": "Quando le attività professionali hanno ad oggetto il comportamento degli animali, lo psicologo si impegna a rispettarne la natura",
+          "label": "Rispetto della natura dell'animale",
+          "comment_it": "Progettazione, ambiente, manipolazione e osservazione devono essere compatibili con bisogni, capacità e comportamento della specie. La competenza richiesta include anche il riconoscimento dei segnali di stress."
+        },
+        {
+          "id": "10-u2",
+          "official_fragment": "ed a evitare loro sofferenze.",
+          "label": "Prevenzione della sofferenza",
+          "comment_it": "Il dovere orienta a eliminare procedure dolorose non necessarie, ridurre al minimo quelle inevitabili e interrompere o modificare l'attività quando il benessere è compromesso. Nella ricerca regolata si collega ai principi di sostituzione, riduzione e perfezionamento."
+        }
+      ],
+      "in_practice": [
+        "Verificare che finalità, specie, numerosità e procedura siano giustificate e autorizzate quando richiesto.",
+        "Preferire metodi sostitutivi e progettare condizioni che riducano stress, dolore e numero di animali.",
+        "Affidare procedure e monitoraggio a personale competente, con criteri di interruzione definiti."
+      ],
+      "frequent_mistakes": [
+        "Ritenere sufficiente l'utilità scientifica senza valutare alternative e benessere animale.",
+        "Ignorare segnali comportamentali di sofferenza perché non vi sono lesioni evidenti.",
+        "Applicare automaticamente la disciplina della sperimentazione animale a ogni osservazione, senza verificarne l'ambito."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Per replicare una dimostrazione già ben documentata, un ricercatore usa numerosi animali e stimoli avversivi intensi, senza valutare un metodo alternativo validato né predisporre criteri di interruzione.",
+        "analysis": "Il caso contrasta potenzialmente con il rispetto della natura e con l'obbligo di evitare sofferenze; se rientra nella ricerca scientifica regolata, richiede anche verifica secondo il d.lgs. n. 26/2014.",
+        "possible_related_articles": [3, 5, 9]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "D.lgs. n. 26/2014",
+          "relevance": "Per gli animali utilizzati a fini scientifici disciplina autorizzazioni, competenze e principi di sostituzione, riduzione e perfezionamento; il suo campo di applicazione va verificato per la singola attività.",
+          "source_id": "dlgs-26-2014"
+        }
+      ],
+      "flashcards": [
+        {"id": "10-f1", "type": "richiamo", "front": "Quali due doveri esprime l'art. 10?", "back": "Rispettare la natura degli animali ed evitare loro sofferenze.", "official_anchor": "rispettarne la natura ed a evitare loro sofferenze"},
+        {"id": "10-f2", "type": "scenario", "front": "Una procedura provoca stress ma non lesioni visibili: l'art. 10 può essere rilevante?", "back": "Sì. Il divieto riguarda la sofferenza, non soltanto il danno fisico evidente.", "official_anchor": "evitare loro sofferenze"},
+        {"id": "10-f3", "type": "discriminazione", "front": "Ogni attività sul comportamento animale ricade automaticamente nel d.lgs. n. 26/2014?", "back": "No. L'art. 10 ha formulazione professionale ampia; l'applicabilità della normativa sulla ricerca animale dipende dal suo specifico campo di applicazione.", "official_anchor": "attività professionali ... comportamento degli animali"},
+        {"id": "10-f4", "type": "collegamento", "front": "Che cosa indicano le tre R nella ricerca animale?", "back": "Sostituzione, riduzione e perfezionamento delle procedure.", "official_anchor": "rispettarne la natura"}
+      ],
+      "tags": ["animali", "ricerca", "benessere", "sofferenza", "tre-r"],
+      "source_ids": ["cnop-codice-vigente", "aip-codice-ricerca-2022", "dlgs-26-2014"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 11,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Segreto professionale",
+      "title_is_official": false,
+      "official_text": "Lo psicologo è strettamente tenuto al segreto professionale. Pertanto non rivela notizie, fatti o informazioni apprese in ragione del suo rapporto professionale, né informa circa le prestazioni professionali effettuate o programmate, a meno che non ricorrano le ipotesi previste dagli articoli seguenti.",
+      "core_message": "Il segreto copre sia ciò che si apprende nel rapporto professionale sia l'esistenza di prestazioni svolte o programmate, salvo le eccezioni disciplinate dagli articoli successivi.",
+      "meaning_units": [
+        {
+          "id": "11-u1",
+          "official_fragment": "Lo psicologo è strettamente tenuto al segreto professionale.",
+          "label": "Obbligo rigoroso",
+          "comment_it": "Il segreto è una condizione essenziale della fiducia professionale. Opera anche fuori dallo studio e dopo la conclusione del rapporto; non dipende dal fatto che l'informazione sembri innocua o sia già nota ad alcune persone."
+        },
+        {
+          "id": "11-u2",
+          "official_fragment": "Pertanto non rivela notizie, fatti o informazioni apprese in ragione del suo rapporto professionale,",
+          "label": "Contenuto protetto",
+          "comment_it": "La protezione è ampia: comprende comunicazioni, osservazioni, valutazioni, documenti e fatti conosciuti proprio grazie al ruolo professionale. Prima di comunicare occorre identificare destinatario, base della comunicazione e quantità strettamente necessaria."
+        },
+        {
+          "id": "11-u3",
+          "official_fragment": "né informa circa le prestazioni professionali effettuate o programmate,",
+          "label": "È protetta anche l'esistenza della prestazione",
+          "comment_it": "Non si può confermare a terzi neppure che una persona sia, sia stata o sarà destinataria di una prestazione. Identità del chiamante, parentela o semplice interesse non attribuiscono automaticamente il diritto di ricevere informazioni."
+        },
+        {
+          "id": "11-u4",
+          "official_fragment": "a meno che non ricorrano le ipotesi previste dagli articoli seguenti.",
+          "label": "Eccezioni tipizzate e da circoscrivere",
+          "comment_it": "Il segreto non è assoluto, ma le deroghe non si presumono. Gli articoli successivi distinguono consenso, testimonianza, obblighi di referto o denuncia, grave pericolo, collaborazione e comunicazione scientifica. Ogni situazione richiede la propria verifica."
+        }
+      ],
+      "in_practice": [
+        "Non confermare appuntamenti, presa in carico o contenuti senza una base appropriata.",
+        "Verificare identità, ruolo e legittimazione di chi chiede informazioni.",
+        "Documentare il ragionamento quando si applica una deroga e comunicare soltanto quanto consentito e necessario.",
+        "Proteggere conversazioni, messaggi, agenda, fatture e documentazione clinica anche da accessi informali."
+      ],
+      "frequent_mistakes": [
+        "Rivelare la presenza in terapia perché il richiedente è un familiare.",
+        "Parlare di un caso in un luogo pubblico eliminando soltanto il nome.",
+        "Pensare che il segreto riguardi solo le confidenze verbali.",
+        "Invocare genericamente il bene del paziente senza individuare una deroga applicabile."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Il partner di una paziente telefona allo studio. La psicologa conferma date e frequenza dei colloqui e aggiunge che la paziente sta lavorando su un possibile distacco dalla relazione.",
+        "analysis": "Sono potenzialmente rivelate sia l'esistenza delle prestazioni sia informazioni apprese nel rapporto. La parentela o la relazione affettiva, da sole, non costituiscono una deroga.",
+        "possible_related_articles": [4, 15, 17]
+      },
+      "real_case_links": [
+        {
+          "case_id": "cass-31972-2018",
+          "role": "collegamento_giurisprudenziale",
+          "note": "La Cassazione confermò una sospensione in un caso nel quale lo psicologo, dopo aver seguito una coppia, assunse un incarico nell'interesse di una sola ex paziente e utilizzò informazioni apprese nel precedente rapporto; tra gli articoli richiamati figurava l'art. 11."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Codice penale, art. 622",
+          "relevance": "Prevede una fattispecie penale di rivelazione, senza giusta causa, di un segreto conosciuto per ragione della professione, quando dalla rivelazione può derivare nocumento. Responsabilità penale e disciplinare hanno presupposti distinti.",
+          "source_id": "cp-art-622"
+        }
+      ],
+      "flashcards": [
+        {"id": "11-f1", "type": "richiamo", "front": "Che cosa protegge l'art. 11 oltre ai contenuti del rapporto?", "back": "Anche l'informazione sulle prestazioni professionali effettuate o programmate.", "official_anchor": "prestazioni professionali effettuate o programmate"},
+        {"id": "11-f2", "type": "scenario", "front": "Un genitore chiede se il figlio adulto è in terapia. Si può confermare l'appuntamento solo perché è un familiare?", "back": "No. Il rapporto familiare non attribuisce automaticamente il diritto all'informazione.", "official_anchor": "né informa circa le prestazioni"},
+        {"id": "11-f3", "type": "discriminazione", "front": "Illecito disciplinare ex art. 11 e reato ex art. 622 c.p. coincidono sempre?", "back": "No. Sono piani diversi e hanno presupposti propri; una valutazione non sostituisce l'altra.", "official_anchor": "strettamente tenuto al segreto professionale"},
+        {"id": "11-f4", "type": "collegamento", "front": "Dove si cercano le deroghe al segreto richiamate dall'art. 11?", "back": "Negli articoli successivi, in particolare 12-17, verificando la specifica situazione.", "official_anchor": "ipotesi previste dagli articoli seguenti"}
+      ],
+      "tags": ["segreto", "riservatezza", "prestazioni", "fiducia", "terzi"],
+      "source_ids": ["cnop-codice-vigente", "cp-art-622", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 12,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Testimonianza e consenso alla deroga",
+      "title_is_official": false,
+      "official_text": "Lo psicologo si astiene dal rendere testimonianza su fatti di cui è venuto a conoscenza in ragione del suo rapporto professionale. Lo psicologo può derogare all’obbligo di mantenere il segreto professionale, anche in caso di testimonianza, esclusivamente in presenza di valido e dimostrabile consenso del destinatario della sua prestazione. Valuta, comunque, l’opportunità di fare uso di tale consenso, considerando preminente la tutela psicologica dello stesso.",
+      "core_message": "Lo psicologo non testimonia sui fatti professionali; il consenso valido e dimostrabile rende possibile, ma non automatica, la deroga, che resta subordinata alla tutela psicologica del destinatario.",
+      "meaning_units": [
+        {
+          "id": "12-u1",
+          "official_fragment": "Lo psicologo si astiene dal rendere testimonianza su fatti di cui è venuto a conoscenza in ragione del suo rapporto professionale.",
+          "label": "Astensione sui fatti professionali",
+          "comment_it": "L'obbligo riguarda ciò che è stato conosciuto grazie alla relazione professionale. Ricevere una citazione non significa ignorarla: occorre seguire la procedura e far valere il segreto nelle forme previste, distinguendo testimonianza da altri atti o ruoli processuali."
+        },
+        {
+          "id": "12-u2",
+          "official_fragment": "Lo psicologo può derogare all’obbligo di mantenere il segreto professionale, anche in caso di testimonianza,",
+          "label": "Deroga possibile, non dovuta",
+          "comment_it": "Il verbo «può» indica una facoltà. Anche quando esiste una base per la deroga, non segue automaticamente che ogni informazione debba essere rivelata."
+        },
+        {
+          "id": "12-u3",
+          "official_fragment": "esclusivamente in presenza di valido e dimostrabile consenso del destinatario della sua prestazione.",
+          "label": "Consenso valido e dimostrabile",
+          "comment_it": "Il consenso deve provenire dal destinatario legittimato, essere libero, informato, riferibile alla comunicazione e documentabile. Una formula generica o un'autorizzazione ambigua non offre la stessa garanzia."
+        },
+        {
+          "id": "12-u4",
+          "official_fragment": "Valuta, comunque, l’opportunità di fare uso di tale consenso, considerando preminente la tutela psicologica dello stesso.",
+          "label": "Tutela psicologica prevalente",
+          "comment_it": "Il consenso non trasferisce al destinatario la valutazione professionale. Lo psicologo considera effetti prevedibili, ampiezza della rivelazione e alternative meno espositive, mantenendo prioritaria la protezione psicologica della persona."
+        }
+      ],
+      "in_practice": [
+        "In caso di citazione, verificare tipo di atto, autorità, ruolo processuale e procedura per opporre il segreto.",
+        "Acquisire un consenso specifico e documentabile, chiarendo destinatari, oggetto e possibili conseguenze.",
+        "Valutare se usare il consenso e limitare comunque la rivelazione a ciò che è pertinente.",
+        "Annotare il ragionamento professionale e richiedere consulenza qualificata nei casi dubbi."
+      ],
+      "frequent_mistakes": [
+        "Non presentarsi a una convocazione pensando che il segreto autorizzi a ignorarla.",
+        "Ritenere che una liberatoria obblighi a testimoniare su tutto.",
+        "Usare un consenso generico, non riferito alle informazioni e al destinatario.",
+        "Confondere testimonianza, consulenza tecnica, sommarie informazioni e produzione documentale."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Un ex paziente firma una liberatoria generica preparata dal proprio legale. Senza discutere portata e conseguenze, lo psicologo riferisce in udienza l'intera storia clinica, comprese informazioni estranee al punto controverso e potenzialmente destabilizzanti.",
+        "analysis": "La presenza di una firma non esaurisce la verifica di validità e specificità del consenso né la valutazione di opportunità richiesta dall'art. 12. Restano centrali tutela psicologica, pertinenza e minimizzazione.",
+        "possible_related_articles": [3, 11, 13, 25]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Codice di procedura penale, art. 200",
+          "relevance": "Disciplina la facoltà di astensione dei professionisti tenuti al segreto e i poteri di verifica dell'autorità giudiziaria; va applicato secondo il tipo di procedimento e il ruolo concreto.",
+          "source_id": "cpp-art-200"
+        }
+      ],
+      "flashcards": [
+        {"id": "12-f1", "type": "richiamo", "front": "Quali qualità deve avere il consenso che consente la deroga al segreto?", "back": "Deve essere valido e dimostrabile e provenire dal destinatario della prestazione.", "official_anchor": "valido e dimostrabile consenso"},
+        {"id": "12-f2", "type": "scenario", "front": "Il destinatario autorizza la testimonianza. Lo psicologo deve automaticamente usare il consenso?", "back": "No. Può derogare, ma deve comunque valutarne l'opportunità ponendo al primo posto la tutela psicologica del destinatario.", "official_anchor": "Valuta, comunque, l’opportunità"},
+        {"id": "12-f3", "type": "discriminazione", "front": "Essere citati come testimoni significa poter non comparire?", "back": "No. La convocazione va gestita nelle forme previste; il segreto si fa valere secondo la procedura applicabile.", "official_anchor": "si astiene dal rendere testimonianza"},
+        {"id": "12-f4", "type": "collegamento", "front": "Quale norma processuale penale disciplina il segreto professionale del testimone?", "back": "L'art. 200 c.p.p.", "official_anchor": "in caso di testimonianza"}
+      ],
+      "tags": ["testimonianza", "segreto", "consenso", "processo", "tutela-psicologica"],
+      "source_ids": ["cnop-codice-vigente", "cpp-art-200", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 13,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Referto, denuncia e gravi pericoli",
+      "title_is_official": false,
+      "official_text": "Nel caso di obbligo di referto o di obbligo di denuncia, lo psicologo limita allo stretto necessario il riferimento di quanto appreso in ragione del proprio rapporto professionale, ai fini della tutela psicologica del soggetto. Negli altri casi, valuta con attenzione la necessità di derogare totalmente o parzialmente alla propria doverosa riservatezza, qualora si prospettino gravi pericoli per la vita o per la salute psicofisica del soggetto e/o di terzi.",
+      "core_message": "Quando una comunicazione è giuridicamente obbligatoria, va limitata allo stretto necessario; fuori da tali obblighi, un grave pericolo richiede una valutazione attenta e proporzionata della possibile deroga.",
+      "meaning_units": [
+        {
+          "id": "13-u1",
+          "official_fragment": "Nel caso di obbligo di referto o di obbligo di denuncia,",
+          "label": "Prima verificare quale obbligo ricorre",
+          "comment_it": "Referto e denuncia sono istituti diversi. Il referto riguarda l'esercente una professione sanitaria che presta assistenza od opera in casi che possono presentare i caratteri di un delitto perseguibile d'ufficio; la denuncia dipende, tra l'altro, dall'esercizio concreto di funzioni di pubblico ufficiale o incaricato di pubblico servizio. Non ogni psicologo ha sempre lo stesso obbligo."
+        },
+        {
+          "id": "13-u2",
+          "official_fragment": "lo psicologo limita allo stretto necessario il riferimento di quanto appreso in ragione del proprio rapporto professionale, ai fini della tutela psicologica del soggetto.",
+          "label": "Comunicazione minima necessaria",
+          "comment_it": "L'esistenza di un obbligo non autorizza a trasferire l'intera documentazione. Si comunicano all'autorità competente gli elementi richiesti dalla legge e pertinenti alla finalità, evitando dettagli eccedenti e proteggendo per quanto possibile la persona."
+        },
+        {
+          "id": "13-u3",
+          "official_fragment": "Negli altri casi, valuta con attenzione la necessità di derogare totalmente o parzialmente alla propria doverosa riservatezza,",
+          "label": "Valutazione della deroga fuori dagli obblighi",
+          "comment_it": "Fuori dai casi di referto o denuncia, l'articolo non introduce una comunicazione automatica. Richiede una decisione professionale motivata su necessità, destinatario, urgenza, ampiezza e alternative, preferendo quando possibile la deroga meno invasiva efficace."
+        },
+        {
+          "id": "13-u4",
+          "official_fragment": "qualora si prospettino gravi pericoli per la vita o per la salute psicofisica del soggetto e/o di terzi.",
+          "label": "Soglia del grave pericolo",
+          "comment_it": "La soglia è un pericolo grave per vita o salute psicofisica del soggetto o di terzi, non un disagio generico. Valutazione del rischio, fattori protettivi, imminenza, concretezza e possibilità di interventi meno lesivi devono essere considerati e documentati."
+        }
+      ],
+      "in_practice": [
+        "Identificare ruolo, contesto, tipo di reato ipotizzato e norma che fonda l'eventuale obbligo.",
+        "Verificare destinatario, contenuto e tempi dell'atto, senza usare liste statiche di reati come unico criterio.",
+        "Limitare la comunicazione allo stretto necessario e documentare la selezione delle informazioni.",
+        "Nei gravi pericoli fuori dagli obblighi, valutare rischio, alternative, proporzionalità e possibilità di una deroga parziale."
+      ],
+      "frequent_mistakes": [
+        "Pensare che ogni psicologo sia sempre pubblico ufficiale.",
+        "Confondere referto e denuncia o usare i termini come sinonimi.",
+        "Inviare automaticamente la cartella completa quando basta una comunicazione circoscritta.",
+        "Trasformare ogni ideazione suicidaria o minaccia vaga in una segnalazione automatica, senza valutazione clinica e giuridica.",
+        "Dimenticare che l'art. 365 c.p. prevede una specifica eccezione quando il referto esporrebbe la persona assistita a procedimento penale."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "In un servizio pubblico lo psicologo ritiene sussistente un obbligo di denuncia e inoltra senza selezione l'intera cartella, includendo anni di informazioni familiari e sanitarie non pertinenti al fatto da comunicare.",
+        "analysis": "Anche se l'obbligo risultasse effettivamente applicabile, l'art. 13 richiede di riferire soltanto quanto strettamente necessario. Ruolo, fattispecie, destinatario e contenuto dovrebbero essere verificati separatamente.",
+        "possible_related_articles": [3, 4, 11, 17]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 3/2018, art. 9",
+          "relevance": "Riordina le professioni sanitarie e colloca la professione di psicologo nel relativo ordinamento, dato rilevante per l'inquadramento del referto.",
+          "source_id": "legge-3-2018"
+        },
+        {
+          "reference": "Codice penale, art. 365",
+          "relevance": "Disciplina l'omissione di referto e la specifica eccezione quando il referto esporrebbe la persona assistita a procedimento penale.",
+          "source_id": "cp-art-365"
+        },
+        {
+          "reference": "Codice di procedura penale, artt. 331 e 334",
+          "relevance": "L'art. 331 riguarda la denuncia dei pubblici ufficiali e degli incaricati di pubblico servizio; l'art. 334 regola contenuto e trasmissione del referto.",
+          "source_id": "cpp-art-331"
+        },
+        {
+          "reference": "Codice di procedura penale, art. 334",
+          "relevance": "Specifica destinatari, contenuti essenziali e modalità del referto.",
+          "source_id": "cpp-art-334"
+        }
+      ],
+      "flashcards": [
+        {"id": "13-f1", "type": "richiamo", "front": "Quanto può riferire lo psicologo quando ricorre un obbligo di referto o denuncia?", "back": "Soltanto quanto strettamente necessario, anche ai fini della tutela psicologica del soggetto.", "official_anchor": "limita allo stretto necessario"},
+        {"id": "13-f2", "type": "scenario", "front": "Si prospetta un grave pericolo per un terzo, ma non è stato identificato un obbligo di referto o denuncia. Che cosa richiede l'art. 13?", "back": "Una valutazione attenta della necessità di derogare in tutto o in parte alla riservatezza, non una comunicazione automatica.", "official_anchor": "Negli altri casi, valuta con attenzione"},
+        {"id": "13-f3", "type": "discriminazione", "front": "Referto e denuncia sono lo stesso istituto?", "back": "No. Hanno presupposti soggettivi, oggettivi e procedurali diversi, da verificare nel caso concreto.", "official_anchor": "obbligo di referto o ... obbligo di denuncia"},
+        {"id": "13-f4", "type": "collegamento", "front": "Quale articolo del codice penale prevede l'omissione di referto?", "back": "L'art. 365 c.p.; contenuto e trasmissione del referto sono disciplinati dall'art. 334 c.p.p.", "official_anchor": "obbligo di referto"}
+      ],
+      "tags": ["referto", "denuncia", "grave-pericolo", "riservatezza", "minimizzazione"],
+      "source_ids": ["cnop-codice-vigente", "legge-3-2018", "cp-art-365", "cpp-art-331", "cpp-art-334", "fvg-100-domande", "oper-parere-referto-2021"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 14,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Regole e riservatezza negli interventi di gruppo",
+      "title_is_official": false,
+      "official_text": "Lo psicologo, nel caso di intervento su o attraverso gruppi, è tenuto ad in informare, nella fase iniziale, circa le regole che governano tale intervento. È tenuto altresì ad impegnare, quando necessario, i componenti del gruppo al rispetto del diritto di ciascuno alla riservatezza.",
+      "core_message": "All'inizio dell'intervento di gruppo lo psicologo chiarisce le regole e, quando necessario, impegna i partecipanti a rispettare la riservatezza reciproca.",
+      "meaning_units": [
+        {
+          "id": "14-u1",
+          "official_fragment": "Lo psicologo, nel caso di intervento su o attraverso gruppi,",
+          "label": "Interventi su o attraverso gruppi",
+          "comment_it": "La regola non riguarda soltanto la psicoterapia di gruppo. Può interessare interventi formativi, organizzativi, comunitari, di sostegno o ricerca nei quali il gruppo è destinatario o mezzo dell'attività professionale."
+        },
+        {
+          "id": "14-u2",
+          "official_fragment": "è tenuto ad in informare, nella fase iniziale, circa le regole che governano tale intervento.",
+          "label": "Regole chiare fin dall'inizio",
+          "comment_it": "Vanno chiariti finalità, ruoli, modalità di partecipazione, confini, uso delle informazioni, contatti fuori sessione e gestione delle registrazioni o piattaforme. La formula «ad in informare» è riprodotta perché compare nel testo ufficiale pubblicato; il senso precettivo resta il dovere di informare."
+        },
+        {
+          "id": "14-u3",
+          "official_fragment": "È tenuto altresì ad impegnare, quando necessario, i componenti del gruppo al rispetto del diritto di ciascuno alla riservatezza.",
+          "label": "Impegno reciproco alla riservatezza",
+          "comment_it": "Lo psicologo deve rendere esplicita la responsabilità dei partecipanti verso ciò che apprendono sugli altri. L'impegno riduce il rischio ma non permette di garantire che ogni membro manterrà il segreto come farebbe un professionista giuridicamente obbligato. Questo limite va spiegato."
+        }
+      ],
+      "in_practice": [
+        "Presentare le regole prima che emergano informazioni personali significative.",
+        "Definire che cosa può essere condiviso fuori dal gruppo e come si gestiscono contatti, materiali e registrazioni.",
+        "Acquisire, quando necessario, un impegno esplicito dei partecipanti alla riservatezza.",
+        "Ricordare che lo psicologo può governare il setting ma non promettere il controllo assoluto sul comportamento degli altri membri."
+      ],
+      "frequent_mistakes": [
+        "Limitarsi a dire genericamente che «tutto resta qui» senza chiarire limiti e responsabilità.",
+        "Introdurre le regole soltanto dopo un episodio di divulgazione.",
+        "Consentire registrazioni o screenshot senza una disciplina esplicita.",
+        "Garantire una segretezza assoluta che lo psicologo non può assicurare rispetto agli altri partecipanti."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Un gruppo di sostegno online inizia senza regole su riservatezza e registrazioni. Un partecipante pubblica uno screenshot riconoscibile; lo psicologo non aveva mai affrontato il rischio né richiesto un impegno al gruppo.",
+        "analysis": "L'art. 14 richiede informazione iniziale sulle regole e, quando necessario, l'impegno dei componenti alla riservatezza. La responsabilità del partecipante non elimina la verifica dei doveri organizzativi dello psicologo.",
+        "possible_related_articles": [4, 11, 17]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679, artt. 5 e 32",
+          "relevance": "Quando il setting comporta trattamento di dati personali, principi di integrità, riservatezza e sicurezza completano le regole deontologiche.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "14-f1", "type": "richiamo", "front": "Quando devono essere comunicate le regole dell'intervento di gruppo?", "back": "Nella fase iniziale.", "official_anchor": "nella fase iniziale"},
+        {"id": "14-f2", "type": "scenario", "front": "In un gruppo online sono possibili screenshot. Che cosa dovrebbe fare lo psicologo all'avvio?", "back": "Chiarire le regole su riservatezza e registrazioni e, quando necessario, impegnare i componenti al loro rispetto.", "official_anchor": "impegnare ... i componenti del gruppo"},
+        {"id": "14-f3", "type": "discriminazione", "front": "L'impegno dei partecipanti consente allo psicologo di garantire segretezza assoluta?", "back": "No. È una protezione necessaria, ma il comportamento degli altri membri non è interamente controllabile.", "official_anchor": "rispetto del diritto di ciascuno alla riservatezza"},
+        {"id": "14-f4", "type": "collegamento", "front": "Quale articolo disciplina la custodia di registrazioni e appunti anche nei gruppi?", "back": "L'art. 17.", "official_anchor": "regole che governano tale intervento"}
+      ],
+      "tags": ["gruppi", "setting", "riservatezza", "regole", "online"],
+      "source_ids": ["cnop-codice-vigente", "gdpr", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 15,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Condivisione minima nella collaborazione professionale",
+      "title_is_official": false,
+      "official_text": "Nel caso di collaborazione con altri soggetti parimenti tenuti al segreto professionale, lo psicologo può condividere soltanto le informazioni strettamente necessarie in relazione al tipo di collaborazione.",
+      "core_message": "La collaborazione consente condivisioni solo con soggetti anch'essi vincolati al segreto e soltanto nella misura necessaria allo specifico lavoro comune.",
+      "meaning_units": [
+        {
+          "id": "15-u1",
+          "official_fragment": "Nel caso di collaborazione con altri soggetti parimenti tenuti al segreto professionale,",
+          "label": "Destinatari anch'essi vincolati",
+          "comment_it": "Il semplice fatto di lavorare nello stesso ente o sullo stesso caso non basta. Occorre verificare che il destinatario sia effettivamente soggetto a un obbligo di segreto e che esista una collaborazione pertinente."
+        },
+        {
+          "id": "15-u2",
+          "official_fragment": "lo psicologo può condividere soltanto le informazioni strettamente necessarie",
+          "label": "Necessità stretta",
+          "comment_it": "Si selezionano le informazioni indispensabili allo scopo, evitando l'invio automatico dell'intera cartella o dettagli curiosi ma irrilevanti. Essere tutti professionisti non rende libera la circolazione delle informazioni."
+        },
+        {
+          "id": "15-u3",
+          "official_fragment": "in relazione al tipo di collaborazione.",
+          "label": "Scopo e perimetro della collaborazione",
+          "comment_it": "La quantità e il tipo di dati dipendono dal compito concreto: invio, équipe, supervisione, consulenza o coordinamento richiedono perimetri diversi. Se scopo o ruolo cambiano, la condivisione va rivalutata."
+        }
+      ],
+      "in_practice": [
+        "Definire ruolo, scopo e responsabilità di ogni collaboratore prima di condividere dati.",
+        "Verificare il vincolo al segreto e gli eventuali requisiti informativi o di protezione dei dati.",
+        "Estrarre un riepilogo pertinente invece di trasferire automaticamente l'intero fascicolo.",
+        "Usare canali sicuri e limitare accessi e durata della disponibilità."
+      ],
+      "frequent_mistakes": [
+        "Condividere perché il collega appartiene alla stessa struttura, senza verificarne il coinvolgimento.",
+        "Inviare l'intera cartella per una domanda clinica circoscritta.",
+        "Confondere utilità generica e stretta necessità.",
+        "Trasmettere dati a un collaboratore tecnico come se fosse automaticamente soggetto al medesimo segreto professionale."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Per chiedere a un medico un parere su un possibile effetto collaterale, lo psicologo invia l'intero fascicolo psicologico, compresi eventi traumatici e dati familiari non pertinenti.",
+        "analysis": "Anche se il medico è tenuto al segreto e la collaborazione è legittima, l'art. 15 limita la condivisione alle informazioni strettamente necessarie rispetto al quesito.",
+        "possible_related_articles": [4, 11, 17]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679, art. 5, par. 1, lettera c)",
+          "relevance": "Il principio di minimizzazione richiede dati adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità del trattamento.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "15-f1", "type": "richiamo", "front": "Con chi consente la condivisione l'art. 15?", "back": "Con soggetti che collaborano e sono parimenti tenuti al segreto professionale.", "official_anchor": "parimenti tenuti al segreto professionale"},
+        {"id": "15-f2", "type": "scenario", "front": "Un collega chiede l'intera cartella per un consulto su un solo sintomo. È sufficiente che sia tenuto al segreto?", "back": "No. Vanno condivise soltanto le informazioni strettamente necessarie al tipo di collaborazione.", "official_anchor": "soltanto le informazioni strettamente necessarie"},
+        {"id": "15-f3", "type": "discriminazione", "front": "Lavorare nella stessa équipe equivale ad avere accesso a ogni informazione?", "back": "No. Accesso e condivisione restano proporzionati allo specifico ruolo e compito.", "official_anchor": "in relazione al tipo di collaborazione"},
+        {"id": "15-f4", "type": "collegamento", "front": "Quale principio del GDPR è particolarmente vicino all'art. 15?", "back": "La minimizzazione dei dati.", "official_anchor": "informazioni strettamente necessarie"}
+      ],
+      "tags": ["collaborazione", "segreto", "minimizzazione", "equipe", "condivisione"],
+      "source_ids": ["cnop-codice-vigente", "gdpr", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 16,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Anonimato nelle comunicazioni scientifiche",
+      "title_is_official": false,
+      "official_text": "Lo psicologo redige le comunicazioni scientifiche, ancorché indirizzate ad un pubblico di professionisti tenuti al segreto professionale, in modo da salvaguardare in ogni caso l’anonimato del destinatario della prestazione.",
+      "core_message": "Casi e dati usati nella comunicazione scientifica devono preservare l'anonimato del destinatario anche quando il pubblico è composto da professionisti vincolati al segreto.",
+      "meaning_units": [
+        {
+          "id": "16-u1",
+          "official_fragment": "Lo psicologo redige le comunicazioni scientifiche,",
+          "label": "Responsabilità nella redazione",
+          "comment_it": "Articoli, poster, lezioni, convegni e altri materiali scientifici vanno progettati evitando dettagli che, singolarmente o combinati, rendano riconoscibile la persona. La protezione non si esaurisce con la rimozione del nome."
+        },
+        {
+          "id": "16-u2",
+          "official_fragment": "ancorché indirizzate ad un pubblico di professionisti tenuti al segreto professionale,",
+          "label": "Il pubblico professionale non elimina il dovere",
+          "comment_it": "Il vincolo al segreto degli ascoltatori non autorizza a presentare materiale identificabile. Una platea ristretta o specialistica può anzi riconoscere più facilmente un caso raro o locale."
+        },
+        {
+          "id": "16-u3",
+          "official_fragment": "in modo da salvaguardare in ogni caso l’anonimato del destinatario della prestazione.",
+          "label": "Anonimato come risultato",
+          "comment_it": "Occorre valutare il rischio di riconoscimento diretto e indiretto: professione, luogo, date, eventi insoliti, immagini e combinazioni di caratteristiche. Pseudonimi o iniziali non bastano se il contesto consente la reidentificazione."
+        }
+      ],
+      "in_practice": [
+        "Eliminare o generalizzare dettagli non necessari e verificare le combinazioni identificanti.",
+        "Usare dati aggregati o casi compositi quando compatibili con rigore e trasparenza scientifica.",
+        "Rivalutare immagini, audio, citazioni testuali e metadati prima della diffusione.",
+        "Considerare la riconoscibilità dal punto di vista della comunità locale, non soltanto del pubblico generico."
+      ],
+      "frequent_mistakes": [
+        "Sostituire il nome con iniziali lasciando tutti gli altri dettagli unici.",
+        "Pensare che un convegno riservato a psicologi consenta l'esposizione del caso identificabile.",
+        "Confondere consenso alla pubblicazione e anonimato richiesto dall'articolo.",
+        "Dimenticare metadati, immagini o citazioni facilmente ricercabili."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "A un convegno regionale lo psicologo presenta «M., unico dirigente della piccola azienda X», indicando età, comune, evento traumatico e date di trattamento. Il nome è abbreviato, ma molti presenti riconoscono la persona.",
+        "analysis": "L'uso dell'iniziale non garantisce anonimato quando i dettagli combinati rendono identificabile il destinatario. Il fatto che il pubblico sia professionale non elimina il dovere dell'art. 16.",
+        "possible_related_articles": [4, 9, 11, 17]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679, considerando 26 e artt. 5 e 89",
+          "relevance": "Distingue dati anonimi da dati personali ancora reidentificabili e richiede minimizzazione e garanzie adeguate anche per finalità scientifiche.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "16-f1", "type": "richiamo", "front": "Che cosa deve essere salvaguardato nelle comunicazioni scientifiche?", "back": "In ogni caso, l'anonimato del destinatario della prestazione.", "official_anchor": "salvaguardare in ogni caso l’anonimato"},
+        {"id": "16-f2", "type": "scenario", "front": "Un caso senza nome contiene luogo, mestiere raro e date precise. È necessariamente anonimo?", "back": "No. La combinazione può rendere la persona indirettamente riconoscibile.", "official_anchor": "l’anonimato del destinatario"},
+        {"id": "16-f3", "type": "discriminazione", "front": "Il pubblico è composto solo da professionisti tenuti al segreto: si possono mantenere dettagli identificanti?", "back": "No. L'art. 16 mantiene espressamente il dovere di anonimato.", "official_anchor": "ancorché ... professionisti tenuti al segreto"},
+        {"id": "16-f4", "type": "collegamento", "front": "Quale articolo disciplina più in generale la ricerca e la non riconoscibilità?", "back": "L'art. 9.", "official_anchor": "comunicazioni scientifiche"}
+      ],
+      "tags": ["comunicazione-scientifica", "anonimato", "reidentificazione", "privacy", "pubblicazioni"],
+      "source_ids": ["cnop-codice-vigente", "aip-codice-ricerca-2022", "gdpr"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 17,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Custodia, conservazione e continuità della protezione",
+      "title_is_official": false,
+      "official_text": "La segretezza delle comunicazioni deve essere protetta anche attraverso la custodia e il controllo di appunti, note, scritti o registrazioni di qualsiasi genere e sotto qualsiasi forma, che riguardino il rapporto professionale. Tale documentazione deve essere conservata per almeno i cinque anni successivi alla conclusione del rapporto professionale, fatto salvo quanto previsto da norme specifiche. Lo psicologo deve provvedere perché, in caso di sua morte o di suo impedimento, tale protezione sia affidata ad un collega ovvero all’Ordine professionale. Lo psicologo che collabora alla costituzione ed all’uso di sistemi di documentazione si adopera per la realizzazione di garanzie di tutela dei soggetti interessati.",
+      "core_message": "La riservatezza richiede custodia e controllo di ogni forma di documentazione, conservazione minima quinquennale salvo norme specifiche, continuità in caso di morte o impedimento e sistemi progettati per tutelare gli interessati.",
+      "meaning_units": [
+        {
+          "id": "17-u1",
+          "official_fragment": "La segretezza delle comunicazioni deve essere protetta anche attraverso la custodia e il controllo di appunti, note, scritti o registrazioni di qualsiasi genere e sotto qualsiasi forma, che riguardino il rapporto professionale.",
+          "label": "Custodia di ogni formato",
+          "comment_it": "La protezione riguarda carta, file, e-mail, chat, audio, video, agenda, backup e dispositivi. Custodia e controllo implicano accessi autorizzati, autenticazione, sicurezza fisica, canali adeguati e gestione di copie e smarrimenti."
+        },
+        {
+          "id": "17-u2",
+          "official_fragment": "Tale documentazione deve essere conservata per almeno i cinque anni successivi alla conclusione del rapporto professionale,",
+          "label": "Cinque anni come durata minima",
+          "comment_it": "Il quinquennio decorre dalla conclusione del rapporto ed è una soglia minima deontologica, non un ordine di cancellazione al quinto anno. La data di chiusura e le ragioni della conservazione devono essere individuabili."
+        },
+        {
+          "id": "17-u3",
+          "official_fragment": "fatto salvo quanto previsto da norme specifiche.",
+          "label": "Prevalenza delle discipline specifiche",
+          "comment_it": "Altre norme, tipi di documento, contesti sanitari, obblighi probatori o finalità possono richiedere tempi diversi. Conservare più a lungo richiede una base e una durata giustificabili; la regola non autorizza l'accumulo indefinito."
+        },
+        {
+          "id": "17-u4",
+          "official_fragment": "Lo psicologo deve provvedere perché, in caso di sua morte o di suo impedimento, tale protezione sia affidata ad un collega ovvero all’Ordine professionale.",
+          "label": "Continuità in caso di morte o impedimento",
+          "comment_it": "Occorre predisporre prima dell'emergenza una soluzione praticabile: referente, istruzioni, accessi sicuri e criteri per informare gli interessati. Il collega o l'Ordine ricevono la responsabilità di protezione, non un accesso indiscriminato ai contenuti."
+        },
+        {
+          "id": "17-u5",
+          "official_fragment": "Lo psicologo che collabora alla costituzione ed all’uso di sistemi di documentazione si adopera per la realizzazione di garanzie di tutela dei soggetti interessati.",
+          "label": "Protezione incorporata nei sistemi",
+          "comment_it": "Chi contribuisce a scegliere o usare cartelle, archivi, piattaforme e sistemi condivisi deve promuovere garanzie effettive: profili di accesso, tracciamento, backup, cifratura ove appropriata, procedure di recupero e cancellazione, accordi con fornitori e risposta agli incidenti."
+        }
+      ],
+      "in_practice": [
+        "Inventariare documenti, dispositivi, copie e backup che riguardano il rapporto professionale.",
+        "Definire accessi per ruolo, autenticazione, protezione fisica, recupero e gestione degli incidenti.",
+        "Registrare conclusione del rapporto, regola di conservazione applicabile e data di riesame o cancellazione.",
+        "Predisporre un piano documentato per morte o impedimento, coordinato con collega o Ordine.",
+        "Valutare fornitori e sistemi prima dell'uso e non soltanto dopo una violazione."
+      ],
+      "frequent_mistakes": [
+        "Conservare note cliniche in account personali o dispositivi condivisi senza protezioni adeguate.",
+        "Interpretare i cinque anni come termine massimo o cancellazione automatica.",
+        "Conservare tutto indefinitamente senza finalità, criterio di riesame o norma specifica.",
+        "Non predisporre alcun piano per morte, malattia prolungata o altro impedimento.",
+        "Affidarsi alle impostazioni predefinite di una piattaforma senza valutare accessi, backup e fornitori."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Uno psicologo conserva registrazioni e note nominative in un cloud personale con password condivisa in famiglia, senza registro dei fascicoli, politica di conservazione, backup controllato o indicazioni per un eventuale impedimento.",
+        "analysis": "La situazione espone a accessi non autorizzati e interrompe la continuità della protezione. Sono rilevanti custodia, controllo, sistemi di documentazione e pianificazione per impedimento, oltre alla disciplina sulla protezione dei dati.",
+        "possible_related_articles": [4, 11, 15]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679, artt. 5, 25 e 32",
+          "relevance": "Collega limitazione della conservazione, protezione dei dati fin dalla progettazione e misure tecniche e organizzative adeguate al rischio.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "17-f1", "type": "richiamo", "front": "Per quanto tempo minimo va conservata la documentazione secondo l'art. 17?", "back": "Per almeno cinque anni dalla conclusione del rapporto professionale, salvo norme specifiche.", "official_anchor": "almeno i cinque anni successivi"},
+        {"id": "17-f2", "type": "scenario", "front": "Sono trascorsi cinque anni. L'art. 17 impone la cancellazione immediata?", "back": "No. Fissa una durata minima; norme specifiche e una base giustificabile possono incidere sulla conservazione ulteriore.", "official_anchor": "almeno ... fatto salvo quanto previsto da norme specifiche"},
+        {"id": "17-f3", "type": "discriminazione", "front": "La custodia riguarda soltanto la cartella clinica formale?", "back": "No. Comprende appunti, note, scritti e registrazioni di qualsiasi genere e forma inerenti al rapporto.", "official_anchor": "di qualsiasi genere e sotto qualsiasi forma"},
+        {"id": "17-f4", "type": "collegamento", "front": "Che cosa deve essere previsto per morte o impedimento dello psicologo?", "back": "L'affidamento della protezione della documentazione a un collega o all'Ordine professionale.", "official_anchor": "in caso di sua morte o di suo impedimento"}
+      ],
+      "tags": ["documentazione", "custodia", "conservazione", "sicurezza", "continuità", "privacy"],
+      "source_ids": ["cnop-codice-vigente", "gdpr", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    }
+  ]
+}

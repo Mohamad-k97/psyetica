@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "checked_on": "2026-08-13",
+  "purpose": "Authoritative or professional-language references used to seed and review legal and psychological terminology. They do not make the Italian Code translations official.",
+  "sources": [
+    {
+      "id": "cnop-italian-code",
+      "languages": ["it"],
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Codice Deontologico degli Psicologi Italiani - testo vigente",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/",
+      "use": "Controlling Italian source text"
+    },
+    {
+      "id": "apa-ethics-office",
+      "languages": ["en"],
+      "authority": "American Psychological Association",
+      "title": "Ethics Office and Ethical Principles of Psychologists and Code of Conduct",
+      "url": "https://www.apa.org/ethics/",
+      "use": "Professional psychology ethics terminology; not a translation of the Italian Code"
+    },
+    {
+      "id": "cop-spain-code",
+      "languages": ["es"],
+      "authority": "Consejo General de la Psicología de España",
+      "title": "Código Deontológico del Psicólogo",
+      "url": "https://www.cop.es/index.php?page=CodigoDeontologico",
+      "use": "Spanish professional terminology such as código deontológico, secreto profesional and consentimiento"
+    },
+    {
+      "id": "romania-code-2018",
+      "languages": ["ro"],
+      "authority": "Colegiul Psihologilor din România / Portal Legislativ",
+      "title": "Codul deontologic al profesiei de psiholog cu drept de liberă practică",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/211126",
+      "use": "Romanian professional and regulatory terminology including consimțământ informat, confidențialitate and secret profesional"
+    },
+    {
+      "id": "albania-code",
+      "languages": ["sq"],
+      "authority": "Urdhri i Psikologut në Republikën e Shqipërisë",
+      "title": "Kodi i Etikës dhe Deontologjisë",
+      "url": "https://www.urdhriipsikologut.al/wp-content/uploads/2021/05/Kodi-i-Eikes-dhe-Deontologjise-1.pdf",
+      "use": "Albanian professional ethics terminology including konfidencialitet and pëlqim i informuar"
+    },
+    {
+      "id": "saudi-psychology-charter",
+      "languages": ["ar"],
+      "authority": "Saudi Society for Professional Psychology",
+      "title": "الميثاق الاخلاقي للأخصائي النفسي",
+      "url": "https://sspp-sa.org/%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A-2/",
+      "use": "Arabic professional psychology terminology concerning ethics, confidentiality and conflicts of interest"
+    },
+    {
+      "id": "iran-psychology-ethical-code",
+      "languages": ["fa"],
+      "authority": "Professional psychology and counselling ethics reference",
+      "title": "نظامنامه اخلاقی روانشناسان و مشاوران",
+      "url": "https://iranarze.ir/blog/wp-content/uploads/2024/06/nezamname-akhlaghi-ravanshenasan.pdf",
+      "use": "Persian professional terminology including informed consent and confidentiality; authority and current status require native specialist confirmation"
+    },
+    {
+      "id": "iate",
+      "languages": ["en", "es", "ro"],
+      "authority": "European Union",
+      "title": "IATE - Interactive Terminology for Europe",
+      "url": "https://iate.europa.eu/",
+      "use": "Cross-checking general EU legal terminology; not psychology-specific and not used as an automatic equivalence table"
+    }
+  ]
+}

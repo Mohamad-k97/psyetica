@@ -1,0 +1,126 @@
+{
+  "language": "en",
+  "articles": [
+    {
+      "number": 5,
+      "localized": {
+        "editorial_title": "Competence, continuing development and scientific foundations",
+        "article_text": "The psychologist must maintain an adequate level of professional knowledge and continuing professional development, with particular regard to the fields in which they practise. Breach of the continuing professional development obligation constitutes disciplinary misconduct and shall be sanctioned in accordance with the rules governing the profession. The psychologist recognises the limits of their professional competence and accordingly uses only theoretical and practical tools for which they have acquired adequate competence and, where required, formal authorisation. The psychologist uses methods for which they can cite sources and scientific references and does not create unfounded expectations in clients and/or service users.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Professional qualification does not confer competence in every field: continuing development, recognised limits, properly mastered tools, scientific foundations and realistic expectations are all required.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-continua", "surface": "continuing professional development", "match_method": "human_authored_exact"},
+          {"glossary_id": "illecito-disciplinare", "surface": "disciplinary misconduct", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "professional competence", "match_method": "human_authored_exact"},
+          {"glossary_id": "strumenti-teorico-pratici", "surface": "theoretical and practical tools", "match_method": "human_authored_exact"},
+          {"glossary_id": "formale-autorizzazione", "surface": "formal authorisation", "match_method": "human_authored_exact"},
+          {"glossary_id": "aspettative-infondate", "surface": "unfounded expectations", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "localized": {
+        "editorial_title": "Professional autonomy and technical responsibility",
+        "article_text": "The psychologist accepts only working conditions that do not compromise professional autonomy or compliance with this Code of Professional Conduct and, where those conditions are absent, informs their Order. The psychologist safeguards their autonomy in selecting and using psychological methods, techniques and instruments and is therefore responsible for their application and use, the results obtained, and the resulting assessments and interpretations. When collaborating with professionals from other disciplines, the psychologist exercises full professional autonomy while respecting the competence of others.",
+        "article_text_status": "editorial_translation",
+        "core_message": "A commissioning party may define the instruction but may not dictate conclusions or methods that are incompatible with competence, technical autonomy and the Code.",
+        "glossary_annotations": [
+          {"glossary_id": "autonomia-professionale", "surface": "professional autonomy", "match_method": "human_authored_exact"},
+          {"glossary_id": "codice-deontologico", "surface": "Code of Professional Conduct", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "competence", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "localized": {
+        "editorial_title": "Validity, reliability and the limits of conclusions",
+        "article_text": "In professional and research activities, when communicating their results, and in teaching, the psychologist carefully assesses—also in relation to the context—the validity and reliability of the information, data and sources on which conclusions are based; where appropriate, presents alternative interpretations and makes the limitations of the results explicit. In relation to specific cases, the psychologist expresses professional assessments and opinions only where they are based on direct professional knowledge or on adequate and reliable documentation.",
+        "article_text_status": "editorial_translation",
+        "core_message": "A professional conclusion must be proportionate to the quality of the evidence and must make alternatives and limitations visible; a specific case requires direct knowledge or adequate and reliable documentation.",
+        "glossary_annotations": [
+          {"glossary_id": "validita", "surface": "validity", "match_method": "human_authored_exact"},
+          {"glossary_id": "attendibilita", "surface": "reliability", "match_method": "human_authored_exact"},
+          {"glossary_id": "ipotesi-interpretative-alternative", "surface": "alternative interpretations", "match_method": "human_authored_exact"},
+          {"glossary_id": "conoscenza-professionale-diretta", "surface": "direct professional knowledge", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-adeguata-attendibile", "surface": "adequate and reliable documentation", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "localized": {
+        "editorial_title": "Combating unlawful practice and proper use of professional title",
+        "article_text": "The psychologist combats the unlawful practice of the profession as defined by Articles 1 and 3 of Law no. 56 of 18 February 1989 and reports to the Council of the Order any cases of unlawful practice or unlawful assumption of a professional title of which they become aware. Equally, the psychologist uses their professional title only for activities to which it is relevant and does not use it to endorse misleading or unlawful activities.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists protect the profession by reporting known cases of potentially unlawful practice to the Order and by refusing to lend their title, role or reputation to misleading or unlawful activities.",
+        "glossary_annotations": [
+          {"glossary_id": "esercizio-abusivo", "surface": "unlawful practice of the profession", "match_method": "human_authored_exact"},
+          {"glossary_id": "usurpazione-di-titolo", "surface": "unlawful assumption of a professional title", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "endorse", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "localized": {
+        "editorial_title": "Consent and protection of research participants",
+        "article_text": "When conducting research, the psychologist must provide participants with adequate information in order to obtain their prior informed consent, including information about the researcher’s name, scientific and professional status and any institution to which the researcher belongs. The psychologist must also ensure that participants are entirely free to give, refuse or withdraw consent. Where the nature of the research makes it impossible to give participants full and accurate information in advance about certain aspects of the study, the psychologist must nevertheless provide the required information at the end of the test or data-collection process and obtain authorisation to use the data collected. Where participants are unable, because of age or for another reason, to give valid consent, consent must be given by the person with parental responsibility or the legal guardian and also by the participants themselves where they are able to understand the nature of the requested involvement. In every case, participants’ rights to confidentiality, non-identifiability and anonymity must be protected.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychological research requires adequate information, a free and revocable choice, enhanced protection for those unable to consent validly, and continuing protection of confidentiality.",
+        "glossary_annotations": [
+          {"glossary_id": "previo-consenso-informato", "surface": "prior informed consent", "match_method": "human_authored_exact"},
+          {"glossary_id": "ritiro-del-consenso", "surface": "withdraw consent", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorizzazione-uso-dati", "surface": "authorisation to use the data collected", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "parental responsibility", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "legal guardian", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "confidentiality", "match_method": "human_authored_exact"},
+          {"glossary_id": "non-riconoscibilita", "surface": "non-identifiability", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "anonymity", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "localized": {
+        "editorial_title": "Respect for and protection of animals",
+        "article_text": "Where professional activities concern animal behaviour, the psychologist undertakes to respect the animals’ nature and to avoid causing them suffering.",
+        "article_text_status": "editorial_translation",
+        "core_message": "In professional activities concerning animal behaviour, psychologists must respect the characteristics of the species and prevent avoidable suffering.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "avoid causing them suffering", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "localized": {
+        "editorial_title": "Professional secrecy",
+        "article_text": "The psychologist is strictly bound by professional secrecy. Accordingly, the psychologist does not disclose matters, facts or information learned by reason of the professional relationship, nor disclose that professional services have been provided or planned, unless one of the circumstances specified in the following articles applies.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Professional secrecy covers both information learned through the professional relationship and the existence of services already provided or planned, subject to the exceptions governed by the following articles.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "professional secrecy", "match_method": "human_authored_exact"},
+          {"glossary_id": "rapporto-professionale", "surface": "professional relationship", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "localized": {
+        "editorial_title": "Giving evidence and consent to depart from professional secrecy",
+        "article_text": "The psychologist refrains from giving evidence about facts learned by reason of the professional relationship. The psychologist may depart from the duty of professional secrecy, including when giving evidence, only where the recipient of their services has given valid and demonstrable consent. The psychologist must nevertheless assess whether it is appropriate to rely on that consent, giving paramount consideration to the recipient’s psychological welfare.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists do not give evidence about professional matters. Valid and demonstrable consent may permit, but never automatically requires, departure from secrecy, and the recipient’s psychological welfare remains paramount.",
+        "glossary_annotations": [
+          {"glossary_id": "rendere-testimonianza", "surface": "giving evidence", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "depart from the duty of professional secrecy", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-valido-dimostrabile", "surface": "valid and demonstrable consent", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "recipient of their services", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "psychological welfare", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

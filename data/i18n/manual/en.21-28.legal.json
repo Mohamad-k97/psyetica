@@ -1,0 +1,129 @@
+{
+  "language": "en",
+  "articles": [
+    {
+      "number": 21,
+      "localized": {
+        "editorial_title": "Teaching reserved psychological tools and psychological knowledge",
+        "article_text": "Teaching persons outside the profession to use cognitive or intervention tools and techniques reserved to the profession of psychologist constitutes serious professional misconduct. It is an aggravating factor for a psychologist, through their professional work, to endorse misleading or unlawful activities by contributing to the award of qualifications or certificates or by leading people to believe that they are authorised to carry out activities characteristic of psychologists. All cognitive and intervention tools and techniques relating to psychological processes—relational, emotional, cognitive or behavioural—and based on the application of psychological principles, knowledge, models or constructs are specific to the profession of psychologist. This does not prevent those tools and techniques from being taught to students enrolled on university psychology programmes or to trainees. Nor does it prevent the teaching of psychological knowledge.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Teaching outsiders to make operational use of reserved tools is a serious breach; teaching psychology students and trainees, and disseminating psychological knowledge, remain permitted.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-riservati", "surface": "cognitive or intervention tools and techniques reserved", "match_method": "human_authored_exact"},
+          {"glossary_id": "persone-estranee-professione", "surface": "persons outside the profession", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "aggravating factor", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "endorse", "match_method": "human_authored_exact"},
+          {"glossary_id": "qualifiche-attestati", "surface": "qualifications or certificates", "match_method": "human_authored_exact"},
+          {"glossary_id": "processi-psichici", "surface": "psychological processes", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "trainees", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 22,
+      "localized": {
+        "editorial_title": "Avoidance of harm and prohibition of improper benefit",
+        "article_text": "The psychologist acts in ways that avoid harm to the people with whom they work professionally and does not use the professional role or professional tools to secure an improper benefit for themselves or another person.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists must avoid harmful conduct and must not exploit their role or professional tools to obtain an improper benefit for themselves or anyone else.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "ways that avoid harm", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "improper benefit", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 23,
+      "localized": {
+        "editorial_title": "Agreement and amount of the professional fee",
+        "article_text": "At the beginning of the professional relationship, the psychologist agrees the professional fee. In every case, the amount of the fee must be commensurate with the importance of the work. In a clinical context, the fee must not be contingent on the outcome or results of the professional intervention.",
+        "article_text_status": "editorial_translation",
+        "core_message": "The fee is agreed at the outset, must be commensurate with the importance of the work and, in clinical practice, must not depend on the result of the intervention.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "professional fee", "match_method": "human_authored_exact"},
+          {"glossary_id": "importanza-opera", "surface": "importance of the work", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-condizionato-esito", "surface": "fee must not be contingent on the outcome or results", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 24,
+      "localized": {
+        "editorial_title": "Information at the outset and informed consent",
+        "article_text": "At the beginning of the professional relationship, the psychologist provides the individual, group, organisation or community—whether service users or commissioning parties—with adequate and comprehensible information about the services, their purposes and how they will be provided, and about the extent and legal limits of confidentiality. The psychologist therefore works in such a way that the person entitled to do so can give informed consent. Where professional services are to continue over time, their anticipated duration must be stated wherever possible.",
+        "article_text_status": "editorial_translation",
+        "core_message": "At the outset, psychologists explain the service, its purpose, method and confidentiality to service users and commissioning parties in comprehensible terms so that the person legally entitled to consent can make an informed choice.",
+        "glossary_annotations": [
+          {"glossary_id": "utente", "surface": "service users", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "commissioning parties", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-giuridici-riservatezza", "surface": "extent and legal limits of confidentiality", "match_method": "human_authored_exact"},
+          {"glossary_id": "chi-ne-ha-diritto", "surface": "person entitled to do so", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-informato", "surface": "informed consent", "match_method": "human_authored_exact"},
+          {"glossary_id": "prevedibile-durata", "surface": "anticipated duration", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 25,
+      "localized": {
+        "editorial_title": "Use of assessment instruments and communication of results",
+        "article_text": "The psychologist does not misuse the available diagnostic and assessment instruments. Where an intervention is commissioned by a third party, the psychologist informs the persons concerned about the nature of the professional intervention and does not use information learned that may prejudice them except within the scope of the instruction received. When communicating the results of diagnostic and assessment interventions, the psychologist must regulate that communication with due regard also to the persons’ psychological welfare.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Assessment instruments must be used properly; under a third-party instruction, people must be informed and potentially prejudicial information must remain within the instruction; results must be communicated with regard to psychological welfare.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-diagnosi-valutazione", "surface": "diagnostic and assessment instruments", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-del-mandato", "surface": "scope of the instruction received", "match_method": "human_authored_exact"},
+          {"glossary_id": "pregiudizio", "surface": "prejudice", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "psychological welfare", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 26,
+      "localized": {
+        "editorial_title": "Refraining where personal issues or previous relationships interfere",
+        "article_text": "The psychologist refrains from undertaking or continuing any professional activity where the psychologist’s own personal problems or conflicts interfere with the effectiveness of the service and make it inadequate or harmful to the people for whom it is intended. The psychologist also avoids assuming a professional role or carrying out interventions with service users, including at the request of a Judicial Authority, where the nature of a previous relationship could compromise the credibility or effectiveness of the work.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists do not begin or continue work made inadequate or harmful by personal issues, and do not take on roles that a previous relationship would render ineffective or lacking in credibility.",
+        "glossary_annotations": [
+          {"glossary_id": "astensione-professionale", "surface": "refrains from undertaking or continuing", "match_method": "human_authored_exact"},
+          {"glossary_id": "problemi-conflitti-personali", "surface": "personal problems or conflicts", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-giudiziaria", "surface": "Judicial Authority", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 27,
+      "localized": {
+        "editorial_title": "Ending therapy where it provides no benefit",
+        "article_text": "The psychologist considers and, where appropriate, proposes ending the therapeutic relationship when it is clear that the patient derives no benefit from the treatment and it is not reasonably foreseeable that continuing the treatment will provide any benefit. If requested, the psychologist gives the patient the information needed to seek other, more appropriate interventions.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Where therapy provides no benefit and none can reasonably be expected from continuing, the psychologist considers ending it and, if asked, helps the patient identify more appropriate interventions.",
+        "glossary_annotations": [
+          {"glossary_id": "rapporto-terapeutico", "surface": "therapeutic relationship", "match_method": "human_authored_exact"},
+          {"glossary_id": "ragionevolmente-prevedibile-beneficio", "surface": "reasonably foreseeable", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "patient", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 28,
+      "localized": {
+        "editorial_title": "Boundaries between the professional role and personal relationships",
+        "article_text": "The psychologist avoids any mixing of the professional role and private life that could interfere with professional activity or otherwise harm the public standing of the profession. Providing diagnostic, psychological support or psychotherapy interventions to a person with whom the psychologist has or has had a significant personal relationship—particularly an emotional, romantic and/or sexual relationship—constitutes serious professional misconduct. Establishing such a relationship during the professional relationship likewise constitutes serious professional misconduct. The psychologist is prohibited from any activity that, by reason of the professional relationship, may produce a direct or indirect improper benefit, whether financial or non-financial, other than the agreed professional fee. The psychologist does not exploit the professional position held in relation to colleagues under supervision or trainees for purposes outside the professional relationship.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists maintain clear boundaries: they avoid compromising overlaps with private life, do not establish improper significant relationships, obtain no improper benefit, and do not exploit supervisees, colleagues or trainees.",
+        "glossary_annotations": [
+          {"glossary_id": "commistioni-ruolo-vita-privata", "surface": "mixing of the professional role and private life", "match_method": "human_authored_exact"},
+          {"glossary_id": "nocumento", "surface": "harm", "match_method": "human_authored_exact"},
+          {"glossary_id": "relazioni-significative-personali", "surface": "significant personal relationship", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "improper benefit", "match_method": "human_authored_exact"},
+          {"glossary_id": "patrimoniale-non-patrimoniale", "surface": "financial or non-financial", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-professionale", "surface": "professional fee", "match_method": "human_authored_exact"},
+          {"glossary_id": "supervisione", "surface": "supervision", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "trainees", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

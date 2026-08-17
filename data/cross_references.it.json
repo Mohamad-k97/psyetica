@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Relazioni trasversali tra gli articoli del Codice Deontologico",
+  "language": "it",
+  "checked_on": "2026-08-13",
+  "editorial_status": "draft_needs_deontological_legal_review",
+  "interpretive_note": "Le relazioni sono una mappa didattica editoriale: non modificano il testo ufficiale, non stabiliscono gerarchie normative e non costituiscono interpretazione ufficiale del CNOP.",
+  "clusters": [
+    {
+      "id": "sistema-codice-disciplina-vigenza",
+      "label": "Sistema del Codice, disciplina e vigenza",
+      "articles": [1, 2, 41, 42],
+      "consistency_rule": "Presentare separatamente ambito soggettivo, responsabilità disciplinare, manutenzione del Codice ed entrata in vigore.",
+      "distinctions": [
+        "La responsabilità disciplinare non coincide automaticamente con responsabilità civile, penale o amministrativa.",
+        "L'Osservatorio dell'articolo 41 studia e propone revisioni; l'articolo 42 disciplina invece l'efficacia del Codice approvato.",
+        "Il testo vigente non va confuso con proposte o revisioni non efficaci."
+      ]
+    },
+    {
+      "id": "principi-responsabilita-fiducia-pubblica",
+      "label": "Principi, responsabilità e fiducia pubblica",
+      "articles": [1, 2, 3, 4, 38],
+      "consistency_rule": "Leggere le clausole generali alla luce della tutela della persona, della responsabilità sociale e della fiducia nella professione, senza trasformarle in divieti assoluti non scritti.",
+      "distinctions": [
+        "Decoro e dignità professionale riguardano l'integrità del ruolo, non la rispettabilità sociale convenzionale del singolo.",
+        "Responsabilità sociale è più ampia della sola responsabilità giuridica per danni.",
+        "La rappresentazione pubblica della professione dell'articolo 38 non coincide con la pubblicità informativa disciplinata dall'articolo 40."
+      ]
+    },
+    {
+      "id": "ruoli-soggetti-committenza",
+      "label": "Ruoli, soggetti e committenza",
+      "articles": [3, 4, 11, 12, 16, 18, 24, 25, 31, 32, 37, 39],
+      "consistency_rule": "Identificare in ogni scenario chi conferisce l'incarico, chi paga, chi riceve la prestazione, chi è valutato e chi può autorizzare una comunicazione; le figure possono coincidere, ma non vanno presunte identiche.",
+      "distinctions": [
+        "Committente indica chi affida l'incarico; destinatario della prestazione indica la persona verso cui l'attività è diretta.",
+        "Utente è termine ampio; cliente e paziente non sono equivalenti in ogni contesto professionale.",
+        "Nei mandati di terzi occorre distinguere informazione al committente, tutela del destinatario e limiti della restituzione.",
+        "Il mandato professionale definisce scopo e limiti dell'incarico; non equivale al consenso della persona."
+      ]
+    },
+    {
+      "id": "competenza-scienza-strumenti",
+      "label": "Competenza, scienza e strumenti",
+      "articles": [5, 7, 19, 21, 33, 34, 35, 37, 39, 40],
+      "consistency_rule": "Tenere distinta la competenza effettiva dai titoli formali e collegare affermazioni, metodi, strumenti e comunicazioni a basi scientifiche e professionali adeguate.",
+      "distinctions": [
+        "Competenza, abilitazione, autorizzazione e titolo sono concetti collegati ma non intercambiabili.",
+        "Validità e attendibilità sono proprietà differenti di dati, metodi o strumenti.",
+        "La riserva di strumenti dell'articolo 21 riguarda uso e insegnamento nei limiti previsti; non autorizza a dichiarare riservato qualunque materiale psicologico.",
+        "Citare la fonte dei contributi altrui è distinto dall'obbligo più generale di fondare responsabilmente le proprie valutazioni."
+      ]
+    },
+    {
+      "id": "consenso-autodeterminazione-liberta-scelta",
+      "label": "Consenso, autodeterminazione e libertà di scelta",
+      "articles": [4, 9, 12, 18, 24, 25, 27, 31, 32],
+      "consistency_rule": "Specificare sempre oggetto, momento, destinatario e funzione del consenso o dell'informazione, evitando una formula unica valida per ogni attività.",
+      "distinctions": [
+        "Il consenso alla prestazione non coincide con il consenso alla ricerca, all'uso dei dati o alla deroga al segreto per testimoniare.",
+        "Consenso, informazione, autorizzazione e libertà di scelta svolgono funzioni diverse.",
+        "La validità e dimostrabilità del consenso dell'articolo 12 hanno un oggetto specifico: la deroga al segreto nella testimonianza.",
+        "La cessazione della prestazione dell'articolo 27 non elimina gli obblighi di corretta chiusura, informazione e protezione della persona."
+      ]
+    },
+    {
+      "id": "segreto-riservatezza-dati-documentazione",
+      "label": "Segreto, riservatezza, dati e documentazione",
+      "articles": [4, 9, 11, 12, 13, 14, 15, 16, 17, 24, 25, 31, 32],
+      "consistency_rule": "Partire dalla regola generale di segretezza, poi verificare separatamente consenso, obbligo legale, pericolo grave, lavoro di gruppo, collaborazione, ricerca e custodia documentale.",
+      "distinctions": [
+        "Segreto professionale, riservatezza, anonimato, non riconoscibilità e protezione dei dati non sono sinonimi.",
+        "Referto e denuncia sono istituti giuridici distinti e dipendono dai presupposti di legge applicabili.",
+        "La possibilità di derogare non equivale a libertà di diffondere: restano pertinenza e stretto necessario.",
+        "L'articolo 17 riguarda custodia e controllo della documentazione; non è una regola generale sulla divulgazione."
+      ]
+    },
+    {
+      "id": "non-lesivita-protezione-continuita",
+      "label": "Non lesività, protezione e continuità",
+      "articles": [3, 4, 10, 12, 13, 22, 25, 26, 27, 28, 31, 38],
+      "consistency_rule": "Valutare danno prevedibile, asimmetria, vulnerabilità, continuità dell'assistenza e interessi della persona nel concreto contesto professionale.",
+      "distinctions": [
+        "Evitare danno non significa garantire qualunque esito favorevole.",
+        "Tutela psicologica e tutela giuridica possono richiedere valutazioni diverse e coordinate.",
+        "L'interruzione di una prestazione e l'astensione per incompetenza o conflitto sono decisioni distinte, pur condividendo esigenze di protezione e continuità.",
+        "Il divieto di vantaggi indebiti protegge dall'uso della relazione professionale, non soltanto da un danno economico."
+      ]
+    },
+    {
+      "id": "confini-conflitti-colleganza",
+      "label": "Confini, conflitti e colleganza",
+      "articles": [4, 6, 18, 22, 26, 28, 29, 32, 33, 36, 37],
+      "consistency_rule": "Separare autonomia professionale, conflitto di interessi, relazioni pregresse, commistioni di ruolo, rapporti con colleghi e doveri di invio o segnalazione.",
+      "distinctions": [
+        "Conflitto di interessi non richiede necessariamente un vantaggio economico.",
+        "Relazione pregressa, relazione in atto e rapporto istituzionale presentano rischi diversi.",
+        "Colleganza non significa copertura delle condotte scorrette e non giustifica giudizi pubblici lesivi.",
+        "Invio o consulenza per limiti di competenza è distinto dalla sottrazione di clientela."
+      ]
+    },
+    {
+      "id": "compenso-vantaggi-pubblicita",
+      "label": "Compenso, vantaggi economici e pubblicità",
+      "articles": [18, 22, 23, 28, 29, 30, 36, 39, 40],
+      "consistency_rule": "Tenere separati accordo sul compenso, vantaggi indebiti, corrispettivi tra professionisti, procacciamento della clientela e pubblicità informativa.",
+      "distinctions": [
+        "Il compenso pattuito per la prestazione non è il vantaggio indebito vietato dall'articolo 28.",
+        "L'articolo 30 richiede che il compenso tra professionisti corrisponda a una prestazione professionale, non che ogni collaborazione economica sia vietata.",
+        "Procacciamento della clientela e informazione pubblicitaria sono categorie differenti.",
+        "Veridicità, trasparenza e decoro della comunicazione non sostituiscono la verifica delle norme vigenti sulla pubblicità professionale."
+      ]
+    },
+    {
+      "id": "ricerca-formazione-comunicazione-scientifica",
+      "label": "Ricerca, formazione e comunicazione scientifica",
+      "articles": [5, 7, 9, 10, 16, 20, 21, 34, 35],
+      "consistency_rule": "Coordinare consenso, protezione dei partecipanti, uso dei dati, attribuzione delle fonti, insegnamento degli strumenti e responsabilità verso tirocinanti e comunità scientifica.",
+      "distinctions": [
+        "Partecipare a una ricerca non equivale a ricevere una prestazione psicologica.",
+        "Anonimato, non riconoscibilità e semplice omissione del nome offrono livelli di protezione diversi.",
+        "Trasmettere principi deontologici ai tirocinanti è distinto dall'insegnare strumenti o tecniche riservati.",
+        "Riconoscere una fonte non esaurisce gli obblighi di validità e attendibilità."
+      ]
+    },
+    {
+      "id": "minori-incapacita-tutela",
+      "label": "Persone minorenni, incapacità e tutela",
+      "articles": [9, 24, 31],
+      "consistency_rule": "Interpretare la terminologia del Codice insieme alla disciplina civile e sanitaria vigente, distinguendo ricerca, prestazione e protezione dell'interessato.",
+      "distinctions": [
+        "La formula storica potestà genitoriale va spiegata nel quadro della terminologia giuridica oggi vigente.",
+        "Consenso del rappresentante, informazione della persona e considerazione della sua capacità di comprensione non sono lo stesso atto.",
+        "Ricerca e prestazione su persona minorenne hanno presupposti e finalità differenti."
+      ]
+    },
+    {
+      "id": "esercizio-professione-comunita-pubblico",
+      "label": "Esercizio della professione, comunità e pubblico",
+      "articles": [3, 7, 8, 16, 21, 34, 35, 36, 38, 39, 40],
+      "consistency_rule": "Proteggere affidabilità dell'informazione, titoli, competenze e reputazione della professione senza confondere controllo ordinistico, confronto scientifico e comunicazione al pubblico.",
+      "distinctions": [
+        "Esercizio abusivo della professione e usurpazione di titolo sono fattispecie differenti.",
+        "Dissenso scientifico e giudizio pubblico lesivo sul collega non sono equivalenti.",
+        "Presentare formazione, esperienza e competenza è distinto dal promuovere una prestazione mediante pubblicità.",
+        "Serietà scientifica riguarda la qualità della comunicazione e non costituisce, da sola, prova dell'efficacia di una prestazione."
+      ]
+    },
+    {
+      "id": "colleganza-segnalazione-invio",
+      "label": "Colleganza, segnalazione e invio",
+      "articles": [6, 8, 20, 33, 34, 35, 36, 37],
+      "consistency_rule": "Collegare cooperazione, autonomia, attribuzione delle fonti, tutela della professione, segnalazione e invio senza attenuare la responsabilità personale.",
+      "distinctions": [
+        "Collaborare con colleghi non trasferisce la responsabilità dei propri atti.",
+        "La segnalazione al Consiglio dell'Ordine richiede fatti pertinenti e non coincide con una condanna anticipata.",
+        "L'invio motivato da limiti di competenza tutela il destinatario e non è una sanzione verso il professionista inviante.",
+        "La tutela della professione non autorizza appropriazione di contributi altrui o ostacolo al confronto scientifico."
+      ]
+    },
+    {
+      "id": "controllo-ordinistico-attuazione",
+      "label": "Controllo ordinistico e attuazione",
+      "articles": [1, 2, 5, 8, 36, 40, 41, 42],
+      "consistency_rule": "Distinguere regole sostanziali, segnalazioni, valutazione disciplinare, poteri dei Consigli territoriali, osservazione nazionale, revisione ed entrata in vigore.",
+      "distinctions": [
+        "Una segnalazione o contestazione non equivale a violazione definitivamente accertata.",
+        "Il Consiglio territorialmente competente e il Consiglio Nazionale hanno funzioni diverse.",
+        "Il controllo sulla pubblicità non rende il Consiglio autore del messaggio professionale.",
+        "Revisione periodica e referendum di approvazione sono passaggi distinti."
+      ]
+    }
+  ],
+  "direct_links": [
+    {
+      "id": "catena-segreto",
+      "articles": [11, 12, 13, 14, 15, 16, 17],
+      "relation": "Regola generale, deroghe e obblighi, gruppi, collaborazione, comunicazione scientifica, custodia documentale."
+    },
+    {
+      "id": "catena-compenso",
+      "articles": [23, 28, 29, 30],
+      "relation": "Accordo sul compenso, vantaggi indebiti nella relazione, rapporti con presidi e corrispettivi tra professionisti."
+    },
+    {
+      "id": "catena-comunicazione-pubblica",
+      "articles": [38, 39, 40],
+      "relation": "Condotta pubblica, corretta presentazione professionale e pubblicità informativa."
+    },
+    {
+      "id": "catena-competenza-invio",
+      "articles": [5, 7, 37, 39],
+      "relation": "Competenza effettiva, fondamento delle valutazioni, limiti del mandato e rappresentazione al pubblico."
+    },
+    {
+      "id": "catena-committenza-terzo",
+      "articles": [4, 25, 32, 37],
+      "relation": "Tutela del destinatario quando incarico, interesse del committente, restituzione e competenza non coincidono."
+    },
+    {
+      "id": "catena-consenso-minori",
+      "articles": [9, 24, 31],
+      "relation": "Consenso e informazione in ricerca e prestazioni che coinvolgono persone minorenni o incapaci."
+    },
+    {
+      "id": "catena-interruzione-invio",
+      "articles": [26, 27, 37],
+      "relation": "Relazioni pregresse o conflitti, interruzione della prestazione e invio per limiti di competenza."
+    },
+    {
+      "id": "catena-vigenza",
+      "articles": [41, 42],
+      "relation": "Monitoraggio e proposta di revisione, poi approvazione ed efficacia del testo."
+    }
+  ]
+}

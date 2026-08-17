@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "default_language": "it",
+  "languages": [
+    {"code": "it", "native_name": "Italiano", "english_name": "Italian", "direction": "ltr", "article_source": "data/editorial/", "glossary_source": "data/glossary.it.json", "status": "editorial_draft"},
+    {"code": "en", "native_name": "English (UK)", "english_name": "English (UK)", "direction": "ltr", "article_source": "data/i18n/en/articles.en.json", "glossary_source": "data/i18n/en/glossary.en.json", "case_source": "data/i18n/en/cases.en.json", "status": "editorial_translation"},
+    {"code": "es", "native_name": "Español", "english_name": "Spanish", "direction": "ltr", "article_source": "data/i18n/es/articles.es.json", "glossary_source": "data/i18n/es/glossary.es.json", "case_source": "data/i18n/es/cases.es.json", "status": "editorial_translation"},
+    {"code": "ro", "native_name": "Română", "english_name": "Romanian", "direction": "ltr", "article_source": "data/i18n/ro/articles.ro.json", "glossary_source": "data/i18n/ro/glossary.ro.json", "case_source": "data/i18n/ro/cases.ro.json", "status": "editorial_translation"},
+    {"code": "sq", "native_name": "Shqip", "english_name": "Albanian", "direction": "ltr", "article_source": "data/i18n/sq/articles.sq.json", "glossary_source": "data/i18n/sq/glossary.sq.json", "case_source": "data/i18n/sq/cases.sq.json", "status": "editorial_translation"},
+    {"code": "ar", "native_name": "العربية (مصر)", "english_name": "Arabic (Egypt)", "direction": "rtl", "article_source": "data/i18n/ar/articles.ar.json", "glossary_source": "data/i18n/ar/glossary.ar.json", "case_source": "data/i18n/ar/cases.ar.json", "status": "editorial_translation"},
+    {"code": "fa", "native_name": "فارسی (ایران)", "english_name": "Persian (Iran)", "direction": "rtl", "article_source": "data/i18n/fa/articles.fa.json", "glossary_source": "data/i18n/fa/glossary.fa.json", "case_source": "data/i18n/fa/cases.fa.json", "status": "editorial_translation"}
+  ],
+  "article_page_contract": {
+    "all_languages": ["Italian official article is displayed first."],
+    "italian": ["Italian commentary follows the official article.", "Highlighted Italian terms open the Italian editorial definition."],
+    "non_italian": ["The unofficial localized article follows the Italian official article.", "Localized commentary follows the localized article.", "Highlighted localized terms open the corresponding Italian term and Italian editorial definition."],
+    "flashcards": ["Flashcards are available only in Italian.", "Flashcard controls and progress filters use the selected interface language."]
+  }
+}

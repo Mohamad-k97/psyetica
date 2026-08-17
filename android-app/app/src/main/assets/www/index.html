@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="it" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#F4F8F7">
+  <meta name="description" content="Studia il Codice Deontologico degli Psicologi Italiani, articolo per articolo, anche offline.">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="PsyEtica">
+  <title>PsyEtica</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Vai al contenuto</a>
+  <header class="topbar">
+    <button class="brand" id="homeButton" type="button" aria-label="PsyEtica home">
+      <span class="brand-mark" aria-hidden="true">Ψ</span>
+      <span class="brand-name">PsyEtica</span>
+    </button>
+    <div class="top-actions">
+      <label class="language-control" aria-label="Lingua">
+        <span class="globe" aria-hidden="true">◎</span>
+        <select id="languageSelect"></select>
+      </label>
+      <button class="icon-button" id="themeButton" type="button" aria-label="Tema scuro"><span aria-hidden="true">◐</span></button>
+      <button class="support-button" id="supportButton" type="button"><span aria-hidden="true">♥</span><span data-i18n="support">Sostieni</span></button>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <div class="loading" id="loading"><span class="loader"></span><p>Caricamento della biblioteca…</p></div>
+  </main>
+
+  <nav class="bottom-nav" id="bottomNav" aria-label="Navigazione principale">
+    <button type="button" data-screen="articles" class="active"><span class="nav-icon" aria-hidden="true">§</span><span data-i18n="articles">Articoli</span></button>
+    <button type="button" data-screen="flashcards"><span class="nav-icon" aria-hidden="true">▣</span><span data-i18n="flashcards">Flashcard</span></button>
+    <button type="button" data-screen="about"><span class="nav-icon" aria-hidden="true">i</span><span data-i18n="about">Info</span></button>
+  </nav>
+
+  <div class="modal-backdrop" id="modalBackdrop" hidden>
+    <section class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" id="modalClose" type="button" aria-label="Chiudi">×</button>
+      <div id="modalContent"></div>
+    </section>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

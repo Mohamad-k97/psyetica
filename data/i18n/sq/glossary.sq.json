@@ -1,0 +1,1794 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Localized glossary bridge - Albanian",
+  "language": "sq",
+  "direction": "ltr",
+  "source_language": "it",
+  "source_file": "data/glossary.it.json",
+  "translation_route": [
+    "it",
+    "en",
+    "sq"
+  ],
+  "translation_status": "machine_draft_needs_native_legal_review",
+  "popup_behavior": "Highlighted localized terms open the Italian surface, Italian lemma, and Italian editorial definition.",
+  "entries": [
+    {
+      "id": "codice-deontologico",
+      "term": "Kodi i Etikës dhe Deontologjisë",
+      "italian_lemma": "Codice deontologico",
+      "italian_definition": "Insieme delle regole professionali vincolanti per chi è iscritto all'Albo degli psicologi, la cui inosservanza può avere conseguenze disciplinari.",
+      "localized_explanation": "Së bashku me rregullat e detyrueshme profesionale për ata që janë regjistruar në regjistrin e Psikiatërve, papërmbajtja e të cilëve mund të ketë pasoja disiplinore.",
+      "related_articles": [
+        1,
+        2,
+        6,
+        41,
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "albo-degli-psicologi",
+      "term": "Psychology Albo",
+      "italian_lemma": "Albo degli psicologi",
+      "italian_definition": "Registro pubblico professionale nel quale l'iscrizione abilita all'uso del relativo titolo e comporta l'assoggettamento alle regole ordinistiche.",
+      "localized_explanation": "Regjistrimi publik profesional në të cilin regjistrimi lejon përdorimin e titullit përkatës dhe përfshin nënshtrimin ndaj rregullave të rendit.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-disciplinare",
+      "term": "përgjegjësi disiplinore",
+      "italian_lemma": "responsabilità disciplinare",
+      "italian_definition": "Responsabilità dell'iscritto per la violazione di regole professionali, accertata secondo il procedimento disciplinare applicabile.",
+      "localized_explanation": "Përgjegjësia e anëtarit për shkeljen e rregullave profesionale, u zbulua sipas procedurës disiplinore të zbatueshme.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "principi-deontologici",
+      "term": "parime deontologjike",
+      "italian_lemma": "principi deontologici",
+      "italian_definition": "Principi e criteri professionali che orientano il comportamento dello psicologo e la comprensione delle regole del Codice.",
+      "localized_explanation": "Parimet dhe kriteret profesionale që drejtojnë sjelljen e psikologut dhe kuptueshmërinë e rregullave të kodit.",
+      "related_articles": [
+        20
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "illecito-disciplinare",
+      "term": "shkelje disiplinore",
+      "italian_lemma": "illecito disciplinare",
+      "italian_definition": "Condotta o omissione professionalmente censurabile secondo il Codice e l'ordinamento disciplinare.",
+      "localized_explanation": "Sjellja ose mosbashkëpunimi profesionalisht i censurueshëm sipas kodit dhe rendit disiplinor.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "regolamento-disciplinare",
+      "term": "Rregullat disiplinore",
+      "italian_lemma": "Regolamento disciplinare",
+      "italian_definition": "Atto che disciplina fasi, competenze e garanzie del procedimento con cui vengono valutate le contestazioni deontologiche.",
+      "localized_explanation": "Veproni me faza qeverisëse, aftësi dhe garanci të procedurës në të cilën vlerësohen mosmarrëveshjet deontologjike.",
+      "related_articles": [
+        2
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "decoro-professionale",
+      "term": "Konkurim profesional",
+      "italian_lemma": "decoro professionale",
+      "italian_definition": "Criterio aperto che richiede una condotta seria, corretta e compatibile con la fiducia pubblica nella professione; va applicato considerando contesto e proporzionalità.",
+      "localized_explanation": "Politika e hapur kërkon sjellje serioze, korrekte dhe kompatibël me besimin publik në profesion; duhet aplikuar në kontekst dhe proporcionalitet.",
+      "related_articles": [
+        2,
+        36,
+        38,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "dignita-professionale",
+      "term": "Dinjiteti profesional",
+      "italian_lemma": "dignità professionale",
+      "italian_definition": "Valore legato all'integrità del ruolo e alla sua funzione sociale, non al prestigio personale del professionista.",
+      "localized_explanation": "Vlera lidhet me integritetin e rolit dhe të funksionit shoqëror, jo me prestigjin personal të profesionistëve.",
+      "related_articles": [
+        2,
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-sociale",
+      "term": "Përgjegjësi sociale",
+      "italian_lemma": "responsabilità sociale",
+      "italian_definition": "Consapevolezza che l'attività psicologica può incidere sulle persone e sulla collettività e deve considerare anche fattori sociali, organizzativi, finanziari e politici.",
+      "localized_explanation": "I vetëdijshëm se veprimtaria psikologjike mund të ndikojë njerëzit dhe komunitetin dhe duhet të marrë gjithashtu në konsideratë faktorët socialë, organizative, financiarë dhe politikë.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "atti-professionali",
+      "term": "Aktivitete",
+      "italian_lemma": "atti professionali",
+      "italian_definition": "Azioni compiute nell'esercizio del ruolo professionale e imputabili allo psicologo.",
+      "localized_explanation": "Veprimet e kryera në ushtrimin e rolit profesional dhe të fala psikologut.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conseguenze-prevedibili-dirette",
+      "term": "Parashikohen pasoja të drejtpërdrejta",
+      "italian_lemma": "prevedibili dirette conseguenze",
+      "italian_definition": "Effetti direttamente collegati all'atto professionale che erano ragionevolmente anticipabili nelle circostanze concrete.",
+      "localized_explanation": "Ndikimet e lidhura drejtpërdrejt me veprimin profesional që ishte parashikuar në mënyrë të arsyeshme në rrethana konkrete.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "riservatezza",
+      "term": "konfidencialitet",
+      "italian_lemma": "riservatezza",
+      "italian_definition": "Protezione delle informazioni e della sfera privata della persona, più ampia della sola regola sul non rivelare il segreto professionale.",
+      "localized_explanation": "Mbrojtja e informacionit dhe sfera private e personit, më e gjerë se rregulli për të mos zbuluar fshehtësi profesionale.",
+      "related_articles": [
+        4,
+        9,
+        13,
+        14,
+        24,
+        25,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autodeterminazione",
+      "term": "vetë-vendosje",
+      "italian_lemma": "autodeterminazione",
+      "italian_definition": "Diritto e capacità della persona di partecipare alle decisioni che la riguardano sulla base di informazioni adeguate e senza coercizioni indebite.",
+      "localized_explanation": "E drejta dhe aftësia e personit për të marrë pjesë në vendimet që lidhen me të, në bazë të informacionit të përshtatshëm dhe pa detyrim të tepruar.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-persona",
+      "term": "autonomia e personit",
+      "italian_lemma": "autonomia della persona",
+      "italian_definition": "Possibilità della persona di formare e attuare scelte proprie, distinta dall'autonomia tecnica del professionista.",
+      "localized_explanation": "Padukshmëria e personit për të formuar dhe zbatuar zgjedhjet e veta, e dalluar nga autonomia teknike e profesionalizmit.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conflitto-di-interesse",
+      "term": "konflikt interesi",
+      "italian_lemma": "conflitto di interesse",
+      "italian_definition": "Situazione in cui interessi, doveri o lealtà concorrenti possono interferire con la tutela dovuta o con l'indipendenza del giudizio professionale.",
+      "localized_explanation": "Situata në të cilën interesat, detyrat apo ligji i konkurrencës mund të ndërhyjë në mbrojtjen e profesionit apo pavarësisë së gjykimit profesional.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "destinatario-prestazione",
+      "term": "nga",
+      "italian_lemma": "destinatario della prestazione",
+      "italian_definition": "Persona o soggetto verso cui l'intervento professionale è concretamente rivolto; può non coincidere con chi lo commissiona o lo paga.",
+      "localized_explanation": "Personi apo subjekti për të cilin ndërhyrja profesionale drejtohet konkretisht; Ndoshta nuk përputhet me kush e ngarkon ose e paguan.",
+      "related_articles": [
+        3,
+        4,
+        11,
+        12,
+        16,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "committente",
+      "term": "Kontraktori",
+      "italian_lemma": "committente",
+      "italian_definition": "Soggetto che richiede o conferisce l'incarico professionale; non coincide necessariamente con chi riceve la prestazione o con chi paga.",
+      "localized_explanation": "Subjekti që kërkon ose këshillon caktimin profesional; nuk përputhet medoemos me atë që merr interpretimin ose që paguan.",
+      "related_articles": [
+        3,
+        4,
+        24,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "utente",
+      "term": "përdorues",
+      "italian_lemma": "utente",
+      "italian_definition": "Persona o soggetto che utilizza o riceve un servizio; nel Codice può affiancarsi a cliente, paziente, committente o destinatario senza coincidere sempre con essi.",
+      "localized_explanation": "Personi apo subjekti që përdor apo merr një shërbim; në Kodin mund të shoqërohet nga klienti, pacienti, klienti apo marrësi pa ju krahasuar gjithmonë.",
+      "related_articles": [
+        3,
+        4,
+        5,
+        24,
+        36,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "cliente",
+      "term": "Klienti:",
+      "italian_lemma": "cliente",
+      "italian_definition": "Soggetto che instaura un rapporto professionale con lo psicologo; nel Codice il termine non identifica sempre il paziente o destinatario.",
+      "localized_explanation": "Subjekti për të krijuar një marrëdhënie profesionale me psikologen; në kod termi jo gjithmonë identifikon pacientin ose marrësit.",
+      "related_articles": [
+        3,
+        5,
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "paziente",
+      "term": "pacient",
+      "italian_lemma": "paziente",
+      "italian_definition": "Persona che riceve una prestazione di cura o un intervento clinico; il termine è più specifico di utente o cliente.",
+      "localized_explanation": "Personi që merr një kurë ose ndërhyrje klinike; Termi është më specifik se përdoruesi apo klienti.",
+      "related_articles": [
+        18,
+        27,
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-professionale",
+      "term": "Trajnim votimi",
+      "italian_lemma": "rapporto professionale",
+      "italian_definition": "Relazione regolata da un incarico o da una prestazione psicologica, dalla quale derivano ruoli, doveri e limiti professionali.",
+      "localized_explanation": "Raporti rregulluar nga një pozitë apo performancë psikologjike, nga të cilat dalin role, detyra dhe kufizime profesionale.",
+      "related_articles": [
+        11,
+        12,
+        17,
+        24,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "competenza-professionale",
+      "term": "kompetencë profesionale",
+      "italian_lemma": "competenza professionale",
+      "italian_definition": "Capacità effettiva di svolgere un compito con conoscenze, abilità, esperienza e giudizio adeguati al caso, distinta dal solo possesso di un titolo.",
+      "localized_explanation": "Aftësia e efektshme për të kryer një detyrë me njohuri, aftësi, përvojë dhe gjykim të përshtatshëm për rastin, të dalluar nga zotërimi i vetëm i një titulli.",
+      "related_articles": [
+        5,
+        6,
+        19,
+        33,
+        37,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-continua",
+      "term": "Vazhdo stërvitjen",
+      "italian_lemma": "formazione continua",
+      "italian_definition": "Aggiornamento professionale svolto lungo l'esercizio della professione secondo gli obblighi dell'ordinamento applicabile.",
+      "localized_explanation": "Përditësimi profesional i kryer gjatë ushtrimit të profesionit sipas detyrimeve të rendit të zbatueshëm.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-teorico-pratici",
+      "term": "Mjete teorike dhe praktike",
+      "italian_lemma": "strumenti teorico-pratici",
+      "italian_definition": "Modelli, metodi, tecniche e strumenti operativi impiegati nella pratica psicologica.",
+      "localized_explanation": "Modelet, metodat, teknikat dhe mjetet operative që përdoren në praktikën psikologjike.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formale-autorizzazione",
+      "term": "autorizim zyrtar",
+      "italian_lemma": "formale autorizzazione",
+      "italian_definition": "Titolo, abilitazione, riconoscimento o altro requisito giuridicamente richiesto per una specifica attività, quando previsto.",
+      "localized_explanation": "Titulli, kualifikimi, njohja apo kërkesa ligjore për një aktivitet specifik, kur kërkohet.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aspettative-infondate",
+      "term": "Pritje të pabaza",
+      "italian_lemma": "aspettative infondate",
+      "italian_definition": "Attese di risultati, efficacia o capacità professionali che non hanno un supporto adeguato nelle conoscenze e nelle circostanze disponibili.",
+      "localized_explanation": "Shpresat për rezultate, për efektivitet ose për aftësi profesionale që nuk kanë mbështetje të mjaftueshme në njohurinë dhe rrethanat që janë në dispozicion.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-professionale",
+      "term": "autonomi profesionale",
+      "italian_lemma": "autonomia professionale",
+      "italian_definition": "Indipendenza tecnica e deontologica dello psicologo nella scelta e nell'uso responsabile di metodi, tecniche, strumenti e valutazioni.",
+      "localized_explanation": "Pavarësia teknike dhe deontologjike e psikologut në zgjedhjen dhe përdorimin e përgjegjësve për metodat, teknikat, mjetet dhe vlerësimet.",
+      "related_articles": [
+        6,
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "validita",
+      "term": "Vlefshmëria",
+      "italian_lemma": "validità",
+      "italian_definition": "Grado in cui informazioni, strumenti o conclusioni sostengono realmente l'interpretazione o l'uso che se ne fa.",
+      "localized_explanation": "Në bazë të së cilës informacion, mjetet ose përfundimet mbështetin me të vërtetë interpretimin ose përdorimin e tij.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "attendibilita",
+      "term": "besueshmëri",
+      "italian_lemma": "attendibilità",
+      "italian_definition": "Affidabilità di informazioni, dati, fonti o documentazione rispetto alla decisione professionale da assumere.",
+      "localized_explanation": "Rezistueshmëria e informacionit, të dhënave, burimeve apo dokumentacionit lidhur me vendimin profesional që do të merret.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ipotesi-interpretative-alternative",
+      "term": "Hipoteza alternative interpretuese",
+      "italian_lemma": "ipotesi interpretative alternative",
+      "italian_definition": "Spiegazioni diverse plausibili che devono essere considerate quando dati e contesto non consentono una conclusione unica.",
+      "localized_explanation": "Shpjegime të ndryshme bindëse që duhen shqyrtuar kur të dhënat dhe konteksti nuk lejojnë një përfundim unik.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conoscenza-professionale-diretta",
+      "term": "Dituri e drejtpërdrejtë profesionale",
+      "italian_lemma": "conoscenza professionale diretta",
+      "italian_definition": "Conoscenza acquisita personalmente dallo psicologo mediante attività professionali pertinenti sul caso.",
+      "localized_explanation": "Njohuria e fituar personalisht nga psikologu nëpërmjet aktiviteteve profesionale të rëndësishme në rastin.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-adeguata-attendibile",
+      "term": "Dokumentë e përshtatshme dhe e besueshme",
+      "italian_lemma": "documentazione adeguata ed attendibile",
+      "italian_definition": "Materiale sufficientemente pertinente, completo e affidabile per sostenere la specifica valutazione formulata.",
+      "localized_explanation": "Materiali është mjaft i rëndësishëm, i plotë dhe i besueshëm për të mbështetur vlerësimin specifik të formuluar.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "esercizio-abusivo",
+      "term": "ushtrim i paautorizuar i profesionit",
+      "italian_lemma": "esercizio abusivo della professione",
+      "italian_definition": "Svolgimento senza i requisiti richiesti di attività riservate dalla legge a una professione abilitata.",
+      "localized_explanation": "Aplikativi pa kërkesat e kërkuara të veprimtarive të rezervuara me ligj ndaj një profesioni të autorizuar.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "usurpazione-di-titolo",
+      "term": "përvetësim i paligjshëm i titullit profesional",
+      "italian_lemma": "usurpazione di titolo",
+      "italian_definition": "Uso indebito di un titolo o qualità professionale che non spetta alla persona.",
+      "localized_explanation": "Përdorimi i papërshtatshëm i një titulli ose cilësie profesionale që nuk është përgjegjësia e personit.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "previo-consenso-informato",
+      "term": "pëlqim i informuar paraprak",
+      "italian_lemma": "previo consenso informato",
+      "italian_definition": "Decisione libera e informata espressa prima dell'attività cui si riferisce, dopo informazioni adeguate.",
+      "localized_explanation": "Një vendim i lirë dhe i informuar shprehur përpara veprimtarisë së përmendur në këtë raport, pas informacionit të përshtatshëm.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ritiro-del-consenso",
+      "term": "Tërhiq pëlqimin tënd",
+      "italian_lemma": "ritirare il consenso",
+      "italian_definition": "Revocare per il futuro il consenso precedentemente espresso, secondo le regole applicabili all'attività e ai dati già raccolti.",
+      "localized_explanation": "Rifilloi për të ardhmen miratimin e mëparshëm, sipas rregullave që zbatohen për veprimtarinë dhe të dhënat e mbledhura tashmë.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorizzazione-uso-dati",
+      "term": "Autorizim për përdorimin e të dhënave të mbledhura",
+      "italian_lemma": "autorizzazione all'uso dei dati raccolti",
+      "italian_definition": "Assenso richiesto dall'art. 9 dopo il debriefing quando alcuni aspetti della ricerca non potevano essere spiegati correttamente in anticipo.",
+      "localized_explanation": "Asensi kërkohet nga arti. 9 Pasi të kenë marrë në pyetje disa aspekte kërkimi, nuk mund të shpjegoheshin më saktë se më parë.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "potesta-genitoriale",
+      "term": "përgjegjësi prindërore",
+      "italian_lemma": "potestà genitoriale",
+      "italian_definition": "Espressione storica conservata nel testo ufficiale; nella terminologia giuridica italiana corrente è stata sostituita da responsabilità genitoriale.",
+      "localized_explanation": "Shprehje historike ruajtur në tekstin zyrtar; Në terminologjinë ligjore të tanishme, është zëvendësuar nga përgjegjësia prindërore.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-giuridica",
+      "term": "Mbrojtje",
+      "italian_lemma": "tutela",
+      "italian_definition": "Istituto di protezione e rappresentanza previsto per persone che non possono provvedere autonomamente ai propri interessi nei casi stabiliti dalla legge.",
+      "localized_explanation": "Instituti i mbrojtjes dhe përfaqësimit i siguruar për personat që nuk mund të ofrojnë në mënyrë të pavarur interesat e tyre në rastet e krijuara me ligj.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "non-riconoscibilita",
+      "term": "Jo-njohshmëri",
+      "italian_lemma": "non riconoscibilità",
+      "italian_definition": "Condizione per cui una persona non può essere individuata neppure combinando i dettagli messi a disposizione.",
+      "localized_explanation": "Kushti për të cilin një person nuk mund të identifikohet as duke kombinuar hollësitë që janë vënë në dispozicion.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "anonimato",
+      "term": "anonim",
+      "italian_lemma": "anonimato",
+      "italian_definition": "Condizione nella quale l'identità del soggetto non è ricavabile dalle informazioni disponibili con mezzi ragionevoli.",
+      "localized_explanation": "Kushti në të cilin identiteti i kësaj teme nuk është i arritshëm nga informacioni që është në dispozicion me mjete të arsyeshme.",
+      "related_articles": [
+        9,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "segreto-professionale",
+      "term": "sekret profesional",
+      "italian_lemma": "segreto professionale",
+      "italian_definition": "Dovere dello psicologo di non rivelare informazioni apprese in ragione del rapporto professionale, salvo le deroghe o gli obblighi previsti.",
+      "localized_explanation": "Psikologu nuk duhet të zbulojë informacion të mësuar në dritën e marrëdhënieve profesionale, përveç përjashtimeve apo detyrimeve të ofruara.",
+      "related_articles": [
+        11,
+        12,
+        15,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rendere-testimonianza",
+      "term": "dhe betohem në ata (engjëj) që i rregullojnë ato që nuk janë të rregulluara,",
+      "italian_lemma": "rendere testimonianza",
+      "italian_definition": "Deporre come testimone davanti all'autorità su fatti conosciuti, qui con specifico riferimento a quelli appresi nel rapporto professionale.",
+      "localized_explanation": "Duke u paraqitur si dëshmitar para autoritetit për faktet e njohura, këtu me referime specifike për ata që kanë mësuar në marrëdhëniet profesionale.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "deroga-segreto",
+      "term": "Leja nga detyrimi për të mbajtur sekret profesional",
+      "italian_lemma": "derogare all'obbligo di mantenere il segreto professionale",
+      "italian_definition": "Eccezione motivata alla regola di segretezza entro presupposti, destinatari e limiti specifici.",
+      "localized_explanation": "Përjashtim i motivuar ndaj rregullit sekret brenda supozimeve specifike, marrësit dhe kufijtë.",
+      "related_articles": [
+        12,
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-valido-dimostrabile",
+      "term": "Një marrëveshje e vlefshme dhe demonstrative",
+      "italian_lemma": "valido e dimostrabile consenso",
+      "italian_definition": "Consenso espresso da chi è legittimato, libero, informato, pertinente alla comunicazione e documentabile.",
+      "localized_explanation": "Të shprehur nga ata që janë të ligjshëm, të lirë, të informuar, të rëndësishëm për komunikimin dhe të dokumentueshëm.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-psicologica",
+      "term": "Mbrojtje psikologjike",
+      "italian_lemma": "tutela psicologica",
+      "italian_definition": "Protezione del benessere e dell'integrità psicologica della persona nel modo in cui si decide, comunica o conclude un intervento.",
+      "localized_explanation": "Mbrojtja e mirëqenies dhe integritetit psikologjik të personit në mënyrën në të cilën ai vendos, komunikon apo përfundon një ndërhyrje.",
+      "related_articles": [
+        12,
+        13,
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-referto",
+      "term": "detyrim ligjor për raportim profesional",
+      "italian_lemma": "obbligo di referto",
+      "italian_definition": "Obbligo previsto dalla legge per l'esercente una professione sanitaria che presta assistenza od opera in casi che possono presentare i caratteri di un delitto perseguibile d'ufficio, con eccezioni e condizioni da verificare.",
+      "localized_explanation": "Obligimi që sigurohet me ligj për ushtrimin e një profesioni shëndetësor që siguron ndihmë ose punë në rastet që mund të paraqesin personazhet e një krimi të përndiqshëm të detyrës, me përjashtime dhe kushte për t'u kontrolluar.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-denuncia",
+      "term": "detyrim ligjor për kallëzim",
+      "italian_lemma": "obbligo di denuncia",
+      "italian_definition": "Obbligo legale di comunicare una notizia di reato nei casi e per i soggetti individuati dalla legge, distinto dal referto.",
+      "localized_explanation": "Detyrimi ligjor për të komunikuar një lajm të krimit në raste dhe për subjektet e identifikuara nga ligji, të dalluara nga raporti.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "stretto-necessario",
+      "term": "minimumi rreptësisht i nevojshëm",
+      "italian_lemma": "stretto necessario",
+      "italian_definition": "Solo le informazioni indispensabili per lo scopo giuridicamente o professionalmente legittimo della comunicazione.",
+      "localized_explanation": "Vetëm informacion i nevojshëm për qëllimin ligjor ose profesional të komunikimit.",
+      "related_articles": [
+        13,
+        15
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "gravi-pericoli",
+      "term": "Rreziqe serioze për jetën ose për shëndetin psikofizik",
+      "italian_lemma": "gravi pericoli per la vita o per la salute psicofisica",
+      "italian_definition": "Rischi seri per vita o salute fisica e psicologica che richiedono una valutazione concreta di gravità, probabilità, urgenza e alternative.",
+      "localized_explanation": "Rreziqet serioze për jetën fizike dhe psikologjike ose shëndetin që kërkojnë një vlerësim konkret të gravitetit, probabilitetit, urgjencës dhe alternativave.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "custodia-controllo",
+      "term": "Kujdes dhe kontroll",
+      "italian_lemma": "custodia e controllo",
+      "italian_definition": "Misure organizzative, fisiche e digitali con cui lo psicologo protegge documenti e comunicazioni da accessi, perdite o usi non autorizzati.",
+      "localized_explanation": "Masa organizative, fizike dhe dixhitale me të cilat psikologu mbron dokumentet dhe komunikimet nga aksesi i paautorizuar, humbjet apo përdorimi.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-professionale",
+      "term": "Dokumentë",
+      "italian_lemma": "documentazione professionale",
+      "italian_definition": "Appunti, note, scritti, registrazioni e altri materiali riguardanti il rapporto professionale, indipendentemente dal supporto.",
+      "localized_explanation": "Shënime, shënime, shkrime, regjistrime dhe materiale të tjera në lidhje me marrëdhënien profesionale, pavarësisht nga mbështetja.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "liberta-di-scelta",
+      "term": "Liria e zgjedhjes",
+      "italian_lemma": "libertà di scelta",
+      "italian_definition": "Possibilità concreta del cliente o paziente di scegliere il professionista senza pressioni indebite, nei limiti reali e legittimi del contesto.",
+      "localized_explanation": "Klienti ose pacienti mund ta zgjedhë specialistin pa presion të tepruar, brenda kufijve realë dhe legjitimë të kontekstit.",
+      "related_articles": [
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "avallare",
+      "term": "ortek",
+      "italian_lemma": "avallare",
+      "italian_definition": "Dare appoggio, legittimazione o copertura professionale a un'attività, decisione o qualifica.",
+      "localized_explanation": "Për të mbështetur, legalizo ose mbulo një punë, vendim ose kualifikim.",
+      "related_articles": [
+        8,
+        19,
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualificazione-preparazione",
+      "term": "Kopercialiteti, kualifikimi apo përgatitja",
+      "italian_lemma": "competenza, qualificazione o preparazione",
+      "italian_definition": "Criteri professionali pertinenti ai requisiti effettivi da valutare, distinti da preferenze o pressioni estranee.",
+      "localized_explanation": "Kriteret profesionale që kanë lidhje me kërkesat aktuale për t'u vlerësuar, të dallueshme nga preferencat apo presionet e huaja.",
+      "related_articles": [
+        19
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-riservati",
+      "term": "Instrumente dhe teknika të njohurisë dhe ndërhyrjes të rezervuara",
+      "italian_lemma": "strumenti e tecniche conoscitive e di intervento riservati",
+      "italian_definition": "Strumenti e tecniche la cui utilizzazione operativa rientra nelle attività caratteristiche o riservate della professione psicologica.",
+      "localized_explanation": "Instrumentet dhe teknikat që përdorin në punë, gjenden brenda veprimtarive karakteristike ose të rezervuara të profesionit psikologjik.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-estranee-professione",
+      "term": "Njerëz të huaj në profesion",
+      "italian_lemma": "persone estranee alla professione",
+      "italian_definition": "Persone che non appartengono alla professione abilitata cui sono riservati gli strumenti o le tecniche in questione, salve le eccezioni formative espresse.",
+      "localized_explanation": "Personat që nuk i përkasin profesionit të autorizuar nga të cilat instrumentet ose teknikat në fjalë janë të rezervuara, përveç përjashtimeve të stërvitjes.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aggravante",
+      "term": "aggraging",
+      "italian_lemma": "aggravante",
+      "italian_definition": "Circostanza che rende più grave una condotta disciplinarmente rilevante e può incidere sulla sua valutazione e sanzione.",
+      "localized_explanation": "Rrethanat që e bëjnë një sjellje më serioze disiplinuese dhe mund të ndikojnë në vlerësimin dhe në miratimin e saj.",
+      "related_articles": [
+        21,
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualifiche-attestati",
+      "term": "kualifikimet, çertifikatat",
+      "italian_lemma": "qualifiche, attestati",
+      "italian_definition": "Denominazioni o documenti che dichiarano formazione o capacità; non equivalgono necessariamente a un titolo abilitante.",
+      "localized_explanation": "Emrat apo dokumentet që shpallin trainimin apo kapacitetin; Ata nuk përputhen medoemos me titullin e mundshëm.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "processi-psichici",
+      "term": "Proceset e psikiatës",
+      "italian_lemma": "processi psichici",
+      "italian_definition": "Processi relazionali, emotivi, cognitivi e comportamentali considerati attraverso principi, modelli o costrutti psicologici.",
+      "localized_explanation": "Marrëdhëniet, marrëdhëniet emocionale, njohuritë dhe sjelljet e shqyrtuara nëpërmjet parimeve psikologjike, modeleve ose ndërtimit.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "condotte-non-lesive",
+      "term": "jo-jetesa",
+      "italian_lemma": "condotte non lesive",
+      "italian_definition": "Comportamenti professionali orientati a evitare danni ingiustificati o prevedibili alle persone seguite, tenendo conto di rischi e benefici.",
+      "localized_explanation": "Sjellja profesionale që synonte shmangien e pajustifikuar apo dëmtimin e parashikueshëm të njerëzve, duke marrë parasysh rreziqet dhe përfitimet.",
+      "related_articles": [
+        10,
+        22
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "vantaggi-indebiti",
+      "term": "Avantazhe të tepruara",
+      "italian_lemma": "indebiti vantaggi",
+      "italian_definition": "Utilità patrimoniali o non patrimoniali ottenute senza giustificazione professionale, sfruttando ruolo, strumenti o rapporto.",
+      "localized_explanation": "Pasuritë e vogla apo jo-kapitale të siguruara pa justifikim profesional, rol shfrytëzimi, mjete apo marrëdhënie.",
+      "related_articles": [
+        22,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-professionale",
+      "term": "Kopertim profesional",
+      "italian_lemma": "compenso professionale",
+      "italian_definition": "Corrispettivo economico pattuito per le prestazioni professionali rese.",
+      "localized_explanation": "Një konsideratë ekonomike për performancën profesionale.",
+      "related_articles": [
+        23,
+        28,
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "importanza-opera",
+      "term": "Rëndësi e punës",
+      "italian_lemma": "importanza dell'opera",
+      "italian_definition": "Rilievo, complessità, responsabilità e caratteristiche dell'attività professionale cui deve essere rapportata la misura del compenso.",
+      "localized_explanation": "Lehtësim, kompleksitet, përgjegjësi dhe karakteristika të veprimtarisë profesionale me të cilën duhet të lidhet masa e kompensimit.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-condizionato-esito",
+      "term": "Kompensim i kushtëzuar për rezultatin apo rezultatet",
+      "italian_lemma": "compenso condizionato all'esito o ai risultati",
+      "italian_definition": "Compenso la cui debenza o misura dipende dal raggiungimento dell'esito concordato; il testo lo vieta espressamente in ambito clinico.",
+      "localized_explanation": "Detyrimi i të cilit debenca apo masa varet nga arritja e rezultatit të rënë dakord; Teksti e ndalon në mënyrë të qartë atë në fushën klinike.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-informato",
+      "term": "pëlqim i informuar",
+      "italian_lemma": "consenso informato",
+      "italian_definition": "Decisione libera e consapevole di chi ne ha diritto, fondata su informazioni adeguate e comprensibili circa prestazione, finalità, modalità e limiti pertinenti.",
+      "localized_explanation": "Një vendim i lirë dhe i vetëdijshëm i atyre që e kanë të drejtën, bazuar në informacionin e përshtatshëm dhe të kuptueshëm rreth performancës, qëllimit, metodave dhe kufizimeve.",
+      "related_articles": [
+        9,
+        24,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-giuridici-riservatezza",
+      "term": "Kufijtë e gradës dhe të ligjit të mirëbesimit",
+      "italian_lemma": "grado e limiti giuridici della riservatezza",
+      "italian_definition": "Estensione concreta della confidenzialità e situazioni in cui la legge o il Codice possono imporre o consentire comunicazioni.",
+      "localized_explanation": "Konfidencialiteti dhe situatat ku ligji ose kodi mund të imponojnë ose të lejojnë komunikimin.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "chi-ne-ha-diritto",
+      "term": "që është në të djathtë e që nuk e ruan të keqën,",
+      "italian_lemma": "chi ne ha diritto",
+      "italian_definition": "Persona legittimata a esprimere il consenso nel caso concreto, da identificare in base a età, capacità, rappresentanza e disciplina applicabile.",
+      "localized_explanation": "Personi i drejtë për të shprehur pëlqimin në rastin konkret, për t'u identifikuar sipas moshës, kapacitetit, përfaqësimit dhe disiplinës së zbatueshme.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "prevedibile-durata",
+      "term": "Gjatësia e parashikueshme",
+      "italian_lemma": "prevedibile durata",
+      "italian_definition": "Stima iniziale ragionevole della durata di una prestazione continuativa, da comunicare quando possibile e da aggiornare se cambia.",
+      "localized_explanation": "Vlerësim i arsyeshëm fillestar i kohëzgjatjes së një performance të vazhdueshme, për t'u komunikuar kur është e mundur dhe për t'u përditësuar nëse ndryshon.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-diagnosi-valutazione",
+      "term": "Mjete diagnostikimi dhe vlerësimi",
+      "italian_lemma": "strumenti di diagnosi e di valutazione",
+      "italian_definition": "Test, metodi e procedure utilizzati per raccogliere e interpretare informazioni a fini diagnostici o valutativi.",
+      "localized_explanation": "Testimi, metodat dhe procedurat që përdoren për të mbledhur dhe interpretuar informacionin për qëllime diagnostikimi ose vlerësimi.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-del-mandato",
+      "term": "Kufijtë e mandatit të marrë",
+      "italian_lemma": "limiti del mandato ricevuto",
+      "italian_definition": "Confini di scopo, ruolo, attività e comunicazione stabiliti dall'incarico legittimo e dalle regole applicabili.",
+      "localized_explanation": "Qëllimi, roli, aktiviteti dhe komunikimi përcaktohen nga detyra e ligjshme dhe nga rregullat e zbatueshme.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pregiudizio",
+      "term": "Paragjykim",
+      "italian_lemma": "pregiudizio",
+      "italian_definition": "Danno o conseguenza sfavorevole che l'uso o la comunicazione di informazioni può arrecare al soggetto.",
+      "localized_explanation": "Është e pafavorshme që përdorimi ose komunikimi i informacionit mund të jetë subjekt i kësaj teme.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "astensione-professionale",
+      "term": "Të mos përfshihet ose të mos vazhdojë",
+      "italian_lemma": "si astiene dall'intraprendere o dal proseguire",
+      "italian_definition": "Non iniziare oppure interrompere prudentemente un'attività quando ricorrono le condizioni di incompatibilità o dannosità indicate.",
+      "localized_explanation": "Mos filloni ose mos ndaloni me maturi një detyrë kur të plotësohen kushtet e papajtueshmërisë ose të dëmtimit.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "problemi-conflitti-personali",
+      "term": "Probleme personale ose konflikte",
+      "italian_lemma": "problemi o conflitti personali",
+      "italian_definition": "Condizioni personali del professionista che possono interferire con efficacia, adeguatezza o sicurezza della prestazione.",
+      "localized_explanation": "Kushtet personale të profesionistëve që mund të ndërhyjnë efektivisht, në varësi të aftësisë ose në sigurinë e performancës.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-giudiziaria",
+      "term": "Autoritetet gjyqësore",
+      "italian_lemma": "Autorità Giudiziaria",
+      "italian_definition": "Organi che esercitano funzioni giudiziarie secondo l'ordinamento; una loro richiesta non elimina i limiti deontologici e di competenza.",
+      "localized_explanation": "Organizmat ushtrojnë funksione gjyqësore sipas rendit; Kërkesa e tyre nuk i eliminon kufizimet deontologjike dhe kompetencën.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-terapeutico",
+      "term": "Lidhje terapeutike",
+      "italian_lemma": "rapporto terapeutico",
+      "italian_definition": "Relazione professionale continuativa orientata alla cura psicologica del paziente.",
+      "localized_explanation": "Raporti profesional kontrajtues i orientuar nga kujdesi psikologjik i pacientit.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ragionevolmente-prevedibile-beneficio",
+      "term": "Arsye për tu parashikuar",
+      "italian_lemma": "ragionevolmente prevedibile",
+      "italian_definition": "Valutazione prognostica prudente fondata sulle conoscenze e sull'andamento del caso, non certezza matematica.",
+      "localized_explanation": "Vlerësim i kujdesshëm i parashikimit bazuar në njohurinë dhe përparimin e rastit, jo në sigurinë matematikore.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "commistioni-ruolo-vita-privata",
+      "term": "Ndërlikon rolin profesional dhe jetën private",
+      "italian_lemma": "commistioni tra il ruolo professionale e vita privata",
+      "italian_definition": "Sovrapposizioni fra relazione professionale e sfera personale capaci di interferire con il lavoro o danneggiare l'immagine della professione.",
+      "localized_explanation": "Përplasjet midis marrëdhënieve profesionale dhe sferës personale, të afta për të ndërhyrë në punë ose për të dëmtuar imazhin e profesionit.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "nocumento",
+      "term": "Duke rekrutuar nocure",
+      "italian_lemma": "arrecare nocumento",
+      "italian_definition": "Causare danno o pregiudizio.",
+      "localized_explanation": "Shkarko dem ose demtim.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "relazioni-significative-personali",
+      "term": "marrëdhënie të rëndësishme personale",
+      "italian_lemma": "relazioni significative di natura personale",
+      "italian_definition": "Legami personali rilevanti, presenti o passati, in particolare affettivi, sentimentali o sessuali, capaci di rendere incompatibili alcuni interventi professionali.",
+      "localized_explanation": "Lidhjet personale, të tashmen ose të kaluarën, në veçanti ndikojnë, janë sentimentale ose seksuale, të afta të bëjnë ndërhyrje profesionale të papajtueshme.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "patrimoniale-non-patrimoniale",
+      "term": "asetet",
+      "italian_lemma": "patrimoniale o non patrimoniale",
+      "italian_definition": "Riferito sia a utilità economicamente valutabili sia a benefici non economici, come favori, prestigio, accessi o relazioni.",
+      "localized_explanation": "Duke ju referuar përfitimeve ekonomike dhe jo-ekonomike, të tilla si favoret, prestigji, akseset apo marrëdhëniet.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "supervisione",
+      "term": "Mbikëqyrja",
+      "italian_lemma": "supervisione",
+      "italian_definition": "Relazione professionale in cui un collega più esperto sostiene e valuta la riflessione sul lavoro di un altro professionista.",
+      "localized_explanation": "Raporti i votimit në të cilin një koleg me më shumë përvojë mbështet dhe vlerëson reflektimin mbi punën e një profesionisti tjetër.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tirocinanti",
+      "term": "Treinues",
+      "italian_lemma": "tirocinanti",
+      "italian_definition": "Persone impegnate in un percorso pratico-formativo supervisionato e non per questo abilitate all'esercizio autonomo.",
+      "localized_explanation": "Personat e përfshirë në një rrugë të mbikqyrur praktike dhe jo për këtë, mund të ushtrojnë autonome.",
+      "related_articles": [
+        20,
+        21,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "presidi-istituti-luoghi-cura",
+      "term": "Karriera, institutet ose vendet e kujdesit",
+      "italian_lemma": "presidi, istituti o luoghi di cura",
+      "italian_definition": "Strutture, servizi o contesti organizzati nei quali vengono erogate attività sanitarie o di cura.",
+      "localized_explanation": "Struktura, shërbime ose kontekste ku jepen aktivitetet shëndetësore ose të kujdesit shëndetësor.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fondati-motivi-scientifico-professionali",
+      "term": "Arsye themeluese për një natyrë shkencore dhe profesionale",
+      "italian_lemma": "fondati motivi di natura scientifico-professionale",
+      "italian_definition": "Ragioni documentabili di appropriatezza, sicurezza, qualità o necessità tecnica, non convenienza personale o commerciale.",
+      "localized_explanation": "Arsye të dokumentueshme për përshtatëshmesi, siguri, cilësi apo nevojë teknike, jo-personale apo për lehtësi tregtare.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "corrispettivo",
+      "term": "Konkurrenca",
+      "italian_lemma": "corrispettivo",
+      "italian_definition": "Prestazione economica dovuta in cambio di una prestazione professionale reale.",
+      "localized_explanation": "Përformanca ekonomike që pritet në këmbim të performancës së vërtetë profesionale.",
+      "related_articles": [
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-minorenni",
+      "term": "Të mitur",
+      "italian_lemma": "persone minorenni",
+      "italian_definition": "Persone che non hanno raggiunto la maggiore età; devono essere informate e coinvolte secondo età, maturità e disciplina applicabile.",
+      "localized_explanation": "Të cilët nuk janë të moshës së vet. Duhet të informohet dhe të përfshihet sipas moshës, pjekurisë dhe disiplinës së zbatueshme.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "interdette",
+      "term": "I ndërvarur",
+      "italian_lemma": "interdette",
+      "italian_definition": "Termine giuridico tradizionale riferito a persone sottoposte a interdizione; il quadro italiano della capacità e delle misure di protezione è oggi più articolato.",
+      "localized_explanation": "Termi ligjor tradicional për personat që janë subjekt i interdiksionit; Kuadri italian i kapacitetit dhe masave të mbrojtjes është tani më i qartësuar.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-tutoria",
+      "term": "autoriteti i kujdestarisë",
+      "italian_lemma": "Autorità Tutoria",
+      "italian_definition": "Formula storica del testo del Codice che rinvia all'autorità competente in materia di tutela nel caso concreto.",
+      "localized_explanation": "Formula historike e tekstit të Kodit, i cili i referohet autoritetit kompetent në çështjen e mbrojtjes në rastin konkret.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-legalmente-competente",
+      "term": "Autoritet ligjor kompetent",
+      "italian_lemma": "autorità legalmente competente",
+      "italian_definition": "Autorità cui una norma attribuisce il potere di disporre quella specifica prestazione o decisione.",
+      "localized_explanation": "Autoritetit të cilit një rregull i jep fuqinë për ta vënë këtë arritje ose vendim specifik.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strutture-legislativamente-preposte",
+      "term": "Struktura legjislative",
+      "italian_lemma": "strutture legislativamente preposte",
+      "italian_definition": "Servizi o strutture cui la legge attribuisce espressamente la funzione di erogare o disporre determinate prestazioni.",
+      "localized_explanation": "Shërbimet ose strukturat, të cilave ligji u atribuon në mënyrë të qartë funksionin e dhënies apo dhënies së disa shërbimeve.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "parti-in-causa",
+      "term": "në",
+      "italian_lemma": "parti in causa",
+      "italian_definition": "Tutti i soggetti concretamente coinvolti nel mandato e nella prestazione, non necessariamente soltanto parti di un processo giudiziario.",
+      "localized_explanation": "Të gjithë individët e përfshirë në mandatin dhe ecurinë, jo domosdoshmërisht vetëm pjesë të procesit gjyqësor.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "natura-finalita-intervento",
+      "term": "Natyra dhe qëllimi i ndërhyrjes",
+      "italian_lemma": "natura e finalità dell'intervento",
+      "italian_definition": "Che tipo di attività verrà svolta e per quale scopo, inclusi il ruolo dello psicologo e l'uso previsto dei risultati.",
+      "localized_explanation": "Çfarë lloj aktiviteti do të kryhet dhe me çfarë qëllimi, duke përfshirë rolin e psikologut dhe përdorimin e pritshëm të rezultateve.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "colleganza",
+      "term": "Ligji i Komunitetit",
+      "italian_lemma": "colleganza",
+      "italian_definition": "Solidarietà professionale leale e rispettosa fra colleghi, compatibile con il dissenso e con il dovere di segnalare condotte scorrette.",
+      "localized_explanation": "Komisioni po propozon një direktivë të re mbi mbrojtjen e mjedisit, i cili është një hap shumë i rëndësishëm në drejtimin e Bashkimit Evropian.",
+      "related_articles": [
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "comunita-professionale",
+      "term": "Komunit profesional",
+      "italian_lemma": "comunità professionale",
+      "italian_definition": "Insieme dei professionisti, organismi e contesti scientifici che partecipano allo sviluppo e alla regolazione della disciplina.",
+      "localized_explanation": "Së bashku me profesionistët, trupat dhe kontekstet shkencore që marrin pjesë në zhvillimin dhe rregullimin e disiplinës.",
+      "related_articles": [
+        34
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fonte-altrui-contributi",
+      "term": "nga",
+      "italian_lemma": "fonte degli altrui contributi",
+      "italian_definition": "Origine riconoscibile di idee, dati, testi, metodi o lavoro forniti da altre persone e utilizzati nella ricerca presentata.",
+      "localized_explanation": "Origjina e kuptueshme e ideve, të dhënave, teksteve, metodave ose punës së njerëzve të tjerë dhe e përdorur në kërkimet e paraqitura.",
+      "related_articles": [
+        35
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "sottrarre-clientela",
+      "term": "Zbritje e konsumatorëve",
+      "italian_lemma": "sottrarre clientela",
+      "italian_definition": "Attirare verso di sé clienti o pazienti di un collega mediante giudizi pubblici negativi o lesivi sul collega stesso.",
+      "localized_explanation": "Vizatoni klientët ose pacientët e një kolegu me vete nga gjykimet publike negative ose të dëmshme që kanë bërë për kolegun e tij.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tempestiva-comunicazione",
+      "term": "Komunikimi i menjëhershëm",
+      "italian_lemma": "tempestiva comunicazione",
+      "italian_definition": "Segnalazione effettuata senza ritardo ingiustificato, con fatti e informazioni necessari, al Consiglio dell'Ordine competente.",
+      "localized_explanation": "Raporti i bërë pa vonesë, me fakte dhe informacion të nevojshëm, në Këshillin e Rendit kompetent.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consiglio-ordine-competente",
+      "term": "Këshilli i rendit kompetent",
+      "italian_lemma": "Consiglio dell'Ordine competente",
+      "italian_definition": "Organo territoriale dell'Ordine individuato dalle regole di competenza applicabili al caso.",
+      "localized_explanation": "Urdhëri territorial i Rendit i identifikuar nga rregullat e juridiksionit që zbatohen për rastin.",
+      "related_articles": [
+        36,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "mandato-professionale",
+      "term": "mandat profesional",
+      "italian_lemma": "mandato professionale",
+      "italian_definition": "Incarico affidato allo psicologo con uno scopo, un ruolo, limiti e responsabilità definiti.",
+      "localized_explanation": "I besohej psikologut me një qëllim, një rol, kufij dhe përgjegjësi të përcaktuara.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consulenza-invio",
+      "term": "këshilla ose dërgimi",
+      "italian_lemma": "consulenza ovvero l'invio",
+      "italian_definition": "Ricorso al contributo di un'altra competenza oppure orientamento della persona verso un collega o altro professionista più adatto.",
+      "localized_explanation": "Përditësoje kontributin e një tjetër kompetencaje ose orientimi të personit ndaj një kolegu të përshtatshëm apo një profesionisti tjetër.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rappresenta-pubblicamente-professione",
+      "term": "Publiku përfaqëson profesionin",
+      "italian_lemma": "rappresenta pubblicamente la professione",
+      "italian_definition": "Si presenta o interviene davanti al pubblico in modo riconoscibile come psicologo o portatore di una voce professionale.",
+      "localized_explanation": "Ajo prezantohet ose ndërhyn përpara publikut në një mënyrë të njohur si psikologe ose mbajtëse e një zëri profesional.",
+      "related_articles": [
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-esperienza-competenza",
+      "term": "Trajnim, përvojë dhe ekspertizë",
+      "italian_lemma": "formazione, esperienza e competenza",
+      "italian_definition": "Tre dimensioni distinte della presentazione professionale: percorso formativo, pratica maturata e capacità effettiva di svolgere un compito.",
+      "localized_explanation": "Tri dimensione të veçanta të prezantimit profesional: kursi i stërvitjes, praktika e pjekur dhe aftësia e efektshme për të kryer një punë.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "libero-consapevole-giudizio",
+      "term": "I lirë dhe i vetëdijshëm",
+      "italian_lemma": "libero e consapevole",
+      "italian_definition": "Capace di formarsi senza coercizioni o manipolazioni e sulla base di informazioni sufficienti a comprendere le alternative.",
+      "localized_explanation": "Është një përgjegjësi të formohet pa detyrim ose manipulim dhe në bazë të informacionit të mjaftueshëm për të kuptuar alternativat.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "procacciamento-clientela",
+      "term": "tërheqje e parregullt e klientelës",
+      "italian_lemma": "procacciamento della clientela",
+      "italian_definition": "Acquisizione di clienti mediante condotte promozionali; nell'art. 40 rileva quando perseguita con comportamenti pubblici scorretti.",
+      "localized_explanation": "Marrja e klientëve me anë të sjelljes nxitëse; në art. 40 dikton kur persekutohet me sjellje të pasakta publike.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pubblicita-informativa",
+      "term": "reklamim informues",
+      "italian_lemma": "pubblicità informativa",
+      "italian_definition": "Comunicazione promozionale ammessa per informare su titoli, specializzazioni, servizi e costi nel rispetto delle condizioni deontologiche e legali.",
+      "localized_explanation": "Pranimi për të informuar rreth titujve, specializimit, shërbimeve dhe kostove në përputhje me kushtet deontologjike dhe ligjore.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "trasparenza-veridicita",
+      "term": "transparencë dhe vërtetësi",
+      "italian_lemma": "trasparenza e veridicità",
+      "italian_definition": "Requisiti per cui il messaggio è comprensibile e completo negli elementi rilevanti e non contiene affermazioni false o fuorvianti.",
+      "localized_explanation": "Kërkesat për të cilat mesazhi është i kuptueshëm dhe i plotë në elementet përkatëse dhe nuk përmbajnë pohime të rreme ose mashtruese.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "serieta-scientifica",
+      "term": "Serioz shkencor",
+      "italian_lemma": "serietà scientifica",
+      "italian_definition": "Coerenza del messaggio con prove, limiti e linguaggio responsabile propri della conoscenza scientifica disponibile.",
+      "localized_explanation": "Përputhja e mesazhit me prova, kufizime dhe gjuhë të përgjegjshme të njohurisë shkencore që është në dispozicion.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "osservatorio-permanente",
+      "term": "Observatori i përhershëm i kodit dentologjik",
+      "italian_lemma": "Osservatorio permanente sul Codice Deontologico",
+      "italian_definition": "Organismo istituito presso la Commissione Deontologia del CNOP per raccogliere materiali, monitorare criticità e contribuire a indirizzi e proposte di revisione.",
+      "localized_explanation": "Organizata e krijuar nga Komisioni i Deontologjisë CNOP për të mbledhur materialet, për të mbikqyrur kritikat dhe për të kontribuar në adresat dhe propozimet për rishikim.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "giurisprudenza-deontologica",
+      "term": "Të drejtat për çështje deontologjike",
+      "italian_lemma": "giurisprudenza in materia deontologica",
+      "italian_definition": "Insieme delle decisioni e degli orientamenti formati nei procedimenti disciplinari; le decisioni territoriali non sono automaticamente precedenti nazionali vincolanti.",
+      "localized_explanation": "Komisioni ka miratuar gjithashtu një propozim për një direktivë mbi mbrojtjen e punëtorëve nga rreziqet e ekspozimit ndaj substancave të rrezikshme. Vendimet territoriale nuk janë precedentë detyruesë kombëtarë.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "revisione-periodica",
+      "term": "Rishikim periodik i kodit të Deontologjisë",
+      "italian_lemma": "revisione periodica del Codice Deontologico",
+      "italian_definition": "Procedimento istituzionale di aggiornamento del testo del Codice secondo competenze e modalità previste dalla legge.",
+      "localized_explanation": "Procedura institucionale për ngritjen e tekstit të kodit sipas kompetencave ligjore dhe procedurave.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "referendum-approvazione",
+      "term": "Referendumi mbi miratimin",
+      "italian_lemma": "referendum di approvazione",
+      "italian_definition": "Votazione degli iscritti prevista dalla legge per approvare il Codice predisposto o aggiornato dal CNOP.",
+      "localized_explanation": "Voto për anëtarët e siguruar me ligj për të miratuar kodin e dhënë apo përditësuar nga CNOP.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "proclamazione-risultati",
+      "term": "Proklama e rezultateve",
+      "italian_lemma": "proclamazione dei risultati",
+      "italian_definition": "Atto ufficiale con cui vengono dichiarati i risultati del referendum e dal quale l'art. 42 fa decorrere il termine per l'entrata in vigore.",
+      "localized_explanation": "Akti zyrtar me të cilin janë deklaruar rezultatet e referendumit dhe nga cili art. 42 do të hyjë në fuqi kufiri kohor për hyrjen.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "entrata-in-vigore",
+      "term": "në",
+      "italian_lemma": "entra in vigore",
+      "italian_definition": "Momento dal quale il testo acquista efficacia vincolante secondo la regola temporale applicabile.",
+      "localized_explanation": "Koha prej së cilës teksti fiton efektivitet detyrues sipas rregullit kohor të zbatueshëm.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    }
+  ]
+}

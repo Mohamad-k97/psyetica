@@ -1,0 +1,144 @@
+{
+  "language": "ar",
+  "articles": [
+    {
+      "number": 11,
+      "localized": {
+        "editorial_title": "السر المهني",
+        "article_text": "يلتزم الأخصائي النفسي التزامًا صارمًا بالسر المهني. وبناءً عليه، لا يفشي أخبارًا أو وقائع أو معلومات علم بها بسبب العلاقة المهنية، ولا يكشف عن خدمات مهنية أُجريت أو خُطِّط لإجرائها، إلا في الحالات المنصوص عليها في المواد التالية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الأصل هو الكتمان؛ وأي استثناء لازم يكون له سند واضح في الميثاق.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "السر المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "rapporto-professionale", "surface": "العلاقة المهنية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "localized": {
+        "editorial_title": "الشهادة والموافقة على الإفشاء",
+        "article_text": "يمتنع الأخصائي النفسي عن أداء الشهادة بشأن وقائع علم بها بسبب علاقته المهنية. ولا يجوز له الاستثناء من السر المهني، حتى عند الشهادة، إلا بوجود موافقة صحيحة وقابلة للإثبات صادرة عن متلقي الخدمة. ومع ذلك، يقيّم مدى ملاءمة الاستناد إلى هذه الموافقة، مع إعطاء الأولوية للحماية النفسية لمتلقي الخدمة.",
+        "article_text_status": "editorial_translation",
+        "core_message": "حتى لو الشخص وافق، الإفشاء مش تلقائي؛ لازم الأخصائي يوازن كمان الحماية النفسية للشخص.",
+        "glossary_annotations": [
+          {"glossary_id": "rendere-testimonianza", "surface": "أداء الشهادة", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "الاستثناء من السر المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-valido-dimostrabile", "surface": "موافقة صحيحة وقابلة للإثبات", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "متلقي الخدمة", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "حماية النفسية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "localized": {
+        "editorial_title": "الإبلاغ الإلزامي والخطر الجسيم",
+        "article_text": "عند قيام واجب تقديم تقرير إلى السلطة أو واجب الإبلاغ، يقصر الأخصائي النفسي ما يكشفه مما علم به بسبب العلاقة المهنية على القدر الضروري حصرًا، صونًا للحماية النفسية للشخص. وفي غير ذلك من الحالات، يقدّر بعناية ضرورة الخروج كليًا أو جزئيًا على واجب السرية إذا ظهرت أخطار جسيمة تهدد حياة الشخص أو سلامته النفسية والجسدية و/أو حياة الغير أو سلامتهم.",
+        "article_text_status": "editorial_translation",
+        "core_message": "حتى لما الإبلاغ يبقى واجب أو ضروري، يتقال أقل قدر لازم، مع موازنة الأمان والحماية النفسية.",
+        "glossary_annotations": [
+          {"glossary_id": "obbligo-referto", "surface": "واجب تقديم تقرير إلى السلطة", "match_method": "human_authored_exact"},
+          {"glossary_id": "obbligo-denuncia", "surface": "واجب الإبلاغ", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "القدر الضروري حصرًا", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "حماية النفسية", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "الخروج كليًا أو جزئيًا على واجب السرية", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "السرية", "match_method": "human_authored_exact"},
+          {"glossary_id": "gravi-pericoli", "surface": "أخطار جسيمة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "localized": {
+        "editorial_title": "التدخلات الجماعية",
+        "article_text": "عند التدخل مع جماعة أو من خلالها، يلتزم الأخصائي النفسي في المرحلة الأولى بتوضيح القواعد التي تحكم التدخل. كما يلزم، عند الاقتضاء، أعضاء الجماعة باحترام حق كل فرد في السرية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "في الشغل الجماعي، القواعد والسرية لازم يتوضحوا من البداية ويلتزم بيهم كل المشاركين.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "السرية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "localized": {
+        "editorial_title": "التعاون وتقليل المعلومات المتبادلة",
+        "article_text": "عند التعاون مع أشخاص آخرين ملتزمين بدورهم بالسر المهني، لا يجوز للأخصائي النفسي أن يشارك إلا المعلومات الضرورية حصرًا بالنظر إلى نوع التعاون.",
+        "article_text_status": "editorial_translation",
+        "core_message": "التعاون مش معناه مشاركة الملف كله؛ يتبادل الفريق بس المعلومات اللازمة للمهمة المشتركة.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "السر المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "الضرورية حصرًا", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "localized": {
+        "editorial_title": "المراسلات العلمية وإخفاء الهوية",
+        "article_text": "يصوغ الأخصائي النفسي المراسلات العلمية، ولو كانت موجهة إلى جمهور من المهنيين الملتزمين بالسر المهني، على نحو يضمن في جميع الأحوال عدم الكشف عن هوية متلقي الخدمة.",
+        "article_text_status": "editorial_translation",
+        "core_message": "السياق العلمي ما بيلغيش السرية؛ عرض الحالات والبيانات لازم يمنع التعرّف على الشخص.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "السر المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "عدم الكشف عن هوية", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "متلقي الخدمة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "localized": {
+        "editorial_title": "حفظ الوثائق واستمرار حمايتها",
+        "article_text": "تُحمى سرية المراسلات كذلك عن طريق حفظ ومراقبة المذكرات والملحوظات والمحررات والتسجيلات، أيًا كان نوعها أو شكلها، متى تعلقت بالعلاقة المهنية. وتُحفظ الوثائق المهنية مدة لا تقل عن خمس سنوات بعد انتهاء العلاقة المهنية، مع عدم الإخلال بما تقرره القواعد الخاصة. وعلى الأخصائي النفسي أن يضمن، في حال وفاته أو تعذر قيامه بعمله، إسناد هذه الحماية إلى زميل أو إلى الهيئة المهنية. ومن يشارك في إنشاء نظم التوثيق واستعمالها يعمل على توفير ضمانات لحماية الأشخاص المعنيين.",
+        "article_text_status": "editorial_translation",
+        "core_message": "السرية محتاجة حماية عملية للملفات أثناء الخدمة وبعدها، وحتى لو الأخصائي توفى أو تعذر عليه يكمل.",
+        "glossary_annotations": [
+          {"glossary_id": "custodia-controllo", "surface": "حفظ ومراقبة", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-professionale", "surface": "الوثائق المهنية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "localized": {
+        "editorial_title": "حرية اختيار المهني",
+        "article_text": "يبذل الأخصائي النفسي، في كل سياق مهني، ما يلزم لضمان احترام حرية الاختيار لدى العميل و/أو المريض، قدر الإمكان، بشأن المهني الذي يرغب في اللجوء إليه.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الشخص من حقه يختار الأخصائي من غير ضغط غير مبرر أو عوائق ممكن تجنبها.",
+        "glossary_annotations": [
+          {"glossary_id": "liberta-di-scelta", "surface": "حرية الاختيار", "match_method": "human_authored_exact"},
+          {"glossary_id": "cliente", "surface": "العميل", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "المريض", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "localized": {
+        "editorial_title": "الاختيار والتقييم وفق معايير ذات صلة",
+        "article_text": "يلتزم الأخصائي النفسي الذي يعمل في سياقات الاختيار والتقييم حصرًا بمعايير الكفاءة أو التأهيل أو الإعداد المحددة، ولا يؤيد قرارات تخالف هذه المبادئ.",
+        "article_text_status": "editorial_translation",
+        "core_message": "في الاختيار والتقييم، المعايير المهنية ذات الصلة هي اللي تحكم؛ والأخصائي ما يديش غطاء لقرار مخالف لها.",
+        "glossary_annotations": [
+          {"glossary_id": "qualificazione-preparazione", "surface": "التأهيل أو الإعداد", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "يؤيد", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "localized": {
+        "editorial_title": "تعليم المبادئ الأخلاقية المهنية",
+        "article_text": "يعمل الأخصائي النفسي، في أنشطة التدريس والتعليم والتدريب، على تنمية اهتمام الطلاب والمتدربين بالمبادئ الأخلاقية المهنية، ويجعل سلوكه المهني نفسه مسترشدًا بها.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الأخلاق المهنية بتتعلّم بالشرح وبالقدوة العملية قدام المتدربين.",
+        "glossary_annotations": [
+          {"glossary_id": "tirocinanti", "surface": "المتدربين", "match_method": "human_authored_exact"},
+          {"glossary_id": "principi-deontologici", "surface": "المبادئ الأخلاقية المهنية", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

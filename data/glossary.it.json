@@ -1,0 +1,983 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Glossario italiano e ancoraggi per pop-up - Codice Deontologico",
+  "language": "it",
+  "checked_on": "2026-08-13",
+  "editorial_status": "draft_needs_deontological_legal_review",
+  "display_model": {
+    "glossary_is_editorial": true,
+    "official_text_must_not_be_modified": true,
+    "matching": "exact_surface_within_official_text",
+    "overlap_policy": "prefer_longest_surface",
+    "repeat_policy": "highlight_each_exact_occurrence_unless_the_interface_chooses_first_only",
+    "future_translation_policy": "translate the concept from definition_it and translation_note, then separately translate each official surface in its legal context"
+  },
+  "categories": [
+    {"id": "deontologia", "label": "Deontologia e disciplina"},
+    {"id": "ruoli", "label": "Ruoli e soggetti"},
+    {"id": "consenso", "label": "Consenso, autonomia e capacità"},
+    {"id": "riservatezza", "label": "Segreto, riservatezza e dati"},
+    {"id": "competenza", "label": "Competenza, strumenti e scienza"},
+    {"id": "rapporti", "label": "Rapporti, confini e colleganza"},
+    {"id": "economia", "label": "Compenso, vantaggi e pubblicità"},
+    {"id": "procedura", "label": "Autorità, procedimento e attuazione"}
+  ],
+  "entries": [
+    {
+      "id": "codice-deontologico",
+      "lemma": "Codice deontologico",
+      "category": "deontologia",
+      "definition_it": "Insieme delle regole professionali vincolanti per chi è iscritto all'Albo degli psicologi, la cui inosservanza può avere conseguenze disciplinari.",
+      "translation_note": "Usare il termine giuridico-professionale stabilito nell'ordinamento di arrivo; non tradurre come semplice codice morale facoltativo.",
+      "related_articles": [1, 2, 6, 41, 42]
+    },
+    {
+      "id": "albo-degli-psicologi",
+      "lemma": "Albo degli psicologi",
+      "category": "procedura",
+      "definition_it": "Registro pubblico professionale nel quale l'iscrizione abilita all'uso del relativo titolo e comporta l'assoggettamento alle regole ordinistiche.",
+      "translation_note": "Evitare equivalenti generici come elenco o associazione; può servire una perifrasi se il sistema professionale di arrivo non ha un albo ordinistico.",
+      "related_articles": [1]
+    },
+    {
+      "id": "responsabilita-disciplinare",
+      "lemma": "responsabilità disciplinare",
+      "category": "deontologia",
+      "definition_it": "Responsabilità dell'iscritto per la violazione di regole professionali, accertata secondo il procedimento disciplinare applicabile.",
+      "translation_note": "Distinguere da responsabilità civile, penale e amministrativa.",
+      "related_articles": [1]
+    },
+    {
+      "id": "principi-deontologici",
+      "lemma": "principi deontologici",
+      "category": "deontologia",
+      "definition_it": "Principi e criteri professionali che orientano il comportamento dello psicologo e la comprensione delle regole del Codice.",
+      "translation_note": "Non ridurre a opinioni morali personali; conservare la connessione con la deontologia professionale.",
+      "related_articles": [20]
+    },
+    {
+      "id": "illecito-disciplinare",
+      "lemma": "illecito disciplinare",
+      "category": "deontologia",
+      "definition_it": "Condotta o omissione professionalmente censurabile secondo il Codice e l'ordinamento disciplinare.",
+      "translation_note": "Non tradurre automaticamente come reato o illecito penale.",
+      "related_articles": [5]
+    },
+    {
+      "id": "regolamento-disciplinare",
+      "lemma": "Regolamento disciplinare",
+      "category": "procedura",
+      "definition_it": "Atto che disciplina fasi, competenze e garanzie del procedimento con cui vengono valutate le contestazioni deontologiche.",
+      "translation_note": "Conservare la distinzione fra norma sostanziale del Codice e regole procedurali.",
+      "related_articles": [2]
+    },
+    {
+      "id": "decoro-professionale",
+      "lemma": "decoro professionale",
+      "category": "deontologia",
+      "definition_it": "Criterio aperto che richiede una condotta seria, corretta e compatibile con la fiducia pubblica nella professione; va applicato considerando contesto e proporzionalità.",
+      "translation_note": "Evitare parole che riducano il concetto a eleganza, etichetta o rispettabilità sociale convenzionale.",
+      "related_articles": [2, 36, 38, 40]
+    },
+    {
+      "id": "dignita-professionale",
+      "lemma": "dignità professionale",
+      "category": "deontologia",
+      "definition_it": "Valore legato all'integrità del ruolo e alla sua funzione sociale, non al prestigio personale del professionista.",
+      "translation_note": "Distinguere dalla dignità della persona destinataria delle prestazioni.",
+      "related_articles": [2, 38]
+    },
+    {
+      "id": "responsabilita-sociale",
+      "lemma": "responsabilità sociale",
+      "category": "deontologia",
+      "definition_it": "Consapevolezza che l'attività psicologica può incidere sulle persone e sulla collettività e deve considerare anche fattori sociali, organizzativi, finanziari e politici.",
+      "translation_note": "Non ridurre a responsabilità giuridica per danni; qui indica anche un dovere etico-professionale più ampio.",
+      "related_articles": [3]
+    },
+    {
+      "id": "atti-professionali",
+      "lemma": "atti professionali",
+      "category": "deontologia",
+      "definition_it": "Azioni compiute nell'esercizio del ruolo professionale e imputabili allo psicologo.",
+      "translation_note": "Nel contesto non significa documenti o atti scritti soltanto.",
+      "related_articles": [3]
+    },
+    {
+      "id": "conseguenze-prevedibili-dirette",
+      "lemma": "prevedibili dirette conseguenze",
+      "category": "deontologia",
+      "definition_it": "Effetti direttamente collegati all'atto professionale che erano ragionevolmente anticipabili nelle circostanze concrete.",
+      "translation_note": "Mantenere sia il requisito di prevedibilità sia quello di connessione diretta; non trasformarlo in responsabilità per ogni conseguenza successiva.",
+      "related_articles": [3]
+    },
+    {
+      "id": "riservatezza",
+      "lemma": "riservatezza",
+      "category": "riservatezza",
+      "definition_it": "Protezione delle informazioni e della sfera privata della persona, più ampia della sola regola sul non rivelare il segreto professionale.",
+      "translation_note": "Coordinare ma non identificare automaticamente con privacy o protezione dei dati personali.",
+      "related_articles": [4, 9, 13, 14, 24, 25, 31]
+    },
+    {
+      "id": "autodeterminazione",
+      "lemma": "autodeterminazione",
+      "category": "consenso",
+      "definition_it": "Diritto e capacità della persona di partecipare alle decisioni che la riguardano sulla base di informazioni adeguate e senza coercizioni indebite.",
+      "translation_note": "Scegliere l'equivalente usato nel linguaggio giuridico dei diritti della persona e del consenso.",
+      "related_articles": [4]
+    },
+    {
+      "id": "autonomia-persona",
+      "lemma": "autonomia della persona",
+      "category": "consenso",
+      "definition_it": "Possibilità della persona di formare e attuare scelte proprie, distinta dall'autonomia tecnica del professionista.",
+      "translation_note": "Non confondere con autonomia professionale, che ha un soggetto e una funzione differenti.",
+      "related_articles": [4]
+    },
+    {
+      "id": "conflitto-di-interesse",
+      "lemma": "conflitto di interesse",
+      "category": "rapporti",
+      "definition_it": "Situazione in cui interessi, doveri o lealtà concorrenti possono interferire con la tutela dovuta o con l'indipendenza del giudizio professionale.",
+      "translation_note": "Può esistere anche senza profitto economico o danno già avvenuto.",
+      "related_articles": [4]
+    },
+    {
+      "id": "destinatario-prestazione",
+      "lemma": "destinatario della prestazione",
+      "category": "ruoli",
+      "definition_it": "Persona o soggetto verso cui l'intervento professionale è concretamente rivolto; può non coincidere con chi lo commissiona o lo paga.",
+      "translation_note": "Mantenere distinto da committente, cliente, utente e paziente.",
+      "related_articles": [3, 4, 11, 12, 16, 25, 32, 37]
+    },
+    {
+      "id": "committente",
+      "lemma": "committente",
+      "category": "ruoli",
+      "definition_it": "Soggetto che richiede o conferisce l'incarico professionale; non coincide necessariamente con chi riceve la prestazione o con chi paga.",
+      "translation_note": "Preferire un equivalente giuridico di commissioning party o instructing client, non sempre il semplice client.",
+      "related_articles": [3, 4, 24, 25, 32, 37]
+    },
+    {
+      "id": "utente",
+      "lemma": "utente",
+      "category": "ruoli",
+      "definition_it": "Persona o soggetto che utilizza o riceve un servizio; nel Codice può affiancarsi a cliente, paziente, committente o destinatario senza coincidere sempre con essi.",
+      "translation_note": "La resa dipende dal contesto del servizio: user, service user e client non sono sempre equivalenti.",
+      "related_articles": [3, 4, 5, 24, 36, 39]
+    },
+    {
+      "id": "cliente",
+      "lemma": "cliente",
+      "category": "ruoli",
+      "definition_it": "Soggetto che instaura un rapporto professionale con lo psicologo; nel Codice il termine non identifica sempre il paziente o destinatario.",
+      "translation_note": "Non appiattire cliente e paziente nelle traduzioni.",
+      "related_articles": [3, 5, 18]
+    },
+    {
+      "id": "paziente",
+      "lemma": "paziente",
+      "category": "ruoli",
+      "definition_it": "Persona che riceve una prestazione di cura o un intervento clinico; il termine è più specifico di utente o cliente.",
+      "translation_note": "Usare l'equivalente sanitario appropriato soltanto nei contesti clinici del testo.",
+      "related_articles": [18, 27, 29]
+    },
+    {
+      "id": "rapporto-professionale",
+      "lemma": "rapporto professionale",
+      "category": "rapporti",
+      "definition_it": "Relazione regolata da un incarico o da una prestazione psicologica, dalla quale derivano ruoli, doveri e limiti professionali.",
+      "translation_note": "È più ampio del rapporto terapeutico e non implica necessariamente cura clinica.",
+      "related_articles": [11, 12, 17, 24, 28]
+    },
+    {
+      "id": "competenza-professionale",
+      "lemma": "competenza professionale",
+      "category": "competenza",
+      "definition_it": "Capacità effettiva di svolgere un compito con conoscenze, abilità, esperienza e giudizio adeguati al caso, distinta dal solo possesso di un titolo.",
+      "translation_note": "Distinguere competence da formal qualification e authorization.",
+      "related_articles": [5, 6, 19, 33, 37, 39]
+    },
+    {
+      "id": "formazione-continua",
+      "lemma": "formazione continua",
+      "category": "competenza",
+      "definition_it": "Aggiornamento professionale svolto lungo l'esercizio della professione secondo gli obblighi dell'ordinamento applicabile.",
+      "translation_note": "Può corrispondere a continuing professional development o continuing education a seconda del sistema.",
+      "related_articles": [5]
+    },
+    {
+      "id": "strumenti-teorico-pratici",
+      "lemma": "strumenti teorico-pratici",
+      "category": "competenza",
+      "definition_it": "Modelli, metodi, tecniche e strumenti operativi impiegati nella pratica psicologica.",
+      "translation_note": "Non limitare il termine agli strumenti materiali o ai soli test.",
+      "related_articles": [5]
+    },
+    {
+      "id": "formale-autorizzazione",
+      "lemma": "formale autorizzazione",
+      "category": "competenza",
+      "definition_it": "Titolo, abilitazione, riconoscimento o altro requisito giuridicamente richiesto per una specifica attività, quando previsto.",
+      "translation_note": "Non confondere autorizzazione formale con competenza sostanziale: possono essere entrambe necessarie.",
+      "related_articles": [5]
+    },
+    {
+      "id": "aspettative-infondate",
+      "lemma": "aspettative infondate",
+      "category": "competenza",
+      "definition_it": "Attese di risultati, efficacia o capacità professionali che non hanno un supporto adeguato nelle conoscenze e nelle circostanze disponibili.",
+      "translation_note": "Conservare l'idea di mancanza di fondamento, non soltanto di aspettativa non realizzata.",
+      "related_articles": [5]
+    },
+    {
+      "id": "autonomia-professionale",
+      "lemma": "autonomia professionale",
+      "category": "competenza",
+      "definition_it": "Indipendenza tecnica e deontologica dello psicologo nella scelta e nell'uso responsabile di metodi, tecniche, strumenti e valutazioni.",
+      "translation_note": "Distinguere dall'autonomia personale del destinatario e dall'indipendenza economica.",
+      "related_articles": [6, 33]
+    },
+    {
+      "id": "validita",
+      "lemma": "validità",
+      "category": "competenza",
+      "definition_it": "Grado in cui informazioni, strumenti o conclusioni sostengono realmente l'interpretazione o l'uso che se ne fa.",
+      "translation_note": "Nel linguaggio psicometrico non è sinonimo di verità assoluta.",
+      "related_articles": [7]
+    },
+    {
+      "id": "attendibilita",
+      "lemma": "attendibilità",
+      "category": "competenza",
+      "definition_it": "Affidabilità di informazioni, dati, fonti o documentazione rispetto alla decisione professionale da assumere.",
+      "translation_note": "A seconda del contesto può rendersi come reliability o credibility; non scegliere automaticamente un unico equivalente.",
+      "related_articles": [7]
+    },
+    {
+      "id": "ipotesi-interpretative-alternative",
+      "lemma": "ipotesi interpretative alternative",
+      "category": "competenza",
+      "definition_it": "Spiegazioni diverse plausibili che devono essere considerate quando dati e contesto non consentono una conclusione unica.",
+      "translation_note": "Preservare il carattere ipotetico e non presentarle come diagnosi concorrenti già accertate.",
+      "related_articles": [7]
+    },
+    {
+      "id": "conoscenza-professionale-diretta",
+      "lemma": "conoscenza professionale diretta",
+      "category": "competenza",
+      "definition_it": "Conoscenza acquisita personalmente dallo psicologo mediante attività professionali pertinenti sul caso.",
+      "translation_note": "Non equivale necessariamente a un solo colloquio né esclude, nel testo, l'alternativa di documentazione adeguata.",
+      "related_articles": [7]
+    },
+    {
+      "id": "documentazione-adeguata-attendibile",
+      "lemma": "documentazione adeguata ed attendibile",
+      "category": "competenza",
+      "definition_it": "Materiale sufficientemente pertinente, completo e affidabile per sostenere la specifica valutazione formulata.",
+      "translation_note": "Mantenere entrambi i requisiti: sufficienza rispetto allo scopo e affidabilità della fonte.",
+      "related_articles": [7]
+    },
+    {
+      "id": "esercizio-abusivo",
+      "lemma": "esercizio abusivo della professione",
+      "category": "procedura",
+      "definition_it": "Svolgimento senza i requisiti richiesti di attività riservate dalla legge a una professione abilitata.",
+      "translation_note": "Usare una formula di unauthorized practice professionale, non il generico abuso professionale.",
+      "related_articles": [8]
+    },
+    {
+      "id": "usurpazione-di-titolo",
+      "lemma": "usurpazione di titolo",
+      "category": "procedura",
+      "definition_it": "Uso indebito di un titolo o qualità professionale che non spetta alla persona.",
+      "translation_note": "Verificare l'equivalente tecnico nel diritto penale o professionale della lingua di arrivo.",
+      "related_articles": [8]
+    },
+    {
+      "id": "previo-consenso-informato",
+      "lemma": "previo consenso informato",
+      "category": "consenso",
+      "definition_it": "Decisione libera e informata espressa prima dell'attività cui si riferisce, dopo informazioni adeguate.",
+      "translation_note": "Mantenere il valore temporale di previo e distinguere dal successivo permesso all'uso dei dati.",
+      "related_articles": [9]
+    },
+    {
+      "id": "ritiro-del-consenso",
+      "lemma": "ritirare il consenso",
+      "category": "consenso",
+      "definition_it": "Revocare per il futuro il consenso precedentemente espresso, secondo le regole applicabili all'attività e ai dati già raccolti.",
+      "translation_note": "Preferire il termine giuridico usato per withdrawal o revocation nel contesto di ricerca.",
+      "related_articles": [9]
+    },
+    {
+      "id": "autorizzazione-uso-dati",
+      "lemma": "autorizzazione all'uso dei dati raccolti",
+      "category": "consenso",
+      "definition_it": "Assenso richiesto dall'art. 9 dopo il debriefing quando alcuni aspetti della ricerca non potevano essere spiegati correttamente in anticipo.",
+      "translation_note": "Non equiparare automaticamente alla base giuridica privacy del trattamento: i piani vanno coordinati.",
+      "related_articles": [9]
+    },
+    {
+      "id": "potesta-genitoriale",
+      "lemma": "potestà genitoriale",
+      "category": "consenso",
+      "definition_it": "Espressione storica conservata nel testo ufficiale; nella terminologia giuridica italiana corrente è stata sostituita da responsabilità genitoriale.",
+      "translation_note": "Tradurre il concetto secondo il diritto vigente della lingua di arrivo, segnalando che l'originale italiano usa una formula datata.",
+      "related_articles": [9, 31]
+    },
+    {
+      "id": "tutela-giuridica",
+      "lemma": "tutela",
+      "category": "consenso",
+      "definition_it": "Istituto di protezione e rappresentanza previsto per persone che non possono provvedere autonomamente ai propri interessi nei casi stabiliti dalla legge.",
+      "translation_note": "Qui non significa genericamente protezione; usare il termine giuridico per guardianship quando pertinente.",
+      "related_articles": [9, 31]
+    },
+    {
+      "id": "non-riconoscibilita",
+      "lemma": "non riconoscibilità",
+      "category": "riservatezza",
+      "definition_it": "Condizione per cui una persona non può essere individuata neppure combinando i dettagli messi a disposizione.",
+      "translation_note": "Distinguere da semplice rimozione del nome e da pseudonimizzazione.",
+      "related_articles": [9]
+    },
+    {
+      "id": "anonimato",
+      "lemma": "anonimato",
+      "category": "riservatezza",
+      "definition_it": "Condizione nella quale l'identità del soggetto non è ricavabile dalle informazioni disponibili con mezzi ragionevoli.",
+      "translation_note": "Non usare anonymous per dati ancora reidentificabili; in tal caso può trattarsi di pseudonimizzazione.",
+      "related_articles": [9, 16]
+    },
+    {
+      "id": "segreto-professionale",
+      "lemma": "segreto professionale",
+      "category": "riservatezza",
+      "definition_it": "Dovere dello psicologo di non rivelare informazioni apprese in ragione del rapporto professionale, salvo le deroghe o gli obblighi previsti.",
+      "translation_note": "Usare l'equivalente di professional confidentiality o professional secrecy previsto nel sistema giuridico di arrivo.",
+      "related_articles": [11, 12, 15, 16]
+    },
+    {
+      "id": "rendere-testimonianza",
+      "lemma": "rendere testimonianza",
+      "category": "procedura",
+      "definition_it": "Deporre come testimone davanti all'autorità su fatti conosciuti, qui con specifico riferimento a quelli appresi nel rapporto professionale.",
+      "translation_note": "Non tradurre come semplice fare una dichiarazione o fornire una testimonianza informale.",
+      "related_articles": [12]
+    },
+    {
+      "id": "deroga-segreto",
+      "lemma": "derogare all'obbligo di mantenere il segreto professionale",
+      "category": "riservatezza",
+      "definition_it": "Eccezione motivata alla regola di segretezza entro presupposti, destinatari e limiti specifici.",
+      "translation_note": "La deroga non significa cancellazione generale del segreto né obbligo di rivelare tutto.",
+      "related_articles": [12, 13]
+    },
+    {
+      "id": "consenso-valido-dimostrabile",
+      "lemma": "valido e dimostrabile consenso",
+      "category": "consenso",
+      "definition_it": "Consenso espresso da chi è legittimato, libero, informato, pertinente alla comunicazione e documentabile.",
+      "translation_note": "Preservare sia la validità sostanziale sia la possibilità di provarne l'esistenza e l'ambito.",
+      "related_articles": [12]
+    },
+    {
+      "id": "tutela-psicologica",
+      "lemma": "tutela psicologica",
+      "category": "deontologia",
+      "definition_it": "Protezione del benessere e dell'integrità psicologica della persona nel modo in cui si decide, comunica o conclude un intervento.",
+      "translation_note": "Non significa nascondere automaticamente informazioni sfavorevoli o sostituirsi alle scelte della persona.",
+      "related_articles": [12, 13, 25]
+    },
+    {
+      "id": "obbligo-referto",
+      "lemma": "obbligo di referto",
+      "category": "procedura",
+      "definition_it": "Obbligo previsto dalla legge per l'esercente una professione sanitaria che presta assistenza od opera in casi che possono presentare i caratteri di un delitto perseguibile d'ufficio, con eccezioni e condizioni da verificare.",
+      "translation_note": "È un istituto tecnico italiano distinto dalla denuncia; può richiedere spiegazione anziché un equivalente unico.",
+      "related_articles": [13]
+    },
+    {
+      "id": "obbligo-denuncia",
+      "lemma": "obbligo di denuncia",
+      "category": "procedura",
+      "definition_it": "Obbligo legale di comunicare una notizia di reato nei casi e per i soggetti individuati dalla legge, distinto dal referto.",
+      "translation_note": "Evitare di tradurlo con lo stesso termine usato per referto.",
+      "related_articles": [13]
+    },
+    {
+      "id": "stretto-necessario",
+      "lemma": "stretto necessario",
+      "category": "riservatezza",
+      "definition_it": "Solo le informazioni indispensabili per lo scopo giuridicamente o professionalmente legittimo della comunicazione.",
+      "translation_note": "Rendere l'idea di necessity e data minimisation, non semplice utilità.",
+      "related_articles": [13, 15]
+    },
+    {
+      "id": "gravi-pericoli",
+      "lemma": "gravi pericoli per la vita o per la salute psicofisica",
+      "category": "riservatezza",
+      "definition_it": "Rischi seri per vita o salute fisica e psicologica che richiedono una valutazione concreta di gravità, probabilità, urgenza e alternative.",
+      "translation_note": "Non trasformare la formula in rischio zero o in automatismo di segnalazione.",
+      "related_articles": [13]
+    },
+    {
+      "id": "custodia-controllo",
+      "lemma": "custodia e controllo",
+      "category": "riservatezza",
+      "definition_it": "Misure organizzative, fisiche e digitali con cui lo psicologo protegge documenti e comunicazioni da accessi, perdite o usi non autorizzati.",
+      "translation_note": "Controllo indica governance degli accessi e della gestione, non sorveglianza della persona.",
+      "related_articles": [17]
+    },
+    {
+      "id": "documentazione-professionale",
+      "lemma": "documentazione professionale",
+      "category": "riservatezza",
+      "definition_it": "Appunti, note, scritti, registrazioni e altri materiali riguardanti il rapporto professionale, indipendentemente dal supporto.",
+      "translation_note": "Non limitare a cartella clinica o documento ufficiale.",
+      "related_articles": [17]
+    },
+    {
+      "id": "liberta-di-scelta",
+      "lemma": "libertà di scelta",
+      "category": "consenso",
+      "definition_it": "Possibilità concreta del cliente o paziente di scegliere il professionista senza pressioni indebite, nei limiti reali e legittimi del contesto.",
+      "translation_note": "Conservare la formulazione graduata «il più possibile» presente nell'articolo.",
+      "related_articles": [18]
+    },
+    {
+      "id": "avallare",
+      "lemma": "avallare",
+      "category": "deontologia",
+      "definition_it": "Dare appoggio, legittimazione o copertura professionale a un'attività, decisione o qualifica.",
+      "translation_note": "Non tradurre letteralmente come firmare una cambiale; nel Codice significa endorse o lend professional legitimacy.",
+      "related_articles": [8, 19, 21]
+    },
+    {
+      "id": "qualificazione-preparazione",
+      "lemma": "competenza, qualificazione o preparazione",
+      "category": "competenza",
+      "definition_it": "Criteri professionali pertinenti ai requisiti effettivi da valutare, distinti da preferenze o pressioni estranee.",
+      "translation_note": "Preservare i tre termini senza fonderli in un unico concetto generico.",
+      "related_articles": [19]
+    },
+    {
+      "id": "strumenti-riservati",
+      "lemma": "strumenti e tecniche conoscitive e di intervento riservati",
+      "category": "competenza",
+      "definition_it": "Strumenti e tecniche la cui utilizzazione operativa rientra nelle attività caratteristiche o riservate della professione psicologica.",
+      "translation_note": "Riservati qui significa professionalmente restricted, non confidential.",
+      "related_articles": [21]
+    },
+    {
+      "id": "persone-estranee-professione",
+      "lemma": "persone estranee alla professione",
+      "category": "ruoli",
+      "definition_it": "Persone che non appartengono alla professione abilitata cui sono riservati gli strumenti o le tecniche in questione, salve le eccezioni formative espresse.",
+      "translation_note": "Evitare una resa che significhi sconosciuti o outsiders in senso sociale.",
+      "related_articles": [21]
+    },
+    {
+      "id": "aggravante",
+      "lemma": "aggravante",
+      "category": "deontologia",
+      "definition_it": "Circostanza che rende più grave una condotta disciplinarmente rilevante e può incidere sulla sua valutazione e sanzione.",
+      "translation_note": "Usare l'equivalente disciplinare; non presupporre che coincida con una aggravante penale.",
+      "related_articles": [21, 36]
+    },
+    {
+      "id": "qualifiche-attestati",
+      "lemma": "qualifiche, attestati",
+      "category": "competenza",
+      "definition_it": "Denominazioni o documenti che dichiarano formazione o capacità; non equivalgono necessariamente a un titolo abilitante.",
+      "translation_note": "Distinguere qualification, credential, certificate e licence secondo il sistema di arrivo.",
+      "related_articles": [21]
+    },
+    {
+      "id": "processi-psichici",
+      "lemma": "processi psichici",
+      "category": "competenza",
+      "definition_it": "Processi relazionali, emotivi, cognitivi e comportamentali considerati attraverso principi, modelli o costrutti psicologici.",
+      "translation_note": "Preferire psychological processes; evitare termini che implichino necessariamente patologia mentale.",
+      "related_articles": [21]
+    },
+    {
+      "id": "condotte-non-lesive",
+      "lemma": "condotte non lesive",
+      "category": "deontologia",
+      "definition_it": "Comportamenti professionali orientati a evitare danni ingiustificati o prevedibili alle persone seguite, tenendo conto di rischi e benefici.",
+      "translation_note": "Non significa assenza assoluta di disagio o rischio in ogni intervento.",
+      "related_articles": [10, 22]
+    },
+    {
+      "id": "vantaggi-indebiti",
+      "lemma": "indebiti vantaggi",
+      "category": "economia",
+      "definition_it": "Utilità patrimoniali o non patrimoniali ottenute senza giustificazione professionale, sfruttando ruolo, strumenti o rapporto.",
+      "translation_note": "Indebito significa improper o undue, non semplicemente non pagato.",
+      "related_articles": [22, 28]
+    },
+    {
+      "id": "compenso-professionale",
+      "lemma": "compenso professionale",
+      "category": "economia",
+      "definition_it": "Corrispettivo economico pattuito per le prestazioni professionali rese.",
+      "translation_note": "A seconda del contesto può rendersi come professional fee o remuneration, non salario.",
+      "related_articles": [23, 28, 30]
+    },
+    {
+      "id": "importanza-opera",
+      "lemma": "importanza dell'opera",
+      "category": "economia",
+      "definition_it": "Rilievo, complessità, responsabilità e caratteristiche dell'attività professionale cui deve essere rapportata la misura del compenso.",
+      "translation_note": "Opera qui significa prestazione o incarico professionale, non lavoro artistico.",
+      "related_articles": [23]
+    },
+    {
+      "id": "compenso-condizionato-esito",
+      "lemma": "compenso condizionato all'esito o ai risultati",
+      "category": "economia",
+      "definition_it": "Compenso la cui debenza o misura dipende dal raggiungimento dell'esito concordato; il testo lo vieta espressamente in ambito clinico.",
+      "translation_note": "Preservare la limitazione testuale all'ambito clinico.",
+      "related_articles": [23]
+    },
+    {
+      "id": "consenso-informato",
+      "lemma": "consenso informato",
+      "category": "consenso",
+      "definition_it": "Decisione libera e consapevole di chi ne ha diritto, fondata su informazioni adeguate e comprensibili circa prestazione, finalità, modalità e limiti pertinenti.",
+      "translation_note": "Distinguere consenso alla prestazione, consenso sanitario e base giuridica del trattamento dei dati.",
+      "related_articles": [9, 24, 31]
+    },
+    {
+      "id": "limiti-giuridici-riservatezza",
+      "lemma": "grado e limiti giuridici della riservatezza",
+      "category": "riservatezza",
+      "definition_it": "Estensione concreta della confidenzialità e situazioni in cui la legge o il Codice possono imporre o consentire comunicazioni.",
+      "translation_note": "Mantenere l'aggettivo giuridici: non si tratta soltanto di limiti tecnici o organizzativi.",
+      "related_articles": [24]
+    },
+    {
+      "id": "chi-ne-ha-diritto",
+      "lemma": "chi ne ha diritto",
+      "category": "consenso",
+      "definition_it": "Persona legittimata a esprimere il consenso nel caso concreto, da identificare in base a età, capacità, rappresentanza e disciplina applicabile.",
+      "translation_note": "Non tradurre con chiunque sia interessato o con chi paga.",
+      "related_articles": [24]
+    },
+    {
+      "id": "prevedibile-durata",
+      "lemma": "prevedibile durata",
+      "category": "consenso",
+      "definition_it": "Stima iniziale ragionevole della durata di una prestazione continuativa, da comunicare quando possibile e da aggiornare se cambia.",
+      "translation_note": "Non trasformare la stima in garanzia contrattuale di durata certa.",
+      "related_articles": [24]
+    },
+    {
+      "id": "strumenti-diagnosi-valutazione",
+      "lemma": "strumenti di diagnosi e di valutazione",
+      "category": "competenza",
+      "definition_it": "Test, metodi e procedure utilizzati per raccogliere e interpretare informazioni a fini diagnostici o valutativi.",
+      "translation_note": "Non ridurre ai soli test standardizzati.",
+      "related_articles": [25]
+    },
+    {
+      "id": "limiti-del-mandato",
+      "lemma": "limiti del mandato ricevuto",
+      "category": "rapporti",
+      "definition_it": "Confini di scopo, ruolo, attività e comunicazione stabiliti dall'incarico legittimo e dalle regole applicabili.",
+      "translation_note": "Mandato non è sempre power of attorney; qui è professional remit o terms of engagement.",
+      "related_articles": [25]
+    },
+    {
+      "id": "pregiudizio",
+      "lemma": "pregiudizio",
+      "category": "deontologia",
+      "definition_it": "Danno o conseguenza sfavorevole che l'uso o la comunicazione di informazioni può arrecare al soggetto.",
+      "translation_note": "Qui non significa bias o pre-judgment, ma harm o detriment.",
+      "related_articles": [25]
+    },
+    {
+      "id": "astensione-professionale",
+      "lemma": "si astiene dall'intraprendere o dal proseguire",
+      "category": "rapporti",
+      "definition_it": "Non iniziare oppure interrompere prudentemente un'attività quando ricorrono le condizioni di incompatibilità o dannosità indicate.",
+      "translation_note": "Distinguere abstain o recuse dal semplice rifiuto non motivato o dall'abbandono.",
+      "related_articles": [26]
+    },
+    {
+      "id": "problemi-conflitti-personali",
+      "lemma": "problemi o conflitti personali",
+      "category": "rapporti",
+      "definition_it": "Condizioni personali del professionista che possono interferire con efficacia, adeguatezza o sicurezza della prestazione.",
+      "translation_note": "Non implica che ogni difficoltà personale debba essere resa pubblica o determini automaticamente astensione.",
+      "related_articles": [26]
+    },
+    {
+      "id": "autorita-giudiziaria",
+      "lemma": "Autorità Giudiziaria",
+      "category": "procedura",
+      "definition_it": "Organi che esercitano funzioni giudiziarie secondo l'ordinamento; una loro richiesta non elimina i limiti deontologici e di competenza.",
+      "translation_note": "Usare l'equivalente istituzionale appropriato, non sempre court in senso stretto.",
+      "related_articles": [26]
+    },
+    {
+      "id": "rapporto-terapeutico",
+      "lemma": "rapporto terapeutico",
+      "category": "rapporti",
+      "definition_it": "Relazione professionale continuativa orientata alla cura psicologica del paziente.",
+      "translation_note": "Non estendere automaticamente a ogni consulenza o valutazione psicologica.",
+      "related_articles": [27]
+    },
+    {
+      "id": "ragionevolmente-prevedibile-beneficio",
+      "lemma": "ragionevolmente prevedibile",
+      "category": "competenza",
+      "definition_it": "Valutazione prognostica prudente fondata sulle conoscenze e sull'andamento del caso, non certezza matematica.",
+      "translation_note": "Preservare lo standard di reasonableness.",
+      "related_articles": [27]
+    },
+    {
+      "id": "commistioni-ruolo-vita-privata",
+      "lemma": "commistioni tra il ruolo professionale e vita privata",
+      "category": "rapporti",
+      "definition_it": "Sovrapposizioni fra relazione professionale e sfera personale capaci di interferire con il lavoro o danneggiare l'immagine della professione.",
+      "translation_note": "Non ogni contatto sociale è una commistione; mantenere il requisito degli effetti possibili indicati dal testo.",
+      "related_articles": [28]
+    },
+    {
+      "id": "nocumento",
+      "lemma": "arrecare nocumento",
+      "category": "deontologia",
+      "definition_it": "Causare danno o pregiudizio.",
+      "translation_note": "È una formula formale; tradurre il significato giuridico di cause harm o detriment, non letteralmente.",
+      "related_articles": [28]
+    },
+    {
+      "id": "relazioni-significative-personali",
+      "lemma": "relazioni significative di natura personale",
+      "category": "rapporti",
+      "definition_it": "Legami personali rilevanti, presenti o passati, in particolare affettivi, sentimentali o sessuali, capaci di rendere incompatibili alcuni interventi professionali.",
+      "translation_note": "Significant relationship deve conservare la natura personale e non essere reso come relazione clinicamente significativa.",
+      "related_articles": [28]
+    },
+    {
+      "id": "patrimoniale-non-patrimoniale",
+      "lemma": "patrimoniale o non patrimoniale",
+      "category": "economia",
+      "definition_it": "Riferito sia a utilità economicamente valutabili sia a benefici non economici, come favori, prestigio, accessi o relazioni.",
+      "translation_note": "Non rendere patrimoniale come patrimonio culturale; il contrasto è financial/non-financial.",
+      "related_articles": [28]
+    },
+    {
+      "id": "supervisione",
+      "lemma": "supervisione",
+      "category": "rapporti",
+      "definition_it": "Relazione professionale in cui un collega più esperto sostiene e valuta la riflessione sul lavoro di un altro professionista.",
+      "translation_note": "Professional supervision, non semplice controllo gerarchico.",
+      "related_articles": [28]
+    },
+    {
+      "id": "tirocinanti",
+      "lemma": "tirocinanti",
+      "category": "ruoli",
+      "definition_it": "Persone impegnate in un percorso pratico-formativo supervisionato e non per questo abilitate all'esercizio autonomo.",
+      "translation_note": "A seconda del sistema: trainees, interns o practicum students; verificare lo status giuridico.",
+      "related_articles": [20, 21, 28]
+    },
+    {
+      "id": "presidi-istituti-luoghi-cura",
+      "lemma": "presidi, istituti o luoghi di cura",
+      "category": "ruoli",
+      "definition_it": "Strutture, servizi o contesti organizzati nei quali vengono erogate attività sanitarie o di cura.",
+      "translation_note": "Presidio sanitario non è military garrison; usare facility, service o healthcare setting secondo il caso.",
+      "related_articles": [29]
+    },
+    {
+      "id": "fondati-motivi-scientifico-professionali",
+      "lemma": "fondati motivi di natura scientifico-professionale",
+      "category": "competenza",
+      "definition_it": "Ragioni documentabili di appropriatezza, sicurezza, qualità o necessità tecnica, non convenienza personale o commerciale.",
+      "translation_note": "Preservare sia founded/well-grounded sia la natura scientifica e professionale.",
+      "related_articles": [29]
+    },
+    {
+      "id": "corrispettivo",
+      "lemma": "corrispettivo",
+      "category": "economia",
+      "definition_it": "Prestazione economica dovuta in cambio di una prestazione professionale reale.",
+      "translation_note": "Usare consideration, fee o remuneration secondo il sistema; non significa semplicemente prezzo di listino.",
+      "related_articles": [30]
+    },
+    {
+      "id": "persone-minorenni",
+      "lemma": "persone minorenni",
+      "category": "consenso",
+      "definition_it": "Persone che non hanno raggiunto la maggiore età; devono essere informate e coinvolte secondo età, maturità e disciplina applicabile.",
+      "translation_note": "Preferire person-first wording e il termine legale per minors nella lingua di arrivo.",
+      "related_articles": [31]
+    },
+    {
+      "id": "interdette",
+      "lemma": "interdette",
+      "category": "consenso",
+      "definition_it": "Termine giuridico tradizionale riferito a persone sottoposte a interdizione; il quadro italiano della capacità e delle misure di protezione è oggi più articolato.",
+      "translation_note": "Non usare banned o prohibited. Serve l'equivalente tecnico o una perifrasi relativa alla legal incapacity/guardianship.",
+      "related_articles": [31]
+    },
+    {
+      "id": "autorita-tutoria",
+      "lemma": "Autorità Tutoria",
+      "category": "procedura",
+      "definition_it": "Formula storica del testo del Codice che rinvia all'autorità competente in materia di tutela nel caso concreto.",
+      "translation_note": "Non inventare un organo omonimo nella lingua di arrivo; identificare l'istituzione giuridica funzionalmente competente e segnalare l'arcaicità dell'originale.",
+      "related_articles": [31]
+    },
+    {
+      "id": "autorita-legalmente-competente",
+      "lemma": "autorità legalmente competente",
+      "category": "procedura",
+      "definition_it": "Autorità cui una norma attribuisce il potere di disporre quella specifica prestazione o decisione.",
+      "translation_note": "Mantenere il requisito di competenza giuridica, non solo autorevolezza istituzionale.",
+      "related_articles": [31]
+    },
+    {
+      "id": "strutture-legislativamente-preposte",
+      "lemma": "strutture legislativamente preposte",
+      "category": "procedura",
+      "definition_it": "Servizi o strutture cui la legge attribuisce espressamente la funzione di erogare o disporre determinate prestazioni.",
+      "translation_note": "Formula tecnica da rendere come bodies/facilities designated by law, non semplicemente strutture appropriate.",
+      "related_articles": [31]
+    },
+    {
+      "id": "parti-in-causa",
+      "lemma": "parti in causa",
+      "category": "ruoli",
+      "definition_it": "Tutti i soggetti concretamente coinvolti nel mandato e nella prestazione, non necessariamente soltanto parti di un processo giudiziario.",
+      "translation_note": "Nel contesto dell'art. 32 non tradurre automaticamente come litigants.",
+      "related_articles": [32]
+    },
+    {
+      "id": "natura-finalita-intervento",
+      "lemma": "natura e finalità dell'intervento",
+      "category": "consenso",
+      "definition_it": "Che tipo di attività verrà svolta e per quale scopo, inclusi il ruolo dello psicologo e l'uso previsto dei risultati.",
+      "translation_note": "Preservare la distinzione fra nature e purpose.",
+      "related_articles": [32]
+    },
+    {
+      "id": "colleganza",
+      "lemma": "colleganza",
+      "category": "rapporti",
+      "definition_it": "Solidarietà professionale leale e rispettosa fra colleghi, compatibile con il dissenso e con il dovere di segnalare condotte scorrette.",
+      "translation_note": "Collegiality non significa corporatismo, copertura reciproca o semplice cordialità.",
+      "related_articles": [33]
+    },
+    {
+      "id": "comunita-professionale",
+      "lemma": "comunità professionale",
+      "category": "ruoli",
+      "definition_it": "Insieme dei professionisti, organismi e contesti scientifici che partecipano allo sviluppo e alla regolazione della disciplina.",
+      "translation_note": "Non confondere con una comunità territoriale di utenti.",
+      "related_articles": [34]
+    },
+    {
+      "id": "fonte-altrui-contributi",
+      "lemma": "fonte degli altrui contributi",
+      "category": "competenza",
+      "definition_it": "Origine riconoscibile di idee, dati, testi, metodi o lavoro forniti da altre persone e utilizzati nella ricerca presentata.",
+      "translation_note": "Coordinare source attribution con autorialità e diritto d'autore senza renderli sinonimi.",
+      "related_articles": [35]
+    },
+    {
+      "id": "sottrarre-clientela",
+      "lemma": "sottrarre clientela",
+      "category": "economia",
+      "definition_it": "Attirare verso di sé clienti o pazienti di un collega mediante giudizi pubblici negativi o lesivi sul collega stesso.",
+      "translation_note": "Non rendere letteralmente come steal clients; usare una formula professionale di client diversion o solicitation.",
+      "related_articles": [36]
+    },
+    {
+      "id": "tempestiva-comunicazione",
+      "lemma": "tempestiva comunicazione",
+      "category": "procedura",
+      "definition_it": "Segnalazione effettuata senza ritardo ingiustificato, con fatti e informazioni necessari, al Consiglio dell'Ordine competente.",
+      "translation_note": "Timely non significa necessariamente immediato in ogni circostanza; conservare la valutazione contestuale.",
+      "related_articles": [36]
+    },
+    {
+      "id": "consiglio-ordine-competente",
+      "lemma": "Consiglio dell'Ordine competente",
+      "category": "procedura",
+      "definition_it": "Organo territoriale dell'Ordine individuato dalle regole di competenza applicabili al caso.",
+      "translation_note": "Non tradurre come consiglio o advice; è un organo professionale istituzionale.",
+      "related_articles": [36, 40]
+    },
+    {
+      "id": "mandato-professionale",
+      "lemma": "mandato professionale",
+      "category": "rapporti",
+      "definition_it": "Incarico affidato allo psicologo con uno scopo, un ruolo, limiti e responsabilità definiti.",
+      "translation_note": "Non sempre equivale al mandato civilistico o a power of attorney; spesso professional engagement o assignment.",
+      "related_articles": [37]
+    },
+    {
+      "id": "consulenza-invio",
+      "lemma": "consulenza ovvero l'invio",
+      "category": "rapporti",
+      "definition_it": "Ricorso al contributo di un'altra competenza oppure orientamento della persona verso un collega o altro professionista più adatto.",
+      "translation_note": "Distinguere consultation da referral; ovvero nel contesto introduce alternative.",
+      "related_articles": [37]
+    },
+    {
+      "id": "rappresenta-pubblicamente-professione",
+      "lemma": "rappresenta pubblicamente la professione",
+      "category": "deontologia",
+      "definition_it": "Si presenta o interviene davanti al pubblico in modo riconoscibile come psicologo o portatore di una voce professionale.",
+      "translation_note": "Non richiede necessariamente una carica formale di rappresentante dell'Ordine.",
+      "related_articles": [38]
+    },
+    {
+      "id": "formazione-esperienza-competenza",
+      "lemma": "formazione, esperienza e competenza",
+      "category": "competenza",
+      "definition_it": "Tre dimensioni distinte della presentazione professionale: percorso formativo, pratica maturata e capacità effettiva di svolgere un compito.",
+      "translation_note": "Non condensare i tre elementi in qualifications se la lingua consente di mantenerli distinti.",
+      "related_articles": [39]
+    },
+    {
+      "id": "libero-consapevole-giudizio",
+      "lemma": "libero e consapevole",
+      "category": "consenso",
+      "definition_it": "Capace di formarsi senza coercizioni o manipolazioni e sulla base di informazioni sufficienti a comprendere le alternative.",
+      "translation_note": "Mantenere entrambe le dimensioni: freedom e informed awareness.",
+      "related_articles": [39]
+    },
+    {
+      "id": "procacciamento-clientela",
+      "lemma": "procacciamento della clientela",
+      "category": "economia",
+      "definition_it": "Acquisizione di clienti mediante condotte promozionali; nell'art. 40 rileva quando perseguita con comportamenti pubblici scorretti.",
+      "translation_note": "Client solicitation o touting secondo il sistema; non ogni marketing è procacciamento scorretto.",
+      "related_articles": [40]
+    },
+    {
+      "id": "pubblicita-informativa",
+      "lemma": "pubblicità informativa",
+      "category": "economia",
+      "definition_it": "Comunicazione promozionale ammessa per informare su titoli, specializzazioni, servizi e costi nel rispetto delle condizioni deontologiche e legali.",
+      "translation_note": "Non tradurre come public information priva di finalità promozionale.",
+      "related_articles": [40]
+    },
+    {
+      "id": "trasparenza-veridicita",
+      "lemma": "trasparenza e veridicità",
+      "category": "economia",
+      "definition_it": "Requisiti per cui il messaggio è comprensibile e completo negli elementi rilevanti e non contiene affermazioni false o fuorvianti.",
+      "translation_note": "Veridicità richiede truthfulness; trasparenza comprende anche omissioni, costi e condizioni.",
+      "related_articles": [40]
+    },
+    {
+      "id": "serieta-scientifica",
+      "lemma": "serietà scientifica",
+      "category": "competenza",
+      "definition_it": "Coerenza del messaggio con prove, limiti e linguaggio responsabile propri della conoscenza scientifica disponibile.",
+      "translation_note": "Non significa tono solenne; riguarda rigore e fondatezza.",
+      "related_articles": [40]
+    },
+    {
+      "id": "osservatorio-permanente",
+      "lemma": "Osservatorio permanente sul Codice Deontologico",
+      "category": "procedura",
+      "definition_it": "Organismo istituito presso la Commissione Deontologia del CNOP per raccogliere materiali, monitorare criticità e contribuire a indirizzi e proposte di revisione.",
+      "translation_note": "Non tradurre observatory come luogo fisico; è un organismo di monitoraggio e studio.",
+      "related_articles": [41]
+    },
+    {
+      "id": "giurisprudenza-deontologica",
+      "lemma": "giurisprudenza in materia deontologica",
+      "category": "procedura",
+      "definition_it": "Insieme delle decisioni e degli orientamenti formati nei procedimenti disciplinari; le decisioni territoriali non sono automaticamente precedenti nazionali vincolanti.",
+      "translation_note": "Case law o disciplinary decisions con nota sul loro valore nel sistema italiano.",
+      "related_articles": [41]
+    },
+    {
+      "id": "revisione-periodica",
+      "lemma": "revisione periodica del Codice Deontologico",
+      "category": "procedura",
+      "definition_it": "Procedimento istituzionale di aggiornamento del testo del Codice secondo competenze e modalità previste dalla legge.",
+      "translation_note": "Una proposta o consultazione non equivale a revisione già approvata.",
+      "related_articles": [41]
+    },
+    {
+      "id": "referendum-approvazione",
+      "lemma": "referendum di approvazione",
+      "category": "procedura",
+      "definition_it": "Votazione degli iscritti prevista dalla legge per approvare il Codice predisposto o aggiornato dal CNOP.",
+      "translation_note": "Mantenere la natura ordinistica e professionale del referendum, non confonderlo con un referendum popolare nazionale.",
+      "related_articles": [42]
+    },
+    {
+      "id": "proclamazione-risultati",
+      "lemma": "proclamazione dei risultati",
+      "category": "procedura",
+      "definition_it": "Atto ufficiale con cui vengono dichiarati i risultati del referendum e dal quale l'art. 42 fa decorrere il termine per l'entrata in vigore.",
+      "translation_note": "Distinguere dalla chiusura del voto e dalla pubblicazione informale dei risultati.",
+      "related_articles": [42]
+    },
+    {
+      "id": "entrata-in-vigore",
+      "lemma": "entra in vigore",
+      "category": "procedura",
+      "definition_it": "Momento dal quale il testo acquista efficacia vincolante secondo la regola temporale applicabile.",
+      "translation_note": "Usare il termine giuridico enters into force, non semplicemente viene pubblicato.",
+      "related_articles": [42]
+    }
+  ],
+  "article_annotations": [
+    {"article": 1, "annotations": [{"glossary_id": "codice-deontologico", "surface": "Codice Deontologico"}, {"glossary_id": "albo-degli-psicologi", "surface": "Albo degli psicologi"}, {"glossary_id": "responsabilita-disciplinare", "surface": "responsabilità disciplinare"}]},
+    {"article": 2, "annotations": [{"glossary_id": "codice-deontologico", "surface": "Codice deontologico"}, {"glossary_id": "decoro-professionale", "surface": "decoro"}, {"glossary_id": "dignita-professionale", "surface": "dignità"}, {"glossary_id": "regolamento-disciplinare", "surface": "Regolamento disciplinare"}]},
+    {"article": 3, "annotations": [{"glossary_id": "responsabilita-sociale", "surface": "responsabilità sociale"}, {"glossary_id": "committente", "surface": "committenti"}, {"glossary_id": "utente", "surface": "utenti"}, {"glossary_id": "destinatario-prestazione", "surface": "destinatari della sua prestazione professionale"}, {"glossary_id": "atti-professionali", "surface": "atti professionali"}, {"glossary_id": "conseguenze-prevedibili-dirette", "surface": "prevedibili dirette conseguenze"}]},
+    {"article": 4, "annotations": [{"glossary_id": "riservatezza", "surface": "riservatezza"}, {"glossary_id": "autodeterminazione", "surface": "autodeterminazione"}, {"glossary_id": "autonomia-persona", "surface": "autonomia"}, {"glossary_id": "conflitto-di-interesse", "surface": "conflitti di interesse"}, {"glossary_id": "utente", "surface": "utente"}, {"glossary_id": "destinatario-prestazione", "surface": "destinatario"}, {"glossary_id": "committente", "surface": "committente"}]},
+    {"article": 5, "annotations": [{"glossary_id": "formazione-continua", "surface": "formazione continua"}, {"glossary_id": "illecito-disciplinare", "surface": "illecito disciplinare"}, {"glossary_id": "competenza-professionale", "surface": "competenza"}, {"glossary_id": "strumenti-teorico-pratici", "surface": "strumenti teorico – pratici"}, {"glossary_id": "formale-autorizzazione", "surface": "formale autorizzazione"}, {"glossary_id": "aspettative-infondate", "surface": "aspettative infondate"}]},
+    {"article": 6, "annotations": [{"glossary_id": "autonomia-professionale", "surface": "autonomia professionale"}, {"glossary_id": "codice-deontologico", "surface": "presente codice"}, {"glossary_id": "competenza-professionale", "surface": "competenze"}]},
+    {"article": 7, "annotations": [{"glossary_id": "validita", "surface": "validità"}, {"glossary_id": "attendibilita", "surface": "attendibilità"}, {"glossary_id": "ipotesi-interpretative-alternative", "surface": "ipotesi interpretative alternative"}, {"glossary_id": "conoscenza-professionale-diretta", "surface": "conoscenza professionale diretta"}, {"glossary_id": "documentazione-adeguata-attendibile", "surface": "documentazione adeguata ed attendibile"}]},
+    {"article": 8, "annotations": [{"glossary_id": "esercizio-abusivo", "surface": "esercizio abusivo della professione"}, {"glossary_id": "usurpazione-di-titolo", "surface": "usurpazione di titolo"}, {"glossary_id": "avallare", "surface": "avalla"}]},
+    {"article": 9, "annotations": [{"glossary_id": "previo-consenso-informato", "surface": "previo consenso informato"}, {"glossary_id": "ritiro-del-consenso", "surface": "ritirare il consenso"}, {"glossary_id": "autorizzazione-uso-dati", "surface": "autorizzazione all’uso dei dati raccolti"}, {"glossary_id": "potesta-genitoriale", "surface": "potestà genitoriale"}, {"glossary_id": "tutela-giuridica", "surface": "tutela"}, {"glossary_id": "riservatezza", "surface": "riservatezza"}, {"glossary_id": "non-riconoscibilita", "surface": "non riconoscibilità"}, {"glossary_id": "anonimato", "surface": "anonimato"}]},
+    {"article": 10, "annotations": [{"glossary_id": "condotte-non-lesive", "surface": "evitare loro sofferenze"}]},
+    {"article": 11, "annotations": [{"glossary_id": "segreto-professionale", "surface": "segreto professionale"}, {"glossary_id": "rapporto-professionale", "surface": "rapporto professionale"}]},
+    {"article": 12, "annotations": [{"glossary_id": "rendere-testimonianza", "surface": "rendere testimonianza"}, {"glossary_id": "deroga-segreto", "surface": "derogare all’obbligo di mantenere il segreto professionale"}, {"glossary_id": "consenso-valido-dimostrabile", "surface": "valido e dimostrabile consenso"}, {"glossary_id": "destinatario-prestazione", "surface": "destinatario della sua prestazione"}, {"glossary_id": "tutela-psicologica", "surface": "tutela psicologica"}]},
+    {"article": 13, "annotations": [{"glossary_id": "obbligo-referto", "surface": "obbligo di referto"}, {"glossary_id": "obbligo-denuncia", "surface": "obbligo di denuncia"}, {"glossary_id": "stretto-necessario", "surface": "stretto necessario"}, {"glossary_id": "tutela-psicologica", "surface": "tutela psicologica"}, {"glossary_id": "deroga-segreto", "surface": "derogare totalmente o parzialmente"}, {"glossary_id": "riservatezza", "surface": "riservatezza"}, {"glossary_id": "gravi-pericoli", "surface": "gravi pericoli per la vita o per la salute psicofisica"}]},
+    {"article": 14, "annotations": [{"glossary_id": "riservatezza", "surface": "riservatezza"}]},
+    {"article": 15, "annotations": [{"glossary_id": "segreto-professionale", "surface": "segreto professionale"}, {"glossary_id": "stretto-necessario", "surface": "informazioni strettamente necessarie"}]},
+    {"article": 16, "annotations": [{"glossary_id": "segreto-professionale", "surface": "segreto professionale"}, {"glossary_id": "anonimato", "surface": "anonimato"}, {"glossary_id": "destinatario-prestazione", "surface": "destinatario della prestazione"}]},
+    {"article": 17, "annotations": [{"glossary_id": "custodia-controllo", "surface": "custodia e il controllo"}, {"glossary_id": "documentazione-professionale", "surface": "Tale documentazione"}]},
+    {"article": 18, "annotations": [{"glossary_id": "liberta-di-scelta", "surface": "libertà di scelta"}, {"glossary_id": "cliente", "surface": "cliente"}, {"glossary_id": "paziente", "surface": "paziente"}]},
+    {"article": 19, "annotations": [{"glossary_id": "qualificazione-preparazione", "surface": "specifica competenza, qualificazione o preparazione"}, {"glossary_id": "avallare", "surface": "avalla"}]},
+    {"article": 20, "annotations": [{"glossary_id": "tirocinanti", "surface": "tirocinanti"}, {"glossary_id": "principi-deontologici", "surface": "principi deontologici"}]},
+    {"article": 21, "annotations": [{"glossary_id": "strumenti-riservati", "surface": "strumenti e tecniche conoscitive e di intervento riservati"}, {"glossary_id": "persone-estranee-professione", "surface": "persone estranee alla professione"}, {"glossary_id": "aggravante", "surface": "aggravante"}, {"glossary_id": "avallare", "surface": "avallare"}, {"glossary_id": "qualifiche-attestati", "surface": "qualifiche, attestati"}, {"glossary_id": "processi-psichici", "surface": "processi psichici"}, {"glossary_id": "tirocinanti", "surface": "tirocinanti"}]},
+    {"article": 22, "annotations": [{"glossary_id": "condotte-non-lesive", "surface": "condotte non lesive"}, {"glossary_id": "vantaggi-indebiti", "surface": "indebiti vantaggi"}]},
+    {"article": 23, "annotations": [{"glossary_id": "compenso-professionale", "surface": "compenso professionale"}, {"glossary_id": "importanza-opera", "surface": "importanza dell’opera"}, {"glossary_id": "compenso-condizionato-esito", "surface": "compenso non può essere condizionato all’esito o ai risultati"}]},
+    {"article": 24, "annotations": [{"glossary_id": "utente", "surface": "utenti"}, {"glossary_id": "committente", "surface": "committenti"}, {"glossary_id": "limiti-giuridici-riservatezza", "surface": "grado e i limiti giuridici della riservatezza"}, {"glossary_id": "chi-ne-ha-diritto", "surface": "chi ne ha diritto"}, {"glossary_id": "consenso-informato", "surface": "consenso informato"}, {"glossary_id": "prevedibile-durata", "surface": "prevedibile durata"}]},
+    {"article": 25, "annotations": [{"glossary_id": "strumenti-diagnosi-valutazione", "surface": "strumenti di diagnosi e di valutazione"}, {"glossary_id": "limiti-del-mandato", "surface": "limiti del mandato ricevuto"}, {"glossary_id": "pregiudizio", "surface": "pregiudizio"}, {"glossary_id": "tutela-psicologica", "surface": "tutela psicologica"}]},
+    {"article": 26, "annotations": [{"glossary_id": "astensione-professionale", "surface": "si astiene dall’intraprendere o dal proseguire"}, {"glossary_id": "problemi-conflitti-personali", "surface": "problemi o conflitti personali"}, {"glossary_id": "autorita-giudiziaria", "surface": "Autorità Giudiziaria"}]},
+    {"article": 27, "annotations": [{"glossary_id": "rapporto-terapeutico", "surface": "rapporto terapeutico"}, {"glossary_id": "ragionevolmente-prevedibile-beneficio", "surface": "ragionevolmente prevedibile"}, {"glossary_id": "paziente", "surface": "paziente"}]},
+    {"article": 28, "annotations": [{"glossary_id": "commistioni-ruolo-vita-privata", "surface": "commistioni tra il ruolo professionale e vita privata"}, {"glossary_id": "nocumento", "surface": "arrecare nocumento"}, {"glossary_id": "relazioni-significative-personali", "surface": "relazioni significative di natura personale"}, {"glossary_id": "vantaggi-indebiti", "surface": "indebiti vantaggi"}, {"glossary_id": "patrimoniale-non-patrimoniale", "surface": "patrimoniale o non patrimoniale"}, {"glossary_id": "compenso-professionale", "surface": "compenso pattuito"}, {"glossary_id": "supervisione", "surface": "supervisione"}, {"glossary_id": "tirocinanti", "surface": "tirocinanti"}]},
+    {"article": 29, "annotations": [{"glossary_id": "presidi-istituti-luoghi-cura", "surface": "presidi, istituti o luoghi di cura"}, {"glossary_id": "fondati-motivi-scientifico-professionali", "surface": "fondati motivi di natura scientifico-professionale"}]},
+    {"article": 30, "annotations": [{"glossary_id": "compenso-professionale", "surface": "compenso"}, {"glossary_id": "corrispettivo", "surface": "corrispettivo"}]},
+    {"article": 31, "annotations": [{"glossary_id": "persone-minorenni", "surface": "persone minorenni"}, {"glossary_id": "interdette", "surface": "interdette"}, {"glossary_id": "potesta-genitoriale", "surface": "potestà genitoriale"}, {"glossary_id": "tutela-giuridica", "surface": "tutela"}, {"glossary_id": "autorita-tutoria", "surface": "Autorità Tutoria"}, {"glossary_id": "autorita-legalmente-competente", "surface": "autorità legalmente competente"}, {"glossary_id": "strutture-legislativamente-preposte", "surface": "strutture legislativamente preposte"}]},
+    {"article": 32, "annotations": [{"glossary_id": "committente", "surface": "committente"}, {"glossary_id": "destinatario-prestazione", "surface": "destinatario della prestazione"}, {"glossary_id": "parti-in-causa", "surface": "parti in causa"}, {"glossary_id": "natura-finalita-intervento", "surface": "natura e le finalità dell’intervento"}]},
+    {"article": 33, "annotations": [{"glossary_id": "colleganza", "surface": "colleganza"}, {"glossary_id": "autonomia-professionale", "surface": "autonomia"}]},
+    {"article": 34, "annotations": [{"glossary_id": "comunita-professionale", "surface": "comunità professionale"}]},
+    {"article": 35, "annotations": [{"glossary_id": "fonte-altrui-contributi", "surface": "fonte degli altrui contributi"}]},
+    {"article": 36, "annotations": [{"glossary_id": "decoro-professionale", "surface": "decoro"}, {"glossary_id": "aggravante", "surface": "aggravante"}, {"glossary_id": "sottrarre-clientela", "surface": "sottrarre clientela"}, {"glossary_id": "utente", "surface": "utenti"}, {"glossary_id": "tempestiva-comunicazione", "surface": "tempestiva comunicazione"}, {"glossary_id": "consiglio-ordine-competente", "surface": "Consiglio dell’Ordine competente"}]},
+    {"article": 37, "annotations": [{"glossary_id": "mandato-professionale", "surface": "mandato professionale"}, {"glossary_id": "competenza-professionale", "surface": "competenze"}, {"glossary_id": "committente", "surface": "committente"}, {"glossary_id": "destinatario-prestazione", "surface": "destinatario della prestazione"}, {"glossary_id": "consulenza-invio", "surface": "consulenza ovvero l’invio"}]},
+    {"article": 38, "annotations": [{"glossary_id": "rappresenta-pubblicamente-professione", "surface": "rappresenta pubblicamente la professione"}, {"glossary_id": "decoro-professionale", "surface": "decoro"}, {"glossary_id": "dignita-professionale", "surface": "dignità professionale"}]},
+    {"article": 39, "annotations": [{"glossary_id": "formazione-esperienza-competenza", "surface": "formazione, esperienza e competenza"}, {"glossary_id": "libero-consapevole-giudizio", "surface": "libero e consapevole"}, {"glossary_id": "utente", "surface": "utenti"}]},
+    {"article": 40, "annotations": [{"glossary_id": "procacciamento-clientela", "surface": "procacciamento della clientela"}, {"glossary_id": "pubblicita-informativa", "surface": "pubblicità informativa"}, {"glossary_id": "trasparenza-veridicita", "surface": "trasparenza e veridicità"}, {"glossary_id": "consiglio-ordine-competente", "surface": "competenti Consigli dell’Ordine"}, {"glossary_id": "decoro-professionale", "surface": "decoro professionale"}, {"glossary_id": "serieta-scientifica", "surface": "serietà scientifica"}]},
+    {"article": 41, "annotations": [{"glossary_id": "osservatorio-permanente", "surface": "Osservatorio permanente sul Codice Deontologico"}, {"glossary_id": "giurisprudenza-deontologica", "surface": "giurisprudenza in materia deontologica"}, {"glossary_id": "revisione-periodica", "surface": "revisione periodica del Codice Deontologico"}]},
+    {"article": 42, "annotations": [{"glossary_id": "entrata-in-vigore", "surface": "entra in vigore"}, {"glossary_id": "proclamazione-risultati", "surface": "proclamazione dei risultati"}, {"glossary_id": "referendum-approvazione", "surface": "referendum di approvazione"}]}
+  ]
+}

@@ -1,0 +1,1793 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Localized glossary bridge - English",
+  "language": "en",
+  "direction": "ltr",
+  "source_language": "it",
+  "source_file": "data/glossary.it.json",
+  "translation_route": [
+    "it",
+    "en"
+  ],
+  "translation_status": "machine_draft_needs_native_legal_review",
+  "popup_behavior": "Highlighted localized terms open the Italian surface, Italian lemma, and Italian editorial definition.",
+  "entries": [
+    {
+      "id": "codice-deontologico",
+      "term": "Code of Professional Ethics",
+      "italian_lemma": "Codice deontologico",
+      "italian_definition": "Insieme delle regole professionali vincolanti per chi è iscritto all'Albo degli psicologi, la cui inosservanza può avere conseguenze disciplinari.",
+      "localized_explanation": "Together with the binding professional rules for those who are enrolled in the Psychologists' Register, whose unobservedness may have disciplinary consequences.",
+      "related_articles": [
+        1,
+        2,
+        6,
+        41,
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "albo-degli-psicologi",
+      "term": "Psychology Albo",
+      "italian_lemma": "Albo degli psicologi",
+      "italian_definition": "Registro pubblico professionale nel quale l'iscrizione abilita all'uso del relativo titolo e comporta l'assoggettamento alle regole ordinistiche.",
+      "localized_explanation": "Professional public register in which registration allows the use of the relevant title and involves subjecting to the order rules.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-disciplinare",
+      "term": "disciplinary liability",
+      "italian_lemma": "responsabilità disciplinare",
+      "italian_definition": "Responsabilità dell'iscritto per la violazione di regole professionali, accertata secondo il procedimento disciplinare applicabile.",
+      "localized_explanation": "Responsibility of the Member for the violation of professional rules, ascertained according to the applicable disciplinary procedure.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "principi-deontologici",
+      "term": "principles of professional ethics",
+      "italian_lemma": "principi deontologici",
+      "italian_definition": "Principi e criteri professionali che orientano il comportamento dello psicologo e la comprensione delle regole del Codice.",
+      "localized_explanation": "Principles and professional criteria that guide the behavior of the psychologist and understanding of the rules of the Code.",
+      "related_articles": [
+        20
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "illecito-disciplinare",
+      "term": "disciplinary offence",
+      "italian_lemma": "illecito disciplinare",
+      "italian_definition": "Condotta o omissione professionalmente censurabile secondo il Codice e l'ordinamento disciplinare.",
+      "localized_explanation": "Conduct or omission professionally censorable according to the Code and disciplinary order.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "regolamento-disciplinare",
+      "term": "disciplinary regulations",
+      "italian_lemma": "Regolamento disciplinare",
+      "italian_definition": "Atto che disciplina fasi, competenze e garanzie del procedimento con cui vengono valutate le contestazioni deontologiche.",
+      "localized_explanation": "Act governing phases, skills and guarantees of the procedure in which deontological disputes are assessed.",
+      "related_articles": [
+        2
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "decoro-professionale",
+      "term": "professional decoration",
+      "italian_lemma": "decoro professionale",
+      "italian_definition": "Criterio aperto che richiede una condotta seria, corretta e compatibile con la fiducia pubblica nella professione; va applicato considerando contesto e proporzionalità.",
+      "localized_explanation": "Open policy requiring serious, correct and compatible conduct with public confidence in the profession; should be applied in the context and proportionality.",
+      "related_articles": [
+        2,
+        36,
+        38,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "dignita-professionale",
+      "term": "professional dignity",
+      "italian_lemma": "dignità professionale",
+      "italian_definition": "Valore legato all'integrità del ruolo e alla sua funzione sociale, non al prestigio personale del professionista.",
+      "localized_explanation": "Value related to the integrity of the role and its social function, not to the personal prestige of the professional.",
+      "related_articles": [
+        2,
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-sociale",
+      "term": "Social responsibility",
+      "italian_lemma": "responsabilità sociale",
+      "italian_definition": "Consapevolezza che l'attività psicologica può incidere sulle persone e sulla collettività e deve considerare anche fattori sociali, organizzativi, finanziari e politici.",
+      "localized_explanation": "Awareness that psychological activity can affect people and the community and must also consider social, organizational, financial and political factors.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "atti-professionali",
+      "term": "professional activities",
+      "italian_lemma": "atti professionali",
+      "italian_definition": "Azioni compiute nell'esercizio del ruolo professionale e imputabili allo psicologo.",
+      "localized_explanation": "Actions carried out in the exercise of the professional role and attributable to the psychologist.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conseguenze-prevedibili-dirette",
+      "term": "foreseen direct consequences",
+      "italian_lemma": "prevedibili dirette conseguenze",
+      "italian_definition": "Effetti direttamente collegati all'atto professionale che erano ragionevolmente anticipabili nelle circostanze concrete.",
+      "localized_explanation": "Effects directly linked to the professional act which were reasonably anticipated in concrete circumstances.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "riservatezza",
+      "term": "confidentiality",
+      "italian_lemma": "riservatezza",
+      "italian_definition": "Protezione delle informazioni e della sfera privata della persona, più ampia della sola regola sul non rivelare il segreto professionale.",
+      "localized_explanation": "Protection of the information and private sphere of the person, wider than the rule on not revealing professional secrecy.",
+      "related_articles": [
+        4,
+        9,
+        13,
+        14,
+        24,
+        25,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autodeterminazione",
+      "term": "self-determination",
+      "italian_lemma": "autodeterminazione",
+      "italian_definition": "Diritto e capacità della persona di partecipare alle decisioni che la riguardano sulla base di informazioni adeguate e senza coercizioni indebite.",
+      "localized_explanation": "The right and ability of the person to participate in the decisions concerning him on the basis of adequate information and without undue coercion.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-persona",
+      "term": "autonomy of the person",
+      "italian_lemma": "autonomia della persona",
+      "italian_definition": "Possibilità della persona di formare e attuare scelte proprie, distinta dall'autonomia tecnica del professionista.",
+      "localized_explanation": "Possibility of the person to form and implement own choices, distinct from the technical autonomy of the professional.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conflitto-di-interesse",
+      "term": "conflict of interest",
+      "italian_lemma": "conflitto di interesse",
+      "italian_definition": "Situazione in cui interessi, doveri o lealtà concorrenti possono interferire con la tutela dovuta o con l'indipendenza del giudizio professionale.",
+      "localized_explanation": "The situation in which interests, duties or competition law may interfere with the protection of the profession or the independence of the professional judgment.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "destinatario-prestazione",
+      "term": "recipient of the benefit",
+      "italian_lemma": "destinatario della prestazione",
+      "italian_definition": "Persona o soggetto verso cui l'intervento professionale è concretamente rivolto; può non coincidere con chi lo commissiona o lo paga.",
+      "localized_explanation": "Person or subject to which professional intervention is concretely addressed; may not coincide with who commissions it or pays it.",
+      "related_articles": [
+        3,
+        4,
+        11,
+        12,
+        16,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "committente",
+      "term": "contractor",
+      "italian_lemma": "committente",
+      "italian_definition": "Soggetto che richiede o conferisce l'incarico professionale; non coincide necessariamente con chi riceve la prestazione o con chi paga.",
+      "localized_explanation": "Subject requiring or conferring the professional assignment; does not necessarily coincide with who receives the performance or who pays.",
+      "related_articles": [
+        3,
+        4,
+        24,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "utente",
+      "term": "user",
+      "italian_lemma": "utente",
+      "italian_definition": "Persona o soggetto che utilizza o riceve un servizio; nel Codice può affiancarsi a cliente, paziente, committente o destinatario senza coincidere sempre con essi.",
+      "localized_explanation": "Person or subject who uses or receives a service; in the Code can be accompanied by client, patient, client or recipient without always matching them.",
+      "related_articles": [
+        3,
+        4,
+        5,
+        24,
+        36,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "cliente",
+      "term": "customer customer",
+      "italian_lemma": "cliente",
+      "italian_definition": "Soggetto che instaura un rapporto professionale con lo psicologo; nel Codice il termine non identifica sempre il paziente o destinatario.",
+      "localized_explanation": "Subject to establishing a professional relationship with the psychologist; in the Code the term does not always identify the patient or recipient.",
+      "related_articles": [
+        3,
+        5,
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "paziente",
+      "term": "patient",
+      "italian_lemma": "paziente",
+      "italian_definition": "Persona che riceve una prestazione di cura o un intervento clinico; il termine è più specifico di utente o cliente.",
+      "localized_explanation": "Person receiving a treatment or clinical intervention; the term is more specific than user or customer.",
+      "related_articles": [
+        18,
+        27,
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-professionale",
+      "term": "Vocational training",
+      "italian_lemma": "rapporto professionale",
+      "italian_definition": "Relazione regolata da un incarico o da una prestazione psicologica, dalla quale derivano ruoli, doveri e limiti professionali.",
+      "localized_explanation": "Report regulated by a position or psychological performance, from which roles, duties and professional limits arise.",
+      "related_articles": [
+        11,
+        12,
+        17,
+        24,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "competenza-professionale",
+      "term": "professional competence",
+      "italian_lemma": "competenza professionale",
+      "italian_definition": "Capacità effettiva di svolgere un compito con conoscenze, abilità, esperienza e giudizio adeguati al caso, distinta dal solo possesso di un titolo.",
+      "localized_explanation": "Effective ability to carry out a task with knowledge, skills, experience and judgement appropriate to the case, distinct from the sole possession of a title.",
+      "related_articles": [
+        5,
+        6,
+        19,
+        33,
+        37,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-continua",
+      "term": "continuing training",
+      "italian_lemma": "formazione continua",
+      "italian_definition": "Aggiornamento professionale svolto lungo l'esercizio della professione secondo gli obblighi dell'ordinamento applicabile.",
+      "localized_explanation": "Professional updating carried out along the exercise of the profession according to the obligations of the applicable order.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-teorico-pratici",
+      "term": "theoretical and practical tools",
+      "italian_lemma": "strumenti teorico-pratici",
+      "italian_definition": "Modelli, metodi, tecniche e strumenti operativi impiegati nella pratica psicologica.",
+      "localized_explanation": "Models, methods, techniques and operating tools used in psychological practice.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formale-autorizzazione",
+      "term": "formal authorization",
+      "italian_lemma": "formale autorizzazione",
+      "italian_definition": "Titolo, abilitazione, riconoscimento o altro requisito giuridicamente richiesto per una specifica attività, quando previsto.",
+      "localized_explanation": "Title, qualification, recognition or other legal requirement for a specific activity, when required.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aspettative-infondate",
+      "term": "unfounded expectations",
+      "italian_lemma": "aspettative infondate",
+      "italian_definition": "Attese di risultati, efficacia o capacità professionali che non hanno un supporto adeguato nelle conoscenze e nelle circostanze disponibili.",
+      "localized_explanation": "Expectations of results, effectiveness or professional skills that do not have adequate support in the knowledge and circumstances available.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-professionale",
+      "term": "professional autonomy",
+      "italian_lemma": "autonomia professionale",
+      "italian_definition": "Indipendenza tecnica e deontologica dello psicologo nella scelta e nell'uso responsabile di metodi, tecniche, strumenti e valutazioni.",
+      "localized_explanation": "Technical and deontological independence of the psychologist in the choice and use responsible for methods, techniques, tools and evaluations.",
+      "related_articles": [
+        6,
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "validita",
+      "term": "validity",
+      "italian_lemma": "validità",
+      "italian_definition": "Grado in cui informazioni, strumenti o conclusioni sostengono realmente l'interpretazione o l'uso che se ne fa.",
+      "localized_explanation": "Grade in which information, tools or conclusions really support the interpretation or use it does.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "attendibilita",
+      "term": "reliability",
+      "italian_lemma": "attendibilità",
+      "italian_definition": "Affidabilità di informazioni, dati, fonti o documentazione rispetto alla decisione professionale da assumere.",
+      "localized_explanation": "Reliability of information, data, sources or documentation regarding the professional decision to be taken.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ipotesi-interpretative-alternative",
+      "term": "alternative interpretative hypotheses",
+      "italian_lemma": "ipotesi interpretative alternative",
+      "italian_definition": "Spiegazioni diverse plausibili che devono essere considerate quando dati e contesto non consentono una conclusione unica.",
+      "localized_explanation": "Different plausible explanations that must be considered when data and context do not allow a unique conclusion.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conoscenza-professionale-diretta",
+      "term": "direct professional knowledge",
+      "italian_lemma": "conoscenza professionale diretta",
+      "italian_definition": "Conoscenza acquisita personalmente dallo psicologo mediante attività professionali pertinenti sul caso.",
+      "localized_explanation": "Knowledge acquired personally by the psychologist through relevant professional activities on the case.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-adeguata-attendibile",
+      "term": "adequate and reliable documentation",
+      "italian_lemma": "documentazione adeguata ed attendibile",
+      "italian_definition": "Materiale sufficientemente pertinente, completo e affidabile per sostenere la specifica valutazione formulata.",
+      "localized_explanation": "Material sufficiently relevant, complete and reliable to support the specific evaluation formulated.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "esercizio-abusivo",
+      "term": "unauthorised practice of the profession",
+      "italian_lemma": "esercizio abusivo della professione",
+      "italian_definition": "Svolgimento senza i requisiti richiesti di attività riservate dalla legge a una professione abilitata.",
+      "localized_explanation": "The application without the required requirements of activities reserved by law to an authorized profession.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "usurpazione-di-titolo",
+      "term": "unlawful use of a professional title",
+      "italian_lemma": "usurpazione di titolo",
+      "italian_definition": "Uso indebito di un titolo o qualità professionale che non spetta alla persona.",
+      "localized_explanation": "Undue use of a professional title or quality that is not the person's responsibility.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "previo-consenso-informato",
+      "term": "prior informed consent",
+      "italian_lemma": "previo consenso informato",
+      "italian_definition": "Decisione libera e informata espressa prima dell'attività cui si riferisce, dopo informazioni adeguate.",
+      "localized_explanation": "A free and informed decision expressed before the activity referred to in this report, after adequate information.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ritiro-del-consenso",
+      "term": "withdraw your consent",
+      "italian_lemma": "ritirare il consenso",
+      "italian_definition": "Revocare per il futuro il consenso precedentemente espresso, secondo le regole applicabili all'attività e ai dati già raccolti.",
+      "localized_explanation": "Revoke for the future the prior consent, according to the rules applicable to the activity and data already collected.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorizzazione-uso-dati",
+      "term": "authorisation for the use of the collected data",
+      "italian_lemma": "autorizzazione all'uso dei dati raccolti",
+      "italian_definition": "Assenso richiesto dall'art. 9 dopo il debriefing quando alcuni aspetti della ricerca non potevano essere spiegati correttamente in anticipo.",
+      "localized_explanation": "Assensus required by art. 9 after debriefing when some aspects of research could not be explained correctly in advance.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "potesta-genitoriale",
+      "term": "parental authority",
+      "italian_lemma": "potestà genitoriale",
+      "italian_definition": "Espressione storica conservata nel testo ufficiale; nella terminologia giuridica italiana corrente è stata sostituita da responsabilità genitoriale.",
+      "localized_explanation": "Historical expression preserved in the official text; in the current legal terminology has been replaced by parental responsibility.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-giuridica",
+      "term": "protection",
+      "italian_lemma": "tutela",
+      "italian_definition": "Istituto di protezione e rappresentanza previsto per persone che non possono provvedere autonomamente ai propri interessi nei casi stabiliti dalla legge.",
+      "localized_explanation": "Institute of protection and representation provided for persons who cannot independently provide their interests in cases established by law.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "non-riconoscibilita",
+      "term": "non-recognisability",
+      "italian_lemma": "non riconoscibilità",
+      "italian_definition": "Condizione per cui una persona non può essere individuata neppure combinando i dettagli messi a disposizione.",
+      "localized_explanation": "Condition for which a person cannot be identified even by combining the details made available.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "anonimato",
+      "term": "anonymity",
+      "italian_lemma": "anonimato",
+      "italian_definition": "Condizione nella quale l'identità del soggetto non è ricavabile dalle informazioni disponibili con mezzi ragionevoli.",
+      "localized_explanation": "Condition in which the identity of the subject is not obtainable from the information available by reasonable means.",
+      "related_articles": [
+        9,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "segreto-professionale",
+      "term": "professional secrecy",
+      "italian_lemma": "segreto professionale",
+      "italian_definition": "Dovere dello psicologo di non rivelare informazioni apprese in ragione del rapporto professionale, salvo le deroghe o gli obblighi previsti.",
+      "localized_explanation": "The psychologist must not disclose information learned in the light of the professional relationship, except for the exceptions or obligations provided.",
+      "related_articles": [
+        11,
+        12,
+        15,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rendere-testimonianza",
+      "term": "to bear witness",
+      "italian_lemma": "rendere testimonianza",
+      "italian_definition": "Deporre come testimone davanti all'autorità su fatti conosciuti, qui con specifico riferimento a quelli appresi nel rapporto professionale.",
+      "localized_explanation": "Deposing as a witness before the authority on known facts, here with specific reference to those learned in the professional relationship.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "deroga-segreto",
+      "term": "exemption from the obligation to maintain professional secrecy",
+      "italian_lemma": "derogare all'obbligo di mantenere il segreto professionale",
+      "italian_definition": "Eccezione motivata alla regola di segretezza entro presupposti, destinatari e limiti specifici.",
+      "localized_explanation": "Motivated exception to the secrecy rule within specific assumptions, recipients and limits.",
+      "related_articles": [
+        12,
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-valido-dimostrabile",
+      "term": "valid and demonstrative consent",
+      "italian_lemma": "valido e dimostrabile consenso",
+      "italian_definition": "Consenso espresso da chi è legittimato, libero, informato, pertinente alla comunicazione e documentabile.",
+      "localized_explanation": "Consent expressed by those who are legitimated, free, informed, relevant to communication and documentable.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-psicologica",
+      "term": "psychological protection",
+      "italian_lemma": "tutela psicologica",
+      "italian_definition": "Protezione del benessere e dell'integrità psicologica della persona nel modo in cui si decide, comunica o conclude un intervento.",
+      "localized_explanation": "Protection of the well-being and psychological integrity of the person in the way in which he decides, communicates or concludes an intervention.",
+      "related_articles": [
+        12,
+        13,
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-referto",
+      "term": "statutory duty to submit a medical report",
+      "italian_lemma": "obbligo di referto",
+      "italian_definition": "Obbligo previsto dalla legge per l'esercente una professione sanitaria che presta assistenza od opera in casi che possono presentare i caratteri di un delitto perseguibile d'ufficio, con eccezioni e condizioni da verificare.",
+      "localized_explanation": "Obligation provided for by law for the exercising a health profession that provides assistance or works in cases that may present the characters of a persecutable crime of office, with exceptions and conditions to be checked.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-denuncia",
+      "term": "statutory duty to report an offence",
+      "italian_lemma": "obbligo di denuncia",
+      "italian_definition": "Obbligo legale di comunicare una notizia di reato nei casi e per i soggetti individuati dalla legge, distinto dal referto.",
+      "localized_explanation": "Legal obligation to communicate a news of crime in cases and for subjects identified by the law, distinct from the report.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "stretto-necessario",
+      "term": "strictly necessary information",
+      "italian_lemma": "stretto necessario",
+      "italian_definition": "Solo le informazioni indispensabili per lo scopo giuridicamente o professionalmente legittimo della comunicazione.",
+      "localized_explanation": "Only information necessary for the legal or professionally legitimate purpose of communication.",
+      "related_articles": [
+        13,
+        15
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "gravi-pericoli",
+      "term": "serious dangers to life or psychophysical health",
+      "italian_lemma": "gravi pericoli per la vita o per la salute psicofisica",
+      "italian_definition": "Rischi seri per vita o salute fisica e psicologica che richiedono una valutazione concreta di gravità, probabilità, urgenza e alternative.",
+      "localized_explanation": "Serious risks for physical and psychological life or health that require a concrete assessment of gravity, probability, urgency and alternatives.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "custodia-controllo",
+      "term": "custody and control",
+      "italian_lemma": "custodia e controllo",
+      "italian_definition": "Misure organizzative, fisiche e digitali con cui lo psicologo protegge documenti e comunicazioni da accessi, perdite o usi non autorizzati.",
+      "localized_explanation": "Organizational, physical and digital measures with which the psychologist protects documents and communications from unauthorized access, losses or uses.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-professionale",
+      "term": "professional documentation",
+      "italian_lemma": "documentazione professionale",
+      "italian_definition": "Appunti, note, scritti, registrazioni e altri materiali riguardanti il rapporto professionale, indipendentemente dal supporto.",
+      "localized_explanation": "Notes, notes, writings, recordings and other materials regarding the professional relationship, regardless of the support.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "liberta-di-scelta",
+      "term": "freedom of choice",
+      "italian_lemma": "libertà di scelta",
+      "italian_definition": "Possibilità concreta del cliente o paziente di scegliere il professionista senza pressioni indebite, nei limiti reali e legittimi del contesto.",
+      "localized_explanation": "The client or patient can choose the professional without undue pressure, within the real and legitimate limits of the context.",
+      "related_articles": [
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "avallare",
+      "term": "avalanche",
+      "italian_lemma": "avallare",
+      "italian_definition": "Dare appoggio, legittimazione o copertura professionale a un'attività, decisione o qualifica.",
+      "localized_explanation": "To support, legitimize or cover a job, decision or qualification.",
+      "related_articles": [
+        8,
+        19,
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualificazione-preparazione",
+      "term": "competence, qualification or preparation",
+      "italian_lemma": "competenza, qualificazione o preparazione",
+      "italian_definition": "Criteri professionali pertinenti ai requisiti effettivi da valutare, distinti da preferenze o pressioni estranee.",
+      "localized_explanation": "Professional criteria relevant to the actual requirements to be assessed, distinguished by foreign preferences or pressures.",
+      "related_articles": [
+        19
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-riservati",
+      "term": "instruments and techniques of knowledge and intervention reserved",
+      "italian_lemma": "strumenti e tecniche conoscitive e di intervento riservati",
+      "italian_definition": "Strumenti e tecniche la cui utilizzazione operativa rientra nelle attività caratteristiche o riservate della professione psicologica.",
+      "localized_explanation": "Instruments and techniques whose operational use falls within the characteristic or reserved activities of the psychological profession.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-estranee-professione",
+      "term": "foreign people to the profession",
+      "italian_lemma": "persone estranee alla professione",
+      "italian_definition": "Persone che non appartengono alla professione abilitata cui sono riservati gli strumenti o le tecniche in questione, salve le eccezioni formative espresse.",
+      "localized_explanation": "Persons who do not belong to the profession authorized to which the instruments or techniques in question are reserved, except for the exceptions of training.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aggravante",
+      "term": "aggravating",
+      "italian_lemma": "aggravante",
+      "italian_definition": "Circostanza che rende più grave una condotta disciplinarmente rilevante e può incidere sulla sua valutazione e sanzione.",
+      "localized_explanation": "Circumstance that makes a more serious conduct disciplinaryly relevant and can affect its assessment and sanction.",
+      "related_articles": [
+        21,
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualifiche-attestati",
+      "term": "qualifications, certificates",
+      "italian_lemma": "qualifiche, attestati",
+      "italian_definition": "Denominazioni o documenti che dichiarano formazione o capacità; non equivalgono necessariamente a un titolo abilitante.",
+      "localized_explanation": "Names or documents declaring training or capacity; They do not necessarily match an enabling title.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "processi-psichici",
+      "term": "psychy processes",
+      "italian_lemma": "processi psichici",
+      "italian_definition": "Processi relazionali, emotivi, cognitivi e comportamentali considerati attraverso principi, modelli o costrutti psicologici.",
+      "localized_explanation": "Relationship, emotional, cognitive and behavioral processes considered through psychological principles, models or constructs.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "condotte-non-lesive",
+      "term": "non-living conductives",
+      "italian_lemma": "condotte non lesive",
+      "italian_definition": "Comportamenti professionali orientati a evitare danni ingiustificati o prevedibili alle persone seguite, tenendo conto di rischi e benefici.",
+      "localized_explanation": "Professional behaviours aimed at avoiding unjustified or foreseeable damage to the people followed, taking into account risks and benefits.",
+      "related_articles": [
+        10,
+        22
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "vantaggi-indebiti",
+      "term": "undue advantages",
+      "italian_lemma": "indebiti vantaggi",
+      "italian_definition": "Utilità patrimoniali o non patrimoniali ottenute senza giustificazione professionale, sfruttando ruolo, strumenti o rapporto.",
+      "localized_explanation": "Assets or non-capital assets obtained without professional justification, exploiting role, tools or relationship.",
+      "related_articles": [
+        22,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-professionale",
+      "term": "professional compensation",
+      "italian_lemma": "compenso professionale",
+      "italian_definition": "Corrispettivo economico pattuito per le prestazioni professionali rese.",
+      "localized_explanation": "Economic consideration for professional performance.",
+      "related_articles": [
+        23,
+        28,
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "importanza-opera",
+      "term": "importance of work",
+      "italian_lemma": "importanza dell'opera",
+      "italian_definition": "Rilievo, complessità, responsabilità e caratteristiche dell'attività professionale cui deve essere rapportata la misura del compenso.",
+      "localized_explanation": "Relief, complexity, responsibility and characteristics of the professional activity to which the measure of compensation must be related.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-condizionato-esito",
+      "term": "conditioned compensation to the outcome or results",
+      "italian_lemma": "compenso condizionato all'esito o ai risultati",
+      "italian_definition": "Compenso la cui debenza o misura dipende dal raggiungimento dell'esito concordato; il testo lo vieta espressamente in ambito clinico.",
+      "localized_explanation": "Compensation whose debency or measure depends on the achievement of the agreed outcome; the text expressly prohibits it in the clinical field.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-informato",
+      "term": "informed consent",
+      "italian_lemma": "consenso informato",
+      "italian_definition": "Decisione libera e consapevole di chi ne ha diritto, fondata su informazioni adeguate e comprensibili circa prestazione, finalità, modalità e limiti pertinenti.",
+      "localized_explanation": "A free and aware decision of those entitled to it, based on adequate and comprehensible information about performance, purpose, methods and limits.",
+      "related_articles": [
+        9,
+        24,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-giuridici-riservatezza",
+      "term": "degree and legal limits of confidentiality",
+      "italian_lemma": "grado e limiti giuridici della riservatezza",
+      "italian_definition": "Estensione concreta della confidenzialità e situazioni in cui la legge o il Codice possono imporre o consentire comunicazioni.",
+      "localized_explanation": "Confidentiality and situations where law or code can impose or allow communications.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "chi-ne-ha-diritto",
+      "term": "who has the right",
+      "italian_lemma": "chi ne ha diritto",
+      "italian_definition": "Persona legittimata a esprimere il consenso nel caso concreto, da identificare in base a età, capacità, rappresentanza e disciplina applicabile.",
+      "localized_explanation": "Person entitled to express consent in the concrete case, to be identified according to age, capacity, representation and applicable discipline.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "prevedibile-durata",
+      "term": "predictable duration",
+      "italian_lemma": "prevedibile durata",
+      "italian_definition": "Stima iniziale ragionevole della durata di una prestazione continuativa, da comunicare quando possibile e da aggiornare se cambia.",
+      "localized_explanation": "Reasonable initial estimate of the duration of a continuous performance, to be communicated when possible and to be updated if it changes.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-diagnosi-valutazione",
+      "term": "diagnostic and evaluation tools",
+      "italian_lemma": "strumenti di diagnosi e di valutazione",
+      "italian_definition": "Test, metodi e procedure utilizzati per raccogliere e interpretare informazioni a fini diagnostici o valutativi.",
+      "localized_explanation": "Testing, methods and procedures used to collect and interpret information for diagnostic or evaluative purposes.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-del-mandato",
+      "term": "limits of the mandate received",
+      "italian_lemma": "limiti del mandato ricevuto",
+      "italian_definition": "Confini di scopo, ruolo, attività e comunicazione stabiliti dall'incarico legittimo e dalle regole applicabili.",
+      "localized_explanation": "Purpose, role, activity and communication defined by the legitimate task and the applicable rules.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pregiudizio",
+      "term": "prejudice",
+      "italian_lemma": "pregiudizio",
+      "italian_definition": "Danno o conseguenza sfavorevole che l'uso o la comunicazione di informazioni può arrecare al soggetto.",
+      "localized_explanation": "It is unfavorable that the use or communication of information may be subject to the subject.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "astensione-professionale",
+      "term": "refrains from engaging or continuing",
+      "italian_lemma": "si astiene dall'intraprendere o dal proseguire",
+      "italian_definition": "Non iniziare oppure interrompere prudentemente un'attività quando ricorrono le condizioni di incompatibilità o dannosità indicate.",
+      "localized_explanation": "Do not start or stop a task prudently when the conditions of incompatibility or harmfulness indicated are met.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "problemi-conflitti-personali",
+      "term": "personal problems or conflicts",
+      "italian_lemma": "problemi o conflitti personali",
+      "italian_definition": "Condizioni personali del professionista che possono interferire con efficacia, adeguatezza o sicurezza della prestazione.",
+      "localized_explanation": "Personal conditions of the professional who can interfere effectively, adequacy or performance safety.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-giudiziaria",
+      "term": "Judicial authorities",
+      "italian_lemma": "Autorità Giudiziaria",
+      "italian_definition": "Organi che esercitano funzioni giudiziarie secondo l'ordinamento; una loro richiesta non elimina i limiti deontologici e di competenza.",
+      "localized_explanation": "Organs exercising judicial functions according to the order; their request does not eliminate the deontological limits and competence.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-terapeutico",
+      "term": "therapeutic relationship",
+      "italian_lemma": "rapporto terapeutico",
+      "italian_definition": "Relazione professionale continuativa orientata alla cura psicologica del paziente.",
+      "localized_explanation": "Continuative professional report oriented to the patient's psychological care.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ragionevolmente-prevedibile-beneficio",
+      "term": "reasonably predictable",
+      "italian_lemma": "ragionevolmente prevedibile",
+      "italian_definition": "Valutazione prognostica prudente fondata sulle conoscenze e sull'andamento del caso, non certezza matematica.",
+      "localized_explanation": "prudent prediction assessment based on knowledge and the progress of the case, not mathematical certainty.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "commistioni-ruolo-vita-privata",
+      "term": "mixes between the professional role and private life",
+      "italian_lemma": "commistioni tra il ruolo professionale e vita privata",
+      "italian_definition": "Sovrapposizioni fra relazione professionale e sfera personale capaci di interferire con il lavoro o danneggiare l'immagine della professione.",
+      "localized_explanation": "Overlays between professional relationship and personal sphere capable of interfering with work or damaging the image of the profession.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "nocumento",
+      "term": "enlisting nocure",
+      "italian_lemma": "arrecare nocumento",
+      "italian_definition": "Causare danno o pregiudizio.",
+      "localized_explanation": "Cause damage or injury.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "relazioni-significative-personali",
+      "term": "significant personal relationships",
+      "italian_lemma": "relazioni significative di natura personale",
+      "italian_definition": "Legami personali rilevanti, presenti o passati, in particolare affettivi, sentimentali o sessuali, capaci di rendere incompatibili alcuni interventi professionali.",
+      "localized_explanation": "Relevant personal ties, present or past, in particular affective, sentimental or sexual, capable of making incompatible some professional interventions.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "patrimoniale-non-patrimoniale",
+      "term": "assets or non-capital assets",
+      "italian_lemma": "patrimoniale o non patrimoniale",
+      "italian_definition": "Riferito sia a utilità economicamente valutabili sia a benefici non economici, come favori, prestigio, accessi o relazioni.",
+      "localized_explanation": "Referred to both economically viable and non-economic benefits, such as favors, prestige, accesses or relationships.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "supervisione",
+      "term": "supervision",
+      "italian_lemma": "supervisione",
+      "italian_definition": "Relazione professionale in cui un collega più esperto sostiene e valuta la riflessione sul lavoro di un altro professionista.",
+      "localized_explanation": "Vocational report in which a more experienced colleague supports and evaluates the reflection on the work of another professional.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tirocinanti",
+      "term": "Trainers",
+      "italian_lemma": "tirocinanti",
+      "italian_definition": "Persone impegnate in un percorso pratico-formativo supervisionato e non per questo abilitate all'esercizio autonomo.",
+      "localized_explanation": "Persons engaged in a practical-formative supervised path and not for this enabled to exercise autonomous.",
+      "related_articles": [
+        20,
+        21,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "presidi-istituti-luoghi-cura",
+      "term": "Career, Institutes or Care Places",
+      "italian_lemma": "presidi, istituti o luoghi di cura",
+      "italian_definition": "Strutture, servizi o contesti organizzati nei quali vengono erogate attività sanitarie o di cura.",
+      "localized_explanation": "Structures, services or contexts where health or care activities are provided.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fondati-motivi-scientifico-professionali",
+      "term": "founding reasons for a scientific and professional nature",
+      "italian_lemma": "fondati motivi di natura scientifico-professionale",
+      "italian_definition": "Ragioni documentabili di appropriatezza, sicurezza, qualità o necessità tecnica, non convenienza personale o commerciale.",
+      "localized_explanation": "Documentable reasons for appropriateness, safety, quality or technical need, non-personal or commercial convenience.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "corrispettivo",
+      "term": "Competitiveness",
+      "italian_lemma": "corrispettivo",
+      "italian_definition": "Prestazione economica dovuta in cambio di una prestazione professionale reale.",
+      "localized_explanation": "Economic performance due in exchange for real professional performance.",
+      "related_articles": [
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-minorenni",
+      "term": "minors",
+      "italian_lemma": "persone minorenni",
+      "italian_definition": "Persone che non hanno raggiunto la maggiore età; devono essere informate e coinvolte secondo età, maturità e disciplina applicabile.",
+      "localized_explanation": "People who have not reached age; must be informed and involved according to age, maturity and applicable discipline.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "interdette",
+      "term": "interdependent",
+      "italian_lemma": "interdette",
+      "italian_definition": "Termine giuridico tradizionale riferito a persone sottoposte a interdizione; il quadro italiano della capacità e delle misure di protezione è oggi più articolato.",
+      "localized_explanation": "Traditional legal term for persons subject to interdiction; the Italian framework of capacity and protection measures is now more articulated.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-tutoria",
+      "term": "guardianship authority",
+      "italian_lemma": "Autorità Tutoria",
+      "italian_definition": "Formula storica del testo del Codice che rinvia all'autorità competente in materia di tutela nel caso concreto.",
+      "localized_explanation": "Historical formula of the text of the Code which refers to the competent authority in the matter of protection in the concrete case.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-legalmente-competente",
+      "term": "legal authority competent",
+      "italian_lemma": "autorità legalmente competente",
+      "italian_definition": "Autorità cui una norma attribuisce il potere di disporre quella specifica prestazione o decisione.",
+      "localized_explanation": "Authority to which a rule confers the power to place that specific performance or decision.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strutture-legislativamente-preposte",
+      "term": "legislative structures",
+      "italian_lemma": "strutture legislativamente preposte",
+      "italian_definition": "Servizi o strutture cui la legge attribuisce espressamente la funzione di erogare o disporre determinate prestazioni.",
+      "localized_explanation": "Services or facilities to which the law expressly attributes the function of providing or providing certain services.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "parti-in-causa",
+      "term": "parts in cause",
+      "italian_lemma": "parti in causa",
+      "italian_definition": "Tutti i soggetti concretamente coinvolti nel mandato e nella prestazione, non necessariamente soltanto parti di un processo giudiziario.",
+      "localized_explanation": "All individuals involved in the mandate and performance, not necessarily only parts of a judicial process.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "natura-finalita-intervento",
+      "term": "nature and purpose of the intervention",
+      "italian_lemma": "natura e finalità dell'intervento",
+      "italian_definition": "Che tipo di attività verrà svolta e per quale scopo, inclusi il ruolo dello psicologo e l'uso previsto dei risultati.",
+      "localized_explanation": "What kind of activity will be carried out and for what purpose, including the role of the psychologist and the expected use of the results.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "colleganza",
+      "term": "Community law",
+      "italian_lemma": "colleganza",
+      "italian_definition": "Solidarietà professionale leale e rispettosa fra colleghi, compatibile con il dissenso e con il dovere di segnalare condotte scorrette.",
+      "localized_explanation": "The Commission is proposing a new directive on the protection of the environment, which is a very important step in the direction of the European Union.",
+      "related_articles": [
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "comunita-professionale",
+      "term": "professional community",
+      "italian_lemma": "comunità professionale",
+      "italian_definition": "Insieme dei professionisti, organismi e contesti scientifici che partecipano allo sviluppo e alla regolazione della disciplina.",
+      "localized_explanation": "Together with professionals, bodies and scientific contexts participating in the development and regulation of discipline.",
+      "related_articles": [
+        34
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fonte-altrui-contributi",
+      "term": "source of other contributions",
+      "italian_lemma": "fonte degli altrui contributi",
+      "italian_definition": "Origine riconoscibile di idee, dati, testi, metodi o lavoro forniti da altre persone e utilizzati nella ricerca presentata.",
+      "localized_explanation": "Recognizable origin of ideas, data, texts, methods or work provided by other people and used in the research submitted.",
+      "related_articles": [
+        35
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "sottrarre-clientela",
+      "term": "subtract customers",
+      "italian_lemma": "sottrarre clientela",
+      "italian_definition": "Attirare verso di sé clienti o pazienti di un collega mediante giudizi pubblici negativi o lesivi sul collega stesso.",
+      "localized_explanation": "Draw customers or patients of a colleague to himself by negative or harmful public judgments on his colleague.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tempestiva-comunicazione",
+      "term": "prompt communication",
+      "italian_lemma": "tempestiva comunicazione",
+      "italian_definition": "Segnalazione effettuata senza ritardo ingiustificato, con fatti e informazioni necessari, al Consiglio dell'Ordine competente.",
+      "localized_explanation": "Report made without unjustified delay, with necessary facts and information, to the Council of the competent Order.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consiglio-ordine-competente",
+      "term": "Council of the competent Order",
+      "italian_lemma": "Consiglio dell'Ordine competente",
+      "italian_definition": "Organo territoriale dell'Ordine individuato dalle regole di competenza applicabili al caso.",
+      "localized_explanation": "Territorial order of the Order identified by the rules of jurisdiction applicable to the case.",
+      "related_articles": [
+        36,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "mandato-professionale",
+      "term": "professional mandate",
+      "italian_lemma": "mandato professionale",
+      "italian_definition": "Incarico affidato allo psicologo con uno scopo, un ruolo, limiti e responsabilità definiti.",
+      "localized_explanation": "Incarious entrusted to the psychologist with a purpose, a role, limits and responsibilities defined.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consulenza-invio",
+      "term": "advice or sending",
+      "italian_lemma": "consulenza ovvero l'invio",
+      "italian_definition": "Ricorso al contributo di un'altra competenza oppure orientamento della persona verso un collega o altro professionista più adatto.",
+      "localized_explanation": "Recourse to the contribution of another competence or orientation of the person towards a suitable colleague or other professional.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rappresenta-pubblicamente-professione",
+      "term": "publicly represents the profession",
+      "italian_lemma": "rappresenta pubblicamente la professione",
+      "italian_definition": "Si presenta o interviene davanti al pubblico in modo riconoscibile come psicologo o portatore di una voce professionale.",
+      "localized_explanation": "It presents itself or intervenes in front of the public in a recognizable way as a psychologist or bearer of a professional voice.",
+      "related_articles": [
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-esperienza-competenza",
+      "term": "training, experience and expertise",
+      "italian_lemma": "formazione, esperienza e competenza",
+      "italian_definition": "Tre dimensioni distinte della presentazione professionale: percorso formativo, pratica maturata e capacità effettiva di svolgere un compito.",
+      "localized_explanation": "Three distinct dimensions of the professional presentation: training course, mature practice and effective ability to perform a task.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "libero-consapevole-giudizio",
+      "term": "free and conscious",
+      "italian_lemma": "libero e consapevole",
+      "italian_definition": "Capace di formarsi senza coercizioni o manipolazioni e sulla base di informazioni sufficienti a comprendere le alternative.",
+      "localized_explanation": "It is a responsibility to form without coercion or manipulation and on the basis of sufficient information to understand alternatives.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "procacciamento-clientela",
+      "term": "improper solicitation of clients",
+      "italian_lemma": "procacciamento della clientela",
+      "italian_definition": "Acquisizione di clienti mediante condotte promozionali; nell'art. 40 rileva quando perseguita con comportamenti pubblici scorretti.",
+      "localized_explanation": "Acquisition of customers by means of promotional conduct; in art. 40 detects when persecuted with incorrect public behaviour.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pubblicita-informativa",
+      "term": "informational advertising",
+      "italian_lemma": "pubblicità informativa",
+      "italian_definition": "Comunicazione promozionale ammessa per informare su titoli, specializzazioni, servizi e costi nel rispetto delle condizioni deontologiche e legali.",
+      "localized_explanation": "Admission to inform about titles, specializations, services and costs in compliance with the deontological and legal conditions.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "trasparenza-veridicita",
+      "term": "transparency and truthfulness",
+      "italian_lemma": "trasparenza e veridicità",
+      "italian_definition": "Requisiti per cui il messaggio è comprensibile e completo negli elementi rilevanti e non contiene affermazioni false o fuorvianti.",
+      "localized_explanation": "Requirements for which the message is understandable and complete in the relevant elements and does not contain false or misleading statements.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "serieta-scientifica",
+      "term": "scientific seriousness",
+      "italian_lemma": "serietà scientifica",
+      "italian_definition": "Coerenza del messaggio con prove, limiti e linguaggio responsabile propri della conoscenza scientifica disponibile.",
+      "localized_explanation": "Consistency of the message with evidence, limits and responsible language of scientific knowledge available.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "osservatorio-permanente",
+      "term": "Permanent Observatory on the Deontological Code",
+      "italian_lemma": "Osservatorio permanente sul Codice Deontologico",
+      "italian_definition": "Organismo istituito presso la Commissione Deontologia del CNOP per raccogliere materiali, monitorare criticità e contribuire a indirizzi e proposte di revisione.",
+      "localized_explanation": "The organization established by the CNOP Deontology Commission to collect materials, monitor criticality and contribute to the addresses and proposals for revision.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "giurisprudenza-deontologica",
+      "term": "jurisprudence in deontological matters",
+      "italian_lemma": "giurisprudenza in materia deontologica",
+      "italian_definition": "Insieme delle decisioni e degli orientamenti formati nei procedimenti disciplinari; le decisioni territoriali non sono automaticamente precedenti nazionali vincolanti.",
+      "localized_explanation": "The Commission has also adopted a proposal for a directive on the protection of workers from the risks of exposure to dangerous substances. territorial decisions are not automatically binding national precedents.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "revisione-periodica",
+      "term": "Periodic revision of the Code of Deontology",
+      "italian_lemma": "revisione periodica del Codice Deontologico",
+      "italian_definition": "Procedimento istituzionale di aggiornamento del testo del Codice secondo competenze e modalità previste dalla legge.",
+      "localized_explanation": "Institutional procedure for updating the text of the Code according to the legal competences and procedures.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "referendum-approvazione",
+      "term": "referendum on approval",
+      "italian_lemma": "referendum di approvazione",
+      "italian_definition": "Votazione degli iscritti prevista dalla legge per approvare il Codice predisposto o aggiornato dal CNOP.",
+      "localized_explanation": "Vote for the members provided for by law to approve the Code provided or updated by the CNOP.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "proclamazione-risultati",
+      "term": "Proclamation of results",
+      "italian_lemma": "proclamazione dei risultati",
+      "italian_definition": "Atto ufficiale con cui vengono dichiarati i risultati del referendum e dal quale l'art. 42 fa decorrere il termine per l'entrata in vigore.",
+      "localized_explanation": "Official act with which the results of the referendum are declared and from which art. 42 shall take effect the time limit for entry into force.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "entrata-in-vigore",
+      "term": "enter into force",
+      "italian_lemma": "entra in vigore",
+      "italian_definition": "Momento dal quale il testo acquista efficacia vincolante secondo la regola temporale applicabile.",
+      "localized_explanation": "The time from which the text acquires binding effectiveness according to the applicable time rule.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "language": "es",
+  "articles": [
+    {
+      "number": 15,
+      "localized": {
+        "editorial_title": "Colaboración y minimización de la información",
+        "article_text": "Cuando colabora con otras personas igualmente obligadas al secreto profesional, el psicólogo solo puede compartir la información estrictamente necesaria para el tipo de colaboración de que se trate.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La colaboración no autoriza a compartir todo: solo circula la información imprescindible para la tarea común.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "secreto profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "estrictamente necesaria", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "localized": {
+        "editorial_title": "Comunicaciones científicas y anonimato",
+        "article_text": "El psicólogo redacta las comunicaciones científicas, incluso cuando se dirigen a profesionales obligados al secreto profesional, de modo que en todo caso se preserve el anonimato del destinatario de la prestación.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El contexto científico no elimina la confidencialidad: casos y datos deben presentarse sin permitir la identificación.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "secreto profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "anonimato", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "destinatario de la prestación", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "localized": {
+        "editorial_title": "Custodia de documentación y continuidad de la protección",
+        "article_text": "La confidencialidad de las comunicaciones también se protege mediante la custodia y el control de apuntes, notas, escritos o grabaciones de cualquier tipo y formato relativos a la relación profesional. Esta documentación profesional se conserva durante al menos cinco años desde la finalización de la relación, sin perjuicio de normas específicas. El psicólogo dispone que, en caso de fallecimiento o impedimento, la protección quede a cargo de un colega o del Colegio profesional. Quien colabora en la creación y uso de sistemas documentales procura establecer garantías para las personas interesadas.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La confidencialidad exige seguridad documental durante el servicio, después de él y también ante la muerte o incapacidad del profesional.",
+        "glossary_annotations": [
+          {"glossary_id": "custodia-controllo", "surface": "custodia y el control", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-professionale", "surface": "documentación profesional", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "localized": {
+        "editorial_title": "Libertad de elección del profesional",
+        "article_text": "En todo contexto profesional, el psicólogo procura que se respete en la mayor medida posible la libertad de elección del cliente o paciente respecto del profesional al que desea acudir.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La persona debe poder elegir a su profesional sin presiones indebidas ni obstáculos evitables.",
+        "glossary_annotations": [
+          {"glossary_id": "liberta-di-scelta", "surface": "libertad de elección", "match_method": "human_authored_exact"},
+          {"glossary_id": "cliente", "surface": "cliente", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "paciente", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "localized": {
+        "editorial_title": "Selección y evaluación basadas en criterios pertinentes",
+        "article_text": "El psicólogo que ejerce en contextos de selección y evaluación se atiene exclusivamente a criterios de competencia, cualificación o preparación específicos y no avala decisiones contrarias a estos principios.",
+        "article_text_status": "editorial_translation",
+        "core_message": "En selección y evaluación solo cuentan criterios profesionalmente pertinentes; el psicólogo no legitima decisiones ajenas a ellos.",
+        "glossary_annotations": [
+          {"glossary_id": "qualificazione-preparazione", "surface": "cualificación o preparación", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "avala", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "localized": {
+        "editorial_title": "Enseñanza de los principios deontológicos",
+        "article_text": "En su actividad docente y formativa, el psicólogo fomenta en estudiantes, alumnos y personas en prácticas el interés por los principios deontológicos, inspirando también en ellos su propia conducta profesional.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La deontología se enseña tanto explicando sus principios como aplicándolos de forma coherente ante quienes se forman.",
+        "glossary_annotations": [
+          {"glossary_id": "tirocinanti", "surface": "personas en prácticas", "match_method": "human_authored_exact"},
+          {"glossary_id": "principi-deontologici", "surface": "principios deontológicos", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 21,
+      "localized": {
+        "editorial_title": "Instrumentos reservados y formación de personas ajenas a la profesión",
+        "article_text": "Enseñar el uso de instrumentos y técnicas de conocimiento e intervención reservados a la profesión de psicólogo a personas ajenas a la profesión constituye una infracción deontológica grave. Es circunstancia agravante avalar, mediante la propia actividad profesional, prácticas engañosas o abusivas, contribuyendo a atribuir cualificaciones o certificados o induciendo a creer que se está autorizado para ejercer actividades características del psicólogo. Son propios de la profesión todos los instrumentos y técnicas de conocimiento e intervención relativos a procesos psíquicos —relacionales, emocionales, cognitivos y conductuales— basados en principios, conocimientos, modelos o constructos psicológicos. Se permite su enseñanza a estudiantes universitarios de Psicología y a personas en prácticas, así como la enseñanza general de conocimientos psicológicos.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Puede divulgarse conocimiento psicológico, pero no habilitar a personas ajenas a la profesión para utilizar herramientas profesionales reservadas.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-riservati", "surface": "instrumentos y técnicas de conocimiento e intervención reservados", "match_method": "human_authored_exact"},
+          {"glossary_id": "persone-estranee-professione", "surface": "personas ajenas a la profesión", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "circunstancia agravante", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "avalar", "match_method": "human_authored_exact"},
+          {"glossary_id": "qualifiche-attestati", "surface": "cualificaciones o certificados", "match_method": "human_authored_exact"},
+          {"glossary_id": "processi-psichici", "surface": "procesos psíquicos", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "personas en prácticas", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 22,
+      "localized": {
+        "editorial_title": "No causar daño ni obtener ventajas indebidas",
+        "article_text": "El psicólogo adopta conductas no lesivas para las personas a las que atiende profesionalmente y no utiliza su función ni sus instrumentos profesionales para obtener, para sí o para otras personas, ventajas indebidas.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El poder profesional debe emplearse para la finalidad del servicio, nunca para perjudicar ni para obtener beneficios improcedentes.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "conductas no lesivas", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "ventajas indebidas", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 23,
+      "localized": {
+        "editorial_title": "Honorarios profesionales",
+        "article_text": "El psicólogo acuerda al inicio de la relación todo lo relativo a los honorarios profesionales. Su cuantía debe ser adecuada a la importancia del trabajo. En el ámbito clínico, los honorarios no pueden quedar condicionados al desenlace ni a los resultados de la intervención profesional.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Los honorarios se aclaran al principio, son proporcionados al trabajo y, en clínica, nunca dependen del resultado.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "honorarios profesionales", "match_method": "human_authored_exact"},
+          {"glossary_id": "importanza-opera", "surface": "importancia del trabajo", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-condizionato-esito", "surface": "honorarios no pueden quedar condicionados al desenlace", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 24,
+      "localized": {
+        "editorial_title": "Información inicial y consentimiento informado",
+        "article_text": "Al inicio de la relación profesional, el psicólogo proporciona a la persona, grupo, institución o comunidad, sean usuarios o comitentes, información adecuada y comprensible sobre las prestaciones, sus fines y modalidades, así como sobre el alcance y los límites jurídicos de la confidencialidad. Actúa de manera que quien tenga derecho pueda expresar un consentimiento informado. Si la prestación se prolonga en el tiempo, indica, cuando sea posible, su duración previsible.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El consentimiento requiere información comprensible sobre qué se hará, para qué, cómo, con qué límites de confidencialidad y durante cuánto tiempo previsiblemente.",
+        "glossary_annotations": [
+          {"glossary_id": "utente", "surface": "usuarios", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "comitentes", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-giuridici-riservatezza", "surface": "límites jurídicos de la confidencialidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "chi-ne-ha-diritto", "surface": "quien tenga derecho", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-informato", "surface": "consentimiento informado", "match_method": "human_authored_exact"},
+          {"glossary_id": "prevedibile-durata", "surface": "duración previsible", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 25,
+      "localized": {
+        "editorial_title": "Uso de instrumentos y comunicación de resultados",
+        "article_text": "El psicólogo no utiliza indebidamente los instrumentos de diagnóstico y evaluación de los que dispone. En intervenciones encargadas por terceros, informa a las personas sobre la naturaleza de su intervención profesional y no utiliza, salvo dentro de los límites del encargo recibido, información que pueda causarles perjuicio. Al comunicar los resultados de sus intervenciones diagnósticas y evaluativas, regula la comunicación atendiendo también a la protección psicológica de las personas.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Instrumentos, datos y resultados solo se usan para la finalidad legítima del encargo y se comunican sin causar perjuicios evitables.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-diagnosi-valutazione", "surface": "instrumentos de diagnóstico y evaluación", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-del-mandato", "surface": "límites del encargo recibido", "match_method": "human_authored_exact"},
+          {"glossary_id": "pregiudizio", "surface": "perjuicio", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "protección psicológica", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 26,
+      "localized": {
+        "editorial_title": "Abstención por interferencias personales o relaciones previas",
+        "article_text": "El psicólogo se abstiene de iniciar o continuar cualquier actividad profesional cuando sus propios problemas o conflictos personales interfieran con la eficacia de la prestación y la vuelvan inadecuada o perjudicial para sus destinatarios. También evita asumir funciones profesionales o intervenir respecto de usuarios, incluso a petición de la autoridad judicial, cuando la naturaleza de relaciones previas pueda comprometer su credibilidad y eficacia.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Si un problema personal o una relación previa compromete la eficacia, credibilidad o seguridad de la intervención, hay que abstenerse.",
+        "glossary_annotations": [
+          {"glossary_id": "astensione-professionale", "surface": "se abstiene", "match_method": "human_authored_exact"},
+          {"glossary_id": "problemi-conflitti-personali", "surface": "problemas o conflictos personales", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-giudiziaria", "surface": "autoridad judicial", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 27,
+      "localized": {
+        "editorial_title": "Interrupción de una terapia sin beneficio",
+        "article_text": "El psicólogo valora y, en su caso, propone interrumpir la relación terapéutica cuando constata que el paciente no obtiene beneficio del tratamiento y no es razonablemente previsible que vaya a obtenerlo continuándolo. Si se le solicita, facilita al paciente la información necesaria para buscar otras intervenciones más adecuadas.",
+        "article_text_status": "editorial_translation",
+        "core_message": "No debe prolongarse una terapia sin beneficio razonablemente previsible; la salida incluye orientar hacia alternativas adecuadas.",
+        "glossary_annotations": [
+          {"glossary_id": "rapporto-terapeutico", "surface": "relación terapéutica", "match_method": "human_authored_exact"},
+          {"glossary_id": "ragionevolmente-prevedibile-beneficio", "surface": "razonablemente previsible", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "paciente", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 28,
+      "localized": {
+        "editorial_title": "Límites entre función profesional y vida privada",
+        "article_text": "El psicólogo evita mezclas entre la función profesional y la vida privada que puedan interferir con su actividad o perjudicar la imagen social de la profesión. Constituye una infracción deontológica grave realizar intervenciones diagnósticas, de apoyo psicológico o psicoterapia con personas con quienes haya mantenido o mantenga relaciones personales significativas, especialmente afectivas, sentimentales o sexuales; también lo es iniciar dichas relaciones durante la relación profesional. Se prohíbe cualquier actividad que, aprovechando la relación profesional, pueda producirle ventajas indebidas directas o indirectas, patrimoniales o no patrimoniales, salvo los honorarios profesionales acordados. Tampoco explota su posición frente a colegas bajo supervisión ni frente a personas en prácticas para fines ajenos a la relación profesional.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Las relaciones significativas y la obtención de ventajas personales son incompatibles con los límites y la asimetría de la función profesional.",
+        "glossary_annotations": [
+          {"glossary_id": "commistioni-ruolo-vita-privata", "surface": "mezclas entre la función profesional y la vida privada", "match_method": "human_authored_exact"},
+          {"glossary_id": "nocumento", "surface": "perjudicar", "match_method": "human_authored_exact"},
+          {"glossary_id": "relazioni-significative-personali", "surface": "relaciones personales significativas", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "ventajas indebidas", "match_method": "human_authored_exact"},
+          {"glossary_id": "patrimoniale-non-patrimoniale", "surface": "patrimoniales o no patrimoniales", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-professionale", "surface": "honorarios profesionales", "match_method": "human_authored_exact"},
+          {"glossary_id": "supervisione", "surface": "supervisión", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "personas en prácticas", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

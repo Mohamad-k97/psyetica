@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "PsyEtica — Codice Deontologico",
+  "short_name": "PsyEtica",
+  "description": "Studia il Codice Deontologico degli Psicologi Italiani, articolo per articolo, anche offline.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#F4F8F7",
+  "theme_color": "#176B68",
+  "categories": ["education", "reference", "medical"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

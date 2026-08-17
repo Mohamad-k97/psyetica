@@ -1,0 +1,94 @@
+{
+  "language": "en",
+  "articles": [
+    {
+      "number": 37,
+      "localized": {
+        "editorial_title": "Accepting instructions within the limits of competence",
+        "article_text": "The psychologist accepts a professional instruction only within the limits of their competence. Where the interests of the commissioning party and/or the recipient of the service require other specific expertise, the psychologist proposes consultation with, or referral to, another psychologist or other professional.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists accept only work that they can perform competently; where additional expertise is needed, they propose consultation or referral to another psychologist or professional.",
+        "glossary_annotations": [
+          {"glossary_id": "mandato-professionale", "surface": "professional instruction", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "competence", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "commissioning party", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "recipient of the service", "match_method": "human_authored_exact"},
+          {"glossary_id": "consulenza-invio", "surface": "consultation with, or referral to", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 38,
+      "localized": {
+        "editorial_title": "Professional propriety and dignity",
+        "article_text": "When carrying out professional activities and whenever publicly representing the profession in any capacity, the psychologist must ensure that their conduct conforms to the principles of professional propriety and professional dignity.",
+        "article_text_status": "editorial_translation",
+        "core_message": "When practising or publicly representing the profession, psychologists maintain conduct consistent with professional propriety and dignity, assessed in context and by its effect on public trust.",
+        "glossary_annotations": [
+          {"glossary_id": "rappresenta-pubblicamente-professione", "surface": "publicly representing the profession", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "professional propriety", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "professional dignity", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 39,
+      "localized": {
+        "editorial_title": "Accurate professional presentation and free public choice",
+        "article_text": "The psychologist presents their training, experience and competence accurately and correctly. The psychologist recognises a duty to help members of the public and service users develop their judgements, opinions and choices freely and on an informed basis.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists describe their training, experience and competence accurately and communicate in ways that support, rather than manipulate, the free and informed judgement of the public and service users.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-esperienza-competenza", "surface": "training, experience and competence", "match_method": "human_authored_exact"},
+          {"glossary_id": "libero-consapevole-giudizio", "surface": "freely and on an informed basis", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "service users", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 40,
+      "localized": {
+        "editorial_title": "Transparent, truthful and scientifically responsible advertising",
+        "article_text": "Irrespective of the limits imposed by the legislation in force on advertising, the psychologist does not engage in improper public conduct aimed at soliciting clients. Informational advertising may in all cases be provided about professional titles and specialisms, the characteristics of the service offered, and the price and total cost of services, provided that the message meets standards of transparency and truthfulness, compliance with which is monitored by the competent Councils of the Order. The message must respect professional propriety, meet standards of scientific responsibility and protect the standing of the profession. An advertised message that lacks transparency and truthfulness constitutes professional misconduct.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Professional advertising is permitted, but improper client solicitation is not: titles, services and costs must be transparent and truthful and presented with professional propriety and scientific responsibility.",
+        "glossary_annotations": [
+          {"glossary_id": "procacciamento-clientela", "surface": "soliciting clients", "match_method": "human_authored_exact"},
+          {"glossary_id": "pubblicita-informativa", "surface": "Informational advertising", "match_method": "human_authored_exact"},
+          {"glossary_id": "trasparenza-veridicita", "surface": "transparency and truthfulness", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "competent Councils of the Order", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "professional propriety", "match_method": "human_authored_exact"},
+          {"glossary_id": "serieta-scientifica", "surface": "scientific responsibility", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 41,
+      "localized": {
+        "editorial_title": "Permanent Observatory and revision of the Code",
+        "article_text": "A ‘Permanent Observatory on the Code of Professional Conduct’ is established within the Order of Psychologists’ Ethics Committee and is governed by a specific measure adopted by the National Council of the Order. Its task is to collect the regional and provincial Councils’ body of decisions on professional ethics, together with any other material useful to the Committee when making proposals to the National Council of the Order, including proposals for periodic revision of the Code of Professional Conduct. Any such revision must follow the procedure laid down in Law no. 56 of 18 February 1989.",
+        "article_text_status": "editorial_translation",
+        "core_message": "The Observatory collects decisions and other material to support interpretation and proposals for revision; amendments to the Code must follow the statutory procedure.",
+        "glossary_annotations": [
+          {"glossary_id": "osservatorio-permanente", "surface": "Permanent Observatory on the Code of Professional Conduct", "match_method": "human_authored_exact"},
+          {"glossary_id": "giurisprudenza-deontologica", "surface": "body of decisions on professional ethics", "match_method": "human_authored_exact"},
+          {"glossary_id": "revisione-periodica", "surface": "periodic revision of the Code of Professional Conduct", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 42,
+      "localized": {
+        "editorial_title": "Entry into force following the approval referendum",
+        "article_text": "This Code of Professional Conduct enters into force on the thirtieth day after the declaration of the results of the approval referendum, pursuant to Article 28(6)(c) of Law no. 56 of 18 February 1989.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Once approved, the Code enters into force on the thirtieth day after the referendum results are declared, under the authority conferred on the CNOP by Law no. 56/1989.",
+        "glossary_annotations": [
+          {"glossary_id": "entrata-in-vigore", "surface": "enters into force", "match_method": "human_authored_exact"},
+          {"glossary_id": "proclamazione-risultati", "surface": "declaration of the results", "match_method": "human_authored_exact"},
+          {"glossary_id": "referendum-approvazione", "surface": "approval referendum", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

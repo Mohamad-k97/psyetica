@@ -1,0 +1,755 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Schede didattiche italiane - Articoli 1-8",
+  "language": "it",
+  "code_version": {
+    "status": "vigente",
+    "effective_from": "2024-12-24",
+    "official_source_id": "cnop-codice-vigente",
+    "checked_on": "2026-08-13"
+  },
+  "editorial_status": "draft_needs_deontological_legal_review",
+  "notices": [
+    "I titoli, le unità di significato, i commenti, gli esempi e le flashcard sono redazionali e non fanno parte del testo ufficiale.",
+    "Il contenuto è didattico e non sostituisce il parere dell'Ordine competente o una consulenza legale sul caso concreto.",
+    "Gli esempi ipotetici non permettono di concludere automaticamente che una condotta reale costituisca illecito: servono fatti provati, contestazione e procedimento.",
+    "Le decisioni territoriali citate riguardano casi specifici e, quando indicato, non è nota l'eventuale impugnazione successiva."
+  ],
+  "source_catalog": [
+    {
+      "id": "cnop-codice-vigente",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Testo vigente del Codice Deontologico degli psicologi italiani",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/",
+      "kind": "testo_ufficiale"
+    },
+    {
+      "id": "legge-56-1989",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Legge 18 febbraio 1989, n. 56 - Ordinamento della professione di psicologo",
+      "url": "https://www.normattiva.it/eli/stato/LEGGE/1989/02/18/56/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "dpr-137-2012",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "D.P.R. 7 agosto 2012, n. 137 - Riforma degli ordinamenti professionali",
+      "url": "https://www.normattiva.it/eli/id/2012/08/14/012G0159/CONSOLIDATED/",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "cnop-formazione-ecm",
+      "authority": "Consiglio Nazionale dell'Ordine degli Psicologi",
+      "title": "Formazione ECM",
+      "url": "https://www.psy.it/formazione-continua/formazione-ecm/",
+      "kind": "informazione_istituzionale_dinamica"
+    },
+    {
+      "id": "cp-art-348",
+      "authority": "Repubblica Italiana - Normattiva",
+      "title": "Codice penale, art. 348 - Esercizio abusivo di una professione",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art348!vig=",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "gdpr",
+      "authority": "Unione europea",
+      "title": "Regolamento (UE) 2016/679",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "kind": "fonte_normativa"
+    },
+    {
+      "id": "fvg-100-domande",
+      "authority": "Ordine degli Psicologi del Friuli Venezia Giulia",
+      "title": "100 domande e 100 risposte sul Codice Deontologico degli Psicologi",
+      "year": 2018,
+      "local_file": "research/sources/ordine-fvg-100-domande-100-risposte-2018.pdf",
+      "kind": "commento_istituzionale_non_autentico"
+    },
+    {
+      "id": "veneto-questioni-aperte",
+      "authority": "Ordine delle Psicologhe e degli Psicologi del Veneto",
+      "title": "Questioni aperte su un Codice che non c'è",
+      "year": 2024,
+      "local_file": "research/sources/ordine-veneto-questioni-aperte-deontologia-2024.pdf",
+      "kind": "contributo_istituzionale",
+      "compatibility_note": "Alcuni contributi discutono la versione 2023 poi annullata; sono utilizzabili solo per principi o passaggi compatibili con il testo oggi vigente."
+    },
+    {
+      "id": "oper-delibere-2009",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Delibere di sanzione disciplinare pubblicate nel 2009",
+      "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+      "kind": "decisioni_ordinistiche_anonimizzate"
+    },
+    {
+      "id": "oper-delibere-2008",
+      "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+      "title": "Estratti di delibere di sanzione disciplinare pubblicati nel 2008",
+      "local_file": "research/sources/ordine-er-delibere-disciplinari-2008.pdf",
+      "kind": "decisioni_ordinistiche_anonimizzate"
+    },
+    {
+      "id": "aip-codice-ricerca-2022",
+      "authority": "Associazione Italiana di Psicologia",
+      "title": "Codice etico per la ricerca in psicologia",
+      "year": 2022,
+      "local_file": "research/sources/aip-codice-etico-ricerca-2022.pdf",
+      "kind": "codice_etico_integrativo_non_cnop"
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Vincolatività e applicazione del Codice",
+      "title_is_official": false,
+      "official_text": "Le regole del presente Codice Deontologico sono vincolanti per tutti gli iscritti all’Albo degli psicologi. Lo psicologo è tenuto alla loro conoscenza e l’ignoranza delle medesime non esime dalla responsabilità disciplinare. Le stesse regole si applicano anche nei casi in cui le prestazioni, o parti di esse, vengano effettuate a distanza, via Internet o con qualunque altro mezzo elettronico e/o telematico.",
+      "core_message": "L'iscrizione all'Albo comporta l'obbligo di conoscere e rispettare il Codice in ogni modalità di esercizio, anche online.",
+      "meaning_units": [
+        {
+          "id": "1-u1",
+          "official_fragment": "Le regole del presente Codice Deontologico sono vincolanti per tutti gli iscritti all’Albo degli psicologi.",
+          "label": "Chi è vincolato",
+          "comment_it": "Il Codice non è un insieme facoltativo di raccomandazioni: obbliga chiunque sia iscritto all'Albo. La sua autorità deriva dall'ordinamento professionale e si aggiunge alle leggi generali applicabili alla prestazione."
+        },
+        {
+          "id": "1-u2",
+          "official_fragment": "Lo psicologo è tenuto alla loro conoscenza",
+          "label": "Dovere di conoscenza",
+          "comment_it": "La conoscenza del Codice è una competenza professionale di base. Va mantenuta aggiornata perché testo, norme collegate e prassi procedurali possono cambiare."
+        },
+        {
+          "id": "1-u3",
+          "official_fragment": "e l’ignoranza delle medesime non esime dalla responsabilità disciplinare.",
+          "label": "L'ignoranza non scusa",
+          "comment_it": "Non basta dichiarare di non conoscere una regola per escludere la responsabilità. Resta comunque necessario accertare il fatto contestato e rispettare le garanzie del procedimento disciplinare."
+        },
+        {
+          "id": "1-u4",
+          "official_fragment": "Le stesse regole si applicano anche nei casi in cui le prestazioni, o parti di esse, vengano effettuate a distanza, via Internet o con qualunque altro mezzo elettronico e/o telematico.",
+          "label": "Prestazioni a distanza",
+          "comment_it": "Videochiamate, piattaforme, e-mail, chat e strumenti digitali non creano una zona franca. Competenza, consenso, riservatezza, qualità della relazione e corretta gestione dei dati devono essere ripensati per il mezzo usato, ma non vengono meno."
+        }
+      ],
+      "in_practice": [
+        "Controllare la versione vigente del Codice e delle norme richiamate.",
+        "Applicare gli stessi principi professionali alle prestazioni interamente o parzialmente online.",
+        "Valutare i rischi specifici del canale digitale, inclusi identità, riservatezza, emergenze e continuità del servizio."
+      ],
+      "frequent_mistakes": [
+        "Pensare che il Codice riguardi soltanto l'attività clinica in presenza.",
+        "Usare procedure digitali senza adattare informazione, sicurezza e gestione delle emergenze.",
+        "Confondere l'assenza di conoscenza con l'assenza di responsabilità."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Una psicologa avvia colloqui tramite un account social personale, senza verificare l'identità del destinatario, senza spiegare i limiti del canale e sostenendo che il Codice non disciplina le chat.",
+        "analysis": "L'art. 1 rende il Codice applicabile anche a distanza. La valutazione completa richiederebbe poi gli articoli specifici su informazione, segreto, custodia e competenza.",
+        "possible_related_articles": [5, 11, 17, 24]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, art. 28, comma 6, lettera c)",
+          "relevance": "Attribuisce al Consiglio nazionale il compito di predisporre il Codice, vincolante per tutti gli iscritti.",
+          "source_id": "legge-56-1989"
+        }
+      ],
+      "flashcards": [
+        {"id": "1-f1", "type": "richiamo", "front": "Chi è vincolato dal Codice Deontologico?", "back": "Tutti gli iscritti all'Albo degli psicologi.", "official_anchor": "vincolanti per tutti gli iscritti all’Albo"},
+        {"id": "1-f2", "type": "scenario", "front": "Una prestazione svolta soltanto in videochiamata è fuori dal Codice?", "back": "No. L'art. 1 estende espressamente le stesse regole alle prestazioni a distanza e telematiche.", "official_anchor": "Le stesse regole si applicano anche ... a distanza"},
+        {"id": "1-f3", "type": "discriminazione", "front": "Non conoscere una regola elimina la responsabilità disciplinare?", "back": "No. L'ignoranza non esime; il fatto e la responsabilità devono comunque essere accertati nel procedimento.", "official_anchor": "l’ignoranza ... non esime"},
+        {"id": "1-f4", "type": "collegamento", "front": "Quale articolo completa il dovere di conoscere il Codice con il dovere di aggiornare la competenza?", "back": "L'art. 5, dedicato a preparazione, formazione continua e limiti di competenza.", "official_anchor": "è tenuto alla loro conoscenza"}
+      ],
+      "tags": ["principi", "albo", "responsabilità", "online", "telepsicologia"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "fvg-100-domande", "veneto-questioni-aperte"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 2,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Illecito e sanzioni disciplinari",
+      "title_is_official": false,
+      "official_text": "L’inosservanza dei precetti stabiliti nel presente Codice deontologico, ed ogni azione od omissione comunque contrarie al decoro, alla dignità ed al corretto esercizio della professione, sono punite secondo quanto previsto dall’art. 26, comma 1°, della Legge 18 febbraio 1989, n. 56, secondo le procedure stabilite dal Regolamento disciplinare.",
+      "core_message": "La responsabilità disciplinare può derivare sia dalla violazione di una regola specifica sia da azioni o omissioni incompatibili con decoro, dignità e corretto esercizio professionale.",
+      "meaning_units": [
+        {
+          "id": "2-u1",
+          "official_fragment": "L’inosservanza dei precetti stabiliti nel presente Codice deontologico",
+          "label": "Violazione di regole specifiche",
+          "comment_it": "Una condotta può essere contestata perché contrasta con uno o più articoli del Codice. La contestazione deve indicare i fatti e permettere all'iscritto di difendersi."
+        },
+        {
+          "id": "2-u2",
+          "official_fragment": "ed ogni azione od omissione comunque contrarie al decoro, alla dignità ed al corretto esercizio della professione",
+          "label": "Clausola generale",
+          "comment_it": "L'articolo comprende anche comportamenti attivi e omissioni che ledono i valori essenziali della professione, pur quando non coincidano in modo perfetto con una regola molto dettagliata. Questa formula ampia non autorizza automatismi: il significato va motivato nel contesto concreto."
+        },
+        {
+          "id": "2-u3",
+          "official_fragment": "sono punite secondo quanto previsto dall’art. 26, comma 1°, della Legge 18 febbraio 1989, n. 56",
+          "label": "Sistema delle sanzioni",
+          "comment_it": "La legge prevede, secondo la gravità del fatto, avvertimento, censura, sospensione dall'esercizio professionale fino a un anno e radiazione. L'art. 2 non associa da solo una sanzione fissa a ciascuna violazione."
+        },
+        {
+          "id": "2-u4",
+          "official_fragment": "secondo le procedure stabilite dal Regolamento disciplinare.",
+          "label": "Necessità del procedimento",
+          "comment_it": "Una segnalazione non equivale a colpevolezza. Occorrono il procedimento applicabile, una contestazione comprensibile, il diritto di difesa, l'accertamento dei fatti e una decisione motivata. I regolamenti possono essere territoriali: va identificato quello competente."
+        }
+      ],
+      "in_practice": [
+        "Considerare sia ciò che si fa sia ciò che si omette di fare.",
+        "Non dedurre la sanzione dal solo numero dell'articolo: contano gravità, fatti accertati e procedimento.",
+        "Distinguere segnalazione, apertura del procedimento, decisione e successiva impugnazione."
+      ],
+      "frequent_mistakes": [
+        "Trattare qualsiasi divergenza professionale come illecito disciplinare.",
+        "Presentare una contestazione come se fosse già una condanna.",
+        "Dimenticare che anche un'omissione può avere rilievo deontologico."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Dopo un conflitto, uno psicologo invia ripetutamente messaggi intimidatori a una persona già seguita, usando informazioni apprese nel rapporto professionale.",
+        "analysis": "La condotta potrebbe coinvolgere la clausola generale dell'art. 2 e, secondo i fatti, le regole su responsabilità, dignità, segreto e non lesività. Solo il procedimento può stabilire violazioni e sanzione.",
+        "possible_related_articles": [3, 4, 11, 22, 38]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-06-2009",
+          "role": "violazione_accertata",
+          "note": "Il Consiglio ritenne provati messaggi minacciosi a un'ex paziente e applicò la sospensione di un mese per gli artt. 2, 3, 4, 22 e 38; non ritenne provate altre condotte contestate. Non è nota l'eventuale impugnazione."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, art. 26",
+          "relevance": "Individua le sanzioni disciplinari e il criterio della gravità del fatto.",
+          "source_id": "legge-56-1989"
+        }
+      ],
+      "flashcards": [
+        {"id": "2-f1", "type": "richiamo", "front": "L'art. 2 riguarda solo la violazione letterale di altri articoli?", "back": "No. Comprende anche azioni e omissioni contrarie a decoro, dignità e corretto esercizio professionale.", "official_anchor": "ogni azione od omissione"},
+        {"id": "2-f2", "type": "scenario", "front": "Una segnalazione all'Ordine prova già l'illecito?", "back": "No. La responsabilità deve essere accertata secondo il regolamento disciplinare e con diritto di difesa.", "official_anchor": "secondo le procedure stabilite"},
+        {"id": "2-f3", "type": "discriminazione", "front": "Quali sono le quattro sanzioni indicate dalla legge professionale?", "back": "Avvertimento, censura, sospensione fino a un anno e radiazione, graduate secondo la gravità.", "official_anchor": "art. 26, comma 1°"},
+        {"id": "2-f4", "type": "collegamento", "front": "Perché un comportamento intimidatorio può richiamare più articoli?", "back": "Perché può ledere insieme corretto esercizio, responsabilità sociale, dignità, non lesività e, talvolta, segreto.", "official_anchor": "decoro, dignità ... corretto esercizio"}
+      ],
+      "tags": ["illecito", "sanzioni", "procedimento", "decoro", "dignità"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "veneto-questioni-aperte", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 3,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Finalità, influenza e responsabilità sociale",
+      "title_is_official": false,
+      "official_text": "Lo psicologo considera suo dovere accrescere le conoscenze sul comportamento umano ed utilizzarle per promuovere il benessere psicologico dell’individuo, del gruppo e della comunità. In ogni ambito professionale opera per migliorare la capacità delle persone di comprendere se stessi e gli altri e di comportarsi in maniera consapevole, congrua ed efficace. Lo psicologo è consapevole della responsabilità sociale derivante dal fatto che, nell’esercizio professionale, può intervenire significativamente nella vita degli altri; pertanto deve prestare particolare attenzione ai fattori personali, sociali, organizzativi, finanziari e politici, al fine di evitare l’uso non appropriato della sua influenza, e non utilizza indebitamente la fiducia e le eventuali situazioni di dipendenza dei committenti e degli utenti destinatari della sua prestazione professionale. Lo psicologo è responsabile dei propri atti professionali e delle loro prevedibili dirette conseguenze.",
+      "core_message": "La conoscenza psicologica va usata per il benessere, senza abusare dell'influenza professionale, della fiducia o della dipendenza.",
+      "meaning_units": [
+        {
+          "id": "3-u1",
+          "official_fragment": "Lo psicologo considera suo dovere accrescere le conoscenze sul comportamento umano",
+          "label": "Crescita della conoscenza",
+          "comment_it": "La professione richiede studio e sviluppo delle conoscenze, non la semplice conservazione di quanto appreso inizialmente. Il principio dialoga con l'obbligo di aggiornamento dell'art. 5."
+        },
+        {
+          "id": "3-u2",
+          "official_fragment": "ed utilizzarle per promuovere il benessere psicologico dell’individuo, del gruppo e della comunità.",
+          "label": "Finalità di benessere",
+          "comment_it": "La competenza è orientata al benessere non soltanto della singola persona, ma anche di gruppi e comunità. Il modo concreto di perseguirlo dipende dal mandato e dal contesto professionale."
+        },
+        {
+          "id": "3-u3",
+          "official_fragment": "In ogni ambito professionale opera per migliorare la capacità delle persone di comprendere se stessi e gli altri e di comportarsi in maniera consapevole, congrua ed efficace.",
+          "label": "Comprensione e consapevolezza",
+          "comment_it": "L'intervento dovrebbe sostenere comprensione, autonomia e capacità di scelta, non creare obbedienza passiva al professionista. La formulazione riguarda ogni ambito, non solo la psicoterapia."
+        },
+        {
+          "id": "3-u4",
+          "official_fragment": "Lo psicologo è consapevole della responsabilità sociale derivante dal fatto che, nell’esercizio professionale, può intervenire significativamente nella vita degli altri;",
+          "label": "Potere professionale",
+          "comment_it": "Valutazioni, diagnosi, relazioni, selezioni e interventi possono modificare opportunità e decisioni importanti. Questa asimmetria richiede prudenza anche quando il professionista ritiene di agire con buone intenzioni."
+        },
+        {
+          "id": "3-u5",
+          "official_fragment": "pertanto deve prestare particolare attenzione ai fattori personali, sociali, organizzativi, finanziari e politici, al fine di evitare l’uso non appropriato della sua influenza,",
+          "label": "Contesto e influenza",
+          "comment_it": "La correttezza tecnica non si valuta nel vuoto. Pressioni dell'organizzazione, interessi economici, gerarchie, vulnerabilità e contesto sociale possono alterare finalità e decisioni; vanno riconosciuti e gestiti."
+        },
+        {
+          "id": "3-u6",
+          "official_fragment": "e non utilizza indebitamente la fiducia e le eventuali situazioni di dipendenza dei committenti e degli utenti destinatari della sua prestazione professionale.",
+          "label": "Divieto di abuso della fiducia",
+          "comment_it": "La fiducia e la dipendenza funzionale non possono essere sfruttate per vantaggi personali, controllo, pressione o scopi estranei al mandato. Committente e destinatario possono essere persone diverse: entrambi entrano nell'analisi della responsabilità."
+        },
+        {
+          "id": "3-u7",
+          "official_fragment": "Lo psicologo è responsabile dei propri atti professionali e delle loro prevedibili dirette conseguenze.",
+          "label": "Responsabilità per atti e conseguenze",
+          "comment_it": "Il professionista deve anticipare le conseguenze dirette ragionevolmente prevedibili delle proprie scelte. Il testo non consente di attribuire automaticamente qualunque evento successivo: prevedibilità, nesso e contesto devono essere valutati sui fatti."
+        }
+      ],
+      "in_practice": [
+        "Chiedersi chi può essere inciso dalla prestazione oltre al committente immediato.",
+        "Rendere visibili pressioni, interessi e asimmetrie che possono alterare il giudizio.",
+        "Prevedere gli effetti diretti ragionevolmente anticipabili di relazioni, comunicazioni e decisioni."
+      ],
+      "frequent_mistakes": [
+        "Usare la fiducia dell'utente per ottenere vantaggi personali o adesione non libera.",
+        "Ridurre la responsabilità alla sola correttezza tecnica dello strumento.",
+        "Confondere il benessere con ciò che il professionista, l'ente o la famiglia desiderano per il destinatario."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Uno psicologo aziendale modifica una valutazione per favorire il candidato indicato dalla direzione, senza dichiarare la pressione ricevuta e sapendo che il documento inciderà sulla carriera di altre persone.",
+        "analysis": "Il caso richiama l'uso dell'influenza, i fattori organizzativi e la responsabilità per conseguenze prevedibili; coinvolgerebbe anche autonomia professionale e attendibilità delle conclusioni.",
+        "possible_related_articles": [6, 7, 19]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-06-2009",
+          "role": "violazione_accertata",
+          "note": "La decisione sui messaggi minacciosi a un'ex paziente ritenne violato anche l'art. 3. La sintesi non estende l'accertamento ad altre condotte che il Consiglio non considerò provate."
+        },
+        {
+          "case_id": "cass-31972-2018",
+          "role": "collegamento_giurisprudenziale",
+          "note": "La Cassazione confermò una sospensione con riferimento, tra gli altri, all'art. 3 in un caso di nuovo incarico di parte dopo un precedente rapporto con la coppia."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, art. 1",
+          "relevance": "Definisce gli ambiti della professione rivolti a persona, gruppo, organismi sociali e comunità.",
+          "source_id": "legge-56-1989"
+        }
+      ],
+      "flashcards": [
+        {"id": "3-f1", "type": "richiamo", "front": "Quali destinatari del benessere menziona l'art. 3?", "back": "Individuo, gruppo e comunità.", "official_anchor": "dell’individuo, del gruppo e della comunità"},
+        {"id": "3-f2", "type": "scenario", "front": "Un committente esercita pressione per cambiare una valutazione. Qual è il primo rischio dell'art. 3?", "back": "L'uso non appropriato dell'influenza dentro un contesto organizzativo e finanziario; vanno valutate anche autonomia e attendibilità.", "official_anchor": "fattori ... organizzativi, finanziari e politici"},
+        {"id": "3-f3", "type": "discriminazione", "front": "L'art. 3 rende lo psicologo responsabile di qualsiasi conseguenza successiva?", "back": "Il testo indica i propri atti professionali e le conseguenze dirette prevedibili; nesso e prevedibilità vanno accertati.", "official_anchor": "prevedibili dirette conseguenze"},
+        {"id": "3-f4", "type": "collegamento", "front": "Quale articolo protegge l'autonomia quando pressioni esterne minacciano il giudizio?", "back": "L'art. 6; l'art. 7 completa il quadro imponendo valutazioni fondate e limiti espliciti.", "official_anchor": "evitare l’uso non appropriato della sua influenza"}
+      ],
+      "tags": ["responsabilità-sociale", "benessere", "influenza", "fiducia", "dipendenza", "committente"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "veneto-questioni-aperte", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 4,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Dignità, autonomia e non discriminazione",
+      "title_is_official": false,
+      "official_text": "Nell’esercizio della professione, lo psicologo rispetta la dignità, il diritto alla riservatezza, all’autodeterminazione ed all’autonomia di coloro che si avvalgono delle sue prestazioni; ne rispetta opinioni e credenze, astenendosi dall’imporre il suo sistema di valori; non opera discriminazioni in base a religione, etnia, nazionalità, estrazione sociale, stato socio-economico, sesso di appartenenza, orientamento sessuale, disabilità. Lo psicologo utilizza metodi e tecniche salvaguardando tali principi, e rifiuta la sua collaborazione ad iniziative lesive degli stessi. Quando sorgono conflitti di interesse tra l’utente e l’istituzione presso cui lo psicologo opera, quest’ultimo deve esplicitare alle parti, con chiarezza, i termini delle proprie responsabilità ed i vincoli cui è professionalmente tenuto.In tutti i casi in cui il destinatario ed il committente dell’intervento di sostegno o di psicoterapia non coincidano, lo psicologo tutela prioritariamente il destinatario dell’intervento stesso.",
+      "core_message": "La persona destinataria non è un mezzo per gli obiettivi del professionista o dell'istituzione: dignità, riservatezza, autonomia, valori e pari trattamento orientano ogni scelta.",
+      "meaning_units": [
+        {
+          "id": "4-u1",
+          "official_fragment": "Nell’esercizio della professione, lo psicologo rispetta la dignità, il diritto alla riservatezza, all’autodeterminazione ed all’autonomia di coloro che si avvalgono delle sue prestazioni;",
+          "label": "Diritti fondamentali della persona",
+          "comment_it": "Dignità, riservatezza, autodeterminazione e autonomia devono orientare il modo in cui si informa, valuta, interviene e comunica. La riservatezza deontologica non coincide interamente con la sola protezione dei dati personali: entrambe possono applicarsi."
+        },
+        {
+          "id": "4-u2",
+          "official_fragment": "ne rispetta opinioni e credenze, astenendosi dall’imporre il suo sistema di valori;",
+          "label": "Non imposizione dei valori",
+          "comment_it": "Il professionista può esplorare valori e conseguenze, ma non deve usare il ruolo per convertire, moralizzare o dirigere la vita della persona secondo preferenze proprie. Rispettare non significa approvare ogni condotta né rinunciare ai limiti di legge e del mandato."
+        },
+        {
+          "id": "4-u3",
+          "official_fragment": "non opera discriminazioni in base a religione, etnia, nazionalità, estrazione sociale, stato socio-economico, sesso di appartenenza, orientamento sessuale, disabilità.",
+          "label": "Divieto di discriminazione",
+          "comment_it": "Le caratteristiche elencate non possono determinare trattamenti professionali sfavorevoli. Differenziare un intervento è legittimo quando risponde a bisogni, accessibilità o appropriatezza, non a pregiudizi. La normativa generale può proteggere ulteriori condizioni oltre all'elenco testuale."
+        },
+        {
+          "id": "4-u4",
+          "official_fragment": "Lo psicologo utilizza metodi e tecniche salvaguardando tali principi, e rifiuta la sua collaborazione ad iniziative lesive degli stessi.",
+          "label": "Metodi coerenti e rifiuto di collaborare",
+          "comment_it": "Non basta dichiarare rispetto: anche strumenti, procedure e finalità devono essere compatibili con quei principi. Se un progetto li lede, il professionista non dovrebbe prestare il proprio ruolo per legittimarlo."
+        },
+        {
+          "id": "4-u5",
+          "official_fragment": "Quando sorgono conflitti di interesse tra l’utente e l’istituzione presso cui lo psicologo opera, quest’ultimo deve esplicitare alle parti, con chiarezza, i termini delle proprie responsabilità ed i vincoli cui è professionalmente tenuto.",
+          "label": "Conflitto tra utente e istituzione",
+          "comment_it": "In scuola, azienda, servizio sanitario, carcere o contesto giudiziario può esserci più di un interesse. Lo psicologo deve chiarire ruolo, mandato, destinatari delle comunicazioni, limiti di riservatezza e margini decisionali prima che l'ambiguità produca danno."
+        },
+        {
+          "id": "4-u6",
+          "official_fragment": "In tutti i casi in cui il destinatario ed il committente dell’intervento di sostegno o di psicoterapia non coincidano, lo psicologo tutela prioritariamente il destinatario dell’intervento stesso.",
+          "label": "Priorità del destinatario",
+          "comment_it": "Chi paga o conferisce l'incarico non diventa automaticamente il soggetto da privilegiare. Negli interventi di sostegno o psicoterapia indicati dal testo, la tutela prioritaria spetta alla persona che riceve l'intervento."
+        }
+      ],
+      "in_practice": [
+        "Chiarire chi è committente, chi è destinatario e chi riceverà informazioni o risultati.",
+        "Adattare linguaggio, setting e strumenti per accessibilità e rispetto delle differenze.",
+        "Rifiutare mandati o procedure che richiedono discriminazione, coercizione impropria o imposizione di valori."
+      ],
+      "frequent_mistakes": [
+        "Promettere riservatezza assoluta in un contesto istituzionale che prevede comunicazioni a terzi.",
+        "Confondere il rispetto delle credenze con l'obbligo di condividerle.",
+        "Considerare prioritario chi paga senza analizzare il destinatario effettivo e il tipo di intervento."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Un'azienda chiede allo psicologo di usare colloqui di sostegno per individuare dipendenti 'poco leali' e ricevere dettagli personali. Lo psicologo accetta senza informare i partecipanti sul doppio ruolo e trasmette giudizi basati anche sulle loro convinzioni religiose.",
+        "analysis": "Il caso richiama dignità, riservatezza, non discriminazione e obbligo di chiarire il conflitto fra utente e istituzione. Potrebbero essere coinvolti anche segreto, informazione e autonomia professionale.",
+        "possible_related_articles": [6, 11, 24]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-06-2009",
+          "role": "violazione_accertata",
+          "note": "Nel caso dei messaggi minacciosi a un'ex paziente, l'Ordine ritenne violato anche il rispetto della dignità previsto dall'art. 4."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Regolamento (UE) 2016/679",
+          "relevance": "Integra la tutela quando la prestazione comporta trattamento di dati personali, spesso appartenenti a categorie particolari.",
+          "source_id": "gdpr"
+        }
+      ],
+      "flashcards": [
+        {"id": "4-f1", "type": "richiamo", "front": "Quali quattro nuclei di tutela apre l'art. 4?", "back": "Dignità, riservatezza, autodeterminazione e autonomia.", "official_anchor": "dignità ... riservatezza ... autodeterminazione ... autonomia"},
+        {"id": "4-f2", "type": "scenario", "front": "L'ente committente vuole risultati dettagliati non spiegati all'utente. Cosa richiede l'art. 4?", "back": "Esplicitare con chiarezza alle parti responsabilità e vincoli; negli interventi indicati, tutelare prioritariamente il destinatario.", "official_anchor": "esplicitare alle parti, con chiarezza"},
+        {"id": "4-f3", "type": "discriminazione", "front": "Adattare uno strumento per renderlo accessibile a una persona con disabilità è discriminazione?", "back": "Non necessariamente: un adattamento fondato su accessibilità e appropriatezza tutela la pari fruizione; il pregiudizio sfavorevole è il problema.", "official_anchor": "non opera discriminazioni"},
+        {"id": "4-f4", "type": "collegamento", "front": "Quale articolo completa il conflitto utente-istituzione proteggendo l'autonomia tecnica?", "back": "L'art. 6, che vieta condizioni di lavoro incompatibili con autonomia e Codice.", "official_anchor": "conflitti di interesse tra l’utente e l’istituzione"}
+      ],
+      "tags": ["dignità", "riservatezza", "autonomia", "valori", "non-discriminazione", "istituzioni"],
+      "source_ids": ["cnop-codice-vigente", "gdpr", "fvg-100-domande", "veneto-questioni-aperte", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 5,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Competenza, aggiornamento e basi scientifiche",
+      "title_is_official": false,
+      "official_text": "Lo psicologo è tenuto a mantenere un livello adeguato di preparazione e aggiornamento professionale, con particolare riguardo ai settori nei quali opera. La violazione dell’obbligo di formazione continua, determina un illecito disciplinare che è sanzionato sulla base di quanto stabilito dall’ordinamento professionale. Riconosce i limiti della propria competenza e usa, pertanto solo strumenti teorico – pratici per i quali ha acquisito adeguata competenza e, ove necessario, formale autorizzazione. Lo psicologo impiega metodologie delle quali è in grado di indicare le fonti e riferimenti scientifici, e non suscita, nelle attese del cliente e/o utente, aspettative infondate.",
+      "core_message": "Essere abilitati non significa essere competenti in ogni settore: servono aggiornamento continuo, limiti riconosciuti, strumenti padroneggiati, basi scientifiche e aspettative realistiche.",
+      "meaning_units": [
+        {
+          "id": "5-u1",
+          "official_fragment": "Lo psicologo è tenuto a mantenere un livello adeguato di preparazione e aggiornamento professionale, con particolare riguardo ai settori nei quali opera.",
+          "label": "Preparazione pertinente",
+          "comment_it": "L'aggiornamento deve essere continuo e coerente con le attività realmente svolte. Accumulare formazione non pertinente non sostituisce la preparazione richiesta dal caso e dal settore di lavoro."
+        },
+        {
+          "id": "5-u2",
+          "official_fragment": "La violazione dell’obbligo di formazione continua, determina un illecito disciplinare che è sanzionato sulla base di quanto stabilito dall’ordinamento professionale.",
+          "label": "Formazione continua",
+          "comment_it": "L'obbligo formativo ha rilievo disciplinare. Le regole operative, i trienni, gli esoneri e le modalità di recupero possono cambiare: l'app deve rinviare alla pagina CNOP/ECM aggiornata invece di cristallizzare numeri non più vigenti."
+        },
+        {
+          "id": "5-u3",
+          "official_fragment": "Riconosce i limiti della propria competenza",
+          "label": "Consapevolezza dei limiti",
+          "comment_it": "Riconoscere un limite significa saper rinviare, chiedere supervisione o integrare altre competenze quando necessario. Anzianità, titolo generale o sicurezza soggettiva non dimostrano da soli competenza specifica."
+        },
+        {
+          "id": "5-u4",
+          "official_fragment": "e usa, pertanto solo strumenti teorico – pratici per i quali ha acquisito adeguata competenza e, ove necessario, formale autorizzazione.",
+          "label": "Strumenti e autorizzazioni",
+          "comment_it": "Uno strumento va scelto e usato solo se il professionista ne conosce presupposti, limiti, somministrazione e interpretazione. Quando la legge riserva un'attività o richiede un titolo ulteriore, la sola esperienza informale non basta."
+        },
+        {
+          "id": "5-u5",
+          "official_fragment": "Lo psicologo impiega metodologie delle quali è in grado di indicare le fonti e riferimenti scientifici,",
+          "label": "Tracciabilità scientifica",
+          "comment_it": "Il professionista deve poter spiegare su quali fonti si basa una metodologia e perché è adatta allo scopo. Citare genericamente la 'scienza' o un singolo autore non sostituisce una valutazione critica dell'evidenza."
+        },
+        {
+          "id": "5-u6",
+          "official_fragment": "e non suscita, nelle attese del cliente e/o utente, aspettative infondate.",
+          "label": "Aspettative realistiche",
+          "comment_it": "Risultati, tempi e probabilità non vanno presentati come certi quando non lo sono. La comunicazione corretta distingue obiettivi, limiti e possibili alternative senza promettere guarigioni o esiti garantiti."
+        }
+      ],
+      "in_practice": [
+        "Documentare formazione, supervisione e competenze pertinenti al servizio offerto.",
+        "Verificare fonti, qualità dell'evidenza e limiti degli strumenti.",
+        "Inviare o collaborare con altro professionista quando il bisogno supera la propria competenza.",
+        "Controllare periodicamente la posizione ECM sulle fonti istituzionali aggiornate."
+      ],
+      "frequent_mistakes": [
+        "Usare un test dopo una breve presentazione senza formazione adeguata.",
+        "Presentare una metodologia controversa come sicuramente efficace.",
+        "Confondere iscrizione all'Albo, specializzazione, certificazione privata e competenza concreta."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Una psicologa senza esperienza neuropsicologica offre valutazioni complesse dopo un webinar introduttivo, usa uno strumento non padroneggiato e promette una diagnosi certa in un solo incontro.",
+        "analysis": "Il caso richiama preparazione pertinente, limiti di competenza, uso competente degli strumenti, basi scientifiche e aspettative infondate. La qualificazione finale dipende da fatti e attività effettivamente svolte.",
+        "possible_related_articles": [7, 24, 25]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-ee-21-06",
+          "role": "caso_adiacente",
+          "note": "La decisione sanzionò gli artt. 37 e 39, non l'art. 5: è utile solo per mostrare il rischio di spingersi in ambiti non propri e di presentare titoli in modo inesatto."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "D.P.R. n. 137/2012, art. 7",
+          "relevance": "Stabilisce l'obbligo di formazione continua per i professionisti e qualifica la violazione come illecito disciplinare, ferma la disciplina ECM.",
+          "source_id": "dpr-137-2012"
+        },
+        {
+          "reference": "Sistema ECM per gli psicologi",
+          "relevance": "Il CNOP informa che tutti gli psicologi sono soggetti all'obbligo ECM secondo la normativa vigente; le regole operative sono dinamiche.",
+          "source_id": "cnop-formazione-ecm"
+        }
+      ],
+      "flashcards": [
+        {"id": "5-f1", "type": "richiamo", "front": "Quali sono i quattro pilastri dell'art. 5?", "back": "Aggiornamento, limiti di competenza, metodologie con fonti scientifiche e aspettative non infondate.", "official_anchor": "preparazione ... competenza ... fonti ... aspettative"},
+        {"id": "5-f2", "type": "scenario", "front": "Un corso breve rende automaticamente competenti nell'uso di un test complesso?", "back": "No. Occorre competenza adeguata rispetto a presupposti, uso e interpretazione dello strumento.", "official_anchor": "solo strumenti ... per i quali ha acquisito adeguata competenza"},
+        {"id": "5-f3", "type": "discriminazione", "front": "Competenza e autorizzazione formale sono la stessa cosa?", "back": "No. La competenza è sostanziale; per alcune attività può essere necessaria anche una specifica autorizzazione o titolo.", "official_anchor": "e, ove necessario, formale autorizzazione"},
+        {"id": "5-f4", "type": "collegamento", "front": "Quale articolo verifica la qualità dei dati e dei risultati prodotti con uno strumento?", "back": "L'art. 7, su validità, attendibilità, alternative e limiti.", "official_anchor": "fonti e riferimenti scientifici"}
+      ],
+      "tags": ["competenza", "aggiornamento", "ECM", "evidence-based", "strumenti", "aspettative"],
+      "source_ids": ["cnop-codice-vigente", "dpr-137-2012", "cnop-formazione-ecm", "aip-codice-ricerca-2022", "oper-delibere-2008"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 6,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Autonomia e responsabilità tecnica",
+      "title_is_official": false,
+      "official_text": "Lo psicologo accetta unicamente condizioni di lavoro che non compromettano la sua autonomia professionale ed il rispetto delle norme del presente codice, e, in assenza di tali condizioni, informa il proprio Ordine. Lo psicologo salvaguarda la propria autonomia nella scelta dei metodi, delle tecniche e degli strumenti psicologici, nonché della loro utilizzazione; è perciò responsabile della loro applicazione ed uso, dei risultati, delle valutazioni ed interpretazioni che ne ricava. Nella collaborazione con professionisti di altre discipline esercita la piena autonomia professionale nel rispetto delle altrui competenze.",
+      "core_message": "Il committente può definire il mandato, ma non imporre conclusioni o modalità incompatibili con competenza, autonomia tecnica e Codice.",
+      "meaning_units": [
+        {
+          "id": "6-u1",
+          "official_fragment": "Lo psicologo accetta unicamente condizioni di lavoro che non compromettano la sua autonomia professionale ed il rispetto delle norme del presente codice,",
+          "label": "Condizioni accettabili",
+          "comment_it": "Prima di assumere o proseguire un incarico, lo psicologo deve verificare se contratto, gerarchia, tempi, risorse e richieste permettono un esercizio indipendente e conforme al Codice. Il vincolo organizzativo non trasferisce la responsabilità al datore o committente."
+        },
+        {
+          "id": "6-u2",
+          "official_fragment": "e, in assenza di tali condizioni, informa il proprio Ordine.",
+          "label": "Informazione all'Ordine",
+          "comment_it": "Se mancano condizioni compatibili, il testo prescrive di informare il proprio Ordine. È prudente documentare richieste, rischi e tentativi di chiarimento, rispettando riservatezza e minimizzazione delle informazioni."
+        },
+        {
+          "id": "6-u3",
+          "official_fragment": "Lo psicologo salvaguarda la propria autonomia nella scelta dei metodi, delle tecniche e degli strumenti psicologici, nonché della loro utilizzazione;",
+          "label": "Autonomia metodologica",
+          "comment_it": "La scelta tecnica spetta al professionista entro mandato, evidenze, competenze e norme. Autonomia non significa arbitrarietà: la scelta deve essere motivabile e adatta allo scopo."
+        },
+        {
+          "id": "6-u4",
+          "official_fragment": "è perciò responsabile della loro applicazione ed uso, dei risultati, delle valutazioni ed interpretazioni che ne ricava.",
+          "label": "Responsabilità non delegabile",
+          "comment_it": "Firmare o fare propria una valutazione implica responsabilità per come strumenti e dati sono stati usati e interpretati. Non è una difesa sufficiente dire che metodo, punteggio o conclusione sono stati imposti da altri."
+        },
+        {
+          "id": "6-u5",
+          "official_fragment": "Nella collaborazione con professionisti di altre discipline esercita la piena autonomia professionale nel rispetto delle altrui competenze.",
+          "label": "Collaborazione interdisciplinare",
+          "comment_it": "Collaborare richiede confini chiari: lo psicologo mantiene il giudizio psicologico e non invade competenze riservate ad altre professioni. Può integrare informazioni altrui senza sostituirsi agli altri specialisti."
+        }
+      ],
+      "in_practice": [
+        "Definire per iscritto mandato, ruoli, destinatari, tempi e autonomia tecnica.",
+        "Non firmare valutazioni o relazioni che non si possono sostenere professionalmente.",
+        "Documentare le pressioni incompatibili e informare l'Ordine quando mancano le condizioni richieste dall'articolo.",
+        "Nelle équipe, distinguere contributi, competenze e responsabilità di ciascuno."
+      ],
+      "frequent_mistakes": [
+        "Accettare che il committente scelga il test o detti la conclusione.",
+        "Confondere autonomia con libertà da evidenze, mandato o regole.",
+        "Omettere di chiarire chi è responsabile di una valutazione prodotta in équipe."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "In un servizio, il dirigente ordina di indicare in tutte le relazioni che un certo percorso è idoneo. La psicologa firma la formula anche quando i dati non la sostengono, spiegando che 'è la procedura interna'.",
+        "analysis": "La gerarchia non elimina autonomia e responsabilità sull'interpretazione. Il caso richiama anche la validità delle conclusioni dell'art. 7 e la chiarezza verso utente e istituzione dell'art. 4.",
+        "possible_related_articles": [3, 4, 7]
+      },
+      "real_case_links": [],
+      "legal_connections": [
+        {
+          "reference": "D.P.R. n. 137/2012 e principi generali delle professioni regolamentate",
+          "relevance": "L'esercizio professionale è fondato su autonomia e indipendenza di giudizio intellettuale e tecnica.",
+          "source_id": "dpr-137-2012"
+        }
+      ],
+      "flashcards": [
+        {"id": "6-f1", "type": "richiamo", "front": "Che cosa deve fare lo psicologo se le condizioni di lavoro compromettono autonomia o Codice?", "back": "Non accettarle come condizioni ordinarie e, in assenza delle condizioni necessarie, informare il proprio Ordine.", "official_anchor": "in assenza di tali condizioni, informa il proprio Ordine"},
+        {"id": "6-f2", "type": "scenario", "front": "Il dirigente impone la conclusione di una relazione. Chi resta responsabile se lo psicologo la firma?", "back": "Lo psicologo resta responsabile di applicazione, risultati, valutazioni e interpretazioni che fa proprie.", "official_anchor": "è perciò responsabile"},
+        {"id": "6-f3", "type": "discriminazione", "front": "Autonomia professionale significa poter usare qualunque metodo?", "back": "No. La scelta autonoma resta vincolata da competenza, evidenze, mandato, legge e Codice.", "official_anchor": "autonomia nella scelta dei metodi"},
+        {"id": "6-f4", "type": "collegamento", "front": "Quale articolo impedisce che l'autonomia diventi una scelta metodologica non fondata?", "back": "Gli artt. 5 e 7: competenza e fonti scientifiche, validità e attendibilità dei dati.", "official_anchor": "metodi, tecniche e strumenti"}
+      ],
+      "tags": ["autonomia-professionale", "organizzazioni", "équipe", "responsabilità", "metodi"],
+      "source_ids": ["cnop-codice-vigente", "dpr-137-2012", "fvg-100-domande"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 7,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Validità, attendibilità e limiti delle conclusioni",
+      "title_is_official": false,
+      "official_text": "Nelle proprie attività professionali, nelle attività di ricerca e nelle comunicazioni dei risultati delle stesse, nonché nelle attività didattiche, lo psicologo valuta attentamente, anche in relazione al contesto, il grado di validità e di attendibilità di informazioni, dati e fonti su cui basa le conclusioni raggiunte; espone, all’occorrenza, le ipotesi interpretative alternative, ed esplicita i limiti dei risultati. Lo psicologo, su casi specifici, esprime valutazioni e giudizi professionali solo se fondati sulla conoscenza professionale diretta ovvero su una documentazione adeguata ed attendibile.",
+      "core_message": "Una conclusione professionale deve essere proporzionata alla qualità dei dati e deve rendere visibili alternative e limiti; sui casi specifici serve conoscenza diretta oppure documentazione adeguata e attendibile.",
+      "meaning_units": [
+        {
+          "id": "7-u1",
+          "official_fragment": "Nelle proprie attività professionali, nelle attività di ricerca e nelle comunicazioni dei risultati delle stesse, nonché nelle attività didattiche,",
+          "label": "Ambito ampio",
+          "comment_it": "La regola vale nella pratica, nella ricerca, quando si comunicano risultati e nella didattica. Cambia il contesto, non il dovere di fondare ciò che si afferma."
+        },
+        {
+          "id": "7-u2",
+          "official_fragment": "lo psicologo valuta attentamente, anche in relazione al contesto, il grado di validità e di attendibilità di informazioni, dati e fonti su cui basa le conclusioni raggiunte;",
+          "label": "Qualità e contesto dei dati",
+          "comment_it": "Validità riguarda quanto dati e strumenti sostengono davvero l'inferenza; attendibilità riguarda la loro affidabilità. Una dichiarazione di parte, un test, una cartella o una fonte bibliografica non hanno valore assoluto: vanno letti rispetto a scopo, provenienza, metodo e contesto."
+        },
+        {
+          "id": "7-u3",
+          "official_fragment": "espone, all’occorrenza, le ipotesi interpretative alternative,",
+          "label": "Alternative plausibili",
+          "comment_it": "Quando i dati ammettono più spiegazioni rilevanti, il professionista non dovrebbe trasformare una sola ipotesi in certezza. Le alternative non sono un elenco rituale: devono essere plausibili e utili a comprendere il limite dell'inferenza."
+        },
+        {
+          "id": "7-u4",
+          "official_fragment": "ed esplicita i limiti dei risultati.",
+          "label": "Limiti espliciti",
+          "comment_it": "Campione, setting, strumenti, informazioni mancanti, margine di errore e finalità possono limitare il risultato. Esplicitarli protegge destinatario e decisore da un uso più ampio di quello sostenibile."
+        },
+        {
+          "id": "7-u5",
+          "official_fragment": "Lo psicologo, su casi specifici, esprime valutazioni e giudizi professionali solo se fondati sulla conoscenza professionale diretta ovvero su una documentazione adeguata ed attendibile.",
+          "label": "Giudizi su casi specifici",
+          "comment_it": "Il testo ammette due basi alternative: conoscenza professionale diretta oppure documentazione adeguata e attendibile. Non autorizza giudizi netti su una persona ricavati soltanto dal racconto interessato di un'altra, né impone in assoluto l'esame diretto quando esiste documentazione realmente sufficiente. La base utilizzata deve essere dichiarata."
+        }
+      ],
+      "in_practice": [
+        "Separare dati osservati, dichiarazioni di terzi, documenti, inferenze e conclusioni.",
+        "Indicare fonte, scopo, contesto e qualità delle informazioni decisive.",
+        "Usare formulazioni proporzionate e dichiarare alternative e limiti rilevanti.",
+        "Evitare giudizi su persone non conosciute quando la documentazione non è adeguata e attendibile."
+      ],
+      "frequent_mistakes": [
+        "Fare propria senza verifica la narrazione del committente.",
+        "Presentare un'ipotesi clinica o forense come fatto accertato.",
+        "Omettere che una persona valutata non è stata incontrata.",
+        "Generalizzare un risultato oltre popolazione, setting o finalità dello strumento."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "In una separazione conflittuale, uno psicologo scrive che il genitore mai incontrato ha un disturbo e non è idoneo, basandosi soltanto sul racconto dell'altro genitore e senza indicare alternative o limiti.",
+        "analysis": "Il giudizio riguarda un caso specifico ma non appare fondato né su conoscenza diretta né, nello scenario, su documentazione adeguata e attendibile. La conclusione è inoltre formulata come certa senza limiti.",
+        "possible_related_articles": [3, 4, 25, 31]
+      },
+      "real_case_links": [
+        {
+          "case_id": "oper-er-05-2009",
+          "role": "violazione_accertata",
+          "note": "L'Ordine applicò la censura per gli artt. 7, 31 e 39 in un caso di parere su una minore fondato acriticamente su informazioni riferite, con ulteriori problemi di consenso e titoli. Non è nota l'eventuale impugnazione."
+        },
+        {
+          "case_id": "cass-12733-2025",
+          "role": "esito_processuale_non_di_merito",
+          "note": "Il fatto contestato è didatticamente pertinente, ma la Cassazione cassò senza rinvio e dichiarò l'illecito prescritto: non va presentato come sanzione definitivamente confermata."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Codice etico AIP per la ricerca in psicologia",
+          "relevance": "Offre regole operative integrative per qualità, trasparenza e comunicazione della ricerca; non sostituisce il Codice CNOP.",
+          "source_id": "aip-codice-ricerca-2022"
+        }
+      ],
+      "flashcards": [
+        {"id": "7-f1", "type": "richiamo", "front": "Quali quattro controlli centrali richiede l'art. 7?", "back": "Validità, attendibilità, ipotesi alternative quando necessarie e limiti dei risultati.", "official_anchor": "validità ... attendibilità ... ipotesi ... limiti"},
+        {"id": "7-f2", "type": "scenario", "front": "Si può diagnosticare una persona mai incontrata sulla sola descrizione dell'ex partner?", "back": "Lo scenario non offre conoscenza diretta né documentazione adeguata e attendibile; un giudizio professionale netto violerebbe il nucleo dell'art. 7.", "official_anchor": "conoscenza professionale diretta ovvero ... documentazione adeguata"},
+        {"id": "7-f3", "type": "discriminazione", "front": "L'art. 7 impone sempre la conoscenza diretta?", "back": "No. Il testo usa 'ovvero': può bastare documentazione adeguata e attendibile, se realmente sufficiente e correttamente dichiarata.", "official_anchor": "diretta ovvero"},
+        {"id": "7-f4", "type": "collegamento", "front": "Quali articoli lavorano insieme quando si sceglie e interpreta un test?", "back": "Art. 5 per competenza e fonti scientifiche; art. 6 per autonomia e responsabilità; art. 7 per validità, attendibilità e limiti.", "official_anchor": "informazioni, dati e fonti"}
+      ],
+      "tags": ["validità", "attendibilità", "fonti", "limiti", "ipotesi-alternative", "forense", "ricerca"],
+      "source_ids": ["cnop-codice-vigente", "aip-codice-ricerca-2022", "oper-delibere-2008", "oper-delibere-2009"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    },
+    {
+      "number": 8,
+      "chapter": "Capo I - Principi generali",
+      "editorial_title": "Contrasto all'abusivismo e uso del titolo",
+      "title_is_official": false,
+      "official_text": "Lo psicologo contrasta l’esercizio abusivo della professione come definita dagli articoli 1 e 3 della Legge 18 febbraio 1989, n. 56, e segnala al Consiglio dell’Ordine i casi di abusivismo o di usurpazione di titolo di cui viene a conoscenza. Parimenti, utilizza il proprio titolo professionale esclusivamente per attività ad esso pertinenti, e non avalla con esso attività ingannevoli od abusive.",
+      "core_message": "Lo psicologo tutela la professione segnalando all'Ordine i possibili casi conosciuti e non presta titolo, ruolo o reputazione per legittimare attività ingannevoli o abusive.",
+      "meaning_units": [
+        {
+          "id": "8-u1",
+          "official_fragment": "Lo psicologo contrasta l’esercizio abusivo della professione come definita dagli articoli 1 e 3 della Legge 18 febbraio 1989, n. 56,",
+          "label": "Che cosa va tutelato",
+          "comment_it": "Per capire l'abusivismo occorre partire dalle attività della professione definite dalla legge e, per la psicoterapia, dai requisiti specifici dell'art. 3. Il nome commerciale usato da una persona non basta da solo: contano le attività concretamente svolte."
+        },
+        {
+          "id": "8-u2",
+          "official_fragment": "e segnala al Consiglio dell’Ordine i casi di abusivismo o di usurpazione di titolo di cui viene a conoscenza.",
+          "label": "Segnalazione all'Ordine",
+          "comment_it": "Il dovere è segnalare al Consiglio i fatti conosciuti, distinguendo osservazioni, documenti e supposizioni. Segnalare non significa dichiarare pubblicamente colpevole qualcuno: l'Ordine valuta e, se necessario, coinvolge l'autorità competente."
+        },
+        {
+          "id": "8-u3",
+          "official_fragment": "Parimenti, utilizza il proprio titolo professionale esclusivamente per attività ad esso pertinenti,",
+          "label": "Uso pertinente del titolo",
+          "comment_it": "Il titolo di psicologo non va usato come garanzia generica per vendere o promuovere attività estranee. Quando il professionista agisce anche in altri ruoli, deve evitare che il pubblico attribuisca al titolo psicologico una validazione che non ha."
+        },
+        {
+          "id": "8-u4",
+          "official_fragment": "e non avalla con esso attività ingannevoli od abusive.",
+          "label": "Divieto di avallo",
+          "comment_it": "Prestare nome, firma, supervisione solo apparente o presenza promozionale può dare credibilità a un'attività problematica. Il codice penale considera inoltre più grave il ruolo del professionista che determina o dirige l'esercizio abusivo altrui."
+        }
+      ],
+      "in_practice": [
+        "Raccogliere elementi verificabili: comunicazioni pubbliche, qualifiche dichiarate e attività concretamente offerte.",
+        "Inviare la segnalazione al Consiglio competente con linguaggio fattuale e non diffamatorio.",
+        "Non prestare titolo, firma o reputazione a servizi che non si possono professionalmente sostenere.",
+        "Distinguere un dibattito scientifico o professionale da un concreto avallo dell'abusivismo."
+      ],
+      "frequent_mistakes": [
+        "Concludere che vi sia abusivismo basandosi soltanto sull'etichetta professionale usata.",
+        "Esporre accuse sui social invece di trasmettere fatti documentati all'Ordine.",
+        "Comparire come responsabile scientifico senza controllo reale sull'attività proposta.",
+        "Trattare ogni opinione favorevole alla regolazione di un'attività come illecito."
+      ],
+      "hypothetical_infringement": {
+        "classification": "esempio_ipotetico",
+        "scenario": "Uno psicologo presta nome e numero d'iscrizione a un centro gestito da persone non abilitate, compare come responsabile sul sito ma non supervisiona e consente che siano offerte diagnosi e sostegno psicologico come se fossero prestazioni professionali regolari.",
+        "analysis": "Lo scenario richiama l'uso non pertinente del titolo e il possibile avallo di attività abusive. La qualificazione penale e disciplinare richiederebbe l'accertamento delle attività effettive e del ruolo concreto dello psicologo.",
+        "possible_related_articles": [2, 3, 5, 39, 40]
+      },
+      "real_case_links": [
+        {
+          "case_id": "cass-7362-2025",
+          "role": "controesempio",
+          "note": "La partecipazione trasparente a un tavolo tecnico e l'espressione di un'opinione scientifica sul counseling non furono ritenute di per sé illecito. Prima dell'uso pubblico nell'app va verificato il testo integrale ufficiale della decisione."
+        }
+      ],
+      "legal_connections": [
+        {
+          "reference": "Legge n. 56/1989, artt. 1 e 3",
+          "relevance": "Definisce la professione di psicologo e disciplina l'esercizio dell'attività psicoterapeutica.",
+          "source_id": "legge-56-1989"
+        },
+        {
+          "reference": "Codice penale, art. 348",
+          "relevance": "Punisce l'esercizio abusivo di una professione e prevede una fattispecie più grave per il professionista che determina o dirige l'attività abusiva altrui.",
+          "source_id": "cp-art-348"
+        }
+      ],
+      "flashcards": [
+        {"id": "8-f1", "type": "richiamo", "front": "Quali due doveri principali pone l'art. 8?", "back": "Contrastare e segnalare abusivismo/usurpazione di titolo; usare il proprio titolo solo per attività pertinenti senza avallare attività ingannevoli o abusive.", "official_anchor": "contrasta ... segnala ... non avalla"},
+        {"id": "8-f2", "type": "scenario", "front": "Uno psicologo presta soltanto il nome a un centro che offre diagnosi tramite non abilitati. Qual è il rischio centrale?", "back": "L'avallo mediante titolo di attività potenzialmente abusive; vanno accertati attività e ruolo concreto.", "official_anchor": "non avalla con esso attività ... abusive"},
+        {"id": "8-f3", "type": "discriminazione", "front": "Segnalare all'Ordine significa accertare personalmente un reato?", "back": "No. Lo psicologo comunica fatti conosciuti; la verifica compete agli organi e alle autorità competenti.", "official_anchor": "segnala al Consiglio dell’Ordine"},
+        {"id": "8-f4", "type": "collegamento", "front": "Quali norme definiscono l'ambito richiamato dall'art. 8?", "back": "Gli artt. 1 e 3 della legge n. 56/1989; l'art. 348 c.p. disciplina l'esercizio abusivo sul piano penale.", "official_anchor": "come definita dagli articoli 1 e 3"}
+      ],
+      "tags": ["abusivismo", "titolo-professionale", "segnalazione", "tutela", "counseling"],
+      "source_ids": ["cnop-codice-vigente", "legge-56-1989", "cp-art-348", "veneto-questioni-aperte"],
+      "review": {"status": "draft", "reviewed_by": null, "reviewed_on": null}
+    }
+  ]
+}

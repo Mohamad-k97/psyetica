@@ -1,0 +1,220 @@
+{
+  "language": "es",
+  "articles": [
+    {
+      "number": 1,
+      "localized": {
+        "editorial_title": "Carácter vinculante y ámbito de aplicación del Código",
+        "article_text": "Las normas del presente Código Deontológico son vinculantes para todas las personas inscritas en el Registro de Psicólogos. El psicólogo tiene el deber de conocerlas, y su desconocimiento no le exime de responsabilidad disciplinaria. Las mismas normas se aplican también cuando las prestaciones, o una parte de ellas, se realizan a distancia, por Internet o mediante cualquier otro medio electrónico o telemático.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La inscripción profesional obliga a conocer y respetar el Código en cualquier modalidad de ejercicio, también en línea.",
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "Código Deontológico", "match_method": "human_authored_exact"},
+          {"glossary_id": "albo-degli-psicologi", "surface": "Registro de Psicólogos", "match_method": "human_authored_exact"},
+          {"glossary_id": "responsabilita-disciplinare", "surface": "responsabilidad disciplinaria", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "localized": {
+        "editorial_title": "Infracción deontológica y sanciones disciplinarias",
+        "article_text": "El incumplimiento de los preceptos establecidos en el presente Código Deontológico, así como toda acción u omisión contraria al decoro profesional, a la dignidad profesional o al correcto ejercicio de la profesión, se sancionan conforme a lo previsto en el artículo 26, apartado 1, de la Ley italiana n.º 56, de 18 de febrero de 1989, y siguiendo los procedimientos establecidos en el Reglamento disciplinario.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La responsabilidad disciplinaria puede derivar tanto de infringir una norma concreta como de una conducta incompatible con el decoro, la dignidad y el correcto ejercicio profesional.",
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "Código Deontológico", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "decoro profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "dignidad profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "regolamento-disciplinare", "surface": "Reglamento disciplinario", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "localized": {
+        "editorial_title": "Finalidad, influencia y responsabilidad social",
+        "article_text": "El psicólogo considera que tiene el deber de ampliar los conocimientos sobre la conducta humana y de utilizarlos para promover el bienestar psicológico de la persona, del grupo y de la comunidad. En todo ámbito profesional procura mejorar la capacidad de las personas para comprenderse a sí mismas y a los demás y para actuar de manera consciente, congruente y eficaz. Es consciente de la responsabilidad social que deriva de su capacidad para incidir significativamente en la vida ajena durante el ejercicio profesional; por ello presta especial atención a los factores personales, sociales, organizativos, económicos y políticos, a fin de evitar un uso inadecuado de su influencia. No se aprovecha indebidamente de la confianza ni de posibles situaciones de dependencia del comitente, del usuario o del destinatario de la prestación profesional. El psicólogo responde de sus actos profesionales y de sus consecuencias directas previsibles.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El conocimiento psicológico debe ponerse al servicio del bienestar, sin abusar de la influencia profesional, de la confianza ni de la dependencia.",
+        "glossary_annotations": [
+          {"glossary_id": "responsabilita-sociale", "surface": "responsabilidad social", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "comitente", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "usuario", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "destinatario de la prestación profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "atti-professionali", "surface": "actos profesionales", "match_method": "human_authored_exact"},
+          {"glossary_id": "conseguenze-prevedibili-dirette", "surface": "consecuencias directas previsibles", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "localized": {
+        "editorial_title": "Dignidad, autonomía y no discriminación",
+        "article_text": "En el ejercicio de la profesión, el psicólogo respeta la dignidad y los derechos a la confidencialidad, a la autodeterminación y a la autonomía personal de quienes recurren a sus servicios; respeta sus opiniones y creencias y se abstiene de imponerles su propio sistema de valores. No discrimina por religión, origen étnico, nacionalidad, origen social, situación socioeconómica, sexo, orientación sexual o discapacidad. Emplea métodos y técnicas que salvaguarden estos principios y rechaza colaborar en iniciativas que los vulneren. Cuando surge un conflicto de intereses entre el usuario y la institución en la que trabaja, explica claramente a las partes el alcance de sus responsabilidades y las obligaciones profesionales que le vinculan. Siempre que el destinatario de la intervención de apoyo o psicoterapia no coincida con el comitente, el psicólogo protege prioritariamente al destinatario.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La persona destinataria no es un medio para los fines del profesional o de una institución: dignidad, confidencialidad, autonomía, valores e igualdad orientan cada decisión.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "confidencialidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "autodeterminazione", "surface": "autodeterminación", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-persona", "surface": "autonomía personal", "match_method": "human_authored_exact"},
+          {"glossary_id": "conflitto-di-interesse", "surface": "conflicto de intereses", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "usuario", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "destinatario de la intervención", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "comitente", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "localized": {
+        "editorial_title": "Competencia, formación continua y fundamento científico",
+        "article_text": "El psicólogo debe mantener un nivel adecuado de preparación y actualización profesional, especialmente en los ámbitos en los que ejerce. El incumplimiento de la obligación de formación continua constituye una infracción disciplinaria sancionable conforme al ordenamiento profesional. Reconoce los límites de su competencia profesional y utiliza únicamente instrumentos teórico-prácticos para los que haya adquirido competencia suficiente y, cuando sea necesario, autorización formal. Emplea métodos cuyas fuentes y referencias científicas puede indicar y no genera expectativas infundadas en el cliente o usuario.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La habilitación no equivale a ser competente en todo: hacen falta formación continua, límites reconocidos, herramientas dominadas, fundamento científico y expectativas realistas.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-continua", "surface": "formación continua", "match_method": "human_authored_exact"},
+          {"glossary_id": "illecito-disciplinare", "surface": "infracción disciplinaria", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "competencia profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "strumenti-teorico-pratici", "surface": "instrumentos teórico-prácticos", "match_method": "human_authored_exact"},
+          {"glossary_id": "formale-autorizzazione", "surface": "autorización formal", "match_method": "human_authored_exact"},
+          {"glossary_id": "aspettative-infondate", "surface": "expectativas infundadas", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "localized": {
+        "editorial_title": "Autonomía profesional y responsabilidad técnica",
+        "article_text": "El psicólogo solo acepta condiciones de trabajo que no comprometan su autonomía profesional ni el cumplimiento del presente Código Deontológico y, si no se dan esas condiciones, informa a su Colegio profesional. Salvaguarda su autonomía en la elección y utilización de métodos, técnicas e instrumentos psicológicos; por tanto, responde de su aplicación y uso, de los resultados y de las valoraciones e interpretaciones que obtiene. Cuando colabora con profesionales de otras disciplinas, ejerce plena autonomía profesional respetando la competencia profesional ajena.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El comitente puede definir el encargo, pero no imponer métodos o conclusiones incompatibles con la competencia, la autonomía técnica y el Código.",
+        "glossary_annotations": [
+          {"glossary_id": "autonomia-professionale", "surface": "autonomía profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "codice-deontologico", "surface": "Código Deontológico", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "competencia profesional", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "localized": {
+        "editorial_title": "Validez, fiabilidad y límites de las conclusiones",
+        "article_text": "En sus actividades profesionales, de investigación, de comunicación de resultados y de docencia, el psicólogo evalúa cuidadosamente, atendiendo también al contexto, el grado de validez y fiabilidad de la información, los datos y las fuentes en los que basa sus conclusiones; cuando procede, expone hipótesis interpretativas alternativas y declara los límites de los resultados. En casos concretos, solo formula valoraciones y juicios profesionales basados en conocimiento profesional directo o en documentación adecuada y fiable.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Toda conclusión profesional debe ser proporcional a la calidad de los datos y hacer visibles alternativas y límites.",
+        "glossary_annotations": [
+          {"glossary_id": "validita", "surface": "validez", "match_method": "human_authored_exact"},
+          {"glossary_id": "attendibilita", "surface": "fiabilidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "ipotesi-interpretative-alternative", "surface": "hipótesis interpretativas alternativas", "match_method": "human_authored_exact"},
+          {"glossary_id": "conoscenza-professionale-diretta", "surface": "conocimiento profesional directo", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-adeguata-attendibile", "surface": "documentación adecuada y fiable", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "localized": {
+        "editorial_title": "Lucha contra el ejercicio ilegal y uso del título",
+        "article_text": "El psicólogo combate el ejercicio ilegal de la profesión, tal como se define en los artículos 1 y 3 de la Ley italiana n.º 56, de 18 de febrero de 1989, y comunica al Consejo del Colegio los casos de intrusismo o usurpación del título profesional de los que tenga conocimiento. Asimismo, utiliza su título profesional únicamente para actividades que le son propias y no avala con él actividades engañosas o abusivas.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El psicólogo protege la profesión comunicando los posibles casos de intrusismo y no presta su título, función o reputación para legitimar actividades engañosas.",
+        "glossary_annotations": [
+          {"glossary_id": "esercizio-abusivo", "surface": "ejercicio ilegal de la profesión", "match_method": "human_authored_exact"},
+          {"glossary_id": "usurpazione-di-titolo", "surface": "usurpación del título profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "avala", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "localized": {
+        "editorial_title": "Consentimiento y protección de participantes en investigación",
+        "article_text": "En su actividad investigadora, el psicólogo informa adecuadamente a las personas participantes para obtener su consentimiento informado previo, también respecto del nombre, la condición científica y profesional del investigador y su eventual institución de pertenencia. Debe garantizarles plena libertad para otorgar, denegar o retirar el consentimiento. Si la naturaleza del estudio impide informar previa y correctamente sobre determinados aspectos, al finalizar la prueba o la recogida de datos proporciona la información debida y obtiene la autorización para utilizar los datos recabados. Cuando una persona, por edad u otros motivos, no puede prestar un consentimiento válido, este debe otorgarlo quien ejerza la responsabilidad parental o la tutela jurídica; también se recaba el consentimiento de la propia persona cuando pueda comprender la colaboración solicitada. En todo caso se protegen la confidencialidad, la imposibilidad de identificación y el anonimato.",
+        "article_text_status": "editorial_translation",
+        "core_message": "La investigación psicológica exige información adecuada, decisiones libres y revocables, protección reforzada de quien no puede consentir válidamente y confidencialidad constante.",
+        "glossary_annotations": [
+          {"glossary_id": "previo-consenso-informato", "surface": "consentimiento informado previo", "match_method": "human_authored_exact"},
+          {"glossary_id": "ritiro-del-consenso", "surface": "retirar el consentimiento", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorizzazione-uso-dati", "surface": "autorización para utilizar los datos", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "responsabilidad parental", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "tutela jurídica", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "confidencialidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "non-riconoscibilita", "surface": "imposibilidad de identificación", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "anonimato", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "localized": {
+        "editorial_title": "Respeto y protección de los animales",
+        "article_text": "Cuando la actividad profesional tiene por objeto la conducta de animales, el psicólogo se compromete a respetar su naturaleza, a adoptar una conducta no lesiva y a evitarles sufrimientos.",
+        "article_text_status": "editorial_translation",
+        "core_message": "En el trabajo con conducta animal deben respetarse las características de la especie y evitarse sufrimientos prevenibles.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "conducta no lesiva", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "localized": {
+        "editorial_title": "Secreto profesional",
+        "article_text": "El psicólogo está estrictamente obligado al secreto profesional. Por tanto, no revela noticias, hechos o información conocidos con motivo de la relación profesional, ni informa sobre prestaciones realizadas o programadas, salvo en los supuestos contemplados en los artículos siguientes.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El silencio profesional es la regla; cualquier excepción debe apoyarse en una base concreta prevista por el Código.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "secreto profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "rapporto-professionale", "surface": "relación profesional", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "localized": {
+        "editorial_title": "Testimonio y consentimiento para revelar",
+        "article_text": "El psicólogo se abstiene de prestar testimonio sobre hechos conocidos con motivo de su relación profesional. Solo puede exceptuar el secreto profesional, incluso al testificar, cuando exista un consentimiento válido y demostrable del destinatario de la prestación. Aun así, valora si conviene hacer uso de ese consentimiento y considera prioritaria la protección psicológica de la persona.",
+        "article_text_status": "editorial_translation",
+        "core_message": "El consentimiento no convierte automáticamente la revelación en adecuada: también debe valorarse la protección psicológica del destinatario.",
+        "glossary_annotations": [
+          {"glossary_id": "rendere-testimonianza", "surface": "prestar testimonio", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "exceptuar el secreto profesional", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-valido-dimostrabile", "surface": "consentimiento válido y demostrable", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "destinatario de la prestación", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "protección psicológica", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "localized": {
+        "editorial_title": "Comunicación obligatoria y peligro grave",
+        "article_text": "Cuando existe obligación de emitir informe a la autoridad o deber de denuncia, el psicólogo limita a lo estrictamente necesario la información obtenida en la relación profesional, con el fin de preservar la protección psicológica de la persona. En los demás casos, valora cuidadosamente la necesidad de exceptuar total o parcialmente su deber de confidencialidad cuando se perfilen peligros graves para la vida o la salud psicofísica de la persona o de terceros.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Incluso cuando comunicar sea obligatorio o necesario, se revela únicamente lo imprescindible y se ponderan la seguridad y la protección psicológica.",
+        "glossary_annotations": [
+          {"glossary_id": "obbligo-referto", "surface": "obligación de emitir informe a la autoridad", "match_method": "human_authored_exact"},
+          {"glossary_id": "obbligo-denuncia", "surface": "deber de denuncia", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "estrictamente necesario", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "protección psicológica", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "exceptuar", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "confidencialidad", "match_method": "human_authored_exact"},
+          {"glossary_id": "gravi-pericoli", "surface": "peligros graves", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "localized": {
+        "editorial_title": "Intervenciones con grupos",
+        "article_text": "Cuando interviene sobre un grupo o a través de él, el psicólogo informa desde el inicio acerca de las reglas que rigen la intervención. Cuando sea necesario, exige además a sus integrantes que respeten el derecho de cada persona a la confidencialidad.",
+        "article_text_status": "editorial_translation",
+        "core_message": "En los grupos, las reglas y la confidencialidad deben aclararse desde el principio y ser asumidas por sus integrantes.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "confidencialidad", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

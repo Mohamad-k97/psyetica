@@ -1,0 +1,161 @@
+{
+  "language": "ar",
+  "articles": [
+    {
+      "number": 1,
+      "localized": {
+        "editorial_title": "إلزامية الميثاق ونطاق تطبيقه",
+        "article_text": "تسري أحكام ميثاق آداب المهنة هذا بصورة مُلزمة على جميع المقيدين في سجل الأخصائيين النفسيين. ويلتزم الأخصائي النفسي بمعرفة أحكامه، ولا يُعفيه الجهل بها من المسؤولية التأديبية. وتسري الأحكام نفسها أيضًا عندما تُقدَّم الخدمات، كلها أو جزء منها، عن بُعد أو عبر الإنترنت أو بأي وسيلة إلكترونية و/أو اتصالاتية أخرى.",
+        "article_text_status": "editorial_translation",
+        "core_message": "القيد في السجل معناه إن الأخصائي لازم يعرف الميثاق ويلتزم به في كل أشكال الممارسة، بما فيها الشغل أونلاين.",
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "ميثاق آداب المهنة", "match_method": "human_authored_exact"},
+          {"glossary_id": "albo-degli-psicologi", "surface": "سجل الأخصائيين النفسيين", "match_method": "human_authored_exact"},
+          {"glossary_id": "responsabilita-disciplinare", "surface": "المسؤولية التأديبية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "localized": {
+        "editorial_title": "المخالفة المهنية والجزاءات التأديبية",
+        "article_text": "تُعاقَب مخالفة الأحكام الواردة في ميثاق آداب المهنة هذا، وأي فعل أو امتناع يتعارض بأي صورة مع الوقار المهني أو الكرامة المهنية أو الممارسة السليمة للمهنة، وفقًا لما تقضي به المادة 26، الفقرة الأولى، من القانون رقم 56 الصادر في 18 فبراير 1989، وباتباع الإجراءات المنصوص عليها في اللائحة التأديبية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "المسؤولية التأديبية ممكن تنتج عن مخالفة نص محدد، أو عن فعل أو امتناع ما يتفقش مع الوقار والكرامة والممارسة المهنية السليمة.",
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "ميثاق آداب المهنة", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "الوقار المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "الكرامة المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "regolamento-disciplinare", "surface": "اللائحة التأديبية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "localized": {
+        "editorial_title": "الغاية والتأثير والمسؤولية الاجتماعية",
+        "article_text": "يعتبر الأخصائي النفسي تنمية المعرفة بالسلوك الإنساني واجبًا عليه، ويستخدم هذه المعرفة لتعزيز الرفاه النفسي للفرد والجماعة والمجتمع. وفي كل مجال مهني يعمل على تنمية قدرة الناس على فهم أنفسهم والآخرين وعلى التصرف بوعي واتساق وفاعلية. ويدرك الأخصائي النفسي المسؤولية الاجتماعية الناشئة عن قدرته، من خلال الممارسة المهنية، على التأثير بصورة ملموسة في حياة الآخرين؛ ولذلك يولي اهتمامًا خاصًا للعوامل الشخصية والاجتماعية والتنظيمية والمالية والسياسية، حتى يتجنب الاستخدام غير الملائم لتأثيره. ولا يستغل بصورة غير مشروعة ثقة الجهة المُكلِّفة أو المستفيدين أو حالات اعتماد متلقي الخدمة المهنية عليه. ويُسأل الأخصائي النفسي عن تصرفاته المهنية وعن النتائج المباشرة الممكن توقّعها.",
+        "article_text_status": "editorial_translation",
+        "core_message": "المعرفة النفسية لازم تُستخدم للرفاه، من غير استغلال النفوذ المهني أو ثقة الناس أو اعتمادهم على الأخصائي.",
+        "glossary_annotations": [
+          {"glossary_id": "responsabilita-sociale", "surface": "المسؤولية الاجتماعية", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "الجهة المُكلِّفة", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "المستفيدين", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "متلقي الخدمة المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "atti-professionali", "surface": "تصرفاته المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "conseguenze-prevedibili-dirette", "surface": "النتائج المباشرة الممكن توقّعها", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "localized": {
+        "editorial_title": "الكرامة والاستقلال وعدم التمييز",
+        "article_text": "يلتزم الأخصائي النفسي، في ممارسته للمهنة، باحترام كرامة من يستفيدون من خدماته وحقهم في السرية وحق تقرير المصير والاستقلال الشخصي؛ ويحترم آراءهم ومعتقداتهم ويمتنع عن فرض منظومة قيمه عليهم؛ ولا يميز بسبب الدين أو الأصل العرقي أو الجنسية أو الخلفية الاجتماعية أو الوضع الاجتماعي والاقتصادي أو الجنس أو التوجه الجنسي أو الإعاقة. ويستخدم الأخصائي النفسي أساليبه وتقنياته بما يصون هذه المبادئ، ويرفض المشاركة في أي مبادرة تنتهكها. وإذا نشأ تضارب مصالح بين المستفيد والمؤسسة التي يعمل فيها الأخصائي النفسي، وجب عليه أن يوضح لجميع الأطراف، بصورة صريحة، حدود مسؤولياته والقيود المهنية الملزمة له. وفي كل حالة لا يكون فيها متلقي التدخل الداعم أو العلاج النفسي هو نفسه الجهة المُكلِّفة، تكون الأولوية لحماية متلقي التدخل.",
+        "article_text_status": "editorial_translation",
+        "core_message": "متلقي الخدمة مش وسيلة لتحقيق هدف الأخصائي أو المؤسسة؛ الكرامة والسرية والاستقلال والقيم والمساواة لازم يوجّهوا كل قرار.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "السرية", "match_method": "human_authored_exact"},
+          {"glossary_id": "autodeterminazione", "surface": "حق تقرير المصير", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-persona", "surface": "الاستقلال الشخصي", "match_method": "human_authored_exact"},
+          {"glossary_id": "conflitto-di-interesse", "surface": "تضارب مصالح", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "المستفيد", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "متلقي التدخل", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "الجهة المُكلِّفة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "localized": {
+        "editorial_title": "الكفاءة والتطوير المهني والأساس العلمي",
+        "article_text": "يلتزم الأخصائي النفسي بالحفاظ على مستوى مناسب من الإعداد والتطوير المهني المستمر، وبصفة خاصة في المجالات التي يمارس فيها عمله. وتُعد مخالفة واجب التطوير المهني المستمر مخالفة تأديبية تُوقَّع عليها الجزاءات المقررة في القواعد المنظمة للمهنة. ويقر الأخصائي النفسي بحدود كفاءته المهنية، ولذلك لا يستخدم إلا الأدوات النظرية والتطبيقية التي اكتسب كفاءة كافية في استخدامها، وحصل عند اللزوم على تصريح رسمي بشأنها. كما يستخدم مناهج يستطيع بيان مصادرها ومراجعها العلمية، ولا يخلق لدى العميل و/أو المستفيد توقعات بلا أساس.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الترخيص مش معناه إن الأخصائي كفء في كل حاجة؛ لازم يطوّر نفسه، يعرف حدوده، يستخدم أدوات فاهمها، يعتمد على العلم، وما يخلقش توقعات وهمية.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-continua", "surface": "التطوير المهني المستمر", "match_method": "human_authored_exact"},
+          {"glossary_id": "illecito-disciplinare", "surface": "مخالفة تأديبية", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "كفاءته المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "strumenti-teorico-pratici", "surface": "الأدوات النظرية والتطبيقية", "match_method": "human_authored_exact"},
+          {"glossary_id": "formale-autorizzazione", "surface": "تصريح رسمي", "match_method": "human_authored_exact"},
+          {"glossary_id": "aspettative-infondate", "surface": "توقعات بلا أساس", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "localized": {
+        "editorial_title": "الاستقلال المهني والمسؤولية الفنية",
+        "article_text": "لا يقبل الأخصائي النفسي إلا ظروف العمل التي لا تمس استقلاله المهني ولا تعوق احترام أحكام ميثاق آداب المهنة، وإذا لم تتوافر هذه الظروف أخطر هيئته المهنية. ويحافظ الأخصائي النفسي على استقلاله في اختيار الأساليب والتقنيات والأدوات النفسية وفي طريقة استخدامها؛ ولذلك يتحمل مسؤولية تطبيقها واستعمالها، والنتائج والتقييمات والتفسيرات المستخلصة منها. وعند التعاون مع مهنيين من تخصصات أخرى، يمارس استقلاله المهني كاملًا مع احترام كفاءة الآخرين.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الجهة المُكلِّفة ممكن تحدد المطلوب، لكن ما ينفعش تفرض نتيجة أو طريقة تخالف الكفاءة أو الاستقلال الفني أو الميثاق.",
+        "glossary_annotations": [
+          {"glossary_id": "autonomia-professionale", "surface": "استقلاله المهني", "match_method": "human_authored_exact"},
+          {"glossary_id": "codice-deontologico", "surface": "ميثاق آداب المهنة", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "كفاءة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "localized": {
+        "editorial_title": "الصلاحية والموثوقية وحدود النتائج",
+        "article_text": "في أنشطته المهنية والبحثية، وعند عرض نتائجها، وكذلك في أنشطة التدريس، يقيّم الأخصائي النفسي بعناية، وبالنظر أيضًا إلى السياق، درجة صلاحية وموثوقية المعلومات والبيانات والمصادر التي بنى عليها نتائجه؛ ويعرض عند اللزوم تفسيرات بديلة، ويوضح حدود النتائج. وفي الحالات الفردية، لا يبدي الأخصائي النفسي تقييمات أو آراء مهنية إلا إذا استندت إلى معرفة مهنية مباشرة أو إلى مستندات كافية وموثوقة.",
+        "article_text_status": "editorial_translation",
+        "core_message": "أي نتيجة مهنية لازم تناسب جودة البيانات، وتوضح البدائل والحدود؛ والكلام عن حالة بعينها محتاج معرفة مباشرة أو مستندات كفاية وموثوقة.",
+        "glossary_annotations": [
+          {"glossary_id": "validita", "surface": "صلاحية", "match_method": "human_authored_exact"},
+          {"glossary_id": "attendibilita", "surface": "موثوقية", "match_method": "human_authored_exact"},
+          {"glossary_id": "ipotesi-interpretative-alternative", "surface": "تفسيرات بديلة", "match_method": "human_authored_exact"},
+          {"glossary_id": "conoscenza-professionale-diretta", "surface": "معرفة مهنية مباشرة", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-adeguata-attendibile", "surface": "مستندات كافية وموثوقة", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "localized": {
+        "editorial_title": "مواجهة مزاولة المهنة من دون ترخيص واستعمال الصفة المهنية",
+        "article_text": "يواجه الأخصائي النفسي مزاولة المهنة من دون ترخيص، وفق تعريف المادتين 1 و3 من القانون رقم 56 الصادر في 18 فبراير 1989، ويُبلغ مجلس الهيئة المهنية بحالات المزاولة غير المشروعة أو انتحال الصفة المهنية التي تصل إلى علمه. وبالمثل، لا يستخدم صفته المهنية إلا في الأنشطة المرتبطة بها، ولا يستعملها لإضفاء شرعية على أنشطة مضللة أو غير مشروعة.",
+        "article_text_status": "editorial_translation",
+        "core_message": "الأخصائي بيحمي المهنة لما يبلّغ الهيئة عن المزاولة غير المشروعة، وما يديش اسمه أو صفته علشان يغطّي نشاط مضلل أو مخالف.",
+        "glossary_annotations": [
+          {"glossary_id": "esercizio-abusivo", "surface": "مزاولة المهنة من دون ترخيص", "match_method": "human_authored_exact"},
+          {"glossary_id": "usurpazione-di-titolo", "surface": "انتحال الصفة المهنية", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "لإضفاء شرعية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "localized": {
+        "editorial_title": "الموافقة وحماية المشاركين في البحث",
+        "article_text": "يلتزم الأخصائي النفسي في نشاطه البحثي بإعطاء المشاركين معلومات كافية للحصول على موافقتهم المستنيرة المسبقة، بما يشمل اسم الباحث وصفته العلمية والمهنية والمؤسسة التي ينتمي إليها إن وُجدت. كما يضمن لهم الحرية الكاملة في إعطاء الموافقة أو رفضها أو سحب الموافقة. وإذا كانت طبيعة البحث لا تسمح بإبلاغ المشاركين مسبقًا وبصورة كاملة عن بعض جوانبه، يلتزم الأخصائي النفسي بإعطائهم المعلومات الواجبة في نهاية الاختبار أو جمع البيانات، وبالحصول على تصريح باستخدام البيانات المجموعة. وإذا كان المشارك غير قادر، بسبب السن أو لأي سبب آخر، على إعطاء موافقة صحيحة، تصدر الموافقة ممن يمارس المسؤولية الوالدية أو الوصاية القانونية، وكمان من المشارك نفسه متى كان قادرًا على فهم طبيعة المشاركة المطلوبة. وفي كل الأحوال يجب حماية حق المشاركين في السرية وعدم إمكان التعرف على هويتهم وإخفاء الهوية.",
+        "article_text_status": "editorial_translation",
+        "core_message": "البحث النفسي محتاج معلومات واضحة واختيار حر ممكن يتسحب، وحماية أكبر للي ما يقدرش يوافق قانونًا، مع الحفاظ على السرية طول الوقت.",
+        "glossary_annotations": [
+          {"glossary_id": "previo-consenso-informato", "surface": "موافقتهم المستنيرة المسبقة", "match_method": "human_authored_exact"},
+          {"glossary_id": "ritiro-del-consenso", "surface": "سحب الموافقة", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorizzazione-uso-dati", "surface": "تصريح باستخدام البيانات المجموعة", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "المسؤولية الوالدية", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "الوصاية القانونية", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "السرية", "match_method": "human_authored_exact"},
+          {"glossary_id": "non-riconoscibilita", "surface": "عدم إمكان التعرف على هويتهم", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "إخفاء الهوية", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "localized": {
+        "editorial_title": "احترام الحيوانات وحمايتها",
+        "article_text": "عندما تتعلق الأنشطة المهنية بسلوك الحيوانات، يلتزم الأخصائي النفسي باحترام طبيعتها وتجنب التسبب في معاناتها.",
+        "article_text_status": "editorial_translation",
+        "core_message": "في الشغل المهني على سلوك الحيوان، لازم الأخصائي يحترم طبيعة النوع ويمنع أي معاناة ممكن تجنبها.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "تجنب التسبب في معاناتها", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

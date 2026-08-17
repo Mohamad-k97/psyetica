@@ -1,0 +1,209 @@
+{
+  "language": "fa",
+  "articles": [
+    {
+      "number": 15,
+      "localized": {
+        "editorial_title": "همکاری و حداقل‌سازی اطلاعات",
+        "article_text": "روان‌شناس هنگام همکاری با اشخاص دیگری که آنان نیز مکلف به حفظ راز حرفه‌ای هستند، فقط اطلاعات کاملاً ضروری برای نوع همکاری را به اشتراک می‌گذارد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "همکاری اجازه انتقال کل پرونده نیست؛ فقط اطلاعاتی ردوبدل می‌شود که برای کار مشترک لازم است.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "راز حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "کاملاً ضروری", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "localized": {
+        "editorial_title": "ارتباطات علمی و ناشناس‌ماندن",
+        "article_text": "روان‌شناس ارتباطات علمی را، حتی اگر خطاب به متخصصان مکلف به حفظ راز حرفه‌ای باشد، به‌گونه‌ای تنظیم می‌کند که در همه حال ناشناس‌ماندن مخاطب خدمت حفظ شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "فضای علمی محرمانگی را از بین نمی‌برد؛ پرونده و داده‌ها باید طوری ارائه شوند که فرد قابل شناسایی نباشد.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "راز حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "ناشناس‌ماندن", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "مخاطب خدمت", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "localized": {
+        "editorial_title": "نگهداری اسناد و تداوم حمایت",
+        "article_text": "محرمانگی ارتباطات از طریق نگهداری و کنترل یادداشت‌ها، نوشته‌ها یا هر نوع ضبط و ثبت مرتبط با رابطه حرفه‌ای نیز حمایت می‌شود. این مستندات حرفه‌ای، بدون خدشه به مقررات خاص، دست‌کم پنج سال پس از پایان رابطه حرفه‌ای نگهداری می‌شود. روان‌شناس باید ترتیب دهد که در صورت فوت یا ناتوانی او، این حمایت به یک همکار یا نهاد حرفه‌ای سپرده شود. روان‌شناسی که در ایجاد و استفاده از سامانه‌های مستندسازی همکاری می‌کند، برای پیش‌بینی تضمین‌های حمایت از اشخاص ذی‌نفع می‌کوشد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "محرمانگی به امنیت عملی پرونده‌ها در طول خدمت، بعد از آن و حتی پس از فوت یا ناتوانی روان‌شناس نیاز دارد.",
+        "glossary_annotations": [
+          {"glossary_id": "custodia-controllo", "surface": "نگهداری و کنترل", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-professionale", "surface": "مستندات حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "localized": {
+        "editorial_title": "آزادی انتخاب متخصص",
+        "article_text": "روان‌شناس در هر محیط حرفه‌ای تلاش می‌کند آزادی انتخابِ متخصص مورد مراجعه از سوی مراجع و/یا بیمار تا حد امکان محترم شمرده شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "فرد باید بدون فشار ناروا یا مانع قابل اجتناب بتواند روان‌شناسش را انتخاب کند.",
+        "glossary_annotations": [
+          {"glossary_id": "liberta-di-scelta", "surface": "آزادی انتخاب", "match_method": "human_authored_exact"},
+          {"glossary_id": "cliente", "surface": "مراجع", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "بیمار", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "localized": {
+        "editorial_title": "گزینش و ارزیابی بر پایه معیارهای مرتبط",
+        "article_text": "روان‌شناسی که در محیط‌های گزینش و ارزیابی فعالیت می‌کند، فقط معیارهای صلاحیت، شایستگی یا آمادگی مشخص را رعایت می‌کند و تصمیم‌های مغایر با این اصول را تأیید نمی‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "در گزینش و ارزیابی فقط معیارهای حرفه‌ای مرتبط معتبرند و روان‌شناس نباید تصمیم خلاف آن‌ها را مشروع جلوه دهد.",
+        "glossary_annotations": [
+          {"glossary_id": "qualificazione-preparazione", "surface": "شایستگی یا آمادگی", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "تأیید نمی‌کند", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "localized": {
+        "editorial_title": "آموزش اصول اخلاق حرفه‌ای",
+        "article_text": "روان‌شناس در تدریس، آموزش و کارورزی، علاقه دانشجویان، فراگیران و کارورزان را به اصول اخلاق حرفه‌ای برمی‌انگیزد و رفتار حرفه‌ای خود را نیز از همین اصول الهام می‌دهد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "اخلاق حرفه‌ای هم با توضیح اصول یاد داده می‌شود و هم با الگوی رفتاری روان‌شناس در برابر کارورزان.",
+        "glossary_annotations": [
+          {"glossary_id": "tirocinanti", "surface": "کارورزان", "match_method": "human_authored_exact"},
+          {"glossary_id": "principi-deontologici", "surface": "اصول اخلاق حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 21,
+      "localized": {
+        "editorial_title": "ابزارهای مختص حرفه و آموزش افراد خارج از حرفه",
+        "article_text": "آموزش استفاده از ابزارها و فنون شناخت و مداخله مختص حرفه روان‌شناسی به افراد خارج از حرفه، تخلف جدی اخلاق حرفه‌ای است. اگر روان‌شناس با کار حرفه‌ای خود فعالیت‌های فریبنده یا غیرمجاز را تأیید کند، از جمله با کمک به اعطای صلاحیت یا گواهی یا ایجاد این تصور که فرد مجاز به انجام فعالیت‌های ویژه روان‌شناس است، این امر عامل تشدیدکننده محسوب می‌شود. همه ابزارها و فنون شناخت و مداخله مربوط به فرایندهای روانی — رابطه‌ای، هیجانی، شناختی و رفتاری — که بر اصول، دانش، الگوها یا سازه‌های روان‌شناختی استوارند، مختص این حرفه‌اند. آموزش این ابزارها و فنون به دانشجویان رشته روان‌شناسی و کارورزان و نیز آموزش عمومی دانش روان‌شناختی از این حکم مستثناست.",
+        "article_text_status": "editorial_translation",
+        "core_message": "می‌شود دانش روان‌شناسی را آموزش داد، اما نباید افراد خارج از حرفه را طوری آموزش داد که انگار مجاز به استفاده از ابزارهای تخصصی‌اند.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-riservati", "surface": "ابزارها و فنون شناخت و مداخله مختص", "match_method": "human_authored_exact"},
+          {"glossary_id": "persone-estranee-professione", "surface": "افراد خارج از حرفه", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "عامل تشدیدکننده", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "تأیید کند", "match_method": "human_authored_exact"},
+          {"glossary_id": "qualifiche-attestati", "surface": "صلاحیت یا گواهی", "match_method": "human_authored_exact"},
+          {"glossary_id": "processi-psichici", "surface": "فرایندهای روانی", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "کارورزان", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 22,
+      "localized": {
+        "editorial_title": "پرهیز از آسیب و منفعت ناروا",
+        "article_text": "روان‌شناس در قبال اشخاصی که به‌طور حرفه‌ای به آنان می‌پردازد رفتار غیرآسیب‌زا اتخاذ می‌کند و نقش یا ابزارهای حرفه‌ای خود را برای تأمین منافع ناروا برای خود یا دیگران به کار نمی‌گیرد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "قدرت حرفه‌ای باید برای خدمت به فرد به کار برود، نه برای آسیب‌زدن یا گرفتن منفعت ناروا.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "رفتار غیرآسیب‌زا", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "منافع ناروا", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 23,
+      "localized": {
+        "editorial_title": "حق‌الزحمه حرفه‌ای",
+        "article_text": "روان‌شناس در آغاز رابطه درباره همه امور مربوط به حق‌الزحمه حرفه‌ای توافق می‌کند. میزان آن در هر حال باید متناسب با اهمیت کار باشد. در حوزه بالینی، حق‌الزحمه نباید به پیامد یا نتیجه مداخله حرفه‌ای مشروط شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "حق‌الزحمه از ابتدا روشن می‌شود، با اهمیت کار تناسب دارد و در کار بالینی به نتیجه وابسته نیست.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "حق‌الزحمه حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "importanza-opera", "surface": "اهمیت کار", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-condizionato-esito", "surface": "حق‌الزحمه نباید به پیامد یا نتیجه", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 24,
+      "localized": {
+        "editorial_title": "اطلاعات آغازین و رضایت آگاهانه",
+        "article_text": "روان‌شناس در آغاز رابطه حرفه‌ای، به فرد، گروه، مؤسسه یا جامعه، خواه خدمت‌گیرنده باشند یا سفارش‌دهنده، اطلاعات کافی و قابل فهمی درباره خدمات، اهداف و شیوه انجام آن‌ها و نیز دامنه و حدود قانونی محرمانگی ارائه می‌کند. به‌گونه‌ای عمل می‌کند که شخص صاحب حق بتواند رضایت آگاهانه خود را اعلام کند. اگر خدمت در طول زمان ادامه دارد، در صورت امکان مدت قابل پیش‌بینی آن را نیز بیان می‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "رضایت به توضیح قابل فهم نیاز دارد: چه کاری، با چه هدف و روشی، با چه حدود محرمانگی و تقریباً برای چه مدتی انجام می‌شود.",
+        "glossary_annotations": [
+          {"glossary_id": "utente", "surface": "خدمت‌گیرنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "سفارش‌دهنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-giuridici-riservatezza", "surface": "حدود قانونی محرمانگی", "match_method": "human_authored_exact"},
+          {"glossary_id": "chi-ne-ha-diritto", "surface": "شخص صاحب حق", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-informato", "surface": "رضایت آگاهانه", "match_method": "human_authored_exact"},
+          {"glossary_id": "prevedibile-durata", "surface": "مدت قابل پیش‌بینی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 25,
+      "localized": {
+        "editorial_title": "کاربرد ابزارهای تشخیص و ارزیابی و انتقال نتایج",
+        "article_text": "روان‌شناس از ابزارهای تشخیص و ارزیابی در اختیار خود استفاده نادرست نمی‌کند. در مداخله‌ای که شخص ثالث سفارش داده است، افراد را از ماهیت مداخله حرفه‌ای آگاه می‌سازد و اطلاعاتی را که ممکن است به آنان زیان برساند جز در حدود مأموریت دریافتی به کار نمی‌گیرد. هنگام انتقال نتایج مداخلات تشخیصی و ارزیابی، شیوه ارتباط را با توجه به حمایت روان‌شناختی از اشخاص تنظیم می‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ابزار، داده و نتیجه فقط برای هدف مشروع مأموریت به کار می‌رود و طوری منتقل می‌شود که آسیب قابل پیشگیری ایجاد نکند.",
+        "glossary_annotations": [
+          {"glossary_id": "strumenti-diagnosi-valutazione", "surface": "ابزارهای تشخیص و ارزیابی", "match_method": "human_authored_exact"},
+          {"glossary_id": "limiti-del-mandato", "surface": "حدود مأموریت دریافتی", "match_method": "human_authored_exact"},
+          {"glossary_id": "pregiudizio", "surface": "زیان", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "حمایت روان‌شناختی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 26,
+      "localized": {
+        "editorial_title": "خودداری به علت تعارض شخصی یا رابطه پیشین",
+        "article_text": "روان‌شناس از آغاز یا ادامه هر فعالیت حرفه‌ای خودداری می‌کند اگر مشکلات یا تعارض‌های شخصی او، با اخلال در اثربخشی خدمت، آن را برای مخاطبان نامناسب یا زیان‌بار کند. همچنین از پذیرش نقش حرفه‌ای یا انجام مداخله برای خدمت‌گیرندگان، حتی به درخواست مقام قضایی، می‌پرهیزد اگر ماهیت روابط پیشین بتواند اعتبار و اثربخشی او را مخدوش کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "اگر مشکل شخصی یا رابطه قبلی اثربخشی، اعتبار یا ایمنی کار را به خطر می‌اندازد، روان‌شناس باید کنار بکشد.",
+        "glossary_annotations": [
+          {"glossary_id": "astensione-professionale", "surface": "خودداری می‌کند", "match_method": "human_authored_exact"},
+          {"glossary_id": "problemi-conflitti-personali", "surface": "مشکلات یا تعارض‌های شخصی", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-giudiziaria", "surface": "مقام قضایی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 27,
+      "localized": {
+        "editorial_title": "پایان درمانِ بدون فایده",
+        "article_text": "روان‌شناس رابطه درمانی را ارزیابی و در صورت لزوم پایان آن را پیشنهاد می‌کند، هرگاه تشخیص دهد بیمار از درمان سودی نمی‌برد و به‌طور معقول نیز قابل پیش‌بینی نیست که با ادامه درمان سود ببرد. در صورت درخواست، اطلاعات لازم برای یافتن مداخلات دیگر و مناسب‌تر را در اختیار بیمار می‌گذارد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "درمانی که فایده قابل پیش‌بینی ندارد نباید بی‌دلیل ادامه پیدا کند؛ پایان کار باید با راهنمایی برای گزینه مناسب همراه باشد.",
+        "glossary_annotations": [
+          {"glossary_id": "rapporto-terapeutico", "surface": "رابطه درمانی", "match_method": "human_authored_exact"},
+          {"glossary_id": "ragionevolmente-prevedibile-beneficio", "surface": "به‌طور معقول نیز قابل پیش‌بینی", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "بیمار", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 28,
+      "localized": {
+        "editorial_title": "مرز نقش حرفه‌ای و زندگی خصوصی",
+        "article_text": "روان‌شناس از درهم‌آمیختن نقش حرفه‌ای و زندگی خصوصی، هرگاه موجب اخلال در فعالیت حرفه‌ای یا لطمه به تصویر اجتماعی حرفه شود، پرهیز می‌کند. انجام تشخیص، حمایت روان‌شناختی یا روان‌درمانی برای اشخاصی که روان‌شناس با آنان رابطه شخصی مهم، به‌ویژه رابطه عاطفی یا جنسی، داشته یا دارد تخلف جدی اخلاق حرفه‌ای است؛ برقراری چنین رابطه‌ای در جریان رابطه حرفه‌ای نیز تخلف جدی محسوب می‌شود. هر فعالیتی که به سبب رابطه حرفه‌ای برای او منافع ناروا مستقیم یا غیرمستقیم، مالی یا غیرمالی، ایجاد کند ممنوع است، جز حق‌الزحمه حرفه‌ای مورد توافق. روان‌شناس موقعیت حرفه‌ای خود را در برابر همکاران تحت نظارت و کارورزان برای هدفی خارج از رابطه حرفه‌ای به کار نمی‌گیرد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "رابطه شخصی مهم و منفعت خصوصی با مرزها و نابرابری قدرت در نقش حرفه‌ای سازگار نیست.",
+        "glossary_annotations": [
+          {"glossary_id": "commistioni-ruolo-vita-privata", "surface": "درهم‌آمیختن نقش حرفه‌ای و زندگی خصوصی", "match_method": "human_authored_exact"},
+          {"glossary_id": "nocumento", "surface": "لطمه", "match_method": "human_authored_exact"},
+          {"glossary_id": "relazioni-significative-personali", "surface": "رابطه شخصی مهم", "match_method": "human_authored_exact"},
+          {"glossary_id": "vantaggi-indebiti", "surface": "منافع ناروا", "match_method": "human_authored_exact"},
+          {"glossary_id": "patrimoniale-non-patrimoniale", "surface": "مالی یا غیرمالی", "match_method": "human_authored_exact"},
+          {"glossary_id": "compenso-professionale", "surface": "حق‌الزحمه حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "supervisione", "surface": "تحت نظارت", "match_method": "human_authored_exact"},
+          {"glossary_id": "tirocinanti", "surface": "کارورزان", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

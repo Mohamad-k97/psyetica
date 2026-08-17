@@ -1,0 +1,1794 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Localized glossary bridge - Persian",
+  "language": "fa",
+  "direction": "rtl",
+  "source_language": "it",
+  "source_file": "data/glossary.it.json",
+  "translation_route": [
+    "it",
+    "en",
+    "fa"
+  ],
+  "translation_status": "machine_draft_needs_native_legal_review",
+  "popup_behavior": "Highlighted localized terms open the Italian surface, Italian lemma, and Italian editorial definition.",
+  "entries": [
+    {
+      "id": "codice-deontologico",
+      "term": "نظام‌نامه اخلاق حرفه‌ای",
+      "italian_lemma": "Codice deontologico",
+      "italian_definition": "Insieme delle regole professionali vincolanti per chi è iscritto all'Albo degli psicologi, la cui inosservanza può avere conseguenze disciplinari.",
+      "localized_explanation": "همراه با قوانین حرفه ای الزام آور برای کسانی که در ثبت روان شناسان ثبت نام می کنند، که بی قید و شرط بودن آنها ممکن است عواقب انضباطی داشته باشد.",
+      "related_articles": [
+        1,
+        2,
+        6,
+        41,
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "albo-degli-psicologi",
+      "term": "روانشناسی Albo",
+      "italian_lemma": "Albo degli psicologi",
+      "italian_definition": "Registro pubblico professionale nel quale l'iscrizione abilita all'uso del relativo titolo e comporta l'assoggettamento alle regole ordinistiche.",
+      "localized_explanation": "ثبت عمومی حرفه ای که در آن ثبت نام اجازه می دهد تا استفاده از عنوان مربوطه و شامل در معرض قوانین سفارش.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-disciplinare",
+      "term": "مسئولیت انضباطی",
+      "italian_lemma": "responsabilità disciplinare",
+      "italian_definition": "Responsabilità dell'iscritto per la violazione di regole professionali, accertata secondo il procedimento disciplinare applicabile.",
+      "localized_explanation": "مسئولیت عضو برای نقض قوانین حرفه ای، با توجه به روش انضباطی قابل اجرا مشخص شده است.",
+      "related_articles": [
+        1
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "principi-deontologici",
+      "term": "اصول اخلاق حرفه‌ای",
+      "italian_lemma": "principi deontologici",
+      "italian_definition": "Principi e criteri professionali che orientano il comportamento dello psicologo e la comprensione delle regole del Codice.",
+      "localized_explanation": "اصول و معیارهای حرفه ای که رفتار روان شناس و درک قوانین کد را هدایت می کنند.",
+      "related_articles": [
+        20
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "illecito-disciplinare",
+      "term": "تخلف انضباطی",
+      "italian_lemma": "illecito disciplinare",
+      "italian_definition": "Condotta o omissione professionalmente censurabile secondo il Codice e l'ordinamento disciplinare.",
+      "localized_explanation": "انجام یا حذف حرفه ای سانسور با توجه به کد و نظم انضباطی.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "regolamento-disciplinare",
+      "term": "مقررات انضباطی",
+      "italian_lemma": "Regolamento disciplinare",
+      "italian_definition": "Atto che disciplina fasi, competenze e garanzie del procedimento con cui vengono valutate le contestazioni deontologiche.",
+      "localized_explanation": "مراحل حاکم، مهارت ها و تضمین های روش که در آن اختلافات دینی ارزیابی می شود.",
+      "related_articles": [
+        2
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "decoro-professionale",
+      "term": "دکوراسیون حرفه ای",
+      "italian_lemma": "decoro professionale",
+      "italian_definition": "Criterio aperto che richiede una condotta seria, corretta e compatibile con la fiducia pubblica nella professione; va applicato considerando contesto e proporzionalità.",
+      "localized_explanation": "سیاست باز نیازمند رفتار جدی، صحیح و سازگار با اعتماد عمومی به نفس در حرفه است؛ باید در زمینه و تناسب اعمال شود.",
+      "related_articles": [
+        2,
+        36,
+        38,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "dignita-professionale",
+      "term": "حرفه ای",
+      "italian_lemma": "dignità professionale",
+      "italian_definition": "Valore legato all'integrità del ruolo e alla sua funzione sociale, non al prestigio personale del professionista.",
+      "localized_explanation": "ارزش مربوط به یکپارچگی نقش و عملکرد اجتماعی آن، نه به اعتبار شخصی حرفه ای.",
+      "related_articles": [
+        2,
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "responsabilita-sociale",
+      "term": "مسئولیت اجتماعی",
+      "italian_lemma": "responsabilità sociale",
+      "italian_definition": "Consapevolezza che l'attività psicologica può incidere sulle persone e sulla collettività e deve considerare anche fattori sociali, organizzativi, finanziari e politici.",
+      "localized_explanation": "آگاهی از اینکه فعالیت های روانشناختی می تواند بر مردم و جامعه تأثیر بگذارد و همچنین باید عوامل اجتماعی، سازمانی، مالی و سیاسی را در نظر بگیرد.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "atti-professionali",
+      "term": "فعالیت های حرفه ای",
+      "italian_lemma": "atti professionali",
+      "italian_definition": "Azioni compiute nell'esercizio del ruolo professionale e imputabili allo psicologo.",
+      "localized_explanation": "اقدامات انجام شده در ورزش نقش حرفه ای و مربوط به روانشناس.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conseguenze-prevedibili-dirette",
+      "term": "عواقب مستقیم پیش بینی شده",
+      "italian_lemma": "prevedibili dirette conseguenze",
+      "italian_definition": "Effetti direttamente collegati all'atto professionale che erano ragionevolmente anticipabili nelle circostanze concrete.",
+      "localized_explanation": "اثرات به طور مستقیم با عمل حرفه ای که به طور منطقی در شرایط خاص پیش بینی شده بود، مرتبط است.",
+      "related_articles": [
+        3
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "riservatezza",
+      "term": "محرمانگی",
+      "italian_lemma": "riservatezza",
+      "italian_definition": "Protezione delle informazioni e della sfera privata della persona, più ampia della sola regola sul non rivelare il segreto professionale.",
+      "localized_explanation": "حفاظت از اطلاعات و حوزه خصوصی فرد، گسترده تر از قانون عدم افشای حریم خصوصی حرفه ای است.",
+      "related_articles": [
+        4,
+        9,
+        13,
+        14,
+        24,
+        25,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autodeterminazione",
+      "term": "خود تعیین سرنوشت",
+      "italian_lemma": "autodeterminazione",
+      "italian_definition": "Diritto e capacità della persona di partecipare alle decisioni che la riguardano sulla base di informazioni adeguate e senza coercizioni indebite.",
+      "localized_explanation": "حق و توانایی فرد برای شرکت در تصمیم گیری های مربوط به او بر اساس اطلاعات کافی و بدون اجبار بدون اجبار.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-persona",
+      "term": "استقلال فرد",
+      "italian_lemma": "autonomia della persona",
+      "italian_definition": "Possibilità della persona di formare e attuare scelte proprie, distinta dall'autonomia tecnica del professionista.",
+      "localized_explanation": "امکان فرد برای شکل دادن و پیاده سازی انتخاب های خود، متمایز از استقلال فنی حرفه ای.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conflitto-di-interesse",
+      "term": "تعارض منافع",
+      "italian_lemma": "conflitto di interesse",
+      "italian_definition": "Situazione in cui interessi, doveri o lealtà concorrenti possono interferire con la tutela dovuta o con l'indipendenza del giudizio professionale.",
+      "localized_explanation": "شرایطی که در آن منافع، وظایف یا قانون رقابت ممکن است با حمایت از حرفه یا استقلال قضاوت حرفه ای تداخل داشته باشد.",
+      "related_articles": [
+        4
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "destinatario-prestazione",
+      "term": "دریافت کننده سود",
+      "italian_lemma": "destinatario della prestazione",
+      "italian_definition": "Persona o soggetto verso cui l'intervento professionale è concretamente rivolto; può non coincidere con chi lo commissiona o lo paga.",
+      "localized_explanation": "شخص یا موضوعی که مداخله حرفه ای به طور مشخص مورد توجه قرار می گیرد؛ ممکن است با کسی که آن را اداره می کند یا پرداخت نمی کند، همزمان نباشد.",
+      "related_articles": [
+        3,
+        4,
+        11,
+        12,
+        16,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "committente",
+      "term": "پیمانکار پیمانکار پیمانکار",
+      "italian_lemma": "committente",
+      "italian_definition": "Soggetto che richiede o conferisce l'incarico professionale; non coincide necessariamente con chi riceve la prestazione o con chi paga.",
+      "localized_explanation": "موضوع نیاز به یا کنفرانس حرفه ای؛ لزوما با کسی که عملکرد را دریافت می کند یا چه کسی پرداخت می کند، هماهنگ نیست.",
+      "related_articles": [
+        3,
+        4,
+        24,
+        25,
+        32,
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "utente",
+      "term": "کاربر",
+      "italian_lemma": "utente",
+      "italian_definition": "Persona o soggetto che utilizza o riceve un servizio; nel Codice può affiancarsi a cliente, paziente, committente o destinatario senza coincidere sempre con essi.",
+      "localized_explanation": "شخص یا موضوعی که از یک سرویس استفاده می کند یا دریافت می کند؛ در کد می تواند با مشتری، بیمار، مشتری یا گیرنده همراه باشد بدون اینکه همیشه آنها را تطبیق دهد.",
+      "related_articles": [
+        3,
+        4,
+        5,
+        24,
+        36,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "cliente",
+      "term": "مشتری مشتری مشتری",
+      "italian_lemma": "cliente",
+      "italian_definition": "Soggetto che instaura un rapporto professionale con lo psicologo; nel Codice il termine non identifica sempre il paziente o destinatario.",
+      "localized_explanation": "موضوع ایجاد یک رابطه حرفه ای با روانشناس؛ در کد، این اصطلاح همیشه بیمار یا گیرنده را شناسایی نمی کند.",
+      "related_articles": [
+        3,
+        5,
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "paziente",
+      "term": "بیمار",
+      "italian_lemma": "paziente",
+      "italian_definition": "Persona che riceve una prestazione di cura o un intervento clinico; il termine è più specifico di utente o cliente.",
+      "localized_explanation": "فرد دریافت کننده درمان یا مداخله بالینی؛ این اصطلاح خاص تر از کاربر یا مشتری است.",
+      "related_articles": [
+        18,
+        27,
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-professionale",
+      "term": "آموزش حرفه ای",
+      "italian_lemma": "rapporto professionale",
+      "italian_definition": "Relazione regolata da un incarico o da una prestazione psicologica, dalla quale derivano ruoli, doveri e limiti professionali.",
+      "localized_explanation": "گزارش تنظیم شده توسط یک موقعیت یا عملکرد روانشناختی، که از آن نقش ها، وظایف و محدودیت های حرفه ای ایجاد می شود.",
+      "related_articles": [
+        11,
+        12,
+        17,
+        24,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "competenza-professionale",
+      "term": "صلاحیت حرفه‌ای",
+      "italian_lemma": "competenza professionale",
+      "italian_definition": "Capacità effettiva di svolgere un compito con conoscenze, abilità, esperienza e giudizio adeguati al caso, distinta dal solo possesso di un titolo.",
+      "localized_explanation": "توانایی موثر برای انجام یک کار با دانش، مهارت ها، تجربه و قضاوت مناسب برای مورد، متمایز از مالکیت یک عنوان.",
+      "related_articles": [
+        5,
+        6,
+        19,
+        33,
+        37,
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-continua",
+      "term": "آموزش مداوم",
+      "italian_lemma": "formazione continua",
+      "italian_definition": "Aggiornamento professionale svolto lungo l'esercizio della professione secondo gli obblighi dell'ordinamento applicabile.",
+      "localized_explanation": "به روز رسانی حرفه ای در طول تمرین حرفه با توجه به تعهدات سفارش قابل اجرا انجام شد.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-teorico-pratici",
+      "term": "ابزار نظری و عملی",
+      "italian_lemma": "strumenti teorico-pratici",
+      "italian_definition": "Modelli, metodi, tecniche e strumenti operativi impiegati nella pratica psicologica.",
+      "localized_explanation": "مدل ها، روش ها، تکنیک ها و ابزارهای عملیاتی مورد استفاده در عمل روان شناختی.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formale-autorizzazione",
+      "term": "مجوز رسمی",
+      "italian_lemma": "formale autorizzazione",
+      "italian_definition": "Titolo, abilitazione, riconoscimento o altro requisito giuridicamente richiesto per una specifica attività, quando previsto.",
+      "localized_explanation": "عنوان، صلاحیت، شناخت یا سایر الزامات قانونی برای یک فعالیت خاص، در صورت لزوم.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aspettative-infondate",
+      "term": "انتظارات بی پایه",
+      "italian_lemma": "aspettative infondate",
+      "italian_definition": "Attese di risultati, efficacia o capacità professionali che non hanno un supporto adeguato nelle conoscenze e nelle circostanze disponibili.",
+      "localized_explanation": "انتظارات از نتایج، اثربخشی یا مهارت های حرفه ای که پشتیبانی کافی در دانش و شرایط موجود ندارند.",
+      "related_articles": [
+        5
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autonomia-professionale",
+      "term": "استقلال حرفه‌ای",
+      "italian_lemma": "autonomia professionale",
+      "italian_definition": "Indipendenza tecnica e deontologica dello psicologo nella scelta e nell'uso responsabile di metodi, tecniche, strumenti e valutazioni.",
+      "localized_explanation": "استقلال فنی و غیر کلامی روان شناس در انتخاب و استفاده از مسئول روش ها، تکنیک ها، ابزارها و ارزیابی ها.",
+      "related_articles": [
+        6,
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "validita",
+      "term": "اعتبار",
+      "italian_lemma": "validità",
+      "italian_definition": "Grado in cui informazioni, strumenti o conclusioni sostengono realmente l'interpretazione o l'uso che se ne fa.",
+      "localized_explanation": "درجه که در آن اطلاعات، ابزارها یا نتیجه گیری ها واقعا از تفسیر یا استفاده از آن پشتیبانی می کنند.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "attendibilita",
+      "term": "قابلیت اطمینان",
+      "italian_lemma": "attendibilità",
+      "italian_definition": "Affidabilità di informazioni, dati, fonti o documentazione rispetto alla decisione professionale da assumere.",
+      "localized_explanation": "قابلیت اطمینان از اطلاعات، داده ها، منابع یا اسناد مربوط به تصمیم حرفه ای گرفته می شود.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ipotesi-interpretative-alternative",
+      "term": "فرضیه های تفسیر جایگزین",
+      "italian_lemma": "ipotesi interpretative alternative",
+      "italian_definition": "Spiegazioni diverse plausibili che devono essere considerate quando dati e contesto non consentono una conclusione unica.",
+      "localized_explanation": "توضیحات قابل قبول مختلف که باید در نظر گرفته شود زمانی که داده ها و زمینه اجازه نمی دهند یک نتیجه منحصر به فرد.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "conoscenza-professionale-diretta",
+      "term": "دانش حرفه ای مستقیم",
+      "italian_lemma": "conoscenza professionale diretta",
+      "italian_definition": "Conoscenza acquisita personalmente dallo psicologo mediante attività professionali pertinenti sul caso.",
+      "localized_explanation": "دانش شخصا توسط روانشناس از طریق فعالیت های حرفه ای مربوطه در مورد به دست آورد.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-adeguata-attendibile",
+      "term": "مستندات کافی و قابل اعتماد",
+      "italian_lemma": "documentazione adeguata ed attendibile",
+      "italian_definition": "Materiale sufficientemente pertinente, completo e affidabile per sostenere la specifica valutazione formulata.",
+      "localized_explanation": "ماده به اندازه کافی مرتبط، کامل و قابل اعتماد برای حمایت از ارزیابی خاص فرموله شده است.",
+      "related_articles": [
+        7
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "esercizio-abusivo",
+      "term": "اشتغال غیرمجاز به حرفه",
+      "italian_lemma": "esercizio abusivo della professione",
+      "italian_definition": "Svolgimento senza i requisiti richiesti di attività riservate dalla legge a una professione abilitata.",
+      "localized_explanation": "درخواست بدون نیاز به فعالیت های لازم که توسط قانون به یک حرفه مجاز اختصاص داده شده است.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "usurpazione-di-titolo",
+      "term": "انتحال عنوان حرفه‌ای",
+      "italian_lemma": "usurpazione di titolo",
+      "italian_definition": "Uso indebito di un titolo o qualità professionale che non spetta alla persona.",
+      "localized_explanation": "استفاده بی وقفه از عنوان حرفه ای یا کیفیت که مسئولیت فرد نیست.",
+      "related_articles": [
+        8
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "previo-consenso-informato",
+      "term": "رضایت آگاهانه قبلی",
+      "italian_lemma": "previo consenso informato",
+      "italian_definition": "Decisione libera e informata espressa prima dell'attività cui si riferisce, dopo informazioni adeguate.",
+      "localized_explanation": "یک تصمیم آزاد و آگاهانه قبل از فعالیت ذکر شده در این گزارش، پس از اطلاعات کافی، بیان شده است.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ritiro-del-consenso",
+      "term": "رضایت خود را از دست بدهید",
+      "italian_lemma": "ritirare il consenso",
+      "italian_definition": "Revocare per il futuro il consenso precedentemente espresso, secondo le regole applicabili all'attività e ai dati già raccolti.",
+      "localized_explanation": "برای آینده رضایت قبلی را با توجه به قوانین قابل اجرا در فعالیت و داده های جمع آوری شده در حال حاضر.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorizzazione-uso-dati",
+      "term": "مجوز استفاده از داده های جمع آوری شده",
+      "italian_lemma": "autorizzazione all'uso dei dati raccolti",
+      "italian_definition": "Assenso richiesto dall'art. 9 dopo il debriefing quando alcuni aspetti della ricerca non potevano essere spiegati correttamente in anticipo.",
+      "localized_explanation": "آسسنوس مورد نیاز هنر 9 پس از حذف زمانی که برخی از جنبه های تحقیق را نمی توان به درستی توضیح داد.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "potesta-genitoriale",
+      "term": "ولایت والدین",
+      "italian_lemma": "potestà genitoriale",
+      "italian_definition": "Espressione storica conservata nel testo ufficiale; nella terminologia giuridica italiana corrente è stata sostituita da responsabilità genitoriale.",
+      "localized_explanation": "بیان تاریخی حفظ شده در متن رسمی؛ در شرایط فعلی قانونی با مسئولیت والدین جایگزین شده است.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-giuridica",
+      "term": "حفاظت از حفاظت",
+      "italian_lemma": "tutela",
+      "italian_definition": "Istituto di protezione e rappresentanza previsto per persone che non possono provvedere autonomamente ai propri interessi nei casi stabiliti dalla legge.",
+      "localized_explanation": "موسسه حفاظت و نمایندگی برای افرادی که نمی توانند به طور مستقل منافع خود را در مواردی که توسط قانون ایجاد شده اند، ارائه دهند.",
+      "related_articles": [
+        9,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "non-riconoscibilita",
+      "term": "عدم توانایی",
+      "italian_lemma": "non riconoscibilità",
+      "italian_definition": "Condizione per cui una persona non può essere individuata neppure combinando i dettagli messi a disposizione.",
+      "localized_explanation": "شرایطی که یک فرد حتی با ترکیب جزئیات موجود نمی تواند شناسایی شود.",
+      "related_articles": [
+        9
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "anonimato",
+      "term": "ناشناس بودن",
+      "italian_lemma": "anonimato",
+      "italian_definition": "Condizione nella quale l'identità del soggetto non è ricavabile dalle informazioni disponibili con mezzi ragionevoli.",
+      "localized_explanation": "شرایطی که هویت موضوع از اطلاعات موجود با ابزار معقول قابل دستیابی نیست.",
+      "related_articles": [
+        9,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "segreto-professionale",
+      "term": "رازداری حرفه‌ای",
+      "italian_lemma": "segreto professionale",
+      "italian_definition": "Dovere dello psicologo di non rivelare informazioni apprese in ragione del rapporto professionale, salvo le deroghe o gli obblighi previsti.",
+      "localized_explanation": "روانشناس نباید اطلاعات آموخته شده را در پرتو رابطه حرفه ای فاش کند، مگر به استثنای استثناها یا تعهدات ارائه شده.",
+      "related_articles": [
+        11,
+        12,
+        15,
+        16
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rendere-testimonianza",
+      "term": "شهدا",
+      "italian_lemma": "rendere testimonianza",
+      "italian_definition": "Deporre come testimone davanti all'autorità su fatti conosciuti, qui con specifico riferimento a quelli appresi nel rapporto professionale.",
+      "localized_explanation": "با قرار دادن به عنوان یک شاهد قبل از اقتدار در حقایق شناخته شده، در اینجا با مرجع خاص به کسانی که در رابطه حرفه ای آموخته شده است.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "deroga-segreto",
+      "term": "معافیت از تعهد برای حفظ حریم خصوصی حرفه ای",
+      "italian_lemma": "derogare all'obbligo di mantenere il segreto professionale",
+      "italian_definition": "Eccezione motivata alla regola di segretezza entro presupposti, destinatari e limiti specifici.",
+      "localized_explanation": "استثنا به قانون محرمانه در فرضیات خاص، دریافت کنندگان و محدودیت ها.",
+      "related_articles": [
+        12,
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-valido-dimostrabile",
+      "term": "رضایت و اثبات",
+      "italian_lemma": "valido e dimostrabile consenso",
+      "italian_definition": "Consenso espresso da chi è legittimato, libero, informato, pertinente alla comunicazione e documentabile.",
+      "localized_explanation": "کسانی که به صورت قانونی، آزاد، مطلع، مرتبط با ارتباطات و سنددار بیان می شوند.",
+      "related_articles": [
+        12
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tutela-psicologica",
+      "term": "حمایت روانشناختی",
+      "italian_lemma": "tutela psicologica",
+      "italian_definition": "Protezione del benessere e dell'integrità psicologica della persona nel modo in cui si decide, comunica o conclude un intervento.",
+      "localized_explanation": "حفاظت از رفاه و یکپارچگی روانی فرد در راه تصمیم گیری، برقراری ارتباط یا پایان دادن به مداخله.",
+      "related_articles": [
+        12,
+        13,
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-referto",
+      "term": "تکلیف قانونی به ارائه گزارش حرفه‌ای",
+      "italian_lemma": "obbligo di referto",
+      "italian_definition": "Obbligo previsto dalla legge per l'esercente una professione sanitaria che presta assistenza od opera in casi che possono presentare i caratteri di un delitto perseguibile d'ufficio, con eccezioni e condizioni da verificare.",
+      "localized_explanation": "رعایت قانون برای ورزش حرفه ای بهداشتی که در مواردی که ممکن است شخصیت های یک جرم آزار دهنده از دفتر را ارائه دهد، با استثنائات و شرایط بررسی می شود.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "obbligo-denuncia",
+      "term": "تکلیف قانونی به اعلام جرم",
+      "italian_lemma": "obbligo di denuncia",
+      "italian_definition": "Obbligo legale di comunicare una notizia di reato nei casi e per i soggetti individuati dalla legge, distinto dal referto.",
+      "localized_explanation": "تعهد قانونی برای برقراری خبر از جرم در موارد و برای موضوعاتی که توسط قانون مشخص شده اند، از گزارش متمایز است.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "stretto-necessario",
+      "term": "حد اقل کاملاً ضروری",
+      "italian_lemma": "stretto necessario",
+      "italian_definition": "Solo le informazioni indispensabili per lo scopo giuridicamente o professionalmente legittimo della comunicazione.",
+      "localized_explanation": "تنها اطلاعات لازم برای هدف قانونی یا حرفه ای مشروع ارتباطات.",
+      "related_articles": [
+        13,
+        15
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "gravi-pericoli",
+      "term": "خطرات جدی برای زندگی یا سلامت روانپریشی",
+      "italian_lemma": "gravi pericoli per la vita o per la salute psicofisica",
+      "italian_definition": "Rischi seri per vita o salute fisica e psicologica che richiedono una valutazione concreta di gravità, probabilità, urgenza e alternative.",
+      "localized_explanation": "خطرات جدی برای زندگی فیزیکی و روانی یا سلامتی که نیاز به ارزیابی دقیق از گرانش، احتمال، فوریت و جایگزین دارد.",
+      "related_articles": [
+        13
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "custodia-controllo",
+      "term": "بازداشت و کنترل",
+      "italian_lemma": "custodia e controllo",
+      "italian_definition": "Misure organizzative, fisiche e digitali con cui lo psicologo protegge documenti e comunicazioni da accessi, perdite o usi non autorizzati.",
+      "localized_explanation": "اقدامات سازمانی، فیزیکی و دیجیتالی که روان شناس با آن از اسناد و ارتباطات از دسترسی غیر مجاز، زیان یا استفاده محافظت می کند.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "documentazione-professionale",
+      "term": "مستند حرفه ای",
+      "italian_lemma": "documentazione professionale",
+      "italian_definition": "Appunti, note, scritti, registrazioni e altri materiali riguardanti il rapporto professionale, indipendentemente dal supporto.",
+      "localized_explanation": "یادداشت ها، یادداشت ها، نوشته ها، ضبط ها و سایر مواد مربوط به رابطه حرفه ای، صرف نظر از حمایت.",
+      "related_articles": [
+        17
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "liberta-di-scelta",
+      "term": "آزادی انتخاب",
+      "italian_lemma": "libertà di scelta",
+      "italian_definition": "Possibilità concreta del cliente o paziente di scegliere il professionista senza pressioni indebite, nei limiti reali e legittimi del contesto.",
+      "localized_explanation": "مشتری یا بیمار می تواند حرفه ای را بدون فشار بدون فشار بدون سر و صدا، در محدوده واقعی و قانونی متن انتخاب کند.",
+      "related_articles": [
+        18
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "avallare",
+      "term": "Avalanche",
+      "italian_lemma": "avallare",
+      "italian_definition": "Dare appoggio, legittimazione o copertura professionale a un'attività, decisione o qualifica.",
+      "localized_explanation": "برای حمایت، مشروعیت یا پوشش یک شغل، تصمیم یا صلاحیت.",
+      "related_articles": [
+        8,
+        19,
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualificazione-preparazione",
+      "term": "صلاحیت، صلاحیت یا آمادگی",
+      "italian_lemma": "competenza, qualificazione o preparazione",
+      "italian_definition": "Criteri professionali pertinenti ai requisiti effettivi da valutare, distinti da preferenze o pressioni estranee.",
+      "localized_explanation": "معیارهای حرفه ای مربوط به الزامات واقعی مورد ارزیابی، متمایز با ترجیحات خارجی یا فشارهای.",
+      "related_articles": [
+        19
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-riservati",
+      "term": "ابزارها و تکنیک های دانش و مداخله رزرو شده",
+      "italian_lemma": "strumenti e tecniche conoscitive e di intervento riservati",
+      "italian_definition": "Strumenti e tecniche la cui utilizzazione operativa rientra nelle attività caratteristiche o riservate della professione psicologica.",
+      "localized_explanation": "ابزار و تکنیک هایی که استفاده عملیاتی آنها در فعالیت های مشخص یا رزرو شده حرفه ای روان شناختی قرار می گیرد.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-estranee-professione",
+      "term": "افراد خارجی به حرفه",
+      "italian_lemma": "persone estranee alla professione",
+      "italian_definition": "Persone che non appartengono alla professione abilitata cui sono riservati gli strumenti o le tecniche in questione, salve le eccezioni formative espresse.",
+      "localized_explanation": "افرادی که به حرفه ای که ابزار یا تکنیک های مورد نظر را در نظر می گیرند، به جز استثناهای آموزش، تعلق ندارند.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "aggravante",
+      "term": "تشدید تنش",
+      "italian_lemma": "aggravante",
+      "italian_definition": "Circostanza che rende più grave una condotta disciplinarmente rilevante e può incidere sulla sua valutazione e sanzione.",
+      "localized_explanation": "احتیاط که رفتار جدی تری را به صورت انضباطی مرتبط می سازد و می تواند بر ارزیابی و تحریم آن تأثیر بگذارد.",
+      "related_articles": [
+        21,
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "qualifiche-attestati",
+      "term": "مدارک، گواهی",
+      "italian_lemma": "qualifiche, attestati",
+      "italian_definition": "Denominazioni o documenti che dichiarano formazione o capacità; non equivalgono necessariamente a un titolo abilitante.",
+      "localized_explanation": "نام یا اسنادی که آموزش یا ظرفیت را اعلام می کنند؛ آنها لزوماً با یک عنوان توانمند مطابقت ندارند.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "processi-psichici",
+      "term": "فرآیندهای روانپزشکی",
+      "italian_lemma": "processi psichici",
+      "italian_definition": "Processi relazionali, emotivi, cognitivi e comportamentali considerati attraverso principi, modelli o costrutti psicologici.",
+      "localized_explanation": "رابطه، فرآیندهای عاطفی، شناختی و رفتاری که از طریق اصول روانشناختی، مدل ها یا سازه ها در نظر گرفته می شود.",
+      "related_articles": [
+        21
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "condotte-non-lesive",
+      "term": "رفتار غیر زنده",
+      "italian_lemma": "condotte non lesive",
+      "italian_definition": "Comportamenti professionali orientati a evitare danni ingiustificati o prevedibili alle persone seguite, tenendo conto di rischi e benefici.",
+      "localized_explanation": "رفتارهای حرفه ای با هدف جلوگیری از آسیب ناعادلانه یا قابل پیش بینی به افراد دنبال شده، با در نظر گرفتن خطرات و مزایای.",
+      "related_articles": [
+        10,
+        22
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "vantaggi-indebiti",
+      "term": "مزایای غیر ضروری",
+      "italian_lemma": "indebiti vantaggi",
+      "italian_definition": "Utilità patrimoniali o non patrimoniali ottenute senza giustificazione professionale, sfruttando ruolo, strumenti o rapporto.",
+      "localized_explanation": "دارایی ها یا دارایی های غیر سرمایه ای که بدون توجیه حرفه ای به دست آمده اند، از نقش، ابزار یا رابطه بهره برداری می کنند.",
+      "related_articles": [
+        22,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-professionale",
+      "term": "جبران حرفه ای",
+      "italian_lemma": "compenso professionale",
+      "italian_definition": "Corrispettivo economico pattuito per le prestazioni professionali rese.",
+      "localized_explanation": "توجه اقتصادی به عملکرد حرفه ای",
+      "related_articles": [
+        23,
+        28,
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "importanza-opera",
+      "term": "اهمیت کار",
+      "italian_lemma": "importanza dell'opera",
+      "italian_definition": "Rilievo, complessità, responsabilità e caratteristiche dell'attività professionale cui deve essere rapportata la misura del compenso.",
+      "localized_explanation": "امداد، پیچیدگی، مسئولیت و ویژگی های فعالیت حرفه ای که در آن اندازه گیری جبران باید مرتبط باشد.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "compenso-condizionato-esito",
+      "term": "جبران خسارت به نتیجه یا نتایج",
+      "italian_lemma": "compenso condizionato all'esito o ai risultati",
+      "italian_definition": "Compenso la cui debenza o misura dipende dal raggiungimento dell'esito concordato; il testo lo vieta espressamente in ambito clinico.",
+      "localized_explanation": "جبران خسارت یا اندازه گیری آن بستگی به موفقیت نتیجه توافق شده دارد. متن به طور واضح آن را در زمینه بالینی ممنوع می کند.",
+      "related_articles": [
+        23
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consenso-informato",
+      "term": "رضایت آگاهانه",
+      "italian_lemma": "consenso informato",
+      "italian_definition": "Decisione libera e consapevole di chi ne ha diritto, fondata su informazioni adeguate e comprensibili circa prestazione, finalità, modalità e limiti pertinenti.",
+      "localized_explanation": "یک تصمیم آزاد و آگاه از کسانی که حق دارند بر اساس اطلاعات کافی و قابل درک در مورد عملکرد، هدف، روش ها و محدودیت ها، آن را به دست آورند.",
+      "related_articles": [
+        9,
+        24,
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-giuridici-riservatezza",
+      "term": "درجه و محدودیت های قانونی محرمانه بودن",
+      "italian_lemma": "grado e limiti giuridici della riservatezza",
+      "italian_definition": "Estensione concreta della confidenzialità e situazioni in cui la legge o il Codice possono imporre o consentire comunicazioni.",
+      "localized_explanation": "محرمانه بودن و موقعیت هایی که قانون یا کد می تواند ارتباطات را تحمیل یا اجازه دهد.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "chi-ne-ha-diritto",
+      "term": "کسی که حق را دارد",
+      "italian_lemma": "chi ne ha diritto",
+      "italian_definition": "Persona legittimata a esprimere il consenso nel caso concreto, da identificare in base a età, capacità, rappresentanza e disciplina applicabile.",
+      "localized_explanation": "شخص حق دارد رضایت را در مورد بتن بیان کند، مطابق با سن، ظرفیت، نمایندگی و انضباط قابل اجرا مشخص شود.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "prevedibile-durata",
+      "term": "مدت زمان قابل پیش بینی",
+      "italian_lemma": "prevedibile durata",
+      "italian_definition": "Stima iniziale ragionevole della durata di una prestazione continuativa, da comunicare quando possibile e da aggiornare se cambia.",
+      "localized_explanation": "برآورد اولیه معقول از مدت زمان عملکرد مداوم، به اطلاع رسانی در صورت امکان و به روز رسانی در صورت تغییر آن.",
+      "related_articles": [
+        24
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strumenti-diagnosi-valutazione",
+      "term": "ابزار تشخیصی و ارزیابی",
+      "italian_lemma": "strumenti di diagnosi e di valutazione",
+      "italian_definition": "Test, metodi e procedure utilizzati per raccogliere e interpretare informazioni a fini diagnostici o valutativi.",
+      "localized_explanation": "تست، روش ها و روش های مورد استفاده برای جمع آوری و تفسیر اطلاعات برای اهداف تشخیصی یا تبخیری.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "limiti-del-mandato",
+      "term": "محدودیت های دریافت شده",
+      "italian_lemma": "limiti del mandato ricevuto",
+      "italian_definition": "Confini di scopo, ruolo, attività e comunicazione stabiliti dall'incarico legittimo e dalle regole applicabili.",
+      "localized_explanation": "هدف، نقش، فعالیت و ارتباطات تعریف شده توسط وظیفه قانونی و قوانین قابل اجرا.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pregiudizio",
+      "term": "پیش داوری",
+      "italian_lemma": "pregiudizio",
+      "italian_definition": "Danno o conseguenza sfavorevole che l'uso o la comunicazione di informazioni può arrecare al soggetto.",
+      "localized_explanation": "این امر نامطلوب است که استفاده یا ارتباط اطلاعات ممکن است به موضوع مربوط شود.",
+      "related_articles": [
+        25
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "astensione-professionale",
+      "term": "اجتناب از مشارکت یا ادامه",
+      "italian_lemma": "si astiene dall'intraprendere o dal proseguire",
+      "italian_definition": "Non iniziare oppure interrompere prudentemente un'attività quando ricorrono le condizioni di incompatibilità o dannosità indicate.",
+      "localized_explanation": "شروع نکنید یا یک کار را به طور محتاطانه متوقف نکنید زمانی که شرایط ناسازگاری یا مضر بودن نشان داده شده برآورده می شود.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "problemi-conflitti-personali",
+      "term": "مشکلات شخصی یا تعارضات",
+      "italian_lemma": "problemi o conflitti personali",
+      "italian_definition": "Condizioni personali del professionista che possono interferire con efficacia, adeguatezza o sicurezza della prestazione.",
+      "localized_explanation": "شرایط شخصی حرفه ای که می تواند به طور موثر، ایمنی یا عملکرد را مختل کند.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-giudiziaria",
+      "term": "مقامات قضایی",
+      "italian_lemma": "Autorità Giudiziaria",
+      "italian_definition": "Organi che esercitano funzioni giudiziarie secondo l'ordinamento; una loro richiesta non elimina i limiti deontologici e di competenza.",
+      "localized_explanation": "اعضای بدن با توجه به دستور، از وظایف قضایی استفاده می کنند. درخواست آنها محدودیت های دینی و شایستگی را از بین نمی برد.",
+      "related_articles": [
+        26
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rapporto-terapeutico",
+      "term": "رابطه درمانی",
+      "italian_lemma": "rapporto terapeutico",
+      "italian_definition": "Relazione professionale continuativa orientata alla cura psicologica del paziente.",
+      "localized_explanation": "گزارش حرفه ای مرتبط با مراقبت های روانی بیمار",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "ragionevolmente-prevedibile-beneficio",
+      "term": "منطقی قابل پیش بینی",
+      "italian_lemma": "ragionevolmente prevedibile",
+      "italian_definition": "Valutazione prognostica prudente fondata sulle conoscenze e sull'andamento del caso, non certezza matematica.",
+      "localized_explanation": "ارزیابی پیش بینی محتاطانه بر اساس دانش و پیشرفت مورد، نه اطمینان ریاضی.",
+      "related_articles": [
+        27
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "commistioni-ruolo-vita-privata",
+      "term": "ترکیب بین نقش حرفه ای و زندگی خصوصی",
+      "italian_lemma": "commistioni tra il ruolo professionale e vita privata",
+      "italian_definition": "Sovrapposizioni fra relazione professionale e sfera personale capaci di interferire con il lavoro o danneggiare l'immagine della professione.",
+      "localized_explanation": "بین روابط حرفه ای و حوزه شخصی که قادر به مداخله در کار یا آسیب رساندن به تصویر حرفه ای است، بیش از حد است.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "nocumento",
+      "term": "ثبت نام Nocure",
+      "italian_lemma": "arrecare nocumento",
+      "italian_definition": "Causare danno o pregiudizio.",
+      "localized_explanation": "آسیب یا آسیب را ایجاد کنید.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "relazioni-significative-personali",
+      "term": "روابط شخصی مهم",
+      "italian_lemma": "relazioni significative di natura personale",
+      "italian_definition": "Legami personali rilevanti, presenti o passati, in particolare affettivi, sentimentali o sessuali, capaci di rendere incompatibili alcuni interventi professionali.",
+      "localized_explanation": "روابط شخصی، حال یا گذشته، به ویژه تاثیر گذار، احساسات و یا جنسی، قادر به ناسازگار برخی از مداخلات حرفه ای است.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "patrimoniale-non-patrimoniale",
+      "term": "دارایی ها یا دارایی های غیر سرمایه ای",
+      "italian_lemma": "patrimoniale o non patrimoniale",
+      "italian_definition": "Riferito sia a utilità economicamente valutabili sia a benefici non economici, come favori, prestigio, accessi o relazioni.",
+      "localized_explanation": "با اشاره به مزایای اقتصادی و غیر اقتصادی، مانند مزایا، اعتبار، دسترسی ها یا روابط.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "supervisione",
+      "term": "نظارت نظارت نظارت نظارت",
+      "italian_lemma": "supervisione",
+      "italian_definition": "Relazione professionale in cui un collega più esperto sostiene e valuta la riflessione sul lavoro di un altro professionista.",
+      "localized_explanation": "گزارش حرفه ای که در آن یک همکار با تجربه بیشتر از آن حمایت می کند و انعکاس کار حرفه ای دیگر را ارزیابی می کند.",
+      "related_articles": [
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tirocinanti",
+      "term": "مربیان",
+      "italian_lemma": "tirocinanti",
+      "italian_definition": "Persone impegnate in un percorso pratico-formativo supervisionato e non per questo abilitate all'esercizio autonomo.",
+      "localized_explanation": "افراد درگیر در یک مسیر تحت نظارت عملی و نه برای این کار قادر به انجام فعالیت های مستقل هستند.",
+      "related_articles": [
+        20,
+        21,
+        28
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "presidi-istituti-luoghi-cura",
+      "term": "حرفه، موسسات و یا مکان های مراقبت",
+      "italian_lemma": "presidi, istituti o luoghi di cura",
+      "italian_definition": "Strutture, servizi o contesti organizzati nei quali vengono erogate attività sanitarie o di cura.",
+      "localized_explanation": "ساختار، خدمات یا زمینه هایی که فعالیت های بهداشتی یا مراقبتی ارائه می شود.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fondati-motivi-scientifico-professionali",
+      "term": "دلایل پایه گذاری برای یک طبیعت علمی و حرفه ای",
+      "italian_lemma": "fondati motivi di natura scientifico-professionale",
+      "italian_definition": "Ragioni documentabili di appropriatezza, sicurezza, qualità o necessità tecnica, non convenienza personale o commerciale.",
+      "localized_explanation": "دلایل قابل مستند برای مناسب بودن، ایمنی، کیفیت یا نیاز فنی، راحتی غیر شخصی یا تجاری.",
+      "related_articles": [
+        29
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "corrispettivo",
+      "term": "رقابت پذیری",
+      "italian_lemma": "corrispettivo",
+      "italian_definition": "Prestazione economica dovuta in cambio di una prestazione professionale reale.",
+      "localized_explanation": "عملکرد اقتصادی به دلیل عملکرد واقعی حرفه ای",
+      "related_articles": [
+        30
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "persone-minorenni",
+      "term": "کودکان",
+      "italian_lemma": "persone minorenni",
+      "italian_definition": "Persone che non hanno raggiunto la maggiore età; devono essere informate e coinvolte secondo età, maturità e disciplina applicabile.",
+      "localized_explanation": "کسانی که سن ندارند باید با توجه به سن، بلوغ و انضباط قابل اجرا مطلع و درگیر شود.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "interdette",
+      "term": "وابستگی متقابل",
+      "italian_lemma": "interdette",
+      "italian_definition": "Termine giuridico tradizionale riferito a persone sottoposte a interdizione; il quadro italiano della capacità e delle misure di protezione è oggi più articolato.",
+      "localized_explanation": "اصطلاح قانونی سنتی برای افراد در معرض اختلاف چارچوب ایتالیایی از ظرفیت و اقدامات حفاظتی در حال حاضر بیشتر بیان شده است.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-tutoria",
+      "term": "مرجع قیمومیت",
+      "italian_lemma": "Autorità Tutoria",
+      "italian_definition": "Formula storica del testo del Codice che rinvia all'autorità competente in materia di tutela nel caso concreto.",
+      "localized_explanation": "فرمول تاریخی متن کد که به اقتدار صلاحیت در مورد حفاظت در مورد بتن اشاره می کند.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "autorita-legalmente-competente",
+      "term": "صلاحیت قانونی",
+      "italian_lemma": "autorità legalmente competente",
+      "italian_definition": "Autorità cui una norma attribuisce il potere di disporre quella specifica prestazione o decisione.",
+      "localized_explanation": "• اداره ای که یک قانون به آن قدرت می دهد تا آن عملکرد یا تصمیم خاص را تعیین کند.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "strutture-legislativamente-preposte",
+      "term": "ساختارهای قانونی",
+      "italian_lemma": "strutture legislativamente preposte",
+      "italian_definition": "Servizi o strutture cui la legge attribuisce espressamente la funzione di erogare o disporre determinate prestazioni.",
+      "localized_explanation": "خدمات یا امکاناتی که قانون به طور صریح تابع ارائه یا ارائه خدمات خاص است.",
+      "related_articles": [
+        31
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "parti-in-causa",
+      "term": "بخش هایی از علت",
+      "italian_lemma": "parti in causa",
+      "italian_definition": "Tutti i soggetti concretamente coinvolti nel mandato e nella prestazione, non necessariamente soltanto parti di un processo giudiziario.",
+      "localized_explanation": "همه افراد درگیر در ماموریت و عملکرد، نه تنها بخش هایی از یک فرآیند قضایی.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "natura-finalita-intervento",
+      "term": "طبیعت و هدف از مداخله",
+      "italian_lemma": "natura e finalità dell'intervento",
+      "italian_definition": "Che tipo di attività verrà svolta e per quale scopo, inclusi il ruolo dello psicologo e l'uso previsto dei risultati.",
+      "localized_explanation": "چه نوع فعالیت هایی انجام می شود و برای چه هدفی، از جمله نقش روانشناس و استفاده از نتایج مورد انتظار.",
+      "related_articles": [
+        32
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "colleganza",
+      "term": "قانون جامعه",
+      "italian_lemma": "colleganza",
+      "italian_definition": "Solidarietà professionale leale e rispettosa fra colleghi, compatibile con il dissenso e con il dovere di segnalare condotte scorrette.",
+      "localized_explanation": "کمیسیون پیشنهاد یک دستورالعمل جدید در مورد حفاظت از محیط زیست است که یک گام بسیار مهم در جهت اتحادیه اروپا است.",
+      "related_articles": [
+        33
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "comunita-professionale",
+      "term": "جامعه حرفه ای",
+      "italian_lemma": "comunità professionale",
+      "italian_definition": "Insieme dei professionisti, organismi e contesti scientifici che partecipano allo sviluppo e alla regolazione della disciplina.",
+      "localized_explanation": "همراه با متخصصان، بدن ها و زمینه های علمی شرکت در توسعه و تنظیم نظم و انضباط.",
+      "related_articles": [
+        34
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "fonte-altrui-contributi",
+      "term": "منبع سایر کمک ها",
+      "italian_lemma": "fonte degli altrui contributi",
+      "italian_definition": "Origine riconoscibile di idee, dati, testi, metodi o lavoro forniti da altre persone e utilizzati nella ricerca presentata.",
+      "localized_explanation": "منشأ قابل تشخیص ایده ها، داده ها، متون، روش ها یا کار ارائه شده توسط افراد دیگر و استفاده در تحقیقات ارائه شده است.",
+      "related_articles": [
+        35
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "sottrarre-clientela",
+      "term": "مشتریان را کاهش دهید",
+      "italian_lemma": "sottrarre clientela",
+      "italian_definition": "Attirare verso di sé clienti o pazienti di un collega mediante giudizi pubblici negativi o lesivi sul collega stesso.",
+      "localized_explanation": "مشتریان یا بیماران یک همکار را با قضاوت های عمومی منفی یا مضر در همکار خود به خود جذب کنید.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "tempestiva-comunicazione",
+      "term": "ارتباطات سریع",
+      "italian_lemma": "tempestiva comunicazione",
+      "italian_definition": "Segnalazione effettuata senza ritardo ingiustificato, con fatti e informazioni necessari, al Consiglio dell'Ordine competente.",
+      "localized_explanation": "گزارش بدون تأخیر ناعادلانه، با حقایق و اطلاعات لازم، به شورای نظم صالح.",
+      "related_articles": [
+        36
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consiglio-ordine-competente",
+      "term": "شورای نظم شایسته",
+      "italian_lemma": "Consiglio dell'Ordine competente",
+      "italian_definition": "Organo territoriale dell'Ordine individuato dalle regole di competenza applicabili al caso.",
+      "localized_explanation": "نظم حقوقی نظم نظم که توسط قوانین صلاحیت قابل اجرا در مورد شناسایی شده است.",
+      "related_articles": [
+        36,
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "mandato-professionale",
+      "term": "مأموریت حرفه‌ای",
+      "italian_lemma": "mandato professionale",
+      "italian_definition": "Incarico affidato allo psicologo con uno scopo, un ruolo, limiti e responsabilità definiti.",
+      "localized_explanation": "بی گناه به روانشناس با هدف، نقش، محدودیت ها و مسئولیت های تعریف شده اختصاص داده شده است.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "consulenza-invio",
+      "term": "توصیه یا ارسال",
+      "italian_lemma": "consulenza ovvero l'invio",
+      "italian_definition": "Ricorso al contributo di un'altra competenza oppure orientamento della persona verso un collega o altro professionista più adatto.",
+      "localized_explanation": "به مشارکت یک شایستگی یا جهت گیری دیگر فرد به سمت یک همکار مناسب یا حرفه ای دیگر.",
+      "related_articles": [
+        37
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "rappresenta-pubblicamente-professione",
+      "term": "به طور عمومی نشان دهنده حرفه",
+      "italian_lemma": "rappresenta pubblicamente la professione",
+      "italian_definition": "Si presenta o interviene davanti al pubblico in modo riconoscibile come psicologo o portatore di una voce professionale.",
+      "localized_explanation": "این خود یا مداخله در مقابل عموم به شیوه ای قابل تشخیص به عنوان یک روانشناس یا حامل یک صدای حرفه ای است.",
+      "related_articles": [
+        38
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "formazione-esperienza-competenza",
+      "term": "آموزش، تجربه و تخصص",
+      "italian_lemma": "formazione, esperienza e competenza",
+      "italian_definition": "Tre dimensioni distinte della presentazione professionale: percorso formativo, pratica maturata e capacità effettiva di svolgere un compito.",
+      "localized_explanation": "سه بعد متمایز از ارائه حرفه ای: دوره آموزشی، تمرین بالغ و توانایی موثر برای انجام یک کار.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "libero-consapevole-giudizio",
+      "term": "آزاد و آگاهانه",
+      "italian_lemma": "libero e consapevole",
+      "italian_definition": "Capace di formarsi senza coercizioni o manipolazioni e sulla base di informazioni sufficienti a comprendere le alternative.",
+      "localized_explanation": "این مسئولیتی است که بدون اجبار یا دستکاری و بر اساس اطلاعات کافی برای درک گزینه ها شکل بگیرد.",
+      "related_articles": [
+        39
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "procacciamento-clientela",
+      "term": "جلب ناروای مراجعان",
+      "italian_lemma": "procacciamento della clientela",
+      "italian_definition": "Acquisizione di clienti mediante condotte promozionali; nell'art. 40 rileva quando perseguita con comportamenti pubblici scorretti.",
+      "localized_explanation": "خرید مشتریان به وسیله رفتار تبلیغاتی در هنر 40 تشخیص زمانی که با رفتار نادرست عمومی مورد آزار و اذیت قرار می گیرد.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "pubblicita-informativa",
+      "term": "تبلیغات اطلاع‌رسان",
+      "italian_lemma": "pubblicità informativa",
+      "italian_definition": "Comunicazione promozionale ammessa per informare su titoli, specializzazioni, servizi e costi nel rispetto delle condizioni deontologiche e legali.",
+      "localized_explanation": "پذیرش برای اطلاع از عناوین، تخصص ها، خدمات و هزینه ها در انطباق با شرایط غیر دینی و حقوقی.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "trasparenza-veridicita",
+      "term": "شفافیت و صداقت",
+      "italian_lemma": "trasparenza e veridicità",
+      "italian_definition": "Requisiti per cui il messaggio è comprensibile e completo negli elementi rilevanti e non contiene affermazioni false o fuorvianti.",
+      "localized_explanation": "الزاماتی که پیام در عناصر مربوطه قابل درک و کامل است و شامل اظهارات نادرست یا گمراه کننده نیست.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "serieta-scientifica",
+      "term": "جدیت علمی",
+      "italian_lemma": "serietà scientifica",
+      "italian_definition": "Coerenza del messaggio con prove, limiti e linguaggio responsabile propri della conoscenza scientifica disponibile.",
+      "localized_explanation": "سازگاری پیام با شواهد، محدودیت ها و زبان مسئول دانش علمی موجود است.",
+      "related_articles": [
+        40
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "osservatorio-permanente",
+      "term": "نظارت دائمی بر کد Deontological",
+      "italian_lemma": "Osservatorio permanente sul Codice Deontologico",
+      "italian_definition": "Organismo istituito presso la Commissione Deontologia del CNOP per raccogliere materiali, monitorare criticità e contribuire a indirizzi e proposte di revisione.",
+      "localized_explanation": "سازمان ایجاد شده توسط کمیسیون Deontology CNOP برای جمع آوری مواد، نظارت بر انتقادی بودن و کمک به آدرس ها و پیشنهادات برای تجدید نظر.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "giurisprudenza-deontologica",
+      "term": "قضاوت در مسائل دینی",
+      "italian_lemma": "giurisprudenza in materia deontologica",
+      "italian_definition": "Insieme delle decisioni e degli orientamenti formati nei procedimenti disciplinari; le decisioni territoriali non sono automaticamente precedenti nazionali vincolanti.",
+      "localized_explanation": "کمیسیون همچنین پیشنهادی برای دستورالعمل در مورد حفاظت کارگران از خطرات قرار گرفتن در معرض مواد خطرناک اتخاذ کرده است. تصمیمات ارضی به طور خودکار سابقه ملی را الزام آور نمی کند.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "revisione-periodica",
+      "term": "بازبینی شده در ۲۶ اکتبر ۲۰۱۱. ↑ The Periodic Review of the Code of Deontology",
+      "italian_lemma": "revisione periodica del Codice Deontologico",
+      "italian_definition": "Procedimento istituzionale di aggiornamento del testo del Codice secondo competenze e modalità previste dalla legge.",
+      "localized_explanation": "روش نهادی برای به روز رسانی متن کد با توجه به صلاحیت های قانونی و روش ها.",
+      "related_articles": [
+        41
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "referendum-approvazione",
+      "term": "رفراندوم در مورد تصویب",
+      "italian_lemma": "referendum di approvazione",
+      "italian_definition": "Votazione degli iscritti prevista dalla legge per approvare il Codice predisposto o aggiornato dal CNOP.",
+      "localized_explanation": "رای دادن به اعضای ارائه شده توسط قانون برای تایید کد ارائه شده یا به روز شده توسط CNOP.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "proclamazione-risultati",
+      "term": "اثبات نتایج",
+      "italian_lemma": "proclamazione dei risultati",
+      "italian_definition": "Atto ufficiale con cui vengono dichiarati i risultati del referendum e dal quale l'art. 42 fa decorrere il termine per l'entrata in vigore.",
+      "localized_explanation": "اقدام رسمی که با آن نتایج رفراندوم اعلام شده و از آن هنر است. 42- محدودیت زمان ورود به زور را اعمال کنید.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    },
+    {
+      "id": "entrata-in-vigore",
+      "term": "وارد شدن به زور",
+      "italian_lemma": "entra in vigore",
+      "italian_definition": "Momento dal quale il testo acquista efficacia vincolante secondo la regola temporale applicabile.",
+      "localized_explanation": "زمان که متن اثر الزام آور را بر اساس قانون زمان قابل اجرا بدست می آورد.",
+      "related_articles": [
+        42
+      ],
+      "review": {
+        "status": "machine_draft",
+        "reviewed_by": null,
+        "reviewed_on": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "language": "fa",
+  "articles": [
+    {
+      "number": 1,
+      "localized": {
+        "editorial_title": "الزام‌آور بودن و دامنه اجرای آیین‌نامه",
+        "article_text": "مقررات این آیین‌نامه اخلاق حرفه‌ای برای همه اشخاص ثبت‌شده در فهرست رسمی روان‌شناسان الزام‌آور است. روان‌شناس مکلف است این مقررات را بشناسد و ناآگاهی از آن‌ها رافع مسئولیت انتظامی نیست. همین مقررات در مواردی نیز اجرا می‌شود که خدمات، به‌طور کامل یا جزئی، از راه دور، از طریق اینترنت یا با هر وسیله الکترونیکی و/یا ارتباطی دیگری ارائه شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ثبت حرفه‌ای یعنی روان‌شناس باید آیین‌نامه را بشناسد و در همه شکل‌های کار، حتی آنلاین، رعایتش کند.",
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "آیین‌نامه اخلاق حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "albo-degli-psicologi", "surface": "فهرست رسمی روان‌شناسان", "match_method": "human_authored_exact"},
+          {"glossary_id": "responsabilita-disciplinare", "surface": "مسئولیت انتظامی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "localized": {
+        "editorial_title": "تخلف حرفه‌ای و ضمانت اجراهای انتظامی",
+        "article_text": "عدم رعایت الزامات این آیین‌نامه اخلاق حرفه‌ای و هر فعل یا ترک فعلی که به هر نحو با شأن حرفه‌ای، کرامت حرفه‌ای یا اشتغال صحیح به حرفه مغایر باشد، مطابق ماده ۲۶ بند ۱ قانون ایتالیا شماره ۵۶ مورخ ۱۸ فوریه ۱۹۸۹ و طبق تشریفات مقرر در آیین‌نامه انتظامی مجازات می‌شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "مسئولیت انتظامی هم می‌تواند از نقض یک ماده مشخص بیاید و هم از رفتاری که با شأن، کرامت یا کار حرفه‌ای درست ناسازگار است.",
+        "glossary_annotations": [
+          {"glossary_id": "codice-deontologico", "surface": "آیین‌نامه اخلاق حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "شأن حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "کرامت حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "regolamento-disciplinare", "surface": "آیین‌نامه انتظامی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "localized": {
+        "editorial_title": "هدف، نفوذ و مسئولیت اجتماعی",
+        "article_text": "روان‌شناس افزایش دانش درباره رفتار انسان و به‌کارگیری آن برای ارتقای بهزیستی روان‌شناختی فرد، گروه و جامعه را وظیفه خود می‌داند. او در هر حوزه حرفه‌ای برای تقویت توانایی اشخاص در شناخت خود و دیگران و رفتار آگاهانه، سازگار و مؤثر تلاش می‌کند. روان‌شناس از مسئولیت اجتماعی ناشی از این واقعیت آگاه است که در جریان کار حرفه‌ای می‌تواند بر زندگی دیگران اثر چشمگیری بگذارد؛ ازاین‌رو به عوامل شخصی، اجتماعی، سازمانی، مالی و سیاسی توجه ویژه می‌کند تا از استفاده نامناسب از نفوذ خود بپرهیزد و از اعتماد یا وضعیت وابستگی سفارش‌دهنده، خدمت‌گیرنده یا مخاطب خدمت حرفه‌ای سوءاستفاده نکند. روان‌شناس مسئول اعمال حرفه‌ای خود و پیامدهای مستقیم و قابل پیش‌بینی آن‌هاست.",
+        "article_text_status": "editorial_translation",
+        "core_message": "دانش روان‌شناختی باید برای بهزیستی به کار برود، نه برای سوءاستفاده از نفوذ حرفه‌ای، اعتماد یا وابستگی افراد.",
+        "glossary_annotations": [
+          {"glossary_id": "responsabilita-sociale", "surface": "مسئولیت اجتماعی", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "سفارش‌دهنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "خدمت‌گیرنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "مخاطب خدمت حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "atti-professionali", "surface": "اعمال حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "conseguenze-prevedibili-dirette", "surface": "پیامدهای مستقیم و قابل پیش‌بینی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "localized": {
+        "editorial_title": "کرامت، خودمختاری و منع تبعیض",
+        "article_text": "روان‌شناس در اشتغال به حرفه، کرامت و حقوق اشخاص استفاده‌کننده از خدمات خود را در زمینه محرمانگی، حق تعیین سرنوشت و خودمختاری شخصی محترم می‌شمارد؛ به عقاید و باورهای آنان احترام می‌گذارد و از تحمیل نظام ارزشی خود می‌پرهیزد. او بر پایه دین، قومیت، تابعیت، خاستگاه اجتماعی، وضعیت اجتماعی‌ـ‌اقتصادی، جنس، گرایش جنسی یا معلولیت تبعیض روا نمی‌دارد. روش‌ها و فنون را با رعایت این اصول به کار می‌گیرد و همکاری در اقداماتی را که به آن‌ها لطمه می‌زند رد می‌کند. هرگاه میان خدمت‌گیرنده و مؤسسه محل کار روان‌شناس تعارض منافع پدید آید، روان‌شناس حدود مسئولیت‌ها و قیود حرفه‌ای خود را به‌روشنی برای طرف‌ها توضیح می‌دهد. در هر موردی که مخاطب مداخله حمایتی یا روان‌درمانی با سفارش‌دهنده یکسان نباشد، حمایت از مخاطب مداخله در اولویت است.",
+        "article_text_status": "editorial_translation",
+        "core_message": "مخاطب وسیله رسیدن به هدف روان‌شناس یا مؤسسه نیست؛ کرامت، محرمانگی، خودمختاری و برابری باید راهنمای تصمیم‌ها باشد.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "محرمانگی", "match_method": "human_authored_exact"},
+          {"glossary_id": "autodeterminazione", "surface": "حق تعیین سرنوشت", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-persona", "surface": "خودمختاری شخصی", "match_method": "human_authored_exact"},
+          {"glossary_id": "conflitto-di-interesse", "surface": "تعارض منافع", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "خدمت‌گیرنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "مخاطب مداخله", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "سفارش‌دهنده", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "localized": {
+        "editorial_title": "صلاحیت، آموزش مداوم و مبنای علمی",
+        "article_text": "روان‌شناس مکلف است سطح مناسبی از آمادگی و به‌روزرسانی حرفه‌ای را، به‌ویژه در حوزه‌هایی که فعالیت می‌کند، حفظ کند. نقض تکلیف آموزش مداوم، تخلف انتظامی است و طبق نظام حرفه‌ای ضمانت اجرا دارد. روان‌شناس حدود صلاحیت حرفه‌ای خود را می‌شناسد و فقط از ابزارهای نظری و عملی استفاده می‌کند که برای کاربرد آن‌ها صلاحیت کافی کسب کرده و، هرجا لازم باشد، مجوز رسمی دارد. او روش‌هایی را به کار می‌گیرد که بتواند منابع و مراجع علمی آن‌ها را معرفی کند و در مراجع یا خدمت‌گیرنده انتظارات بی‌پایه ایجاد نمی‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "داشتن مجوز یعنی صلاحیت در همه حوزه‌ها نیست؛ آموزش مداوم، شناخت حد و مرز، ابزار معتبر و انتظار واقع‌بینانه لازم است.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-continua", "surface": "آموزش مداوم", "match_method": "human_authored_exact"},
+          {"glossary_id": "illecito-disciplinare", "surface": "تخلف انتظامی", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "صلاحیت حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "strumenti-teorico-pratici", "surface": "ابزارهای نظری و عملی", "match_method": "human_authored_exact"},
+          {"glossary_id": "formale-autorizzazione", "surface": "مجوز رسمی", "match_method": "human_authored_exact"},
+          {"glossary_id": "aspettative-infondate", "surface": "انتظارات بی‌پایه", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "localized": {
+        "editorial_title": "استقلال حرفه‌ای و مسئولیت فنی",
+        "article_text": "روان‌شناس فقط شرایط کاری را می‌پذیرد که استقلال حرفه‌ای او و رعایت این آیین‌نامه اخلاق حرفه‌ای را مخدوش نکند و در نبود چنین شرایطی، نهاد حرفه‌ای خود را مطلع می‌سازد. او استقلال خود را در انتخاب و کاربرد روش‌ها، فنون و ابزارهای روان‌شناختی حفظ می‌کند و در نتیجه مسئول کاربرد، نتایج، ارزیابی‌ها و تفسیرهای حاصل از آن‌هاست. در همکاری با متخصصان رشته‌های دیگر، استقلال حرفه‌ای کامل خود را با احترام به صلاحیت حرفه‌ای دیگران اعمال می‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "سفارش‌دهنده می‌تواند موضوع کار را تعیین کند، اما نمی‌تواند روش یا نتیجه‌ای خلاف صلاحیت، استقلال فنی و آیین‌نامه تحمیل کند.",
+        "glossary_annotations": [
+          {"glossary_id": "autonomia-professionale", "surface": "استقلال حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "codice-deontologico", "surface": "آیین‌نامه اخلاق حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "صلاحیت حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "localized": {
+        "editorial_title": "روایی، پایایی و حدود نتیجه‌گیری",
+        "article_text": "روان‌شناس در فعالیت حرفه‌ای، پژوهشی، آموزشی و در گزارش نتایج، با توجه به زمینه، درجه روایی و پایایی اطلاعات، داده‌ها و منابعی را که نتیجه‌گیری بر آن‌ها استوار است به‌دقت می‌سنجد؛ در صورت لزوم فرضیه‌های تفسیری جایگزین را بیان و حدود نتایج را آشکار می‌کند. او درباره موارد مشخص فقط هنگامی ارزیابی و داوری حرفه‌ای ارائه می‌دهد که بر شناخت حرفه‌ای مستقیم یا مستندات کافی و قابل اعتماد مبتنی باشد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "نتیجه حرفه‌ای باید با کیفیت داده‌ها متناسب باشد و فرض‌های جایگزین و محدودیت‌ها را روشن کند.",
+        "glossary_annotations": [
+          {"glossary_id": "validita", "surface": "روایی", "match_method": "human_authored_exact"},
+          {"glossary_id": "attendibilita", "surface": "پایایی", "match_method": "human_authored_exact"},
+          {"glossary_id": "ipotesi-interpretative-alternative", "surface": "فرضیه‌های تفسیری جایگزین", "match_method": "human_authored_exact"},
+          {"glossary_id": "conoscenza-professionale-diretta", "surface": "شناخت حرفه‌ای مستقیم", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-adeguata-attendibile", "surface": "مستندات کافی و قابل اعتماد", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "localized": {
+        "editorial_title": "مقابله با اشتغال غیرمجاز و استفاده از عنوان",
+        "article_text": "روان‌شناس با اشتغال غیرمجاز به حرفه، به تعریفی که در مواد ۱ و ۳ قانون ایتالیا شماره ۵۶ مورخ ۱۸ فوریه ۱۹۸۹ آمده است، مقابله می‌کند و موارد سوءاستفاده یا غصب عنوان حرفه‌ای را که از آن‌ها آگاه می‌شود به شورای نهاد حرفه‌ای گزارش می‌دهد. همچنین عنوان حرفه‌ای خود را صرفاً برای فعالیت‌های مرتبط به کار می‌برد و با آن فعالیت‌های فریبنده یا غیرمجاز را تأیید نمی‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "روان‌شناس هم موارد اشتغال غیرمجاز را گزارش می‌کند و هم عنوان و اعتبارش را پوشش فعالیت گمراه‌کننده قرار نمی‌دهد.",
+        "glossary_annotations": [
+          {"glossary_id": "esercizio-abusivo", "surface": "اشتغال غیرمجاز به حرفه", "match_method": "human_authored_exact"},
+          {"glossary_id": "usurpazione-di-titolo", "surface": "غصب عنوان حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "تأیید نمی‌کند", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "localized": {
+        "editorial_title": "رضایت و حمایت از شرکت‌کنندگان پژوهش",
+        "article_text": "روان‌شناس در فعالیت پژوهشی، اشخاص درگیر را به‌طور کافی آگاه می‌کند تا رضایت آگاهانه قبلی آنان را، از جمله درباره نام، جایگاه علمی و حرفه‌ای پژوهشگر و وابستگی احتمالی او به یک مؤسسه، به دست آورد. او آزادی کامل آنان را برای دادن، ندادن یا پس‌گرفتن رضایت تضمین می‌کند. اگر ماهیت پژوهش اجازه ندهد برخی جنبه‌ها از پیش و به‌درستی توضیح داده شود، روان‌شناس در پایان آزمون یا گردآوری داده‌ها اطلاعات لازم را ارائه و مجوز استفاده از داده‌های گردآوری‌شده را دریافت می‌کند. درباره کسانی که به دلیل سن یا علل دیگر نمی‌توانند معتبر رضایت دهند، رضایت باید از دارنده مسئولیت والدینی یا قیم قانونی گرفته شود و، هرگاه خود شخص ماهیت همکاری را درک می‌کند، رضایت او نیز اخذ شود. در هر حال، حق محرمانگی، غیرقابل‌شناسایی بودن و ناشناس‌ماندن اشخاص باید حمایت شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "پژوهش روان‌شناختی به اطلاعات کافی، انتخاب آزاد و قابل پس‌گرفتن و حمایت بیشتر از کسانی نیاز دارد که خودشان نمی‌توانند معتبر رضایت بدهند.",
+        "glossary_annotations": [
+          {"glossary_id": "previo-consenso-informato", "surface": "رضایت آگاهانه قبلی", "match_method": "human_authored_exact"},
+          {"glossary_id": "ritiro-del-consenso", "surface": "پس‌گرفتن رضایت", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorizzazione-uso-dati", "surface": "مجوز استفاده از داده‌های گردآوری‌شده", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "مسئولیت والدینی", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "قیم قانونی", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "محرمانگی", "match_method": "human_authored_exact"},
+          {"glossary_id": "non-riconoscibilita", "surface": "غیرقابل‌شناسایی بودن", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "ناشناس‌ماندن", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "localized": {
+        "editorial_title": "احترام و حمایت از حیوانات",
+        "article_text": "هرگاه موضوع فعالیت حرفه‌ای رفتار حیوانات باشد، روان‌شناس متعهد است طبیعت آن‌ها را محترم بشمارد، رفتاری غیرآسیب‌زا در پیش گیرد و از تحمیل رنج به آن‌ها بپرهیزد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "در کار با رفتار حیوانات باید ویژگی‌های گونه رعایت شود و از رنج قابل پیشگیری جلوگیری شود.",
+        "glossary_annotations": [
+          {"glossary_id": "condotte-non-lesive", "surface": "رفتاری غیرآسیب‌زا", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "localized": {
+        "editorial_title": "راز حرفه‌ای",
+        "article_text": "روان‌شناس به‌طور اکید مکلف به حفظ راز حرفه‌ای است. بنابراین اخبار، وقایع یا اطلاعاتی را که به سبب رابطه حرفه‌ای به دست آورده است افشا نمی‌کند و درباره خدمات حرفه‌ای انجام‌شده یا برنامه‌ریزی‌شده نیز اطلاع نمی‌دهد، مگر در موارد مقرر در مواد بعدی.",
+        "article_text_status": "editorial_translation",
+        "core_message": "قاعده اصلی سکوت حرفه‌ای است؛ هر استثنا باید مبنای روشن و مشخصی در آیین‌نامه داشته باشد.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "راز حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "rapporto-professionale", "surface": "رابطه حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "localized": {
+        "editorial_title": "شهادت و رضایت به افشا",
+        "article_text": "روان‌شناس از ادای شهادت درباره وقایعی که به سبب رابطه حرفه‌ای از آن‌ها آگاه شده است خودداری می‌کند. عدول از راز حرفه‌ای، حتی هنگام شهادت، فقط با رضایت معتبر و قابل اثبات مخاطب خدمت مجاز است. بااین‌حال، روان‌شناس مناسب‌بودن استفاده از این رضایت را ارزیابی می‌کند و حمایت روان‌شناختی از مخاطب را در اولویت قرار می‌دهد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "رضایت، افشا را خودکار موجه نمی‌کند؛ روان‌شناس هنوز باید حمایت روان‌شناختی فرد را بسنجد.",
+        "glossary_annotations": [
+          {"glossary_id": "rendere-testimonianza", "surface": "ادای شهادت", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "عدول از راز حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "consenso-valido-dimostrabile", "surface": "رضایت معتبر و قابل اثبات", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "مخاطب خدمت", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "حمایت روان‌شناختی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "localized": {
+        "editorial_title": "گزارش الزامی و خطر شدید",
+        "article_text": "در صورت وجود تکلیف ارائه گزارش رسمی به مقام یا تکلیف اعلام جرم، روان‌شناس مطالب آموخته‌شده در رابطه حرفه‌ای را، برای حمایت روان‌شناختی از شخص، به حد کاملاً ضروری محدود می‌کند. در دیگر موارد، اگر خطرهای شدیدی برای جان یا سلامت روانی و جسمانی شخص و/یا اشخاص ثالث مطرح باشد، ضرورت عدول کامل یا جزئی از تکلیف محرمانگی را با دقت ارزیابی می‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "حتی وقتی گزارش‌دادن اجباری یا ضروری است، فقط اطلاعات لازم گفته می‌شود و ایمنی با حمایت روان‌شناختی سنجیده می‌شود.",
+        "glossary_annotations": [
+          {"glossary_id": "obbligo-referto", "surface": "تکلیف ارائه گزارش رسمی به مقام", "match_method": "human_authored_exact"},
+          {"glossary_id": "obbligo-denuncia", "surface": "تکلیف اعلام جرم", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "حد کاملاً ضروری", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "حمایت روان‌شناختی", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "عدول کامل یا جزئی", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "محرمانگی", "match_method": "human_authored_exact"},
+          {"glossary_id": "gravi-pericoli", "surface": "خطرهای شدیدی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "localized": {
+        "editorial_title": "مداخله با گروه‌ها",
+        "article_text": "روان‌شناس هنگام مداخله روی گروه یا از طریق آن، در مرحله آغازین درباره قواعد حاکم بر مداخله اطلاع‌رسانی می‌کند. همچنین در صورت لزوم اعضای گروه را به رعایت حق هر فرد بر محرمانگی متعهد می‌سازد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "در کار گروهی، قواعد و محرمانگی باید از اول روشن باشد و اعضا هم به آن متعهد شوند.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "محرمانگی", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "Localized case-note bridge - fa",
+  "language": "fa",
+  "source_language": "it",
+  "source_file": "data/cases.it.json",
+  "note": "Authority, decision, outcome, source, and controlling case summary remain in Italian; localized notes reproduce only contextual explanations already translated in article cards.",
+  "cases": [
+    {
+      "id": "oper-er-04-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 04/09 del 13 gennaio 2009",
+        "summary": "Un iscritto inviò a un numero indeterminato di persone una e-mail che promuoveva la propria attività e rinviava al proprio sito, usando modalità ritenute banalizzanti sotto il profilo metodologico e scientifico. Il Consiglio ravvisò anche contenuti sul sito privi di solida base scientifica.",
+        "outcome": "avvertimento",
+        "teaching_point": "La comunicazione promozionale resta soggetta a decoro, dignità, serietà scientifica e divieto di procacciamento scorretto anche quando l'attività dichiarata è gratuita.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "4-6 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        38,
+        40
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 38,
+          "role": "violazione_accertata",
+          "note": "شورای ملی برای هشدار برای مقالات درخواست کرد. 38 و 40: ایمیل تبلیغاتی ارسال شده به گیرندگان نامشخص، زبان به عنوان ناچیز و محتوای وب بدون مبنای علمی کافی در نظر گرفته شده است."
+        },
+        {
+          "article": 40,
+          "role": "violazione_accertata",
+          "note": "هشدار برای هنر 38 و 40 حالت تبلیغاتی مربوط به نظر می رسد که مقالات بی اهمیت و وب با اظهارات بدون حمایت علمی و بالقوه مضر است. به نظر نمی رسید که این کار به صورت غیر قانونی انجام شود."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-05-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 05/09 del 16 gennaio 2009",
+        "summary": "In un parere relativo a una persona minorenne, il professionista fece proprie in modo acritico informazioni riferite dalla minore in un contesto di separazione conflittuale, la osservò senza il consenso di entrambi i genitori e usò una carta intestata che presentava in modo ambiguo il proprio ruolo universitario.",
+        "outcome": "censura",
+        "teaching_point": "In ambito familiare conflittuale occorre distinguere dati osservati, dichiarazioni riferite e ipotesi; il consenso relativo alla persona minorenne e la presentazione esatta dei titoli sono profili autonomi.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "6-8 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        7,
+        31,
+        39
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 7,
+          "role": "violazione_accertata",
+          "note": "این دستور سانسور را برای هنرها به کار می برد. 7، 31 و 39 در نظر گرفتن یک فرد کوچک که به طور بحرانی بر اساس اطلاعات گزارش شده، با مشکلات بیشتر رضایت و عنوان است. هر گونه درخواست تجدید نظر شناخته نشده است."
+        },
+        {
+          "article": 31,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "سانسور در مورد هنر بود. 7، 31 و 39: علاوه بر رضایتی که توسط هر دو والدین به دست نیامده است، استفاده انتقادی از اطلاعات و ارائه نقش حرفه ای مورد ارزیابی قرار گرفت."
+        },
+        {
+          "article": 39,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "این شکایات شامل هنر بود. 39 برای نامه ای از نامه هایی که به طور مبهم نقش دانشگاه را ارائه می دهند؛ هنرها نیز مشخص شده اند. 7 و 31"
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-06-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 06/09 del 16 gennaio 2009",
+        "summary": "Il Consiglio ritenne provato l'invio reiterato di messaggi minacciosi a una ex paziente. Non ritenne invece pienamente provate altre condotte contestate, fra cui l'asserita relazione affettivo-sessuale; la sintesi didattica deve quindi restare limitata ai messaggi accertati.",
+        "outcome": "sospensione di un mese",
+        "teaching_point": "Gli obblighi di correttezza, non lesività e dignità possono rilevare anche nella gestione del conflitto con una persona già seguita professionalmente.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "8-10 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        2,
+        3,
+        4,
+        22,
+        38
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 2,
+          "role": "violazione_accertata",
+          "note": "شورای نگهبان پیام های تهدید کننده را به یک بیمار سابق در نظر گرفت و برای تعلیق یک ماه برای هنرها درخواست داد. 3، 22 و 38؛ او فکر نمی کرد که هیچ گونه اقدام دیگری مورد آزمایش قرار گیرد. هر گونه درخواست تجدید نظر شناخته نشده است."
+        },
+        {
+          "article": 3,
+          "role": "violazione_accertata",
+          "note": "تصمیم تهدید پیام به بیمار سابق نیز این هنر را احساس کرد. 3. این سنتز تحقیقات را به سایر رفتارهایی که شورای آن را اثبات نکرده است، گسترش نمی دهد."
+        },
+        {
+          "article": 4,
+          "role": "violazione_accertata",
+          "note": "در مورد تهدید پیام به بیمار سابق، دستور نیز در نظر گرفته شده است که آن را با شأن هنر نقض شده است. 4."
+        },
+        {
+          "article": 22,
+          "role": "violazione_accertata",
+          "note": "شورای ارضی، ارسال مکرر پیام های تهدیدآمیز را به بیمار سابق در نظر گرفت و یک تعلیق یک ماهه را به یاد آورد و همچنین هنر را به یاد آورد. 22؛ دیگر اعمال اختلافی به طور کامل مورد آزمایش قرار نگرفته است."
+        },
+        {
+          "article": 28,
+          "role": "limite_probatorio",
+          "note": "در این جلسه، یک رابطه جنسی مشکوک نیز به چالش کشیده شد، اما شورای به طور کامل آن را اثبات نکرد و در هنر شرکت نکرد. 28 این پرونده به شما نمی آموزد که وابستگی را به یک واقعیت اثبات شده تبدیل نکنید. مجازات مربوط به رفتار دیگر است."
+        },
+        {
+          "article": 38,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "تعلیق همچنین به هنر مربوط می شود. 38 پیام تهدید کننده به بیمار سابق نقض قوانین نیز مشخص شد. 3، 4 و 22"
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-23-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 23/09 del 27 gennaio 2009",
+        "summary": "Nel trattamento di un paziente adulto, lo psicologo mantenne reiterate intese con la madre e insistette perché il paziente proseguisse il percorso con lui, nonostante il paziente chiedesse un professionista più vicino. Il Consiglio ritenne che la collaborazione con la familiare avesse pregiudicato o messo in pericolo la libertà di scelta e il primato del rapporto tra paziente e terapeuta.",
+        "outcome": "avvertimento",
+        "teaching_point": "La collaborazione con familiari può essere appropriata, ma non deve sostituire la volontà dell'adulto né trasformarsi in pressione affinché mantenga un determinato professionista.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "10-13 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        18,
+        38,
+        39
+      ],
+      "articles_not_found_violated": [
+        37
+      ],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 18,
+          "role": "violazione_accertata",
+          "note": "شورای ملی نیز برای ماده درخواست کرد. 18: نیت با مادر و اصرار برای ادامه با همان درمانگر، زیان آور یا حداقل خطرناک است، برای آزادی انتخاب بیمار بزرگسال."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-25-2009",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Delibera n. 25/09 del 10 febbraio 2009",
+        "summary": "Una professionista svolse prestazioni su una persona minorenne senza il consenso di uno dei genitori, proseguì nonostante la diffida del legale del genitore non consenziente e redasse due relazioni.",
+        "outcome": "censura",
+        "teaching_point": "La finalità soggettivamente ritenuta utile non sostituisce i presupposti di consenso richiesti per la prestazione alla persona minorenne.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2009.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/Deliberedisanzionedisciplinare.pdf",
+          "pages": "13-14 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        31
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 31,
+          "role": "violazione_accertata",
+          "note": "شورای ملی آزادی خواهان سانسور هنر بود. 31: مزایای فرد زیر سن بدون رضایت والدین، ادامه پس از بی اعتمادی و پیش نویس دو گزارش."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "oper-er-ee-21-06",
+      "italian_source": {
+        "kind": "decisione_ordinistica_anonimizzata",
+        "authority": "Ordine degli Psicologi dell'Emilia-Romagna",
+        "decision": "Caso EE.21.06, estratto da delibera del 19 settembre 2008",
+        "summary": "In una relazione la professionista trattò gli effetti di un farmaco spingendosi in un ambito per il quale non aveva titolo specifico; su carta intestata usò inoltre qualifiche ritenute ingannevoli o non conformi, compresa quella di psicoterapeuta prima della relativa iscrizione.",
+        "outcome": "avvertimento",
+        "teaching_point": "Il limite di competenza e la corretta presentazione dei titoli sono distinti; per l'art. 40 il Consiglio richiese anche la prova della finalità di procacciamento della clientela.",
+        "source": {
+          "local_file": "research/sources/ordine-er-delibere-disciplinari-2008.pdf",
+          "url": "https://www.ordinepsicologier.it/public/genpags/bigs/02Eticadeliberedisanzionedisciplinare_DAP18AP23.pdf",
+          "pages": "4-6 del PDF"
+        }
+      },
+      "articles_found_violated": [
+        37,
+        39
+      ],
+      "articles_not_found_violated": [
+        7,
+        31,
+        40
+      ],
+      "finality_known": false,
+      "localized_article_notes": [
+        {
+          "article": 5,
+          "role": "caso_adiacente",
+          "note": "این تصمیم، مقالات را تحریم کرد. 37 و 39، نه هنر. 5: تنها مفید است که خطر فشار دادن به مناطق غیر شخصی و ارائه عناوین نادرست را نشان دهید."
+        },
+        {
+          "article": 37,
+          "role": "violazione_accertata",
+          "note": "شورای ملی نیز برای ماده درخواست کرد. 37: در رابطه ای که حرفه ای با اثرات یک دارو فراتر از عنوان خاص خود درمان کرد. همچنین مدارک نشان داده شده است."
+        },
+        {
+          "article": 39,
+          "role": "violazione_accertata_con_altri_profili",
+          "note": "شورای هنر را به هنر ارجاع داد. 39 برای کلمات فریبنده یا غیر منسجم، از جمله استفاده از روان درمانگر قبل از کتیبه مربوطه. به جای هنر، از هنر استفاده کنید. 40زیرا برای هدف از فلجی اثبات نشده است."
+        },
+        {
+          "article": 40,
+          "role": "limite_probatorio",
+          "note": "اگرچه ممکن نیست که سوء استفاده از عناوین به دلیل هنر را مشخص کنید. شورای، که توسط دادگاه اول اجرا می شود، هنوز نتوانسته است این دیدگاه را بپذیرد که کمیسیون هنوز تصمیمی درباره این موضوع اتخاذ نکرده است. 40 زیرا هدف از نمایندگی مشتری که توسط این مسابقه درخواست شده بود، اثبات نشد."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "cass-31972-2018",
+      "italian_source": {
+        "kind": "giurisprudenza_ordinaria",
+        "authority": "Corte di Cassazione, sezione II civile",
+        "decision": "Sentenza n. 31972 dell'11 dicembre 2018",
+        "summary": "Dopo avere seguito una coppia, la psicologa assunse un incarico nell'interesse esclusivo di uno dei due ex pazienti in conflitto con l'altra, utilizzò nella relazione informazioni sui problemi della coppia e della famiglia e rivelò a soggetti estranei l'esistenza del precedente rapporto professionale. La Cassazione rigettò il ricorso.",
+        "outcome": "confermata la sospensione di un mese stabilita dal Tribunale",
+        "teaching_point": "Pregressi rapporti professionali, conflitto tra ex utenti e segreto professionale devono essere valutati prima di assumere un nuovo incarico di parte.",
+        "source": {
+          "url": "https://www.misterlex.it/cassazione-civile/2018/31972/",
+          "citation": "Cass. civ., sez. II, 11 dicembre 2018, n. 31972"
+        }
+      },
+      "articles_found_violated": [
+        3,
+        11,
+        26
+      ],
+      "articles_not_found_violated": [],
+      "finality_known": true,
+      "localized_article_notes": [
+        {
+          "article": 3,
+          "role": "collegamento_giurisprudenziale",
+          "note": "این امر به معنای تعلیق در میان دیگران و هنر است. 3 در مورد تخصیص بخش جدید پس از رابطه قبلی با زوج."
+        },
+        {
+          "article": 11,
+          "role": "collegamento_giurisprudenziale",
+          "note": "کاساسیون یک تعلیق را در شرایطی که روانشناس پس از یک زوج، تنها به نفع یک بیمار سابق و اطلاعات آموخته شده در گزارش قبلی، تأیید کرد. بین مقالاتی که در ماده 3 معاهده ذکر شده اند، 11."
+        },
+        {
+          "article": 26,
+          "role": "collegamento_giurisprudenziale",
+          "note": "کاساسیون تعلیق یک ماه را در یک مورد درمان قبلی زوج پس از آن با یک وظیفه در منافع منحصر به فرد یک بیمار سابق در درگیری با دیگر تایید کرد. هنرها به یاد آورده شده بودند. 3، 11 و 26"
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "cass-12733-2025",
+      "italian_source": {
+        "kind": "giurisprudenza_ordinaria_con_esito_processuale",
+        "authority": "Corte di Cassazione, sezione II civile",
+        "decision": "Sentenza n. 12733 del 13 maggio 2025",
+        "summary": "La sanzione originaria riguardava un parere pro veritate fondato, secondo l'Ordine, su dati della cliente privi di riscontri e contenente giudizi netti su persone non conosciute direttamente. La Cassazione non ha però lasciato ferma quella sanzione: ha cassato senza rinvio per vizi relativi alla partecipazione del pubblico ministero e ha rilevato la prescrizione quinquennale.",
+        "outcome": "sentenza cassata senza rinvio; illecito dichiarato prescritto",
+        "teaching_point": "Il fatto contestato è utile come scenario di studio sull'art. 7, ma non va presentato come sanzione definitivamente confermata.",
+        "source": {
+          "url": "https://www.doctrine.it/decisions/itcasst58v3cafimovje",
+          "citation": "Cass. civ., sez. II, 13 maggio 2025, n. 12733"
+        }
+      },
+      "articles_found_violated": [],
+      "articles_not_found_violated": [],
+      "finality_known": true,
+      "localized_article_notes": [
+        {
+          "article": 7,
+          "role": "esito_processuale_non_di_merito",
+          "note": "واقعیت مورد مناقشه به طور دقیق مربوط است، اما کاسی بدون اشاره سقوط کرد و غیرقانونی اعلام کرد: نباید به عنوان یک تحریم قطعی ارائه شود."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    },
+    {
+      "id": "cass-7362-2025",
+      "italian_source": {
+        "kind": "controesempio_giurisprudenziale",
+        "authority": "Corte di Cassazione",
+        "decision": "Ordinanza n. 7362 del 19 marzo 2025",
+        "summary": "La partecipazione trasparente a un tavolo tecnico e l'espressione di un'opinione scientifica favorevole alla normazione del counseling non furono ritenute, di per sé, illecito disciplinare. La Cassazione confermò l'annullamento della sanzione.",
+        "outcome": "ricorso dell'Ordine rigettato; sanzione annullata",
+        "teaching_point": "Serve anche una casistica negativa: non ogni opinione scientifica divergente o apertura nel dibattito tecnico equivale ad avallo dell'abusivismo.",
+        "source": {
+          "url": "https://apps.dirittopratico.it/sentenza/cassazione/roma/2025/7362.html",
+          "citation": "Cass., ord. 19 marzo 2025, n. 7362",
+          "verification_note": "La pagina include massime e commenti automatici: prima della pubblicazione nell'app verificare il testo integrale ufficiale."
+        }
+      },
+      "articles_found_violated": [],
+      "articles_not_found_violated": [],
+      "finality_known": true,
+      "localized_article_notes": [
+        {
+          "article": 8,
+          "role": "controesempio",
+          "note": "مشارکت شفاف در یک میز فنی و بیان یک نظر علمی در مشاوره غیر قانونی به نظر نمی رسید. قبل از استفاده عمومی در برنامه، متن کامل رسمی تصمیم باید تایید شود."
+        },
+        {
+          "article": 21,
+          "role": "controesempio",
+          "note": "دادگاه تصریح کرد که مشارکت شفاف در یک بحث فنی و بیان یک نظر علمی که برای هنجار مشاوره مطلوب است، به خودی خود غیر قانونی است: هر باز فرهنگی معادل آموزش ابزارهای رزرو شده یا بی اعتبار کردن سوء استفاده است."
+        }
+      ],
+      "translation_status": "machine_draft_needs_native_legal_review"
+    }
+  ]
+}

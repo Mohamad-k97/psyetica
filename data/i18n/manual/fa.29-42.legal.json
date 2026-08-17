@@ -1,0 +1,207 @@
+{
+  "language": "fa",
+  "articles": [
+    {
+      "number": 29,
+      "localized": {
+        "editorial_title": "شرط استفاده از مرکز یا محل درمان مشخص",
+        "article_text": "روان‌شناس فقط در صورت وجود دلایل علمی و حرفه‌ای موجه می‌تواند مداخله خود را مشروط به استفاده بیمار از تجهیزات، مؤسسات یا محل‌های درمانی معین کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "مرکز یا خدمت مشخص فقط با دلیل علمی و حرفه‌ای واقعی قابل توصیه اجباری است، نه به خاطر منفعت شخصی.",
+        "glossary_annotations": [
+          {"glossary_id": "presidi-istituti-luoghi-cura", "surface": "تجهیزات، مؤسسات یا محل‌های درمانی", "match_method": "human_authored_exact"},
+          {"glossary_id": "fondati-motivi-scientifico-professionali", "surface": "دلایل علمی و حرفه‌ای موجه", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 30,
+      "localized": {
+        "editorial_title": "منع دریافتیِ نامرتبط با خدمت حرفه‌ای",
+        "article_text": "روان‌شناس در اشتغال به حرفه از دریافت هرگونه حق‌الزحمه حرفه‌ای که عوضِ خدمات حرفه‌ای واقعی نباشد منع شده است.",
+        "article_text_status": "editorial_translation",
+        "core_message": "هر مبلغی باید در برابر یک خدمت حرفه‌ای واقعی باشد، نه معرفی، واسطه‌گری یا لطف شخصی.",
+        "glossary_annotations": [
+          {"glossary_id": "compenso-professionale", "surface": "حق‌الزحمه حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "corrispettivo", "surface": "عوضِ", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 31,
+      "localized": {
+        "editorial_title": "خدمات به اشخاص صغیر یا محجور",
+        "article_text": "خدمات حرفه‌ای به اشخاص صغیر یا محجور، به‌طور کلی، منوط به رضایت شخصی است که مسئولیت والدینی یا قیمومت قانونی آنان را بر عهده دارد. اگر روان‌شناس بدون این رضایت، مداخله و محرمانگی مطلق آن را ضروری بداند، مکلف است مرجع قیمومت را از آغاز رابطه حرفه‌ای آگاه کند. مواردی که خدمات به دستور مقام دارای صلاحیت قانونی یا در مراکز تعیین‌شده به موجب قانون ارائه می‌شود از این حکم مستثناست.",
+        "article_text_status": "editorial_translation",
+        "core_message": "قاعده، رضایت نماینده قانونی است؛ استثنا باید مبنای حقوقی و مسیر اجرایی روشن داشته باشد.",
+        "glossary_annotations": [
+          {"glossary_id": "persone-minorenni", "surface": "اشخاص صغیر", "match_method": "human_authored_exact"},
+          {"glossary_id": "interdette", "surface": "محجور", "match_method": "human_authored_exact"},
+          {"glossary_id": "potesta-genitoriale", "surface": "مسئولیت والدینی", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-giuridica", "surface": "قیمومت قانونی", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-tutoria", "surface": "مرجع قیمومت", "match_method": "human_authored_exact"},
+          {"glossary_id": "autorita-legalmente-competente", "surface": "مقام دارای صلاحیت قانونی", "match_method": "human_authored_exact"},
+          {"glossary_id": "strutture-legislativamente-preposte", "surface": "مراکز تعیین‌شده به موجب قانون", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 32,
+      "localized": {
+        "editorial_title": "تفاوت سفارش‌دهنده و مخاطب خدمت",
+        "article_text": "هرگاه روان‌شناس ارائه خدمت حرفه‌ای را به درخواست سفارش‌دهنده‌ای غیر از مخاطب خدمت بپذیرد، مکلف است ماهیت و اهداف مداخله را برای طرف‌های ذی‌نفع روشن کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "وقتی سفارش‌دهنده یا پرداخت‌کننده با مخاطب فرق دارد، همه طرف‌ها باید از ابتدا بدانند کار چیست، با چه هدفی و برای چه کسی انجام می‌شود.",
+        "glossary_annotations": [
+          {"glossary_id": "committente", "surface": "سفارش‌دهنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "مخاطب خدمت", "match_method": "human_authored_exact"},
+          {"glossary_id": "parti-in-causa", "surface": "طرف‌های ذی‌نفع", "match_method": "human_authored_exact"},
+          {"glossary_id": "natura-finalita-intervento", "surface": "ماهیت و اهداف مداخله", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 33,
+      "localized": {
+        "editorial_title": "احترام، وفاداری و همبستگی حرفه‌ای",
+        "article_text": "روابط میان روان‌شناسان باید بر احترام متقابل، وفاداری و همبستگی حرفه‌ای استوار باشد. روان‌شناس از همکارانی حمایت می‌کند که در جریان فعالیت خود، صرف‌نظر از نوع رابطه کاری یا جایگاه سازمانی، استقلال حرفه‌ای یا توان رعایت قواعد اخلاق حرفه‌ای آنان به خطر افتاده است.",
+        "article_text_status": "editorial_translation",
+        "core_message": "همبستگی حرفه‌ای یعنی حمایت از همکار در برابر فشار بر استقلال یا اخلاق، نه پنهان‌کردن تخلف.",
+        "glossary_annotations": [
+          {"glossary_id": "colleganza", "surface": "همبستگی حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "autonomia-professionale", "surface": "استقلال حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 34,
+      "localized": {
+        "editorial_title": "توسعه و انتشار دانش روان‌شناختی",
+        "article_text": "روان‌شناس متعهد است به توسعه رشته‌های روان‌شناختی کمک کند و پیشرفت دانش و فنون خود را با جامعه حرفه‌ای در میان بگذارد تا انتشار آن‌ها برای بهزیستی انسانی و اجتماعی نیز تسهیل شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "دانش حرفه‌ای باید مسئولانه رشد کند و به اشتراک گذاشته شود تا به بهزیستی انسان و جامعه کمک کند.",
+        "glossary_annotations": [
+          {"glossary_id": "comunita-professionale", "surface": "جامعه حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 35,
+      "localized": {
+        "editorial_title": "ذکر منبع مشارکت دیگران",
+        "article_text": "روان‌شناس هنگام ارائه نتایج پژوهش خود مکلف است منبع مشارکت دیگران را ذکر کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "ارائه پژوهش باید ایده‌ها، داده‌ها و مشارکت دیگران را روشن و دقیق به منبعشان نسبت دهد.",
+        "glossary_annotations": [
+          {"glossary_id": "fonte-altrui-contributi", "surface": "منبع مشارکت دیگران", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 36,
+      "localized": {
+        "editorial_title": "انتقاد علنی، جذب مراجع و تکلیف گزارش",
+        "article_text": "روان‌شناس از اظهارنظر منفی علنی درباره آموزش، صلاحیت یا نتایج مداخلات حرفه‌ای همکاران و نیز از اظهارنظری که به شأن حرفه‌ای یا اعتبار آنان لطمه بزند خودداری می‌کند. اگر هدف این اظهارنظرها ربودن مراجعان همکاران باشد، عامل تشدیدکننده محسوب می‌شود. هرگاه روان‌شناس با رفتار حرفه‌ای نادرستی روبه‌رو شود که ممکن است به خدمت‌گیرندگان یا شأن حرفه آسیب برساند، موضوع را بی‌درنگ به شورای نهاد حرفه‌ای ذی‌صلاح اطلاع می‌دهد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "برای رقابت نباید همکار را علنی تخریب کرد؛ رفتار خطرناک از مسیر نهادی و به مرجع صالح گزارش می‌شود.",
+        "glossary_annotations": [
+          {"glossary_id": "decoro-professionale", "surface": "شأن حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "aggravante", "surface": "عامل تشدیدکننده", "match_method": "human_authored_exact"},
+          {"glossary_id": "sottrarre-clientela", "surface": "ربودن مراجعان همکاران", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "خدمت‌گیرندگان", "match_method": "human_authored_exact"},
+          {"glossary_id": "tempestiva-comunicazione", "surface": "بی‌درنگ", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "شورای نهاد حرفه‌ای ذی‌صلاح", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 37,
+      "localized": {
+        "editorial_title": "پذیرش مأموریت در حدود صلاحیت",
+        "article_text": "روان‌شناس مأموریت حرفه‌ای را فقط در حدود صلاحیت حرفه‌ای خود می‌پذیرد. هرگاه منفعت سفارش‌دهنده و/یا مخاطب خدمت به صلاحیت تخصصی دیگری نیاز داشته باشد، مشاوره یا ارجاع به همکار یا متخصص دیگری را پیشنهاد می‌کند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "پذیرش کار به صلاحیت واقعی نیاز دارد؛ اگر کافی نیست باید مشورت، همکاری یا ارجاع پیشنهاد شود.",
+        "glossary_annotations": [
+          {"glossary_id": "mandato-professionale", "surface": "مأموریت حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "competenza-professionale", "surface": "صلاحیت حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "committente", "surface": "سفارش‌دهنده", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "مخاطب خدمت", "match_method": "human_authored_exact"},
+          {"glossary_id": "consulenza-invio", "surface": "مشاوره یا ارجاع", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 38,
+      "localized": {
+        "editorial_title": "شأن و کرامت هنگام نمایندگی حرفه",
+        "article_text": "روان‌شناس در فعالیت حرفه‌ای و در هر موقعیتی که با هر عنوان حرفه را در برابر عموم نمایندگی می‌کند، رفتار خود را با اصول شأن حرفه‌ای و کرامت حرفه‌ای هماهنگ می‌سازد.",
+        "article_text_status": "editorial_translation",
+        "core_message": "شأن و کرامت فقط داخل جلسه نیست؛ هر وقت روان‌شناس در برابر عموم نماینده حرفه است باید آن‌ها را رعایت کند.",
+        "glossary_annotations": [
+          {"glossary_id": "rappresenta-pubblicamente-professione", "surface": "حرفه را در برابر عموم نمایندگی می‌کند", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "شأن حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "dignita-professionale", "surface": "کرامت حرفه‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 39,
+      "localized": {
+        "editorial_title": "بیان دقیق آموزش، تجربه و صلاحیت",
+        "article_text": "روان‌شناس آموزش، تجربه و صلاحیت خود را درست و دقیق معرفی می‌کند. او کمک به عموم و خدمت‌گیرندگان برای شکل‌دادن آزادانه و آگاهانه به داوری‌ها، نظرها و انتخاب‌هایشان را وظیفه خود می‌داند.",
+        "article_text_status": "editorial_translation",
+        "core_message": "مدرک، تجربه و صلاحیت بدون اغراق معرفی می‌شود تا مردم بتوانند آزادانه و آگاهانه انتخاب کنند.",
+        "glossary_annotations": [
+          {"glossary_id": "formazione-esperienza-competenza", "surface": "آموزش، تجربه و صلاحیت", "match_method": "human_authored_exact"},
+          {"glossary_id": "libero-consapevole-giudizio", "surface": "آزادانه و آگاهانه به داوری‌ها، نظرها و انتخاب‌هایشان", "match_method": "human_authored_exact"},
+          {"glossary_id": "utente", "surface": "خدمت‌گیرندگان", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 40,
+      "localized": {
+        "editorial_title": "تبلیغات اطلاع‌رسان و منع جذب نادرست مراجع",
+        "article_text": "صرف‌نظر از محدودیت‌های قانون جاری درباره تبلیغات، روان‌شناس در ملأعام رفتار نادرستی با هدف جذب مراجع در پیش نمی‌گیرد. تبلیغات اطلاع‌رسان درباره مدارک و تخصص‌های حرفه‌ای، ویژگی‌های خدمت، قیمت و هزینه کلی خدمات مجاز است، مشروط به شفافیت و درستی پیام؛ رعایت این معیارها را شورای نهاد حرفه‌ای ذی‌صلاح بررسی می‌کند. پیام باید با رعایت شأن حرفه‌ای، معیارهای جدیت علمی و حمایت از تصویر حرفه تنظیم شود. فقدان شفافیت یا درستی پیام تبلیغاتی تخلف اخلاق حرفه‌ای است.",
+        "article_text_status": "editorial_translation",
+        "core_message": "تبلیغ می‌تواند اطلاعات بدهد، اما باید شفاف، درست و از نظر علمی جدی باشد و به جذب نادرست مراجع تبدیل نشود.",
+        "glossary_annotations": [
+          {"glossary_id": "procacciamento-clientela", "surface": "جذب مراجع", "match_method": "human_authored_exact"},
+          {"glossary_id": "pubblicita-informativa", "surface": "تبلیغات اطلاع‌رسان", "match_method": "human_authored_exact"},
+          {"glossary_id": "trasparenza-veridicita", "surface": "شفافیت و درستی", "match_method": "human_authored_exact"},
+          {"glossary_id": "consiglio-ordine-competente", "surface": "شورای نهاد حرفه‌ای ذی‌صلاح", "match_method": "human_authored_exact"},
+          {"glossary_id": "decoro-professionale", "surface": "شأن حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "serieta-scientifica", "surface": "جدیت علمی", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 41,
+      "localized": {
+        "editorial_title": "رصدخانه دائمی و بازنگری دوره‌ای آیین‌نامه",
+        "article_text": "در کمیسیون اخلاق حرفه‌ای نهاد روان‌شناسان، رصدخانه دائمی آیین‌نامه اخلاق حرفه‌ای تأسیس می‌شود که با مصوبه ویژه شورای ملی نهاد تنظیم خواهد شد. وظیفه آن گردآوری رویه و تصمیم‌های اخلاق حرفه‌ای شوراهای منطقه‌ای و استانی و هر مطلب سودمند دیگری برای پیشنهادهای احتمالی کمیسیون به شورای ملی است، از جمله برای بازنگری دوره‌ای آیین‌نامه. این بازنگری مطابق شیوه مقرر در قانون ایتالیا شماره ۵۶ مورخ ۱۸ فوریه ۱۹۸۹ انجام می‌شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "به‌روزرسانی آیین‌نامه بر پایش مستمر تصمیم‌های اخلاقی تکیه دارد و باید مسیر قانونی خودش را طی کند.",
+        "glossary_annotations": [
+          {"glossary_id": "osservatorio-permanente", "surface": "رصدخانه دائمی آیین‌نامه اخلاق حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "giurisprudenza-deontologica", "surface": "رویه و تصمیم‌های اخلاق حرفه‌ای", "match_method": "human_authored_exact"},
+          {"glossary_id": "revisione-periodica", "surface": "بازنگری دوره‌ای", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 42,
+      "localized": {
+        "editorial_title": "لازم‌الاجرا شدن",
+        "article_text": "این آیین‌نامه اخلاق حرفه‌ای در سی‌امین روز پس از اعلام نتایج همه‌پرسی تصویب، مطابق ماده ۲۸ بند ۶ جزء «ج» قانون ایتالیا شماره ۵۶ مورخ ۱۸ فوریه ۱۹۸۹، لازم‌الاجرا می‌شود.",
+        "article_text_status": "editorial_translation",
+        "core_message": "آیین‌نامه سی روز بعد از اعلام نتیجه همه‌پرسیِ تصویب، لازم‌الاجرا می‌شود.",
+        "glossary_annotations": [
+          {"glossary_id": "entrata-in-vigore", "surface": "لازم‌الاجرا می‌شود", "match_method": "human_authored_exact"},
+          {"glossary_id": "proclamazione-risultati", "surface": "اعلام نتایج", "match_method": "human_authored_exact"},
+          {"glossary_id": "referendum-approvazione", "surface": "همه‌پرسی تصویب", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}

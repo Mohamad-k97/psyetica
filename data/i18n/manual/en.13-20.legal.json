@@ -1,0 +1,115 @@
+{
+  "language": "en",
+  "articles": [
+    {
+      "number": 13,
+      "localized": {
+        "editorial_title": "Statutory reporting duties and serious risk",
+        "article_text": "Where there is a statutory duty to submit a clinical report (referto) or a statutory duty to report an offence (denuncia), the psychologist, in order to protect the person’s psychological welfare, discloses no more of what was learned through the professional relationship than is strictly necessary. In other cases, where a serious threat to the life or physical or psychological health of the person and/or a third party arises, the psychologist carefully assesses whether it is necessary to depart wholly or partly from the duty of confidentiality.",
+        "article_text_status": "editorial_translation",
+        "core_message": "A disclosure required by law must be confined to what is strictly necessary; outside those duties, serious risk calls for a careful and proportionate assessment of any departure from confidentiality.",
+        "glossary_annotations": [
+          {"glossary_id": "obbligo-referto", "surface": "statutory duty to submit a clinical report", "match_method": "human_authored_exact"},
+          {"glossary_id": "obbligo-denuncia", "surface": "statutory duty to report an offence", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "strictly necessary", "match_method": "human_authored_exact"},
+          {"glossary_id": "tutela-psicologica", "surface": "psychological welfare", "match_method": "human_authored_exact"},
+          {"glossary_id": "deroga-segreto", "surface": "depart wholly or partly", "match_method": "human_authored_exact"},
+          {"glossary_id": "riservatezza", "surface": "confidentiality", "match_method": "human_authored_exact"},
+          {"glossary_id": "gravi-pericoli", "surface": "serious threat to the life or physical or psychological health", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "localized": {
+        "editorial_title": "Ground rules and confidentiality in group interventions",
+        "article_text": "Where an intervention is conducted with or through a group, the psychologist must explain at the outset the rules governing the intervention. Where necessary, the psychologist must also secure the group members’ commitment to respect each person’s right to confidentiality.",
+        "article_text_status": "editorial_translation",
+        "core_message": "At the start of a group intervention, psychologists explain its ground rules and, where necessary, obtain participants’ commitment to respect one another’s confidentiality.",
+        "glossary_annotations": [
+          {"glossary_id": "riservatezza", "surface": "confidentiality", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "localized": {
+        "editorial_title": "Minimum necessary sharing in professional collaboration",
+        "article_text": "When collaborating with other persons who are likewise bound by professional secrecy, the psychologist may share only the information strictly necessary for the particular collaboration.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Collaboration permits information to be shared only with people who are themselves bound by professional secrecy, and only to the extent necessary for the specific joint work.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "professional secrecy", "match_method": "human_authored_exact"},
+          {"glossary_id": "stretto-necessario", "surface": "information strictly necessary", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "localized": {
+        "editorial_title": "Anonymity in scientific communications",
+        "article_text": "The psychologist prepares scientific communications in a manner that safeguards the anonymity of the recipient of the service in every case, even where the intended audience consists of professionals who are themselves bound by professional secrecy.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Cases and data used in scientific communications must preserve the recipient’s anonymity even where the audience consists entirely of professionals bound by secrecy.",
+        "glossary_annotations": [
+          {"glossary_id": "segreto-professionale", "surface": "professional secrecy", "match_method": "human_authored_exact"},
+          {"glossary_id": "anonimato", "surface": "anonymity", "match_method": "human_authored_exact"},
+          {"glossary_id": "destinatario-prestazione", "surface": "recipient of the service", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "localized": {
+        "editorial_title": "Secure custody, retention and continuity of protection",
+        "article_text": "The secrecy of communications must also be protected through the secure custody and control of notes, memoranda, documents or recordings of any kind and in any form that concern the professional relationship. Such professional records must be retained for at least five years after the professional relationship ends, without prejudice to any specific legal requirements. The psychologist must arrange for that protection to be entrusted to a colleague or to the professional Order in the event of the psychologist’s death or incapacity. A psychologist involved in creating or using record-keeping systems must work to put safeguards in place for the persons concerned.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Confidentiality requires secure control of every form of professional record, retention for at least five years unless specific rules provide otherwise, continuity after death or incapacity, and systems designed to protect the people concerned.",
+        "glossary_annotations": [
+          {"glossary_id": "custodia-controllo", "surface": "secure custody and control", "match_method": "human_authored_exact"},
+          {"glossary_id": "documentazione-professionale", "surface": "professional records", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "localized": {
+        "editorial_title": "Freedom to choose a professional",
+        "article_text": "In every professional context, the psychologist must take all reasonable steps to ensure that a client’s and/or patient’s freedom of choice as to which professional to consult is respected as fully as possible.",
+        "article_text_status": "editorial_translation",
+        "core_message": "So far as their role permits, psychologists protect the client’s or patient’s ability to choose freely which professional to consult.",
+        "glossary_annotations": [
+          {"glossary_id": "liberta-di-scelta", "surface": "freedom of choice", "match_method": "human_authored_exact"},
+          {"glossary_id": "cliente", "surface": "client", "match_method": "human_authored_exact"},
+          {"glossary_id": "paziente", "surface": "patient", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "localized": {
+        "editorial_title": "Professional criteria in selection and assessment",
+        "article_text": "A psychologist working in selection and assessment contexts must apply only criteria concerning the specific competence, qualifications or preparation required and must not endorse decisions that are contrary to those principles.",
+        "article_text_status": "editorial_translation",
+        "core_message": "In selection and assessment, judgements and decisions must turn on relevant competence, qualifications and preparation rather than outside pressure or unrelated criteria.",
+        "glossary_annotations": [
+          {"glossary_id": "qualificazione-preparazione", "surface": "specific competence, qualifications or preparation", "match_method": "human_authored_exact"},
+          {"glossary_id": "avallare", "surface": "endorse", "match_method": "human_authored_exact"}
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "localized": {
+        "editorial_title": "Professional ethics in teaching and training",
+        "article_text": "In teaching, educational and training activities, the psychologist encourages students, learners and trainees to take an interest in ethical principles, including by ensuring that the psychologist’s own professional conduct exemplifies those principles.",
+        "article_text_status": "editorial_translation",
+        "core_message": "Psychologists who teach or train others do more than describe the Code: they foster ethical awareness and model it in their own professional conduct.",
+        "glossary_annotations": [
+          {"glossary_id": "tirocinanti", "surface": "trainees", "match_method": "human_authored_exact"},
+          {"glossary_id": "principi-deontologici", "surface": "ethical principles", "match_method": "human_authored_exact"}
+        ]
+      }
+    }
+  ]
+}
