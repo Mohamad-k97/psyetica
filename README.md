@@ -23,19 +23,16 @@ Web App installabile. `manifest.webmanifest`, `service-worker.js` e le icone in
 Per pubblicarla come sito statico, usa quella cartella come directory di deploy; il
 pacchetto pronto per l'upload è `dist/PsyEtica-PWA-0.4.0.zip`.
 
-### Pubblicazione con Cloudflare Pages
+### Pubblicazione con Cloudflare Workers
 
-Collega questo repository a Cloudflare Pages con queste impostazioni:
+Il file `wrangler.jsonc` configura il progetto come Worker di soli asset statici e
+indica `android-app/app/src/main/assets/www` come directory della PWA. Collegando il
+repository a Workers Builds, usa il branch `main`, nessun build command e il deploy
+command predefinito `npx wrangler deploy`.
 
-- branch di produzione: `main`;
-- framework preset: `None`;
-- root directory: `android-app/app/src/main/assets/www`;
-- build command: lasciare vuoto;
-- build output directory: `.`.
-
-Cloudflare pubblicherà automaticamente ogni nuovo push su `main`. Il dominio si
-associa poi dalla sezione **Custom domains** del progetto Pages; non serve copiare
-manualmente gli asset né mantenere un server applicativo.
+Cloudflare pubblicherà automaticamente ogni nuovo push su `main`. Dopo il primo
+deploy, il dominio si associa da **Settings > Domains & Routes > Add > Custom
+Domain**; non serve copiare manualmente gli asset né mantenere un server applicativo.
 
 Le note personali e il progresso delle flashcard restano nello spazio locale del
 browser o dell'app installata: non vengono sincronizzati tra dispositivi e possono
