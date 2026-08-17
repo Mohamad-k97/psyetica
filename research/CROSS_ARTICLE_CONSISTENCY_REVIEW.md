@@ -141,5 +141,4 @@ Queste aree restano intenzionalmente in stato `draft` e richiedono controllo spe
 | Media | 7, 25, 31 e 39 | Portata attribuibile alle decisioni territoriali usate come esempi e loro eventuale definitività. |
 | Media | 2, 38 e 40 | Applicazione contestuale delle clausole aperte su decoro, dignità e immagine della professione. |
 
-In assenza del revisore specialistico si può procedere con il prototipo dell'app, mantenendo in evidenza lo stato di bozza. Non è invece prudente presentare commenti, definizioni o traduzioni come ufficiali o definitivamente convalidati.
-
+In assenza del revisore specialistico si può procedere con lo sviluppo dell'app, mantenendo in evidenza lo stato di bozza. Non è invece prudente presentare commenti, definizioni o traduzioni come ufficiali o definitivamente convalidati.

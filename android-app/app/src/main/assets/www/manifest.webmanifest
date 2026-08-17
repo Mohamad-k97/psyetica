@@ -2,7 +2,7 @@
   "id": "./",
   "name": "PsyEtica — Codice Deontologico",
   "short_name": "PsyEtica",
-  "description": "Studia il Codice Deontologico degli Psicologi Italiani, articolo per articolo, anche offline.",
+  "description": "Studia il Codice Deontologico degli Psicologi Italiani, articolo per articolo.",
   "lang": "it",
   "dir": "ltr",
   "start_url": "./",

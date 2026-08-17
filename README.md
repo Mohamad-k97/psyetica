@@ -4,14 +4,14 @@ Raccolta iniziale per un'app didattica sul Codice Deontologico degli Psicologi I
 
 ## App Android
 
-Il prototipo Android offline è in `android-app/`. Include navigazione degli articoli,
+L'app Android è in `android-app/`. Include navigazione degli articoli,
 commento per clausole, evidenziazioni terminologiche con pop-up, casi e fonti,
 168 flashcard italiane con progresso locale e filtri per conosciute/da rivedere,
 appunti personali per articolo, sette lingue di interfaccia con LTR/RTL, modalità scura e
 un comando di supporto/condivisione sempre visibile. Non richiede login e non esegue
 tracciamento.
 
-L'APK di sviluppo aggiornato è `dist/PsyEtica-0.4.0-debug.apk`. È firmato con una
+L'APK di sviluppo aggiornato è `dist/PsyEtica-1.0.0-debug.apk`. È firmato con una
 chiave Android di debug ed è adatto a installazione e collaudo interno; per la
 distribuzione pubblica servirà una build release firmata con la chiave del progetto.
 
@@ -21,18 +21,21 @@ Gli stessi asset in `android-app/app/src/main/assets/www/` formano una Progressi
 Web App installabile. `manifest.webmanifest`, `service-worker.js` e le icone in
 `icons/` permettono l'installazione e il funzionamento offline su browser compatibili.
 Per pubblicarla come sito statico, usa quella cartella come directory di deploy; il
-pacchetto pronto per l'upload è `dist/PsyEtica-PWA-0.4.0.zip`.
+pacchetto pronto per l'upload è `dist/PsyEtica-PWA-1.0.0.zip`.
 
-### Pubblicazione con Cloudflare Workers
+### Pubblicazione con Cloudflare Pages
 
-Il file `wrangler.jsonc` configura il progetto come Worker di soli asset statici e
-indica `android-app/app/src/main/assets/www` come directory della PWA. Collegando il
-repository a Workers Builds, usa il branch `main`, nessun build command e il deploy
-command predefinito `npx wrangler deploy`.
+Collega questo repository a Cloudflare Pages con queste impostazioni:
 
-Cloudflare pubblicherà automaticamente ogni nuovo push su `main`. Dopo il primo
-deploy, il dominio si associa da **Settings > Domains & Routes > Add > Custom
-Domain**; non serve copiare manualmente gli asset né mantenere un server applicativo.
+- branch di produzione: `main`;
+- framework preset: `None`;
+- root directory: `android-app/app/src/main/assets/www`;
+- build command: lasciare vuoto;
+- build output directory: `.`.
+
+Cloudflare pubblicherà automaticamente ogni nuovo push su `main`. Il dominio si
+associa poi dalla sezione **Custom domains** del progetto Pages; non serve copiare
+manualmente gli asset né mantenere un server applicativo.
 
 Le note personali e il progresso delle flashcard restano nello spazio locale del
 browser o dell'app installata: non vengono sincronizzati tra dispositivi e possono
@@ -117,8 +120,15 @@ I commenti, gli esempi e le traduzioni non costituiscono interpretazione ufficia
 consulenza legale e dovranno essere sottoposti a revisione professionale prima della
 pubblicazione.
 
+## Licenza
+
+Il software e i materiali editoriali originali di PsyEtica sono distribuiti sotto
+licenza libera copyleft `AGPL-3.0-or-later`; consulta `LICENSE` e `NOTICE.md`. Il testo
+ufficiale del Codice, le fonti istituzionali, i font e gli altri materiali di terzi non
+vengono ri-licenziati e conservano il rispettivo regime giuridico.
+
 La prima bozza editoriale italiana copre ora tutti i 42 articoli. È stato completato
 anche un controllo trasversale editoriale e tecnico, ma tutte le schede restano in
 stato `draft`: prima di congelare le traduzioni giuridiche multilingue servirà una
-revisione deontologica e legale. Nel frattempo i dati possono essere usati per il
-prototipo dell'app, mostrando chiaramente che commenti e definizioni non sono ufficiali.
+revisione deontologica e legale. Nel frattempo i dati possono essere usati nell'app,
+mostrando chiaramente che commenti e definizioni non sono ufficiali.

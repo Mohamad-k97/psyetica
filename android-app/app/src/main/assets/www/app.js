@@ -11,6 +11,7 @@ const LANGUAGES = [
 ];
 
 const SUPPORT_URL = "https://ko-fi.com/momo_casadei";
+const LICENSE_URL = "https://github.com/Mohamad-k97/psyetica/blob/main/LICENSE";
 
 const INFO_TRANSLATION_NOTE = {
   it: "Le traduzioni sono versioni editoriali per lo studio; in caso di dubbio prevale sempre il testo italiano.",
@@ -125,7 +126,7 @@ const COPY = {
   it: {
     articles: "Articoli", flashcards: "Flashcard", about: "Info", support: "Sostieni",
     library: "Il Codice, spiegato con chiarezza", libraryLead: "Studia il testo vigente articolo per articolo, esplora le clausole e allenati per l’Esame di Stato.",
-    articlesCount: "42 articoli", cardsCount: "168 flashcard", offline: "Sempre offline",
+    articlesCount: "42 articoli", cardsCount: "168 flashcard",
     search: "Cerca articolo, concetto o parola…", noResults: "Nessun articolo corrisponde alla ricerca.",
     article: "Articolo", back: "Tutti gli articoli", officialItalian: "Testo ufficiale italiano",
     tapTerms: "Tocca le parole evidenziate per aprire la definizione.", keyMessage: "In sintesi",
@@ -145,35 +146,35 @@ const COPY = {
     privacyTitle: "Privacy semplice", privacyBody: "Nessun login, nessun profilo e nessun tracciamento. Tema, lingua e progresso delle flashcard restano sul dispositivo.",
     languageTitle: "Sette lingue, una fonte", languageBody: "Il testo italiano è sempre visibile e prevale. Le traduzioni sono bozze didattiche non ufficiali e devono essere revisionate da specialisti madrelingua prima della pubblicazione definitiva.",
     sourcesTitle: "Fonti", sourcesBody: "Il testo normativo rimanda al CNOP; commenti e casi riportano i collegamenti alle fonti disponibili. L’app funziona offline, mentre l’apertura di un link esterno richiede una connessione.",
-    officialSite: "Apri il Codice vigente sul sito CNOP", version: "Prototipo offline · versione 0.1.0",
+    officialSite: "Apri il Codice vigente sul sito CNOP", version: "Versione 1.0.0",
     loadingError: "Non è stato possibile caricare i dati dell’app.", caseOutcome: "Esito", notKnownFinal: "Eventuale impugnazione o definitività non nota.",
     answer: "Risposta", flashItalianHint: "Le flashcard italiane restano sempre disponibili.", filterAll: "Tutti gli articoli"
   },
   en: {
     articles: "Articles", flashcards: "Flashcards", about: "About", support: "Support",
     library: "The Code, explained clearly", libraryLead: "Study the current text article by article, explore each clause, and prepare for the State Examination.",
-    articlesCount: "42 articles", cardsCount: "168 flashcards", offline: "Always offline", search: "Search articles, concepts, or words…", noResults: "No article matches your search.",
+    articlesCount: "42 articles", cardsCount: "168 flashcards", search: "Search articles, concepts, or words…", noResults: "No article matches your search.",
     article: "Article", back: "All articles", officialItalian: "Official Italian text", tapTerms: "Tap highlighted words to see the definition.", keyMessage: "Key point",
     clauseReading: "Clause-by-clause reading", practical: "In practice", mistakes: "Common mistakes", example: "Possible infringement example", analysis: "Why it matters", cases: "Cases and decisions", connections: "Legal connections", source: "Open source", related: "Related articles",
     legalNotice: "Editorial learning content", translationNotice: "Unofficial translation requiring legal and native-language review.", localizedArticle: "Article text", comments: "Clause-by-clause commentary", termDefinition: "Definition", italianTerm: "Italian term", localizedExplanation: "Explanation", category: "Category", close: "Close",
     studyTitle: "Prepare for the State Examination", studyLead: "Review every card and save what you know or need to revisit on this device.", italian: "Italian", appLanguage: "App language", shuffle: "Shuffle", showAnswer: "Show answer", again: "Review again", known: "I know it", previous: "Previous", next: "Next", reviewed: "Reviewed", knownCount: "Known", cardOf: "Card {current} of {total}", reset: "Reset progress", resetDone: "Progress reset",
     shareTitle: "Support PsyEtica", shareText: "PsyEtica helps people study the Italian Psychologists’ Code of Ethics, without an account and offline.", supportTitle: "Support the project", supportBody: "PsyEtica is designed as an accessible learning resource. Support it by sharing it with students and colleagues and by sending feedback on the content.", share: "Share PsyEtica",
-    whyTitle: "How to use PsyEtica", whyBody: "Always read the official Italian text first. Commentary, examples, editorial titles, and translations support learning but do not replace the Code or case-specific professional advice.", privacyTitle: "Simple privacy", privacyBody: "No login, profile, or tracking. Theme, language, and flashcard progress remain on your device.", languageTitle: "Seven languages, one source", languageBody: "The Italian text is always shown and controls. Translations are unofficial learning drafts and require specialist native review before final publication.", sourcesTitle: "Sources", sourcesBody: "The normative text links to CNOP; commentary and cases include available source links. The app works offline, while external links need a connection.", officialSite: "Open the current Code on the CNOP website", version: "Offline prototype · version 0.1.0", loadingError: "The app data could not be loaded.", caseOutcome: "Outcome", notKnownFinal: "Any appeal or finality is unknown.", answer: "Answer", flashItalianHint: "Italian flashcards always remain available.", filterAll: "All articles"
+    whyTitle: "How to use PsyEtica", whyBody: "Always read the official Italian text first. Commentary, examples, editorial titles, and translations support learning but do not replace the Code or case-specific professional advice.", privacyTitle: "Simple privacy", privacyBody: "No login, profile, or tracking. Theme, language, and flashcard progress remain on your device.", languageTitle: "Seven languages, one source", languageBody: "The Italian text is always shown and controls. Translations are unofficial learning drafts and require specialist native review before final publication.", sourcesTitle: "Sources", sourcesBody: "The normative text links to CNOP; commentary and cases include available source links. The app works offline, while external links need a connection.", officialSite: "Open the current Code on the CNOP website", version: "Version 1.0.0", loadingError: "The app data could not be loaded.", caseOutcome: "Outcome", notKnownFinal: "Any appeal or finality is unknown.", answer: "Answer", flashItalianHint: "Italian flashcards always remain available.", filterAll: "All articles"
   },
   es: {
-    articles: "Artículos", flashcards: "Tarjetas", about: "Info", support: "Apoyar", library: "El Código, explicado con claridad", libraryLead: "Estudia el texto vigente artículo por artículo, explora sus cláusulas y prepárate para el Examen de Estado.", articlesCount: "42 artículos", cardsCount: "168 tarjetas", offline: "Siempre sin conexión", search: "Buscar artículo, concepto o palabra…", noResults: "Ningún artículo coincide con la búsqueda.", article: "Artículo", back: "Todos los artículos", officialItalian: "Texto oficial italiano", tapTerms: "Toca las palabras resaltadas para ver la definición.", keyMessage: "En síntesis", clauseReading: "Lectura por cláusulas", practical: "En la práctica", mistakes: "Errores frecuentes", example: "Ejemplo de posible infracción", analysis: "Por qué es relevante", cases: "Casos y decisiones", connections: "Conexiones jurídicas", source: "Abrir fuente", related: "Artículos relacionados", legalNotice: "Contenido didáctico editorial", translationNotice: "Traducción no oficial pendiente de revisión jurídico-lingüística.", localizedArticle: "Texto del artículo", comments: "Comentario por cláusulas", termDefinition: "Definición", italianTerm: "Término italiano", localizedExplanation: "Explicación", category: "Categoría", close: "Cerrar", studyTitle: "Prepárate para el Examen de Estado", studyLead: "Repasa todas las tarjetas y guarda en el dispositivo lo que sabes y lo que debes revisar.", italian: "Italiano", appLanguage: "Idioma de la app", shuffle: "Mezclar", showAnswer: "Mostrar respuesta", again: "Repasar", known: "La sé", previous: "Anterior", next: "Siguiente", reviewed: "Evaluadas", knownCount: "Conocidas", cardOf: "Tarjeta {current} de {total}", reset: "Borrar progreso", resetDone: "Progreso borrado", shareTitle: "Apoya PsyEtica", shareText: "PsyEtica ayuda a estudiar el Código Deontológico italiano de los psicólogos, sin cuenta y sin conexión.", supportTitle: "Apoya el proyecto", supportBody: "PsyEtica está diseñada como recurso didáctico accesible. Puedes apoyarla compartiéndola y enviando observaciones sobre el contenido.", share: "Compartir PsyEtica", whyTitle: "Cómo usar PsyEtica", whyBody: "Lee siempre primero el texto oficial italiano. Los comentarios, ejemplos, títulos y traducciones ayudan al estudio, pero no sustituyen el Código ni el asesoramiento sobre un caso concreto.", privacyTitle: "Privacidad sencilla", privacyBody: "Sin inicio de sesión, perfil ni seguimiento. El tema, idioma y progreso permanecen en el dispositivo.", languageTitle: "Siete idiomas, una fuente", languageBody: "El texto italiano siempre se muestra y prevalece. Las traducciones son borradores didácticos no oficiales que requieren revisión especialista.", sourcesTitle: "Fuentes", sourcesBody: "El texto normativo remite al CNOP; comentarios y casos incluyen los enlaces disponibles. La app funciona sin conexión; los enlaces externos requieren internet.", officialSite: "Abrir el Código vigente en el sitio del CNOP", version: "Prototipo sin conexión · versión 0.1.0", loadingError: "No se pudieron cargar los datos.", caseOutcome: "Resultado", notKnownFinal: "No se conoce una posible impugnación o firmeza.", answer: "Respuesta", flashItalianHint: "Las tarjetas italianas están siempre disponibles.", filterAll: "Todos los artículos"
+    articles: "Artículos", flashcards: "Tarjetas", about: "Info", support: "Apoyar", library: "El Código, explicado con claridad", libraryLead: "Estudia el texto vigente artículo por artículo, explora sus cláusulas y prepárate para el Examen de Estado.", articlesCount: "42 artículos", cardsCount: "168 tarjetas", search: "Buscar artículo, concepto o palabra…", noResults: "Ningún artículo coincide con la búsqueda.", article: "Artículo", back: "Todos los artículos", officialItalian: "Texto oficial italiano", tapTerms: "Toca las palabras resaltadas para ver la definición.", keyMessage: "En síntesis", clauseReading: "Lectura por cláusulas", practical: "En la práctica", mistakes: "Errores frecuentes", example: "Ejemplo de posible infracción", analysis: "Por qué es relevante", cases: "Casos y decisiones", connections: "Conexiones jurídicas", source: "Abrir fuente", related: "Artículos relacionados", legalNotice: "Contenido didáctico editorial", translationNotice: "Traducción no oficial pendiente de revisión jurídico-lingüística.", localizedArticle: "Texto del artículo", comments: "Comentario por cláusulas", termDefinition: "Definición", italianTerm: "Término italiano", localizedExplanation: "Explicación", category: "Categoría", close: "Cerrar", studyTitle: "Prepárate para el Examen de Estado", studyLead: "Repasa todas las tarjetas y guarda en el dispositivo lo que sabes y lo que debes revisar.", italian: "Italiano", appLanguage: "Idioma de la app", shuffle: "Mezclar", showAnswer: "Mostrar respuesta", again: "Repasar", known: "La sé", previous: "Anterior", next: "Siguiente", reviewed: "Evaluadas", knownCount: "Conocidas", cardOf: "Tarjeta {current} de {total}", reset: "Borrar progreso", resetDone: "Progreso borrado", shareTitle: "Apoya PsyEtica", shareText: "PsyEtica ayuda a estudiar el Código Deontológico italiano de los psicólogos, sin cuenta y sin conexión.", supportTitle: "Apoya el proyecto", supportBody: "PsyEtica está diseñada como recurso didáctico accesible. Puedes apoyarla compartiéndola y enviando observaciones sobre el contenido.", share: "Compartir PsyEtica", whyTitle: "Cómo usar PsyEtica", whyBody: "Lee siempre primero el texto oficial italiano. Los comentarios, ejemplos, títulos y traducciones ayudan al estudio, pero no sustituyen el Código ni el asesoramiento sobre un caso concreto.", privacyTitle: "Privacidad sencilla", privacyBody: "Sin inicio de sesión, perfil ni seguimiento. El tema, idioma y progreso permanecen en el dispositivo.", languageTitle: "Siete idiomas, una fuente", languageBody: "El texto italiano siempre se muestra y prevalece. Las traducciones son borradores didácticos no oficiales que requieren revisión especialista.", sourcesTitle: "Fuentes", sourcesBody: "El texto normativo remite al CNOP; comentarios y casos incluyen los enlaces disponibles. La app funciona sin conexión; los enlaces externos requieren internet.", officialSite: "Abrir el Código vigente en el sitio del CNOP", version: "Versión 1.0.0", loadingError: "No se pudieron cargar los datos.", caseOutcome: "Resultado", notKnownFinal: "No se conoce una posible impugnación o firmeza.", answer: "Respuesta", flashItalianHint: "Las tarjetas italianas están siempre disponibles.", filterAll: "Todos los artículos"
   },
   ro: {
-    articles: "Articole", flashcards: "Fișe", about: "Info", support: "Susține", library: "Codul, explicat clar", libraryLead: "Studiază textul în vigoare articol cu articol, explorează clauzele și pregătește-te pentru Examenul de Stat.", articlesCount: "42 de articole", cardsCount: "168 de fișe", offline: "Mereu offline", search: "Caută articol, concept sau cuvânt…", noResults: "Niciun articol nu corespunde căutării.", article: "Articolul", back: "Toate articolele", officialItalian: "Text oficial italian", tapTerms: "Atinge cuvintele evidențiate pentru definiție.", keyMessage: "Pe scurt", clauseReading: "Lectură pe clauze", practical: "În practică", mistakes: "Greșeli frecvente", example: "Exemplu de posibilă abatere", analysis: "De ce este relevant", cases: "Cazuri și decizii", connections: "Legături juridice", source: "Deschide sursa", related: "Articole conexe", legalNotice: "Conținut didactic editorial", translationNotice: "Traducere neoficială ce necesită revizuire juridică și lingvistică.", localizedArticle: "Textul articolului", comments: "Comentariu pe clauze", termDefinition: "Definiție", italianTerm: "Termen italian", localizedExplanation: "Explicație", category: "Categorie", close: "Închide", studyTitle: "Pregătește-te pentru Examenul de Stat", studyLead: "Recapitulează toate fișele și salvează pe dispozitiv ce știi și ce trebuie revăzut.", italian: "Italiană", appLanguage: "Limba aplicației", shuffle: "Amestecă", showAnswer: "Arată răspunsul", again: "De revăzut", known: "Știu", previous: "Anterior", next: "Următor", reviewed: "Evaluate", knownCount: "Cunoscute", cardOf: "Fișa {current} din {total}", reset: "Șterge progresul", resetDone: "Progres șters", shareTitle: "Susține PsyEtica", shareText: "PsyEtica ajută la studiul Codului deontologic italian al psihologilor, fără cont și offline.", supportTitle: "Susține proiectul", supportBody: "PsyEtica este o resursă didactică accesibilă. O poți susține distribuind-o și trimițând observații asupra conținutului.", share: "Distribuie PsyEtica", whyTitle: "Cum se folosește PsyEtica", whyBody: "Citește întotdeauna mai întâi textul oficial italian. Comentariile, exemplele, titlurile și traducerile sprijină studiul, dar nu înlocuiesc Codul sau consultanța pentru un caz concret.", privacyTitle: "Confidențialitate simplă", privacyBody: "Fără autentificare, profil sau urmărire. Tema, limba și progresul rămân pe dispozitiv.", languageTitle: "Șapte limbi, o singură sursă", languageBody: "Textul italian este afișat mereu și prevalează. Traducerile sunt schițe didactice neoficiale ce necesită revizuire de specialitate.", sourcesTitle: "Surse", sourcesBody: "Textul normativ trimite la CNOP; comentariile și cazurile includ linkurile disponibile. Aplicația funcționează offline; linkurile externe cer conexiune.", officialSite: "Deschide Codul în vigoare pe site-ul CNOP", version: "Prototip offline · versiunea 0.1.0", loadingError: "Datele aplicației nu au putut fi încărcate.", caseOutcome: "Rezultat", notKnownFinal: "O eventuală cale de atac sau definitivarea nu este cunoscută.", answer: "Răspuns", flashItalianHint: "Fișele italiene rămân mereu disponibile.", filterAll: "Toate articolele"
+    articles: "Articole", flashcards: "Fișe", about: "Info", support: "Susține", library: "Codul, explicat clar", libraryLead: "Studiază textul în vigoare articol cu articol, explorează clauzele și pregătește-te pentru Examenul de Stat.", articlesCount: "42 de articole", cardsCount: "168 de fișe", search: "Caută articol, concept sau cuvânt…", noResults: "Niciun articol nu corespunde căutării.", article: "Articolul", back: "Toate articolele", officialItalian: "Text oficial italian", tapTerms: "Atinge cuvintele evidențiate pentru definiție.", keyMessage: "Pe scurt", clauseReading: "Lectură pe clauze", practical: "În practică", mistakes: "Greșeli frecvente", example: "Exemplu de posibilă abatere", analysis: "De ce este relevant", cases: "Cazuri și decizii", connections: "Legături juridice", source: "Deschide sursa", related: "Articole conexe", legalNotice: "Conținut didactic editorial", translationNotice: "Traducere neoficială ce necesită revizuire juridică și lingvistică.", localizedArticle: "Textul articolului", comments: "Comentariu pe clauze", termDefinition: "Definiție", italianTerm: "Termen italian", localizedExplanation: "Explicație", category: "Categorie", close: "Închide", studyTitle: "Pregătește-te pentru Examenul de Stat", studyLead: "Recapitulează toate fișele și salvează pe dispozitiv ce știi și ce trebuie revăzut.", italian: "Italiană", appLanguage: "Limba aplicației", shuffle: "Amestecă", showAnswer: "Arată răspunsul", again: "De revăzut", known: "Știu", previous: "Anterior", next: "Următor", reviewed: "Evaluate", knownCount: "Cunoscute", cardOf: "Fișa {current} din {total}", reset: "Șterge progresul", resetDone: "Progres șters", shareTitle: "Susține PsyEtica", shareText: "PsyEtica ajută la studiul Codului deontologic italian al psihologilor, fără cont și offline.", supportTitle: "Susține proiectul", supportBody: "PsyEtica este o resursă didactică accesibilă. O poți susține distribuind-o și trimițând observații asupra conținutului.", share: "Distribuie PsyEtica", whyTitle: "Cum se folosește PsyEtica", whyBody: "Citește întotdeauna mai întâi textul oficial italian. Comentariile, exemplele, titlurile și traducerile sprijină studiul, dar nu înlocuiesc Codul sau consultanța pentru un caz concret.", privacyTitle: "Confidențialitate simplă", privacyBody: "Fără autentificare, profil sau urmărire. Tema, limba și progresul rămân pe dispozitiv.", languageTitle: "Șapte limbi, o singură sursă", languageBody: "Textul italian este afișat mereu și prevalează. Traducerile sunt schițe didactice neoficiale ce necesită revizuire de specialitate.", sourcesTitle: "Surse", sourcesBody: "Textul normativ trimite la CNOP; comentariile și cazurile includ linkurile disponibile. Aplicația funcționează offline; linkurile externe cer conexiune.", officialSite: "Deschide Codul în vigoare pe site-ul CNOP", version: "Versiunea 1.0.0", loadingError: "Datele aplicației nu au putut fi încărcate.", caseOutcome: "Rezultat", notKnownFinal: "O eventuală cale de atac sau definitivarea nu este cunoscută.", answer: "Răspuns", flashItalianHint: "Fișele italiene rămân mereu disponibile.", filterAll: "Toate articolele"
   },
   sq: {
-    articles: "Nenet", flashcards: "Kartela", about: "Info", support: "Mbështet", library: "Kodi, i shpjeguar qartë", libraryLead: "Studio tekstin në fuqi nen pas neni, shqyrto klauzolat dhe përgatitu për Provimin e Shtetit.", articlesCount: "42 nene", cardsCount: "168 kartela", offline: "Gjithmonë offline", search: "Kërko nen, koncept ose fjalë…", noResults: "Asnjë nen nuk përputhet me kërkimin.", article: "Neni", back: "Të gjitha nenet", officialItalian: "Teksti zyrtar italisht", tapTerms: "Prek fjalët e theksuara për përkufizimin.", keyMessage: "Në thelb", clauseReading: "Lexim sipas klauzolave", practical: "Në praktikë", mistakes: "Gabime të shpeshta", example: "Shembull i një shkeljeje të mundshme", analysis: "Pse ka rëndësi", cases: "Raste dhe vendime", connections: "Lidhje juridike", source: "Hap burimin", related: "Nene të lidhura", legalNotice: "Përmbajtje didaktike redaksionale", translationNotice: "Përkthim jozyrtar që kërkon rishikim juridik dhe gjuhësor.", localizedArticle: "Teksti i nenit", comments: "Koment sipas klauzolave", termDefinition: "Përkufizim", italianTerm: "Termi italisht", localizedExplanation: "Shpjegim", category: "Kategori", close: "Mbyll", studyTitle: "Përgatitu për Provimin e Shtetit", studyLead: "Përsërit të gjitha kartelat dhe ruaj në pajisje ato që di dhe ato që duhen rishikuar.", italian: "Italisht", appLanguage: "Gjuha e aplikacionit", shuffle: "Përziej", showAnswer: "Shfaq përgjigjen", again: "Për t’u rishikuar", known: "E di", previous: "Mëparshme", next: "Tjetra", reviewed: "Vlerësuar", knownCount: "Të njohura", cardOf: "Kartela {current} nga {total}", reset: "Fshi përparimin", resetDone: "Përparimi u fshi", shareTitle: "Mbështet PsyEtica", shareText: "PsyEtica ndihmon në studimin e Kodit Deontologjik italian të psikologëve, pa llogari dhe offline.", supportTitle: "Mbështet projektin", supportBody: "PsyEtica është një burim mësimor i qasshëm. Mund ta mbështetësh duke e ndarë dhe duke dërguar vërejtje për përmbajtjen.", share: "Ndaj PsyEtica", whyTitle: "Si përdoret PsyEtica", whyBody: "Lexo gjithmonë fillimisht tekstin zyrtar italisht. Komentet, shembujt, titujt dhe përkthimet ndihmojnë studimin, por nuk zëvendësojnë Kodin ose këshillën për një rast konkret.", privacyTitle: "Privatësi e thjeshtë", privacyBody: "Pa hyrje, profil apo gjurmim. Tema, gjuha dhe përparimi mbeten në pajisje.", languageTitle: "Shtatë gjuhë, një burim", languageBody: "Teksti italisht shfaqet gjithmonë dhe ka përparësi. Përkthimet janë drafte jozyrtare që kërkojnë rishikim specialistësh.", sourcesTitle: "Burimet", sourcesBody: "Teksti normativ lidhet me CNOP; komentet dhe rastet përfshijnë lidhjet e disponueshme. Aplikacioni punon offline; lidhjet e jashtme kërkojnë internet.", officialSite: "Hap Kodin në fuqi në faqen CNOP", version: "Prototip offline · versioni 0.1.0", loadingError: "Të dhënat nuk u ngarkuan.", caseOutcome: "Rezultati", notKnownFinal: "Nuk dihet ankimi ose formë e prerë.", answer: "Përgjigjja", flashItalianHint: "Kartelat italisht janë gjithmonë të disponueshme.", filterAll: "Të gjitha nenet"
+    articles: "Nenet", flashcards: "Kartela", about: "Info", support: "Mbështet", library: "Kodi, i shpjeguar qartë", libraryLead: "Studio tekstin në fuqi nen pas neni, shqyrto klauzolat dhe përgatitu për Provimin e Shtetit.", articlesCount: "42 nene", cardsCount: "168 kartela", search: "Kërko nen, koncept ose fjalë…", noResults: "Asnjë nen nuk përputhet me kërkimin.", article: "Neni", back: "Të gjitha nenet", officialItalian: "Teksti zyrtar italisht", tapTerms: "Prek fjalët e theksuara për përkufizimin.", keyMessage: "Në thelb", clauseReading: "Lexim sipas klauzolave", practical: "Në praktikë", mistakes: "Gabime të shpeshta", example: "Shembull i një shkeljeje të mundshme", analysis: "Pse ka rëndësi", cases: "Raste dhe vendime", connections: "Lidhje juridike", source: "Hap burimin", related: "Nene të lidhura", legalNotice: "Përmbajtje didaktike redaksionale", translationNotice: "Përkthim jozyrtar që kërkon rishikim juridik dhe gjuhësor.", localizedArticle: "Teksti i nenit", comments: "Koment sipas klauzolave", termDefinition: "Përkufizim", italianTerm: "Termi italisht", localizedExplanation: "Shpjegim", category: "Kategori", close: "Mbyll", studyTitle: "Përgatitu për Provimin e Shtetit", studyLead: "Përsërit të gjitha kartelat dhe ruaj në pajisje ato që di dhe ato që duhen rishikuar.", italian: "Italisht", appLanguage: "Gjuha e aplikacionit", shuffle: "Përziej", showAnswer: "Shfaq përgjigjen", again: "Për t’u rishikuar", known: "E di", previous: "Mëparshme", next: "Tjetra", reviewed: "Vlerësuar", knownCount: "Të njohura", cardOf: "Kartela {current} nga {total}", reset: "Fshi përparimin", resetDone: "Përparimi u fshi", shareTitle: "Mbështet PsyEtica", shareText: "PsyEtica ndihmon në studimin e Kodit Deontologjik italian të psikologëve, pa llogari dhe offline.", supportTitle: "Mbështet projektin", supportBody: "PsyEtica është një burim mësimor i qasshëm. Mund ta mbështetësh duke e ndarë dhe duke dërguar vërejtje për përmbajtjen.", share: "Ndaj PsyEtica", whyTitle: "Si përdoret PsyEtica", whyBody: "Lexo gjithmonë fillimisht tekstin zyrtar italisht. Komentet, shembujt, titujt dhe përkthimet ndihmojnë studimin, por nuk zëvendësojnë Kodin ose këshillën për një rast konkret.", privacyTitle: "Privatësi e thjeshtë", privacyBody: "Pa hyrje, profil apo gjurmim. Tema, gjuha dhe përparimi mbeten në pajisje.", languageTitle: "Shtatë gjuhë, një burim", languageBody: "Teksti italisht shfaqet gjithmonë dhe ka përparësi. Përkthimet janë drafte jozyrtare që kërkojnë rishikim specialistësh.", sourcesTitle: "Burimet", sourcesBody: "Teksti normativ lidhet me CNOP; komentet dhe rastet përfshijnë lidhjet e disponueshme. Aplikacioni punon offline; lidhjet e jashtme kërkojnë internet.", officialSite: "Hap Kodin në fuqi në faqen CNOP", version: "Versioni 1.0.0", loadingError: "Të dhënat nuk u ngarkuan.", caseOutcome: "Rezultati", notKnownFinal: "Nuk dihet ankimi ose formë e prerë.", answer: "Përgjigjja", flashItalianHint: "Kartelat italisht janë gjithmonë të disponueshme.", filterAll: "Të gjitha nenet"
   },
   ar: {
-    articles: "المواد", flashcards: "بطاقات", about: "حول", support: "ادعم", library: "المدونة، بشرح واضح", libraryLead: "ادرس النص النافذ مادةً مادة، واستكشف العبارات، واستعد لامتحان الدولة.", articlesCount: "42 مادة", cardsCount: "168 بطاقة", offline: "دائمًا دون اتصال", search: "ابحث عن مادة أو مفهوم أو كلمة…", noResults: "لا توجد مادة مطابقة للبحث.", article: "المادة", back: "جميع المواد", officialItalian: "النص الإيطالي الرسمي", tapTerms: "اضغط على الكلمات المميزة لعرض التعريف.", keyMessage: "الخلاصة", clauseReading: "شرح بحسب العبارات", practical: "في الممارسة", mistakes: "أخطاء شائعة", example: "مثال على مخالفة محتملة", analysis: "سبب الصلة", cases: "قضايا وقرارات", connections: "روابط قانونية", source: "فتح المصدر", related: "مواد مرتبطة", legalNotice: "محتوى تعليمي تحريري", translationNotice: "ترجمة غير رسمية تحتاج إلى مراجعة قانونية ولغوية متخصصة.", localizedArticle: "نص المادة", comments: "تعليق بحسب العبارات", termDefinition: "التعريف", italianTerm: "المصطلح الإيطالي", localizedExplanation: "الشرح", category: "الفئة", close: "إغلاق", studyTitle: "استعد لامتحان الدولة", studyLead: "راجع جميع البطاقات واحفظ على الجهاز ما تعرفه وما يحتاج إلى مراجعة.", italian: "الإيطالية", appLanguage: "لغة التطبيق", shuffle: "خلط", showAnswer: "إظهار الإجابة", again: "مراجعة لاحقة", known: "أعرفها", previous: "السابقة", next: "التالية", reviewed: "تم تقييمها", knownCount: "معروفة", cardOf: "البطاقة {current} من {total}", reset: "مسح التقدم", resetDone: "تم مسح التقدم", shareTitle: "ادعم PsyEtica", shareText: "يساعد PsyEtica على دراسة مدونة أخلاقيات علماء النفس الإيطالية، دون حساب ودون اتصال.", supportTitle: "ادعم المشروع", supportBody: "صُمم PsyEtica كمورد تعليمي متاح. يمكنك دعمه بمشاركته مع الطلاب والزملاء وإرسال الملاحظات حول المحتوى.", share: "مشاركة PsyEtica", whyTitle: "طريقة استخدام PsyEtica", whyBody: "اقرأ دائمًا النص الإيطالي الرسمي أولًا. تساعد التعليقات والأمثلة والعناوين والترجمات على الدراسة، لكنها لا تحل محل المدونة أو المشورة بشأن حالة محددة.", privacyTitle: "خصوصية بسيطة", privacyBody: "لا تسجيل دخول ولا ملف شخصي ولا تتبع. يبقى المظهر واللغة وتقدم البطاقات على جهازك.", languageTitle: "سبع لغات ومصدر واحد", languageBody: "يظهر النص الإيطالي دائمًا وهو الحاكم. الترجمات مسودات تعليمية غير رسمية تحتاج إلى مراجعة مختصين ناطقين باللغة قبل النشر النهائي.", sourcesTitle: "المصادر", sourcesBody: "يرتبط النص التنظيمي بموقع CNOP، وتشمل التعليقات والقضايا روابط المصادر المتاحة. يعمل التطبيق دون اتصال؛ أما الروابط الخارجية فتحتاج إلى اتصال.", officialSite: "فتح المدونة النافذة على موقع CNOP", version: "نموذج أولي دون اتصال · الإصدار 0.1.0", loadingError: "تعذر تحميل بيانات التطبيق.", caseOutcome: "النتيجة", notKnownFinal: "لا يُعرف الطعن المحتمل أو اكتساب القرار للقطعية.", answer: "الإجابة", flashItalianHint: "تبقى البطاقات الإيطالية متاحة دائمًا.", filterAll: "جميع المواد"
+    articles: "المواد", flashcards: "بطاقات", about: "حول", support: "ادعم", library: "المدونة، بشرح واضح", libraryLead: "ادرس النص النافذ مادةً مادة، واستكشف العبارات، واستعد لامتحان الدولة.", articlesCount: "42 مادة", cardsCount: "168 بطاقة", search: "ابحث عن مادة أو مفهوم أو كلمة…", noResults: "لا توجد مادة مطابقة للبحث.", article: "المادة", back: "جميع المواد", officialItalian: "النص الإيطالي الرسمي", tapTerms: "اضغط على الكلمات المميزة لعرض التعريف.", keyMessage: "الخلاصة", clauseReading: "شرح بحسب العبارات", practical: "في الممارسة", mistakes: "أخطاء شائعة", example: "مثال على مخالفة محتملة", analysis: "سبب الصلة", cases: "قضايا وقرارات", connections: "روابط قانونية", source: "فتح المصدر", related: "مواد مرتبطة", legalNotice: "محتوى تعليمي تحريري", translationNotice: "ترجمة غير رسمية تحتاج إلى مراجعة قانونية ولغوية متخصصة.", localizedArticle: "نص المادة", comments: "تعليق بحسب العبارات", termDefinition: "التعريف", italianTerm: "المصطلح الإيطالي", localizedExplanation: "الشرح", category: "الفئة", close: "إغلاق", studyTitle: "استعد لامتحان الدولة", studyLead: "راجع جميع البطاقات واحفظ على الجهاز ما تعرفه وما يحتاج إلى مراجعة.", italian: "الإيطالية", appLanguage: "لغة التطبيق", shuffle: "خلط", showAnswer: "إظهار الإجابة", again: "مراجعة لاحقة", known: "أعرفها", previous: "السابقة", next: "التالية", reviewed: "تم تقييمها", knownCount: "معروفة", cardOf: "البطاقة {current} من {total}", reset: "مسح التقدم", resetDone: "تم مسح التقدم", shareTitle: "ادعم PsyEtica", shareText: "يساعد PsyEtica على دراسة مدونة أخلاقيات علماء النفس الإيطالية، دون حساب ودون اتصال.", supportTitle: "ادعم المشروع", supportBody: "صُمم PsyEtica كمورد تعليمي متاح. يمكنك دعمه بمشاركته مع الطلاب والزملاء وإرسال الملاحظات حول المحتوى.", share: "مشاركة PsyEtica", whyTitle: "طريقة استخدام PsyEtica", whyBody: "اقرأ دائمًا النص الإيطالي الرسمي أولًا. تساعد التعليقات والأمثلة والعناوين والترجمات على الدراسة، لكنها لا تحل محل المدونة أو المشورة بشأن حالة محددة.", privacyTitle: "خصوصية بسيطة", privacyBody: "لا تسجيل دخول ولا ملف شخصي ولا تتبع. يبقى المظهر واللغة وتقدم البطاقات على جهازك.", languageTitle: "سبع لغات ومصدر واحد", languageBody: "يظهر النص الإيطالي دائمًا وهو الحاكم. الترجمات مسودات تعليمية غير رسمية تحتاج إلى مراجعة مختصين ناطقين باللغة قبل النشر النهائي.", sourcesTitle: "المصادر", sourcesBody: "يرتبط النص التنظيمي بموقع CNOP، وتشمل التعليقات والقضايا روابط المصادر المتاحة. يعمل التطبيق دون اتصال؛ أما الروابط الخارجية فتحتاج إلى اتصال.", officialSite: "فتح المدونة النافذة على موقع CNOP", version: "الإصدار ١٫٠٫٠", loadingError: "تعذر تحميل بيانات التطبيق.", caseOutcome: "النتيجة", notKnownFinal: "لا يُعرف الطعن المحتمل أو اكتساب القرار للقطعية.", answer: "الإجابة", flashItalianHint: "تبقى البطاقات الإيطالية متاحة دائمًا.", filterAll: "جميع المواد"
   },
   fa: {
-    articles: "مواد", flashcards: "فلش‌کارت", about: "درباره", support: "حمایت", library: "آیین‌نامه، با توضیح روشن", libraryLead: "متن لازم‌الاجرا را ماده‌به‌ماده بخوانید، بندها را بررسی کنید و برای آزمون دولتی آماده شوید.", articlesCount: "۴۲ ماده", cardsCount: "۱۶۸ فلش‌کارت", offline: "همیشه آفلاین", search: "جست‌وجوی ماده، مفهوم یا واژه…", noResults: "هیچ ماده‌ای با جست‌وجو مطابقت ندارد.", article: "ماده", back: "همه مواد", officialItalian: "متن رسمی ایتالیایی", tapTerms: "برای دیدن تعریف، واژه‌های مشخص‌شده را لمس کنید.", keyMessage: "خلاصه", clauseReading: "شرح بندبه‌بند", practical: "در عمل", mistakes: "اشتباه‌های رایج", example: "نمونه تخلف احتمالی", analysis: "دلیل ارتباط", cases: "پرونده‌ها و تصمیم‌ها", connections: "پیوندهای حقوقی", source: "باز کردن منبع", related: "مواد مرتبط", legalNotice: "محتوای آموزشی تحریری", translationNotice: "ترجمه غیررسمی؛ نیازمند بازبینی حقوقی و زبانی متخصص.", localizedArticle: "متن ماده", comments: "توضیح بندبه‌بند", termDefinition: "تعریف", italianTerm: "اصطلاح ایتالیایی", localizedExplanation: "توضیح", category: "دسته", close: "بستن", studyTitle: "برای آزمون دولتی آماده شوید", studyLead: "همه فلش‌کارت‌ها را مرور کنید و موارد دانسته یا نیازمند بازبینی را روی دستگاه ذخیره کنید.", italian: "ایتالیایی", appLanguage: "زبان برنامه", shuffle: "درهم‌ریزی", showAnswer: "نمایش پاسخ", again: "مرور دوباره", known: "می‌دانم", previous: "قبلی", next: "بعدی", reviewed: "ارزیابی‌شده", knownCount: "دانسته", cardOf: "کارت {current} از {total}", reset: "پاک کردن پیشرفت", resetDone: "پیشرفت پاک شد", shareTitle: "حمایت از PsyEtica", shareText: "PsyEtica به مطالعه آیین‌نامه اخلاق حرفه‌ای روان‌شناسان ایتالیا، بدون حساب و به‌صورت آفلاین کمک می‌کند.", supportTitle: "از پروژه حمایت کنید", supportBody: "PsyEtica یک منبع آموزشی دسترس‌پذیر است. با معرفی آن به دانشجویان و همکاران و ارسال بازخورد درباره محتوا از پروژه حمایت کنید.", share: "اشتراک‌گذاری PsyEtica", whyTitle: "روش استفاده از PsyEtica", whyBody: "همیشه ابتدا متن رسمی ایتالیایی را بخوانید. توضیحات، نمونه‌ها، عنوان‌ها و ترجمه‌ها برای یادگیری‌اند و جایگزین آیین‌نامه یا مشاوره درباره پرونده مشخص نیستند.", privacyTitle: "حریم خصوصی ساده", privacyBody: "بدون ورود، نمایه یا ردیابی. پوسته، زبان و پیشرفت فلش‌کارت‌ها روی دستگاه می‌ماند.", languageTitle: "هفت زبان، یک منبع", languageBody: "متن ایتالیایی همیشه نمایش داده می‌شود و ملاک است. ترجمه‌ها پیش‌نویس آموزشی غیررسمی‌اند و پیش از انتشار نهایی به بازبینی متخصص بومی نیاز دارند.", sourcesTitle: "منابع", sourcesBody: "متن مقرراتی به CNOP پیوند دارد و توضیحات و پرونده‌ها پیوند منابع موجود را نشان می‌دهند. برنامه آفلاین کار می‌کند؛ پیوندهای بیرونی اینترنت می‌خواهند.", officialSite: "باز کردن آیین‌نامه نافذ در وب‌سایت CNOP", version: "نمونه آفلاین · نسخه ۰.۱.۰", loadingError: "داده‌های برنامه بارگذاری نشد.", caseOutcome: "نتیجه", notKnownFinal: "اعتراض احتمالی یا قطعیت تصمیم معلوم نیست.", answer: "پاسخ", flashItalianHint: "فلش‌کارت‌های ایتالیایی همیشه در دسترس‌اند.", filterAll: "همه مواد"
+    articles: "مواد", flashcards: "فلش‌کارت", about: "درباره", support: "حمایت", library: "آیین‌نامه، با توضیح روشن", libraryLead: "متن لازم‌الاجرا را ماده‌به‌ماده بخوانید، بندها را بررسی کنید و برای آزمون دولتی آماده شوید.", articlesCount: "۴۲ ماده", cardsCount: "۱۶۸ فلش‌کارت", search: "جست‌وجوی ماده، مفهوم یا واژه…", noResults: "هیچ ماده‌ای با جست‌وجو مطابقت ندارد.", article: "ماده", back: "همه مواد", officialItalian: "متن رسمی ایتالیایی", tapTerms: "برای دیدن تعریف، واژه‌های مشخص‌شده را لمس کنید.", keyMessage: "خلاصه", clauseReading: "شرح بندبه‌بند", practical: "در عمل", mistakes: "اشتباه‌های رایج", example: "نمونه تخلف احتمالی", analysis: "دلیل ارتباط", cases: "پرونده‌ها و تصمیم‌ها", connections: "پیوندهای حقوقی", source: "باز کردن منبع", related: "مواد مرتبط", legalNotice: "محتوای آموزشی تحریری", translationNotice: "ترجمه غیررسمی؛ نیازمند بازبینی حقوقی و زبانی متخصص.", localizedArticle: "متن ماده", comments: "توضیح بندبه‌بند", termDefinition: "تعریف", italianTerm: "اصطلاح ایتالیایی", localizedExplanation: "توضیح", category: "دسته", close: "بستن", studyTitle: "برای آزمون دولتی آماده شوید", studyLead: "همه فلش‌کارت‌ها را مرور کنید و موارد دانسته یا نیازمند بازبینی را روی دستگاه ذخیره کنید.", italian: "ایتالیایی", appLanguage: "زبان برنامه", shuffle: "درهم‌ریزی", showAnswer: "نمایش پاسخ", again: "مرور دوباره", known: "می‌دانم", previous: "قبلی", next: "بعدی", reviewed: "ارزیابی‌شده", knownCount: "دانسته", cardOf: "کارت {current} از {total}", reset: "پاک کردن پیشرفت", resetDone: "پیشرفت پاک شد", shareTitle: "حمایت از PsyEtica", shareText: "PsyEtica به مطالعه آیین‌نامه اخلاق حرفه‌ای روان‌شناسان ایتالیا، بدون حساب و به‌صورت آفلاین کمک می‌کند.", supportTitle: "از پروژه حمایت کنید", supportBody: "PsyEtica یک منبع آموزشی دسترس‌پذیر است. با معرفی آن به دانشجویان و همکاران و ارسال بازخورد درباره محتوا از پروژه حمایت کنید.", share: "اشتراک‌گذاری PsyEtica", whyTitle: "روش استفاده از PsyEtica", whyBody: "همیشه ابتدا متن رسمی ایتالیایی را بخوانید. توضیحات، نمونه‌ها، عنوان‌ها و ترجمه‌ها برای یادگیری‌اند و جایگزین آیین‌نامه یا مشاوره درباره پرونده مشخص نیستند.", privacyTitle: "حریم خصوصی ساده", privacyBody: "بدون ورود، نمایه یا ردیابی. پوسته، زبان و پیشرفت فلش‌کارت‌ها روی دستگاه می‌ماند.", languageTitle: "هفت زبان، یک منبع", languageBody: "متن ایتالیایی همیشه نمایش داده می‌شود و ملاک است. ترجمه‌ها پیش‌نویس آموزشی غیررسمی‌اند و پیش از انتشار نهایی به بازبینی متخصص بومی نیاز دارند.", sourcesTitle: "منابع", sourcesBody: "متن مقرراتی به CNOP پیوند دارد و توضیحات و پرونده‌ها پیوند منابع موجود را نشان می‌دهند. برنامه آفلاین کار می‌کند؛ پیوندهای بیرونی اینترنت می‌خواهند.", officialSite: "باز کردن آیین‌نامه نافذ در وب‌سایت CNOP", version: "نسخه ۱٫۰٫۰", loadingError: "داده‌های برنامه بارگذاری نشد.", caseOutcome: "نتیجه", notKnownFinal: "اعتراض احتمالی یا قطعیت تصمیم معلوم نیست.", answer: "پاسخ", flashItalianHint: "فلش‌کارت‌های ایتالیایی همیشه در دسترس‌اند.", filterAll: "همه مواد"
   }
 };
 
@@ -195,6 +196,16 @@ const NOTES_COPY = {
   sq: { title: "Shënimet e mia", body: "Ruhen vetëm në këtë pajisje dhe nuk dërgohen askund. Mund të humbasin nëse fshin të dhënat e aplikacionit ose të shfletuesit.", placeholder: "Shkruaj vërejtje, lidhje ose pyetje për këtë nen…", saved: "U ruajt në pajisje", clear: "Fshi shënimin", clearConfirm: "Ta fshij shënimin personal për këtë nen?" },
   ar: { title: "ملاحظاتي", body: "بتتحفظ على الجهاز ده بس ومش بتتبعت لأي مكان. ممكن تضيع لو مسحت بيانات التطبيق أو المتصفح.", placeholder: "اكتب ملاحظات أو روابط أو أسئلة عن المادة دي…", saved: "اتحفظت على الجهاز", clear: "امسح الملاحظة", clearConfirm: "تمسح ملاحظتك الشخصية للمادة دي؟" },
   fa: { title: "یادداشت‌های من", body: "فقط روی همین دستگاه ذخیره می‌شوند و جایی ارسال نمی‌شوند. با پاک‌کردن داده‌های برنامه یا مرورگر ممکن است از بین بروند.", placeholder: "نکته‌ها، ارتباط‌ها یا پرسش‌های خود درباره این ماده را بنویسید…", saved: "روی دستگاه ذخیره شد", clear: "حذف یادداشت", clearConfirm: "یادداشت شخصی این ماده حذف شود؟" }
+};
+
+const ARTICLE_STATUS_COPY = {
+  it: { group: "Indicatori di studio", important: "Importante", revisit: "Da rileggere", difficult: "Difficile da capire" },
+  en: { group: "Study markers", important: "Important", revisit: "Read again", difficult: "Difficult to understand" },
+  es: { group: "Marcadores de estudio", important: "Importante", revisit: "Volver a leer", difficult: "Difícil de entender" },
+  ro: { group: "Marcaje de studiu", important: "Important", revisit: "De recitit", difficult: "Dificil de înțeles" },
+  sq: { group: "Shenja studimi", important: "I rëndësishëm", revisit: "Për t’u rilexuar", difficult: "I vështirë për t’u kuptuar" },
+  ar: { group: "علامات المذاكرة", important: "مهم", revisit: "اقراه تاني", difficult: "صعب يتفهم" },
+  fa: { group: "نشان‌های مطالعه", important: "مهم", revisit: "دوباره بخوانم", difficult: "دشوار برای فهم" }
 };
 
 const PWA_COPY = {
@@ -248,6 +259,10 @@ function flashT(key) {
 
 function notesT(key) {
   return (NOTES_COPY[state.language] || NOTES_COPY.it)[key] || NOTES_COPY.it[key] || key;
+}
+
+function articleStatusT(key) {
+  return (ARTICLE_STATUS_COPY[state.language] || ARTICLE_STATUS_COPY.it)[key] || ARTICLE_STATUS_COPY.it[key] || key;
 }
 
 function pwaT(key) {
@@ -345,6 +360,30 @@ function chapterLabel(chapter) {
   return CHAPTER_COPY[state.language]?.[index] || source.replace(/\s*[–-]\s*/, " · ");
 }
 
+function articleStatusKey(number, status) { return `psyetica.article.${number}.${status}`; }
+function hasArticleStatus(number, status) { return localStorage.getItem(articleStatusKey(number, status)) === "1"; }
+
+function articleStatusSymbols(number) {
+  return [
+    hasArticleStatus(number, "important") ? "★" : "",
+    hasArticleStatus(number, "revisit") ? "↻" : "",
+    hasArticleStatus(number, "difficult") ? "❗" : ""
+  ].filter(Boolean).join(" ");
+}
+
+function renderArticleStatusControls(number) {
+  const controls = [
+    { status: "important", symbol: "★" },
+    { status: "revisit", symbol: "↻" },
+    { status: "difficult", symbol: "!" }
+  ];
+  return `<div class="article-status-actions ${localizedClass()}" role="group" aria-label="${esc(articleStatusT("group"))}">${controls.map(control => {
+    const active = hasArticleStatus(number, control.status);
+    const label = articleStatusT(control.status);
+    return `<button class="article-status ${control.status} ${active ? "active" : ""}" data-article-status="${control.status}" data-status-article="${number}" type="button" aria-pressed="${active}" aria-label="${esc(label)}" title="${esc(label)}"><span aria-hidden="true">${control.symbol}</span><span class="status-label">${esc(label)}</span></button>`;
+  }).join("")}</div>`;
+}
+
 function renderArticles() {
   const query = state.search.trim().toLocaleLowerCase(state.language);
   const displayArticles = state.language === "it" ? state.italianArticles : state.localizedArticles;
@@ -367,11 +406,14 @@ function renderArticles() {
     const title = state.language === "it" ? article.editorial_title : article.localized.editorial_title;
     const preview = state.language === "it" ? article.official_text : article.localized.core_message;
     cards += `
-      <button class="article-card" type="button" data-open-article="${article.number}">
-        <span class="article-number">${article.number}</span>
-        <span><span class="article-title">${esc(title)}</span><span class="article-preview">${esc(preview)}</span></span>
-        <span class="chevron" aria-hidden="true">›</span>
-      </button>`;
+      <article class="article-card">
+        <button class="article-open" type="button" data-open-article="${article.number}">
+          <span class="article-number">${article.number}</span>
+          <span><span class="article-title">${esc(title)}</span><span class="article-preview">${esc(preview)}</span></span>
+          <span class="chevron" aria-hidden="true">›</span>
+        </button>
+        ${renderArticleStatusControls(article.number)}
+      </article>`;
   });
   if (currentChapter !== null) cards += "</div>";
 
@@ -383,7 +425,6 @@ function renderArticles() {
       <div class="hero-stats">
         <span class="stat"><strong>${esc(t("articlesCount"))}</strong></span>
         <span class="stat"><strong>${esc(t("cardsCount"))}</strong></span>
-        <span class="stat">● ${esc(t("offline"))}</span>
       </div>
     </section>
     <div class="search-wrap"><input class="search-input ${localizedClass()}" id="articleSearch" type="search" value="${esc(state.search)}" placeholder="${esc(t("search"))}" aria-label="${esc(t("search"))}"></div>
@@ -401,6 +442,13 @@ function bindArticleListEvents() {
     next.setSelectionRange(caret, caret);
   });
   document.querySelectorAll("[data-open-article]").forEach(button => button.addEventListener("click", () => openArticle(Number(button.dataset.openArticle))));
+  document.querySelectorAll("[data-article-status]").forEach(button => button.addEventListener("click", () => {
+    const key = articleStatusKey(Number(button.dataset.statusArticle), button.dataset.articleStatus);
+    if (localStorage.getItem(key) === "1") localStorage.removeItem(key); else localStorage.setItem(key, "1");
+    const scrollPosition = window.scrollY;
+    renderArticles();
+    requestAnimationFrame(() => window.scrollTo(0, scrollPosition));
+  }));
 }
 
 function annotationsForItalian(articleNumber) {
@@ -441,6 +489,26 @@ function highlightText(text, annotations, language, mode) {
 function getItalianArticle(number) { return state.italianArticles.find(article => article.number === number); }
 function getLocalizedArticle(number) { return state.localizedArticles.find(article => article.number === number); }
 
+function renderArticleNavigation(number, placement) {
+  const index = state.italianArticles.findIndex(article => article.number === number);
+  const previousNumber = index > 0 ? state.italianArticles[index - 1].number : null;
+  const nextNumber = index >= 0 && index < state.italianArticles.length - 1 ? state.italianArticles[index + 1].number : null;
+  const options = state.italianArticles.map(article => {
+    const localized = state.language === "it" ? article : getLocalizedArticle(article.number)?.localized;
+    const label = localized?.editorial_title || article.editorial_title || `${t("article")} ${article.number}`;
+    const markers = articleStatusSymbols(article.number);
+    return `<option value="${article.number}" ${article.number === number ? "selected" : ""}>${markers ? `${esc(markers)} · ` : ""}${esc(t("article"))} ${article.number} · ${esc(label)}</option>`;
+  }).join("");
+  const previousArrow = currentDirection() === "rtl" ? "→" : "←";
+  const nextArrow = currentDirection() === "rtl" ? "←" : "→";
+  return `
+    <nav class="article-navigation ${localizedClass()}" data-placement="${placement}" aria-label="${esc(t("article"))}">
+      <button class="article-step" data-open-article="${previousNumber ?? ""}" type="button" ${previousNumber == null ? "disabled" : ""}>${previousArrow} <span>${esc(t("previous"))}</span></button>
+      <label class="article-jump"><span class="sr-only">${esc(t("article"))}</span><select class="article-jump-select" aria-label="${esc(t("article"))}">${options}</select></label>
+      <button class="article-step" data-open-article="${nextNumber ?? ""}" type="button" ${nextNumber == null ? "disabled" : ""}><span>${esc(t("next"))}</span> ${nextArrow}</button>
+    </nav>`;
+}
+
 function renderArticle(number) {
   const italian = getItalianArticle(number);
   const translatedRecord = state.language === "it" ? null : getLocalizedArticle(number);
@@ -465,6 +533,7 @@ function renderArticle(number) {
 
   main.innerHTML = `
     <button class="back-button" id="articleBack" type="button">${currentDirection() === "rtl" ? "→" : "←"} ${esc(t("back"))}</button>
+    ${renderArticleNavigation(number, "top")}
     <header class="article-head ${localizedClass()}">
       <p class="chapter-label">${esc(chapterLabel(italian.chapter))}</p>
       <h1>${esc(t("article"))} ${number}</h1>
@@ -483,8 +552,14 @@ function renderArticle(number) {
       <div class="clause-list">${renderClauses(content)}</div>
       ${renderLearningDetails(content, italian, translatedRecord)}
     </section>
-    ${renderArticleNotes(number)}`;
+    ${renderArticleNotes(number)}
+    ${renderArticleNavigation(number, "bottom")}`;
   document.getElementById("articleBack").addEventListener("click", closeArticle);
+  document.querySelectorAll("[data-open-article]").forEach(button => button.addEventListener("click", () => {
+    const target = Number(button.dataset.openArticle);
+    if (target) openArticle(target);
+  }));
+  document.querySelectorAll(".article-jump-select").forEach(select => select.addEventListener("change", () => openArticle(Number(select.value))));
   bindArticleEvents();
 }
 
@@ -692,12 +767,18 @@ function renderFlashcards() {
   bindFlashcardEvents(allCards, cards, card);
 }
 
+function renderFlashcardsPreservingScroll() {
+  const scrollPosition = window.scrollY;
+  renderFlashcards();
+  requestAnimationFrame(() => window.scrollTo(0, scrollPosition));
+}
+
 function bindFlashcardEvents(allCards, cards, card) {
   document.querySelectorAll("[data-flash-filter]").forEach(button => button.addEventListener("click", () => {
     state.flashFilter = button.dataset.flashFilter;
     state.flashIndex = 0;
     state.flashRevealed = false;
-    renderFlashcards();
+    renderFlashcardsPreservingScroll();
   }));
   document.getElementById("shuffleCards")?.addEventListener("click", () => {
     const ids = allCards.map(item => item.id);
@@ -708,9 +789,9 @@ function bindFlashcardEvents(allCards, cards, card) {
     state.shuffledIds = ids;
     state.flashIndex = 0;
     state.flashRevealed = false;
-    renderFlashcards();
+    renderFlashcardsPreservingScroll();
   });
-  document.getElementById("revealCard")?.addEventListener("click", () => { state.flashRevealed = true; renderFlashcards(); });
+  document.getElementById("revealCard")?.addEventListener("click", () => { state.flashRevealed = true; renderFlashcardsPreservingScroll(); });
   document.getElementById("previousCard")?.addEventListener("click", () => moveCard(-1, cards.length));
   document.getElementById("nextCard")?.addEventListener("click", () => moveCard(1, cards.length));
   document.querySelectorAll("[data-rate]").forEach(button => button.addEventListener("click", () => {
@@ -720,8 +801,7 @@ function bindFlashcardEvents(allCards, cards, card) {
       ? Math.min(state.flashIndex, Math.max(0, nextCards.length - 1))
       : nextCards.length ? (state.flashIndex + 1) % nextCards.length : 0;
     state.flashRevealed = false;
-    renderFlashcards();
-    scrollTopAndFocus();
+    renderFlashcardsPreservingScroll();
   }));
   document.getElementById("resetProgress")?.addEventListener("click", () => {
     allCards.forEach(item => localStorage.removeItem(progressKey(item)));
@@ -729,7 +809,7 @@ function bindFlashcardEvents(allCards, cards, card) {
     state.flashIndex = 0;
     state.flashRevealed = false;
     showToast(t("resetDone"));
-    renderFlashcards();
+    renderFlashcardsPreservingScroll();
   });
 }
 
@@ -737,8 +817,7 @@ function moveCard(delta, length) {
   if (!length) return;
   state.flashIndex = (state.flashIndex + delta + length) % length;
   state.flashRevealed = false;
-  renderFlashcards();
-  scrollTopAndFocus();
+  renderFlashcardsPreservingScroll();
 }
 
 function renderAbout() {
@@ -752,7 +831,7 @@ function renderAbout() {
       <article class="about-card"><h2>${esc(t("sourcesTitle"))}</h2><p>${esc(t("sourcesBody"))}</p><a href="https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/" class="source-link external-link">${esc(t("officialSite"))}</a></article>
       <article class="about-card"><h2>${esc(t("supportTitle"))}</h2><p>${esc(KO_FI_BODY[state.language] || KO_FI_BODY.it)}</p><button class="support-button" id="aboutShare" type="button">♥ Ko-fi</button></article>
     </div>
-    <p class="small muted" style="text-align:center;margin-top:22px">${esc(t("version").replace(/0[.,]1[.,]0/g, "0.4.0").replace(/۰[٫.]۱[٫.]۰/g, "۰٫۴٫۰"))}</p>`;
+    <p class="release-note">${esc(t("version"))} · © 2026 Mohamad-k97 · <a href="${LICENSE_URL}" class="license-link external-link">AGPL-3.0-or-later</a></p>`;
   document.querySelectorAll("a.external-link").forEach(link => link.addEventListener("click", event => { event.preventDefault(); openExternal(link.href); }));
   document.getElementById("aboutShare")?.addEventListener("click", () => openExternal(SUPPORT_URL));
   document.getElementById("installPwa")?.addEventListener("click", async () => {
@@ -818,6 +897,8 @@ function showToast(message) {
 }
 
 async function changeLanguage(code) {
+  const preserveFlashcardScroll = state.screen === "flashcards" && state.articleNumber == null;
+  const scrollPosition = window.scrollY;
   state.language = code;
   localStorage.setItem("psyetica.language", code);
   state.flashIndex = 0;
@@ -827,7 +908,7 @@ async function changeLanguage(code) {
   try {
     await loadLanguageData(code);
     render();
-    scrollTopAndFocus();
+    if (preserveFlashcardScroll) requestAnimationFrame(() => window.scrollTo(0, scrollPosition)); else scrollTopAndFocus();
   } catch (error) {
     console.error(error);
     main.innerHTML = `<div class="empty">${esc(t("loadingError"))}</div>`;

@@ -1,6 +1,6 @@
 # PsyEtica Android
 
-Native, account-free Android wrapper for the offline PsyEtica learning app.
+Native, account-free Android wrapper for the PsyEtica learning app.
 
 ## Build
 

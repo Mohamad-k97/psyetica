@@ -1,4 +1,4 @@
-const CACHE_NAME = "psyetica-static-v0.4.0";
+const CACHE_NAME = "psyetica-static-v1.0.0";
 
 const PRECACHE_URLS = [
   "./",
