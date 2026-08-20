@@ -1,17 +1,41 @@
 "use strict";
 
 const LANGUAGES = [
-  { code: "it", native: "Italiano", dir: "ltr" },
-  { code: "en", native: "English (UK)", dir: "ltr" },
-  { code: "es", native: "Español", dir: "ltr" },
-  { code: "ro", native: "Română", dir: "ltr" },
-  { code: "sq", native: "Shqip", dir: "ltr" },
-  { code: "ar", native: "العربية (مصر)", dir: "rtl" },
-  { code: "fa", native: "فارسی (ایران)", dir: "rtl" }
+  { code: "it", native: "Italiano", dir: "ltr", html: "it" },
+  { code: "en", native: "English (UK)", dir: "ltr", html: "en-GB" },
+  { code: "es", native: "Español", dir: "ltr", html: "es" },
+  { code: "ro", native: "Română", dir: "ltr", html: "ro" },
+  { code: "sq", native: "Shqip", dir: "ltr", html: "sq" },
+  { code: "ar", native: "العربية (مصر)", dir: "rtl", html: "ar-EG" },
+  { code: "fa", native: "فارسی (ایران)", dir: "rtl", html: "fa-IR" }
 ];
 
 const SUPPORT_URL = "https://ko-fi.com/momo_casadei";
 const LICENSE_URL = "https://github.com/Mohamad-k97/psyetica/blob/main/LICENSE";
+const SITE_ORIGIN = "https://psyetica.app";
+
+const SEO_META = {
+  it: { path: "/", locale: "it_IT", title: "Codice deontologico degli psicologi italiani | PsyEtica", description: "Studia il Codice Deontologico degli Psicologi Italiani articolo per articolo, con testo ufficiale, commenti, casi, glossario e flashcard per l’Esame di Stato." },
+  en: { path: "/en/", locale: "en_GB", title: "Code of Ethics for Psychologists in Italy | PsyEtica", description: "Study the Italian Psychologists’ Code of Ethics article by article, with the official Italian text, UK English commentary, cases, a glossary and State Examination flashcards." },
+  es: { path: "/es/", locale: "es_ES", title: "Código deontológico de los psicólogos en Italia | PsyEtica", description: "Estudia el Código deontológico de los psicólogos de Italia artículo por artículo, con texto oficial italiano, comentarios, casos, glosario y tarjetas de repaso." },
+  ro: { path: "/ro/", locale: "ro_RO", title: "Codul deontologic al psihologilor din Italia | PsyEtica", description: "Studiază Codul deontologic al psihologilor din Italia articol cu articol, cu textul oficial italian, comentarii, cazuri, glosar și fișe de recapitulare." },
+  sq: { path: "/sq/", locale: "sq_AL", title: "Kodi deontologjik i psikologëve në Itali | PsyEtica", description: "Studio Kodin deontologjik të psikologëve në Itali nen pas neni, me tekstin zyrtar italisht, komente, raste, fjalor dhe kartela përsëritjeje." },
+  ar: { path: "/ar/", locale: "ar_EG", title: "مدونة أخلاقيات الأخصائيين النفسيين في إيطاليا | PsyEtica", description: "ادرس مدونة أخلاقيات الأخصائيين النفسيين في إيطاليا مادةً مادة، مع النص الإيطالي الرسمي وشروح وحالات ومصطلحات وبطاقات مراجعة." },
+  fa: { path: "/fa/", locale: "fa_IR", title: "آیین‌نامه اخلاق حرفه‌ای روان‌شناسان در ایتالیا | PsyEtica", description: "آیین‌نامه اخلاق حرفه‌ای روان‌شناسان در ایتالیا را ماده‌به‌ماده با متن رسمی ایتالیایی، توضیحات، پرونده‌ها، واژه‌نامه و فلش‌کارت مطالعه کنید." }
+};
+
+function languageFromLocation() {
+  const pathMatch = location.pathname.match(/^\/(en|es|ro|sq|ar|fa)(?:\/|$)/i);
+  if (pathMatch) return pathMatch[1].toLowerCase();
+  const queryLanguage = new URLSearchParams(location.search).get("lang")?.toLowerCase();
+  return LANGUAGES.some(language => language.code === queryLanguage) ? queryLanguage : null;
+}
+
+function syncLanguageUrl(code) {
+  if (!["http:", "https:"].includes(location.protocol)) return;
+  const path = SEO_META[code]?.path || SEO_META.it.path;
+  if (location.pathname !== path || location.search || location.hash) history.replaceState({ language: code }, "", path);
+}
 
 const INFO_TRANSLATION_NOTE = {
   it: "Le traduzioni sono versioni editoriali per lo studio; in caso di dubbio prevale sempre il testo italiano.",
@@ -219,7 +243,7 @@ const PWA_COPY = {
 };
 
 const state = {
-  language: localStorage.getItem("psyetica.language") || "it",
+  language: languageFromLocation() || localStorage.getItem("psyetica.language") || "it",
   theme: localStorage.getItem("psyetica.theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"),
   screen: "articles",
   articleNumber: null,
@@ -321,9 +345,22 @@ async function loadLanguageData(code) {
 
 function setDocumentLanguage() {
   const lang = LANGUAGES.find(item => item.code === state.language) || LANGUAGES[0];
-  document.documentElement.lang = lang.code;
+  const seo = SEO_META[state.language] || SEO_META.it;
+  document.documentElement.lang = lang.html || lang.code;
   document.documentElement.dir = lang.dir;
   document.documentElement.dataset.theme = state.theme;
+  document.title = seo.title;
+  document.getElementById("metaDescription")?.setAttribute("content", seo.description);
+  document.getElementById("ogTitle")?.setAttribute("content", seo.title);
+  document.getElementById("ogDescription")?.setAttribute("content", seo.description);
+  document.getElementById("ogUrl")?.setAttribute("content", `${SITE_ORIGIN}${seo.path}`);
+  document.getElementById("ogLocale")?.setAttribute("content", seo.locale);
+  document.getElementById("twitterTitle")?.setAttribute("content", seo.title);
+  document.getElementById("twitterDescription")?.setAttribute("content", seo.description);
+  document.getElementById("canonicalLink")?.setAttribute("href", `${SITE_ORIGIN}${seo.path}`);
+  document.querySelectorAll("[data-seo-language]").forEach(link => {
+    if (link.dataset.seoLanguage === state.language) link.setAttribute("aria-current", "page"); else link.removeAttribute("aria-current");
+  });
   document.querySelector('meta[name="theme-color"]').content = state.theme === "dark" ? "#081A1D" : "#F4F8F7";
   document.querySelectorAll("[data-i18n]").forEach(node => node.textContent = t(node.dataset.i18n));
   document.getElementById("themeButton").setAttribute("aria-label", state.theme === "dark" ? "Light mode" : "Dark mode");
@@ -901,6 +938,7 @@ async function changeLanguage(code) {
   const scrollPosition = window.scrollY;
   state.language = code;
   localStorage.setItem("psyetica.language", code);
+  syncLanguageUrl(code);
   state.flashIndex = 0;
   state.flashRevealed = false;
   state.shuffledIds = null;
@@ -955,7 +993,9 @@ async function init() {
   configureGlobalEvents();
   setDocumentLanguage();
   if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost" || location.hostname === "127.0.0.1")) {
-    navigator.serviceWorker.register("./service-worker.js").catch(error => console.warn("Service worker registration failed", error));
+    navigator.serviceWorker.register("./service-worker.js?v=seo-20260819")
+      .then(registration => registration.update())
+      .catch(error => console.warn("Service worker registration failed", error));
   }
   try {
     await loadItalianData();

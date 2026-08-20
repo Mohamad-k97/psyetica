@@ -383,6 +383,12 @@ details[open] summary::after { content: "−"; }
 .install-status { padding: 11px 13px; border-radius: 12px; background: var(--primary-wash); color: var(--primary-strong); font-weight: 700; }
 .notice-box { padding: 16px; border: 1px solid color-mix(in srgb, var(--accent) 70%, var(--outline)); border-radius: 15px; background: color-mix(in srgb, var(--accent) 13%, var(--surface)); color: var(--ink-soft); }
 
+.seo-footer { width: min(100%, 920px); margin: 0 auto; padding: 12px 18px calc(92px + var(--safe-bottom)); }
+.seo-language-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 14px; padding-top: 18px; border-top: 1px solid var(--outline); }
+.seo-language-links a { color: var(--ink-soft); font-size: 13px; font-weight: 650; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.seo-language-links a:hover, .seo-language-links a:focus-visible { color: var(--primary-strong); }
+.seo-language-links a[aria-current="page"] { color: var(--primary-strong); font-weight: 800; text-decoration: none; }
+
 .bottom-nav {
   position: fixed;
   z-index: 25;

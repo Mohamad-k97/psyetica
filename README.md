@@ -37,6 +37,25 @@ Cloudflare pubblicherà automaticamente ogni nuovo push su `main`. Il dominio si
 associa poi dalla sezione **Custom domains** del progetto Pages; non serve copiare
 manualmente gli asset né mantenere un server applicativo.
 
+### SEO multilingue
+
+La PWA espone URL indicizzabili distinti per italiano (`/`), inglese UK (`/en/`),
+spagnolo (`/es/`), romeno (`/ro/`), albanese (`/sq/`), arabo egiziano (`/ar/`) e
+persiano iraniano (`/fa/`). Ogni pagina include titolo, descrizione, canonical,
+Open Graph, dati strutturati, testo introduttivo nella lingua corretta e annotazioni
+`hreflang` reciproche. `sitemap.xml` e `robots.txt` si trovano nella radice pubblica.
+
+Per rigenerare e controllare questi file dopo una modifica:
+
+```powershell
+node scripts/generate_seo_pages.mjs
+node scripts/validate_seo.mjs
+```
+
+Dopo la pubblicazione, inviare `https://psyetica.app/sitemap.xml` a Google Search
+Console e Bing Webmaster Tools. L'indicizzazione e il posizionamento dipendono poi
+dalla scansione dei motori di ricerca e non sono immediati né garantiti.
+
 Le note personali e il progresso delle flashcard restano nello spazio locale del
 browser o dell'app installata: non vengono sincronizzati tra dispositivi e possono
 andare persi cancellando i dati del sito o dell'app.

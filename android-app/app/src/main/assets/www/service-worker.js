@@ -1,8 +1,14 @@
-const CACHE_NAME = "psyetica-static-v1.0.0";
+const CACHE_NAME = "psyetica-static-seo-20260819";
 
 const PRECACHE_URLS = [
   "./",
   "./index.html",
+  "./en/",
+  "./es/",
+  "./ro/",
+  "./sq/",
+  "./ar/",
+  "./fa/",
   "./app.js",
   "./styles.css",
   "./manifest.webmanifest",
@@ -61,6 +67,21 @@ self.addEventListener("fetch", event => {
   const url = new URL(event.request.url);
   if (url.origin !== self.location.origin) return;
 
+  if (event.request.mode === "navigate") {
+    event.respondWith(
+      fetch(event.request)
+        .then(response => {
+          if (response.ok) {
+            const copy = response.clone();
+            event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy)));
+          }
+          return response;
+        })
+        .catch(() => caches.match(event.request, { ignoreSearch: true }).then(cached => cached || caches.match("./index.html")))
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request, { ignoreSearch: true }).then(cached => {
       const network = fetch(event.request).then(response => {
@@ -74,7 +95,7 @@ self.addEventListener("fetch", event => {
         event.waitUntil(network.catch(() => undefined));
         return cached;
       }
-      return network.catch(() => event.request.mode === "navigate" ? caches.match("./index.html") : Response.error());
+      return network.catch(() => Response.error());
     })
   );
 });
